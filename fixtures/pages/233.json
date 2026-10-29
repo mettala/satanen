@@ -1,0 +1,1553 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "233",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "230",
+   "nextpg": "235",
+   "toptype": "normal",
+   "time": "2026-10-21T14:00:02",
+   "utctime": "2026-10-21T11:00:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JÄÄKIEKKO      AURORALIIGA       1/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " K-Espoo    12 11  0  1  0  62- 15  34  "
+        },
+        {
+         "number": "6",
+         "Text": " HIFK       11  7  3  0  1  35- 20  27  "
+        },
+        {
+         "number": "7",
+         "Text": " HPK        12  6  0  1  5  44- 33  19  "
+        },
+        {
+         "number": "8",
+         "Text": " Kuortane   11  5  1  1  4  31- 23  18  "
+        },
+        {
+         "number": "9",
+         "Text": " Ilves      10  4  1  1  4  31- 31  15  "
+        },
+        {
+         "number": "10",
+         "Text": " TPS        12  4  0  2  6  27- 43  14  "
+        },
+        {
+         "number": "11",
+         "Text": " Pelicans   12  2  1  0  9  21- 62   8  "
+        },
+        {
+         "number": "12",
+         "Text": " Kärpät     10  0  0  0 10  12- 36   0  "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Runkosarjassa pelataan 36 kierrosta.   "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JÄÄKIEKKO  {NB} {White} AURORALIIGA       1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": " K-Espoo    12 11  0  1  0  62- 15  34  "
+        },
+        {
+         "number": "6",
+         "Text": " HIFK       11  7  3  0  1  35- 20  27  "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}HPK        12  6  0  1  5  44- 33  19  "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Kuortane   11  5  1  1  4  31- 23  18  "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Ilves      10  4  1  1  4  31- 31  15  "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}TPS        12  4  0  2  6  27- 43  14  "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Pelicans   12  2  1  0  9  21- 62   8  "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Kärpät     10  0  0  0 10  12- 36   0  "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{Green}Runkosarjassa pelataan 36 kierrosta.   "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JÄÄKIEKKO  "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "22",
+           "Text": "AURORALIIGA       1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " K-Espoo    12 11  0  1  0  62- 15  34  "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " HIFK       11  7  3  0  1  35- 20  27  "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "HPK        12  6  0  1  5  44- 33  19  "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Kuortane   11  5  1  1  4  31- 23  18  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Ilves      10  4  1  1  4  31- 31  15  "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "TPS        12  4  0  2  6  27- 43  14  "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pelicans   12  2  1  0  9  21- 62   8  "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kärpät     10  0  0  0 10  12- 36   0  "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Runkosarjassa pelataan 36 kierrosta.   "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JÄÄKIEKKO      AURORALIIGA       2/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " 23.10.                                 "
+        },
+        {
+         "number": "4",
+         "Text": " HIFK         - Ilves        19.30      "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 24.10.                                 "
+        },
+        {
+         "number": "7",
+         "Text": " TPS          - Kärpät       13.30      "
+        },
+        {
+         "number": "8",
+         "Text": " K-Espoo      - Pelicans     13.45      "
+        },
+        {
+         "number": "9",
+         "Text": " Kuortane     - HIFK         15.00      "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " 25.10.                                 "
+        },
+        {
+         "number": "12",
+         "Text": " Pelicans     - HPK          13.00      "
+        },
+        {
+         "number": "13",
+         "Text": " Kuortane     - Kärpät       13.00      "
+        },
+        {
+         "number": "14",
+         "Text": " K-Espoo      - TPS          15.45      "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " 29.10.                                 "
+        },
+        {
+         "number": "17",
+         "Text": " Pelicans     - Ilves        18.30      "
+        },
+        {
+         "number": "18",
+         "Text": " HPK          - TPS          18.30      "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " 31.10.                                 "
+        },
+        {
+         "number": "21",
+         "Text": " HIFK         - Kärpät       13.00      "
+        },
+        {
+         "number": "22",
+         "Text": " K-Espoo      - Kuortane     13.15      "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JÄÄKIEKKO  {NB} {White} AURORALIIGA       2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}23.10.                                 "
+        },
+        {
+         "number": "4",
+         "Text": " HIFK         - Ilves       {Cyan}19.30      "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}24.10.                                 "
+        },
+        {
+         "number": "7",
+         "Text": " TPS          - Kärpät      {Cyan}13.30      "
+        },
+        {
+         "number": "8",
+         "Text": " K-Espoo      - Pelicans    {Cyan}13.45      "
+        },
+        {
+         "number": "9",
+         "Text": " Kuortane     - HIFK        {Cyan}15.00      "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{Green}25.10.                                 "
+        },
+        {
+         "number": "12",
+         "Text": " Pelicans     - HPK         {Cyan}13.00      "
+        },
+        {
+         "number": "13",
+         "Text": " Kuortane     - Kärpät      {Cyan}13.00      "
+        },
+        {
+         "number": "14",
+         "Text": " K-Espoo      - TPS         {Cyan}15.45      "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}29.10.                                 "
+        },
+        {
+         "number": "17",
+         "Text": " Pelicans     - Ilves       {Cyan}18.30      "
+        },
+        {
+         "number": "18",
+         "Text": " HPK          - TPS         {Cyan}18.30      "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{Green}31.10.                                 "
+        },
+        {
+         "number": "21",
+         "Text": " HIFK         - Kärpät      {Cyan}13.00      "
+        },
+        {
+         "number": "22",
+         "Text": " K-Espoo      - Kuortane    {Cyan}13.15      "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JÄÄKIEKKO  "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "22",
+           "Text": "AURORALIIGA       2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "23.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " HIFK         - Ilves        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "19.30      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "24.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " TPS          - Kärpät       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "13.30      "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " K-Espoo      - Pelicans     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "13.45      "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Kuortane     - HIFK         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "15.00      "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "25.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Pelicans     - HPK          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "13.00      "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Kuortane     - Kärpät       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "13.00      "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " K-Espoo      - TPS          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "15.45      "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "29.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Pelicans     - Ilves        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "18.30      "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " HPK          - TPS          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "18.30      "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "31.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " HIFK         - Kärpät       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "13.00      "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " K-Espoo      - Kuortane     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "13.15      "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     AURORALIIGA PISTEPÖRSSI        3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "                            ot  m  s    "
+        },
+        {
+         "number": "3",
+         "Text": " Kiira Yrjänen          K-E 11 14+ 6=20 "
+        },
+        {
+         "number": "4",
+         "Text": " Paige Mcguire          HPK 12  5+14=19 "
+        },
+        {
+         "number": "5",
+         "Text": " Emma Ekoluoma          Ilv 10 12+ 4=16 "
+        },
+        {
+         "number": "6",
+         "Text": " Yenna Kolmonen         Kuo  9  9+ 7=16 "
+        },
+        {
+         "number": "7",
+         "Text": " Tinja-Mariia Haukijärv K-E 11  9+ 7=16 "
+        },
+        {
+         "number": "8",
+         "Text": " Emilia Varpula         Ilv 10  3+13=16 "
+        },
+        {
+         "number": "9",
+         "Text": " Kiti Seikkula          K-E 12  3+12=15 "
+        },
+        {
+         "number": "10",
+         "Text": " Anni-Elina Montonen    K-E 12  4+10=14 "
+        },
+        {
+         "number": "11",
+         "Text": " Karoliina Rantamäki    K-E 12  7+ 6=13 "
+        },
+        {
+         "number": "12",
+         "Text": " Abigail Byskata        Kuo 11  9+ 3=12 "
+        },
+        {
+         "number": "13",
+         "Text": " Vanessa Viitala        HPK 12  4+ 8=12 "
+        },
+        {
+         "number": "14",
+         "Text": " Julia Kuhta            IFK 11  5+ 6=11 "
+        },
+        {
+         "number": "15",
+         "Text": " Aino Lehikoinen        IFK  9  5+ 6=11 "
+        },
+        {
+         "number": "16",
+         "Text": " Emmi Loponen           HPK 10  5+ 6=11 "
+        },
+        {
+         "number": "17",
+         "Text": " Tanja Koljonen         K-E 12  2+ 9=11 "
+        },
+        {
+         "number": "18",
+         "Text": " Henni Virtanen         HPK 12  7+ 3=10 "
+        },
+        {
+         "number": "19",
+         "Text": " Senja Siivonen         Kuo 11  3+ 7=10 "
+        },
+        {
+         "number": "20",
+         "Text": " Johanna Siira          Ilv 10  2+ 8=10 "
+        },
+        {
+         "number": "21",
+         "Text": " Heta Seikkula          K-E 12  1+ 9=10 "
+        },
+        {
+         "number": "22",
+         "Text": " Eva Lamberg            HPK 11  5+ 4= 9 "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  AURORALIIGA PISTEPÖRSSI        3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "                           {Green}ot  m  s    "
+        },
+        {
+         "number": "3",
+         "Text": "{White}Kiira Yrjänen          K-E 11 14+ 6=20 "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}Paige Mcguire          HPK 12  5+14=19 "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Emma Ekoluoma          Ilv 10 12+ 4=16 "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Yenna Kolmonen         Kuo  9  9+ 7=16 "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Tinja-Mariia Haukijärv K-E 11  9+ 7=16 "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Emilia Varpula         Ilv 10  3+13=16 "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Kiti Seikkula          K-E 12  3+12=15 "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Anni-Elina Montonen    K-E 12  4+10=14 "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Karoliina Rantamäki    K-E 12  7+ 6=13 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Abigail Byskata        Kuo 11  9+ 3=12 "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Vanessa Viitala        HPK 12  4+ 8=12 "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Julia Kuhta            IFK 11  5+ 6=11 "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}Aino Lehikoinen        IFK  9  5+ 6=11 "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}Emmi Loponen           HPK 10  5+ 6=11 "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Tanja Koljonen         K-E 12  2+ 9=11 "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Henni Virtanen         HPK 12  7+ 3=10 "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Senja Siivonen         Kuo 11  3+ 7=10 "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Johanna Siira          Ilv 10  2+ 8=10 "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Heta Seikkula          K-E 12  1+ 9=10 "
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}Eva Lamberg            HPK 11  5+ 4= 9 "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "35",
+           "Text": "AURORALIIGA PISTEPÖRSSI        3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "ot  m  s    "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kiira Yrjänen          K-E 11 14+ 6=20 "
+         }
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Paige Mcguire          HPK 12  5+14=19 "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Emma Ekoluoma          Ilv 10 12+ 4=16 "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Yenna Kolmonen         Kuo  9  9+ 7=16 "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tinja-Mariia Haukijärv K-E 11  9+ 7=16 "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Emilia Varpula         Ilv 10  3+13=16 "
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Kiti Seikkula          K-E 12  3+12=15 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Anni-Elina Montonen    K-E 12  4+10=14 "
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Karoliina Rantamäki    K-E 12  7+ 6=13 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Abigail Byskata        Kuo 11  9+ 3=12 "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Vanessa Viitala        HPK 12  4+ 8=12 "
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Julia Kuhta            IFK 11  5+ 6=11 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Aino Lehikoinen        IFK  9  5+ 6=11 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Emmi Loponen           HPK 10  5+ 6=11 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Tanja Koljonen         K-E 12  2+ 9=11 "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Henni Virtanen         HPK 12  7+ 3=10 "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Senja Siivonen         Kuo 11  3+ 7=10 "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Johanna Siira          Ilv 10  2+ 8=10 "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Heta Seikkula          K-E 12  1+ 9=10 "
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Eva Lamberg            HPK 11  5+ 4= 9 "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

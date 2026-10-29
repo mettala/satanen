@@ -1,0 +1,1539 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "250",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "248",
+   "nextpg": "252",
+   "toptype": "normal",
+   "time": "2026-10-19T09:19:16",
+   "utctime": "2026-10-19T06:19:16",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   T18 SM              1/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " FC Honka          9  8  0  1  28-7   27"
+        },
+        {
+         "number": "4",
+         "Text": " VJS               9  6  0  3  22-14  21"
+        },
+        {
+         "number": "5",
+         "Text": " HJK               9  5  1  3  21-15  18"
+        },
+        {
+         "number": "6",
+         "Text": " TPS               9  5  0  4  19-10  15"
+        },
+        {
+         "number": "7",
+         "Text": " F.C. Heimo        9  4  2  3  18-22  15"
+        },
+        {
+         "number": "8",
+         "Text": " JyPK-JJK juniori  9  4  1  4  12-9   13"
+        },
+        {
+         "number": "9",
+         "Text": " ONS               9  3  1  5  12-21  11"
+        },
+        {
+         "number": "10",
+         "Text": " HJS               9  2  2  5  11-16  10"
+        },
+        {
+         "number": "11",
+         "Text": " WFA               9  2  1  6  11-28   7"
+        },
+        {
+         "number": "12",
+         "Text": " IF Gnistan        9  2  0  7  11-23   6"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}T18 SM              1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}FC Honka          9  8  0  1  28-7   27"
+        },
+        {
+         "number": "4",
+         "Text": "{Green}VJS               9  6  0  3  22-14  21"
+        },
+        {
+         "number": "5",
+         "Text": "{Green}HJK               9  5  1  3  21-15  18"
+        },
+        {
+         "number": "6",
+         "Text": "{Green}TPS               9  5  0  4  19-10  15"
+        },
+        {
+         "number": "7",
+         "Text": "{Green}F.C. Heimo        9  4  2  3  18-22  15"
+        },
+        {
+         "number": "8",
+         "Text": "{Green}JyPK-JJK juniori  9  4  1  4  12-9   13"
+        },
+        {
+         "number": "9",
+         "Text": "{Green}ONS               9  3  1  5  12-21  11"
+        },
+        {
+         "number": "10",
+         "Text": "{Green}HJS               9  2  2  5  11-16  10"
+        },
+        {
+         "number": "11",
+         "Text": "{Green}WFA               9  2  1  6  11-28   7"
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}IF Gnistan        9  2  0  7  11-23   6"
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "T18 SM              1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "FC Honka          9  8  0  1  28-7   27"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "VJS               9  6  0  3  22-14  21"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "HJK               9  5  1  3  21-15  18"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "TPS               9  5  0  4  19-10  15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "F.C. Heimo        9  4  2  3  18-22  15"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "JyPK-JJK juniori  9  4  1  4  12-9   13"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ONS               9  3  1  5  12-21  11"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "HJS               9  2  2  5  11-16  10"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "WFA               9  2  1  6  11-28   7"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "IF Gnistan        9  2  0  7  11-23   6"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   P21 SM              2/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " TPV             11  9  0  2  34-14  30 "
+        },
+        {
+         "number": "4",
+         "Text": " HJK             11  8  0  3  37-20  26 "
+        },
+        {
+         "number": "5",
+         "Text": " EsPa            11  7  1  3  23-17  24 "
+        },
+        {
+         "number": "6",
+         "Text": " NoPS            11  5  3  3  27-24  19 "
+        },
+        {
+         "number": "7",
+         "Text": " JäPS            11  4  4  3  26-24  17 "
+        },
+        {
+         "number": "8",
+         "Text": " HPS/FC POHU YJ  11  5  0  6  31-29  15 "
+        },
+        {
+         "number": "9",
+         "Text": " PPJ             11  4  0  7  21-25  15 "
+        },
+        {
+         "number": "10",
+         "Text": " Atlantis FC     11  4  2  5  24-31  14 "
+        },
+        {
+         "number": "11",
+         "Text": " TPS             11  4  1  6  25-30  13 "
+        },
+        {
+         "number": "12",
+         "Text": " Valtti          11  3  3  5  16-24  12 "
+        },
+        {
+         "number": "13",
+         "Text": " TiPS            11  3  1  7  13-24  10 "
+        },
+        {
+         "number": "14",
+         "Text": " FC Honka        11  2  1  8  25-40   7 "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}P21 SM              2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}TPV             11  9  0  2  34-14  30 "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}HJK             11  8  0  3  37-20  26 "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}EsPa            11  7  1  3  23-17  24 "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}NoPS            11  5  3  3  27-24  19 "
+        },
+        {
+         "number": "7",
+         "Text": "{Green}JäPS            11  4  4  3  26-24  17 "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}HPS/FC POHU YJ  11  5  0  6  31-29  15 "
+        },
+        {
+         "number": "9",
+         "Text": "{Green}PPJ             11  4  0  7  21-25  15 "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}Atlantis FC     11  4  2  5  24-31  14 "
+        },
+        {
+         "number": "11",
+         "Text": "{Green}TPS             11  4  1  6  25-30  13 "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}Valtti          11  3  3  5  16-24  12 "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}TiPS            11  3  1  7  13-24  10 "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}FC Honka        11  2  1  8  25-40   7 "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "P21 SM              2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "TPV             11  9  0  2  34-14  30 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "HJK             11  8  0  3  37-20  26 "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "EsPa            11  7  1  3  23-17  24 "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "NoPS            11  5  3  3  27-24  19 "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "JäPS            11  4  4  3  26-24  17 "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "HPS/FC POHU YJ  11  5  0  6  31-29  15 "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "PPJ             11  4  0  7  21-25  15 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Atlantis FC     11  4  2  5  24-31  14 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "TPS             11  4  1  6  25-30  13 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Valtti          11  3  3  5  16-24  12 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "TiPS            11  3  1  7  13-24  10 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "FC Honka        11  2  1  8  25-40   7 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   P18 SM              3/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Ilves         11  8  1  2  32-20  27   "
+        },
+        {
+         "number": "4",
+         "Text": " FC Honka      11  7  2  2  18-10  23   "
+        },
+        {
+         "number": "5",
+         "Text": " IF Gnistan    11  6  1  4  20-17  21   "
+        },
+        {
+         "number": "6",
+         "Text": " PKKU          11  6  2  3  20-13  20   "
+        },
+        {
+         "number": "7",
+         "Text": " HJK           11  5  0  6  23-19  18   "
+        },
+        {
+         "number": "8",
+         "Text": " OLS           11  4  2  5  20-21  17   "
+        },
+        {
+         "number": "9",
+         "Text": " FC Inter      11  4  3  4  25-24  15   "
+        },
+        {
+         "number": "10",
+         "Text": " VPS J         11  4  2  5  20-22  15   "
+        },
+        {
+         "number": "11",
+         "Text": " VJS           11  3  4  4  17-22  14   "
+        },
+        {
+         "number": "12",
+         "Text": " FC Lahti      11  3  3  5  21-22  12   "
+        },
+        {
+         "number": "13",
+         "Text": " KuPS YJ       11  2  3  6  18-26   9   "
+        },
+        {
+         "number": "14",
+         "Text": " GrIFK         11  1  3  7  11-29   6   "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}P18 SM              3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Ilves         11  8  1  2  32-20  27   "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}FC Honka      11  7  2  2  18-10  23   "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}IF Gnistan    11  6  1  4  20-17  21   "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}PKKU          11  6  2  3  20-13  20   "
+        },
+        {
+         "number": "7",
+         "Text": "{Green}HJK           11  5  0  6  23-19  18   "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}OLS           11  4  2  5  20-21  17   "
+        },
+        {
+         "number": "9",
+         "Text": "{Green}FC Inter      11  4  3  4  25-24  15   "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}VPS J         11  4  2  5  20-22  15   "
+        },
+        {
+         "number": "11",
+         "Text": "{Green}VJS           11  3  4  4  17-22  14   "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}FC Lahti      11  3  3  5  21-22  12   "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}KuPS YJ       11  2  3  6  18-26   9   "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}GrIFK         11  1  3  7  11-29   6   "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "P18 SM              3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Ilves         11  8  1  2  32-20  27   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "FC Honka      11  7  2  2  18-10  23   "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "IF Gnistan    11  6  1  4  20-17  21   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "PKKU          11  6  2  3  20-13  20   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "HJK           11  5  0  6  23-19  18   "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "OLS           11  4  2  5  20-21  17   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "FC Inter      11  4  3  4  25-24  15   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "VPS J         11  4  2  5  20-22  15   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "VJS           11  3  4  4  17-22  14   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "FC Lahti      11  3  3  5  21-22  12   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "KuPS YJ       11  2  3  6  18-26   9   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "GrIFK         11  1  3  7  11-29   6   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

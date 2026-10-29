@@ -1,0 +1,455 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "110",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "109",
+   "nextpg": "111",
+   "toptype": "normal",
+   "time": "2026-10-21T18:24:51",
+   "utctime": "2026-10-21T15:24:51",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Epäily: Jyväskylän palo tahallinen    "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Poliisi epäilee, että eilen            "
+        },
+        {
+         "number": "7",
+         "Text": " Jyväskylässä Hämeenkadulla syttynyt    "
+        },
+        {
+         "number": "8",
+         "Text": " tulipalo on sytetytty tahallisesti.    "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " Sisä-Suomen poliisi tukii asiaa tällä  "
+        },
+        {
+         "number": "11",
+         "Text": " hetkellä törkeänä tuhotyönä sekä       "
+        },
+        {
+         "number": "12",
+         "Text": " törkeänä kuolemantuottamuksena.        "
+        },
+        {
+         "number": "13",
+         "Text": " Rikoksesta epäillään noin 30-vuotiasta "
+        },
+        {
+         "number": "14",
+         "Text": " asunnossa asunutta naista.             "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Poliisi on aloittanut esitutkinnan ja  "
+        },
+        {
+         "number": "17",
+         "Text": " jatkaa sekä palon syttymissyyn että    "
+        },
+        {
+         "number": "18",
+         "Text": " teon motiivin selvittämistä.           "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " Palossa kuoli noin 30-vuotias talossa  "
+        },
+        {
+         "number": "21",
+         "Text": " asunut mies.                           "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Epäily: Jyväskylän palo tahallinen    "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Poliisi epäilee, että eilen            "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Jyväskylässä Hämeenkadulla syttynyt    "
+        },
+        {
+         "number": "8",
+         "Text": "{White}tulipalo on sytetytty tahallisesti.    "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Sisä-Suomen poliisi tukii asiaa tällä  "
+        },
+        {
+         "number": "11",
+         "Text": "{White}hetkellä törkeänä tuhotyönä sekä       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}törkeänä kuolemantuottamuksena.        "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Rikoksesta epäillään noin 30-vuotiasta "
+        },
+        {
+         "number": "14",
+         "Text": "{White}asunnossa asunutta naista.             "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Poliisi on aloittanut esitutkinnan ja  "
+        },
+        {
+         "number": "17",
+         "Text": "{White}jatkaa sekä palon syttymissyyn että    "
+        },
+        {
+         "number": "18",
+         "Text": "{White}teon motiivin selvittämistä.           "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Palossa kuoli noin 30-vuotias talossa  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}asunut mies.                           "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "KOTIMAA         YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Epäily: Jyväskylän palo tahallinen    "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Poliisi epäilee, että eilen            "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jyväskylässä Hämeenkadulla syttynyt    "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tulipalo on sytetytty tahallisesti.    "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sisä-Suomen poliisi tukii asiaa tällä  "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " hetkellä törkeänä tuhotyönä sekä       "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " törkeänä kuolemantuottamuksena.        "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Rikoksesta epäillään noin 30-vuotiasta "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " asunnossa asunutta naista.             "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Poliisi on aloittanut esitutkinnan ja  "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " jatkaa sekä palon syttymissyyn että    "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " teon motiivin selvittämistä.           "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Palossa kuoli noin 30-vuotias talossa  "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " asunut mies.                           "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

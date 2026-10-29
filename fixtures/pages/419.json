@@ -1,0 +1,774 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "419",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "418",
+   "nextpg": "420",
+   "toptype": "normal",
+   "time": "2018-10-17T17:26:20",
+   "utctime": "2018-10-17T14:26:20",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "       Selitteet ennusteisiin:          "
+        },
+        {
+         "number": "2",
+         "Text": "       Sää paikkakunnittain s. 406-408  "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " Esimerkki:  Vaasa  -7 Ls  SE3          "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": "         lämpö- sää-   tuulen suunta    "
+        },
+        {
+         "number": "7",
+         "Text": "         tila:  tila:  ja nopeus:       "
+        },
+        {
+         "number": "8",
+         "Text": "     pakkasta   lumi-     kaakkoistuulta"
+        },
+        {
+         "number": "9",
+         "Text": "    7 astetta   sadetta   3 m/s         "
+        },
+        {
+         "number": "10",
+         "Text": " Säätila:                               "
+        },
+        {
+         "number": "11",
+         "Text": " se = selkeä          Tuulen suunta     "
+        },
+        {
+         "number": "12",
+         "Text": " pp = puolipilvinen   (mistä)           "
+        },
+        {
+         "number": "13",
+         "Text": " pi = pilvinen        S  = etelä        "
+        },
+        {
+         "number": "14",
+         "Text": " vk = vesikuuro       SW = lounas       "
+        },
+        {
+         "number": "15",
+         "Text": " vs = vesisade        W  = länsi        "
+        },
+        {
+         "number": "16",
+         "Text": " Lk = lumikuuro       NW = luode        "
+        },
+        {
+         "number": "17",
+         "Text": " Ls = lumisade        N  = pohjoinen    "
+        },
+        {
+         "number": "18",
+         "Text": " uk = ukkoskuuro      NE = koillinen    "
+        },
+        {
+         "number": "19",
+         "Text": " rk = räntäkuuro      E  = itä          "
+        },
+        {
+         "number": "20",
+         "Text": " rs = räntäsade       SE = kaakko       "
+        },
+        {
+         "number": "21",
+         "Text": "  ? = tietoja ei saatavilla             "
+        },
+        {
+         "number": "22",
+         "Text": "                      Säähakemisto   400"
+        },
+        {
+         "number": "23",
+         "Text": "   Sivulla 408 Eurooppa & muu maailma   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{Cyan}{NB}{Blue}Selitteet ennusteisiin:          "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Blue}{NB}{White}Sää paikkakunnittain s. 406-408  "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{GCyan}                      {White}            "
+        },
+        {
+         "number": "4",
+         "Text": " Esimerkki:{DH}{Green}Vaasa {Magenta}-7{Cyan}Ls {Yellow}SE3          "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": "        {Magenta}lämpö-{Cyan}sää-{Green} {Yellow}tuulen suunta    "
+        },
+        {
+         "number": "7",
+         "Text": "        {Magenta}tila: {Cyan}tila: {Yellow}ja nopeus:       "
+        },
+        {
+         "number": "8",
+         "Text": "    {Magenta}pakkasta  {Cyan}lumi-    {Yellow}kaakkoistuulta"
+        },
+        {
+         "number": "9",
+         "Text": "   {Magenta}7 astetta  {Cyan}sadetta  {Yellow}3 m/s         "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}Säätila:                               "
+        },
+        {
+         "number": "11",
+         "Text": " se = selkeä         {Green}Tuulen suunta     "
+        },
+        {
+         "number": "12",
+         "Text": " pp = puolipilvinen  {Green}(mistä)           "
+        },
+        {
+         "number": "13",
+         "Text": " pi = pilvinen        S  = etelä        "
+        },
+        {
+         "number": "14",
+         "Text": " vk = vesikuuro       SW = lounas       "
+        },
+        {
+         "number": "15",
+         "Text": " vs = vesisade        W  = länsi        "
+        },
+        {
+         "number": "16",
+         "Text": " Lk = lumikuuro       NW = luode        "
+        },
+        {
+         "number": "17",
+         "Text": " Ls = lumisade        N  = pohjoinen    "
+        },
+        {
+         "number": "18",
+         "Text": " uk = ukkoskuuro      NE = koillinen    "
+        },
+        {
+         "number": "19",
+         "Text": " rk = räntäkuuro      E  = itä          "
+        },
+        {
+         "number": "20",
+         "Text": " rs = räntäsade       SE = kaakko       "
+        },
+        {
+         "number": "21",
+         "Text": "  ? = tietoja ei saatavilla             "
+        },
+        {
+         "number": "22",
+         "Text": "{GCyan},,,,,,,,,,,,,,,,,,,,{Yellow}Säähakemisto   400"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}Sivulla 408 Eurooppa & muu maailma   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Selitteet ennusteisiin:          "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "Sää paikkakunnittain s. "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "406",
+           "length": "3",
+           "Text": "406"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "408",
+           "length": "3",
+           "Text": "408"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13",
+           "Text": " Esimerkki:  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "size": "double height",
+           "length": "7",
+           "Text": "Vaasa  "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "size": "double height",
+           "length": "3",
+           "Text": "-7 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "size": "double height",
+           "length": "4",
+           "Text": "Ls  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "13",
+           "Text": "SE3          "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "size": "double height",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "size": "double height",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "size": "double height",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "13"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "7",
+           "Text": "lämpö- "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "sää-   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": "tuulen suunta    "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "7",
+           "Text": "tila:  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "tila:  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": "ja nopeus:       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "11",
+           "Text": "pakkasta   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "lumi-     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "kaakkoistuulta"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "12",
+           "Text": "7 astetta   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "sadetta   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "3 m/s         "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Säätila:                               "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " se = selkeä          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "18",
+           "Text": "Tuulen suunta     "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " pp = puolipilvinen   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "18",
+           "Text": "(mistä)           "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pi = pilvinen        S  = etelä        "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " vk = vesikuuro       SW = lounas       "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " vs = vesisade        W  = länsi        "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lk = lumikuuro       NW = luode        "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ls = lumisade        N  = pohjoinen    "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " uk = ukkoskuuro      NE = koillinen    "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " rk = räntäkuuro      E  = itä          "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " rs = räntäsade       SE = kaakko       "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  ? = tietoja ei saatavilla             "
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "20",
+           "Text": ",,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "15",
+           "Text": "Säähakemisto   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "8",
+           "Text": "Sivulla "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "408",
+           "length": "3",
+           "Text": "408"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "26",
+           "Text": " Eurooppa & muu maailma   "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

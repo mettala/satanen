@@ -1,0 +1,1038 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "700",
+   "name": "på svenska",
+   "subpagecount": "1",
+   "prevpg": "698",
+   "nextpg": "701",
+   "toptype": "block",
+   "time": "2026-03-12T00:23:33",
+   "utctime": "2026-03-11T22:23:33",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "                         svenska.yle.fi "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " 701 Huvudnyheter                       "
+        },
+        {
+         "number": "6",
+         "Text": " 702-709 Inrikes     715-719 Sport      "
+        },
+        {
+         "number": "7",
+         "Text": " 710-714 Utrikes     720-724 Kultur och "
+        },
+        {
+         "number": "8",
+         "Text": "                                    nöje"
+        },
+        {
+         "number": "9",
+         "Text": " 725-729 Huvudstadsregionen             "
+        },
+        {
+         "number": "10",
+         "Text": " 730-734 Västnyland                     "
+        },
+        {
+         "number": "11",
+         "Text": " 735-739 Åboland                        "
+        },
+        {
+         "number": "12",
+         "Text": " 740-744 Österbotten                    "
+        },
+        {
+         "number": "13",
+         "Text": " 745-749 Östnyland                      "
+        },
+        {
+         "number": "14",
+         "Text": " 760 Väderindex      795 Nödhjälpsida   "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " 774-776 Yle Teema & Fem                "
+        },
+        {
+         "number": "17",
+         "Text": " 777 Radio Vega      786 Text och språk "
+        },
+        {
+         "number": "18",
+         "Text": " 778 Radio X3M       796 Hörselskadade  "
+        },
+        {
+         "number": "19",
+         "Text": "                     797 Dövas förbund  "
+        },
+        {
+         "number": "20",
+         "Text": " 794 Sannings- och försoningsprocessen  "
+        },
+        {
+         "number": "21",
+         "Text": "     för döva och teckenspråkiga        "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "             svenska.yle.fi             "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{White} {GCyan}h|{SG}{GWhite},<$p 0 0t  h000                 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GCyan} ({SG}{GWhite} 5j,%bf 5($j 55 {White}svenska.yle.fi "
+        },
+        {
+         "number": "3",
+         "Text": "{White}{White}{GCyan} //{SG}{GWhite} ! #!! !\"   !\"                  "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{Yellow}701{White}Huvudnyheter                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Yellow}702-709{White}Inrikes    {Yellow}715-719{White}Sport      "
+        },
+        {
+         "number": "7",
+         "Text": "{Yellow}710-714{White}Utrikes    {Yellow}720-724{White}Kultur och "
+        },
+        {
+         "number": "8",
+         "Text": "{White}                                   nöje"
+        },
+        {
+         "number": "9",
+         "Text": "{Yellow}725-729{White}Huvudstadsregionen             "
+        },
+        {
+         "number": "10",
+         "Text": "{Yellow}730-734{White}Västnyland                     "
+        },
+        {
+         "number": "11",
+         "Text": "{Yellow}735-739{White}Åboland                        "
+        },
+        {
+         "number": "12",
+         "Text": "{Yellow}740-744{White}Österbotten                    "
+        },
+        {
+         "number": "13",
+         "Text": "{Yellow}745-749{White}Östnyland                      "
+        },
+        {
+         "number": "14",
+         "Text": "{Yellow}760{White}Väderindex     {Yellow}795{White}Nödhjälpsida   "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Yellow}774-776{White}Yle Teema & Fem                "
+        },
+        {
+         "number": "17",
+         "Text": "{Yellow}777{White}Radio Vega     {Yellow}786{White}Text och språk "
+        },
+        {
+         "number": "18",
+         "Text": "{Yellow}778{White}Radio X3M      {Yellow}796{White}Hörselskadade  "
+        },
+        {
+         "number": "19",
+         "Text": "                    {Yellow}797{White}Dövas förbund  "
+        },
+        {
+         "number": "20",
+         "Text": "{Yellow}794{Green}Sannings- och försoningsprocessen  "
+        },
+        {
+         "number": "21",
+         "Text": "    {Green}för döva och teckenspråkiga        "
+        },
+        {
+         "number": "22",
+         "Text": "{GBlue},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}          svenska.yle.fi             "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": ",<$p 0 0t  h000                 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "32",
+           "Text": " 5j,%bf 5($j 55  svenska.yle.fi "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "2",
+           "Text": "//"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " ! #!! !\"   !\"                  "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "701",
+           "length": "3",
+           "Text": "701"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Huvudnyheter                       "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "702",
+           "length": "3",
+           "Text": "702"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "709",
+           "length": "3",
+           "Text": "709"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "Inrikes     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "715",
+           "length": "3",
+           "Text": "715"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "719",
+           "length": "3",
+           "Text": "719"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "Sport      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "710",
+           "length": "3",
+           "Text": "710"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "714",
+           "length": "3",
+           "Text": "714"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "Utrikes     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "720",
+           "length": "3",
+           "Text": "720"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "724",
+           "length": "3",
+           "Text": "724"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "Kultur och "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "                                    nöje"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "725",
+           "length": "3",
+           "Text": "725"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "729",
+           "length": "3",
+           "Text": "729"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Huvudstadsregionen             "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "730",
+           "length": "3",
+           "Text": "730"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "734",
+           "length": "3",
+           "Text": "734"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Västnyland                     "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "735",
+           "length": "3",
+           "Text": "735"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "739",
+           "length": "3",
+           "Text": "739"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Åboland                        "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "740",
+           "length": "3",
+           "Text": "740"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "744",
+           "length": "3",
+           "Text": "744"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Österbotten                    "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "745",
+           "length": "3",
+           "Text": "745"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "749",
+           "length": "3",
+           "Text": "749"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Östnyland                      "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "760",
+           "length": "3",
+           "Text": "760"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Väderindex      "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "795",
+           "length": "3",
+           "Text": "795"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Nödhjälpsida   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "774",
+           "length": "3",
+           "Text": "774"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "776",
+           "length": "3",
+           "Text": "776"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Yle Teema & Fem                "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "777",
+           "length": "3",
+           "Text": "777"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Radio Vega      "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "786",
+           "length": "3",
+           "Text": "786"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Text och språk "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "778",
+           "length": "3",
+           "Text": "778"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Radio X3M       "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "796",
+           "length": "3",
+           "Text": "796"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Hörselskadade  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "797",
+           "length": "3",
+           "Text": "797"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Dövas förbund  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "794",
+           "length": "3",
+           "Text": "794"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "Sannings- och försoningsprocessen  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "för döva och teckenspråkiga        "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "39",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "12"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "link": "https://svenska.yle.fi",
+           "length": "14",
+           "Text": "svenska.yle.fi"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "13"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

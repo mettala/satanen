@@ -1,0 +1,971 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "799",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "798",
+   "nextpg": "800",
+   "toptype": "normal",
+   "time": "2026-03-11T22:22:01",
+   "utctime": "2026-03-11T20:22:01",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "                           PÅ SVENSKA:  "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "   700 INDEX                            "
+        },
+        {
+         "number": "5",
+         "Text": "   701-714 NYHETER   715 SPORT          "
+        },
+        {
+         "number": "6",
+         "Text": "   725-749 REGIONER  720 KULTUR         "
+        },
+        {
+         "number": "7",
+         "Text": "   760 VÄDERINDEX                       "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": "   771-773 TEXTNING FÖR HÖRSELSKADADE   "
+        },
+        {
+         "number": "10",
+         "Text": "   774 YLE TEEMA & FEM PROGRAMTABLÅ     "
+        },
+        {
+         "number": "11",
+         "Text": "   775-776 YLE TEEMA & FEM PROGRAM      "
+        },
+        {
+         "number": "12",
+         "Text": "   777 YLE RADIO VEGA                   "
+        },
+        {
+         "number": "13",
+         "Text": "   778 YLE RADIO EXTREM PROGRAMTABLÅ    "
+        },
+        {
+         "number": "14",
+         "Text": "   786 YLE FEM TEXTNING OCH SPRÅK       "
+        },
+        {
+         "number": "15",
+         "Text": "   795 NÖDHJÄLPSSIDA                    "
+        },
+        {
+         "number": "16",
+         "Text": "   794 SANNINGS- OCH FÖRSONINGSPROCESSEN"
+        },
+        {
+         "number": "17",
+         "Text": "       FÖR DÖVA OCH TECKENSPRÅKIGA      "
+        },
+        {
+         "number": "18",
+         "Text": "   796 FINLANDS SVENSKA HÖRSELSKADADE   "
+        },
+        {
+         "number": "19",
+         "Text": "   797 DÖVAS FÖRBUND                    "
+        },
+        {
+         "number": "20",
+         "Text": "   798 AKTUELL INFORMATION (på finska)  "
+        },
+        {
+         "number": "21",
+         "Text": "    TEXT-TV, PB 5, 00024 RUNDRADION     "
+        },
+        {
+         "number": "22",
+         "Text": "    E-postadress:  nyheter(a)yle.fi     "
+        },
+        {
+         "number": "23",
+         "Text": "    svenska.yle.fi 798 UTBUDET PÅ FINSKA"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GWhite}  ~}4  {GCyan}{SG}0`h0u0` 0`z p t               "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GWhite}j5$  {GCyan}{SG}5jj 5jj 55jj,%5 {Cyan}PÅ SVENSKA:  "
+        },
+        {
+         "number": "3",
+         "Text": "{GWhite}  */%  {GCyan}{SG}\"# !#! #!\"# #!\"               "
+        },
+        {
+         "number": "4",
+         "Text": "  {Cyan}700{White}INDEX                            "
+        },
+        {
+         "number": "5",
+         "Text": "  {Cyan}701-714{White}NYHETER  {Cyan}715{White}SPORT          "
+        },
+        {
+         "number": "6",
+         "Text": "  {Cyan}725-749{White}REGIONER {Cyan}720{White}KULTUR         "
+        },
+        {
+         "number": "7",
+         "Text": " {Cyan} 760{White}VÄDERINDEX                       "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": "  {Cyan}771-773{White}TEXTNING FÖR HÖRSELSKADADE   "
+        },
+        {
+         "number": "10",
+         "Text": "  {Cyan}774{White}YLE TEEMA & FEM PROGRAMTABLÅ     "
+        },
+        {
+         "number": "11",
+         "Text": "  {Cyan}775-776{White}YLE TEEMA & FEM PROGRAM      "
+        },
+        {
+         "number": "12",
+         "Text": "  {Cyan}777{White}YLE RADIO VEGA                   "
+        },
+        {
+         "number": "13",
+         "Text": "  {Cyan}778{White}YLE RADIO EXTREM PROGRAMTABLÅ    "
+        },
+        {
+         "number": "14",
+         "Text": "  {Cyan}786{White}YLE FEM TEXTNING OCH SPRÅK       "
+        },
+        {
+         "number": "15",
+         "Text": "  {Cyan}795{White}NÖDHJÄLPSSIDA                    "
+        },
+        {
+         "number": "16",
+         "Text": "  {Cyan}794{White}SANNINGS- OCH FÖRSONINGSPROCESSEN"
+        },
+        {
+         "number": "17",
+         "Text": "       FÖR DÖVA OCH TECKENSPRÅKIGA      "
+        },
+        {
+         "number": "18",
+         "Text": "  {Cyan}796{White}FINLANDS SVENSKA HÖRSELSKADADE   "
+        },
+        {
+         "number": "19",
+         "Text": "  {Cyan}797{White}DÖVAS FÖRBUND                    "
+        },
+        {
+         "number": "20",
+         "Text": "  {Cyan}798{White}AKTUELL INFORMATION (på finska)  "
+        },
+        {
+         "number": "21",
+         "Text": "{GBlue}{NB} {Cyan}TEXT-TV, PB 5, 00024 RUNDRADION     "
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}{NB}{Blue} E-postadress:  nyheter(a)yle.fi     "
+        },
+        {
+         "number": "23",
+         "Text": " {NB}{Blue} svenska.yle.fi 798 UTBUDET PÅ FINSKA"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "31",
+           "Text": " 0`h0u0` 0`z p t               "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "31",
+           "Text": " 5jj 5jj 55jj,%5  PÅ SVENSKA:  "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "31",
+           "Text": " \"# !#! #!\"# #!\"               "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "700",
+           "length": "3",
+           "Text": "700"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "INDEX                            "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "701",
+           "length": "3",
+           "Text": "701"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "714",
+           "length": "3",
+           "Text": "714"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10",
+           "Text": "NYHETER   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "715",
+           "length": "3",
+           "Text": "715"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "SPORT          "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "725",
+           "length": "3",
+           "Text": "725"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "749",
+           "length": "3",
+           "Text": "749"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10",
+           "Text": "REGIONER  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "720",
+           "length": "3",
+           "Text": "720"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "KULTUR         "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "760",
+           "length": "3",
+           "Text": "760"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "VÄDERINDEX                       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "771",
+           "length": "3",
+           "Text": "771"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "773",
+           "length": "3",
+           "Text": "773"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "TEXTNING FÖR HÖRSELSKADADE   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "774",
+           "length": "3",
+           "Text": "774"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "YLE TEEMA & FEM PROGRAMTABLÅ     "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "775",
+           "length": "3",
+           "Text": "775"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "776",
+           "length": "3",
+           "Text": "776"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "YLE TEEMA & FEM PROGRAM      "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "777",
+           "length": "3",
+           "Text": "777"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "YLE RADIO VEGA                   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "778",
+           "length": "3",
+           "Text": "778"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "YLE RADIO EXTREM PROGRAMTABLÅ    "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "786",
+           "length": "3",
+           "Text": "786"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "YLE FEM TEXTNING OCH SPRÅK       "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "795",
+           "length": "3",
+           "Text": "795"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "NÖDHJÄLPSSIDA                    "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "794",
+           "length": "3",
+           "Text": "794"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "SANNINGS- OCH FÖRSONINGSPROCESSEN"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "       FÖR DÖVA OCH TECKENSPRÅKIGA      "
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "796",
+           "length": "3",
+           "Text": "796"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "FINLANDS SVENSKA HÖRSELSKADADE   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "797",
+           "length": "3",
+           "Text": "797"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "DÖVAS FÖRBUND                    "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "798",
+           "length": "3",
+           "Text": "798"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "AKTUELL INFORMATION (på finska)  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "36",
+           "Text": "TEXT-TV, PB 5, 00024 RUNDRADION     "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "36",
+           "Text": "E-postadress:  nyheter(a)yle.fi     "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "https://svenska.yle.fi",
+           "length": "14",
+           "Text": "svenska.yle.fi"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "798",
+           "length": "3",
+           "Text": "798"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "18",
+           "Text": " UTBUDET PÅ FINSKA"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

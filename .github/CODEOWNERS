@@ -1,0 +1,7 @@
+# Rule files and process records. Review of these is a rule (D42), not enforced by GitHub:
+# the repository has one maintainer, so a required approving review cannot be satisfied (D41).
+/AGENTS.md @mettala
+/.claude/ @mettala
+/docs/agents/ @mettala
+/.github/ @mettala
+/docs/DECISIONS.md @mettala

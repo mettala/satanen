@@ -1,0 +1,767 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "201",
+   "name": "Uutiset",
+   "subpagecount": "1",
+   "prevpg": "200",
+   "nextpg": "202",
+   "toptype": "group",
+   "time": "2026-10-22T00:35:33",
+   "utctime": "2026-10-21T21:35:33",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     URHEILU          yle.fi/urheilu    "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 235 NHL: Florida vierailee Ottawassa   "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 277-278 Memphis - Utah torstaiaamuna   "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " 355 HBA Märskyn euro-ottelu Areenasta  "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": "     Keskiviikko                        "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " 202 Urheilusähkeitä                    "
+        },
+        {
+         "number": "13",
+         "Text": " 203 Ruotsi ei halua venäläisiä Faluniin"
+        },
+        {
+         "number": "14",
+         "Text": " 204 Arvi Savolainen leikkauspöydälle   "
+        },
+        {
+         "number": "15",
+         "Text": " 205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16",
+         "Text": " 206 Antti Pennaselle jatkosopimus      "
+        },
+        {
+         "number": "17",
+         "Text": " 221 Norrenan Tappara ylsi voittokantaan"
+        },
+        {
+         "number": "18",
+         "Text": " 222 KooKoolla hukkareissu Espooseen    "
+        },
+        {
+         "number": "19",
+         "Text": " 241 PK-35 ja FF Jaro tasapeliin        "
+        },
+        {
+         "number": "20",
+         "Text": " 661 Como höykytti Man Unitedia UCL:ssä "
+        },
+        {
+         "number": "21",
+         "Text": " 661 Bayern ja Arsenal tasapeliin       "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "     220 PALLOILU  650 EUROJALKAPALLO   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}  {Blue}URHEILU      {NB}  {White}yle.fi/urheilu    "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}235{White}NHL: Florida vierailee Ottawassa   "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}277-278{White}Memphis - Utah torstaiaamuna   "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}355{White}HBA Märskyn euro-ottelu Areenasta  "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}   {Green}Keskiviikko                        "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}202{White}Urheilusähkeitä                    "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}203{White}Ruotsi ei halua venäläisiä Faluniin"
+        },
+        {
+         "number": "14",
+         "Text": "{Green}204{White}Arvi Savolainen leikkauspöydälle   "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}205{White}Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}206{White}Antti Pennaselle jatkosopimus      "
+        },
+        {
+         "number": "17",
+         "Text": "{Green}221{White}Norrenan Tappara ylsi voittokantaan"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}222{White}KooKoolla hukkareissu Espooseen    "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}241{White}PK-35 ja FF Jaro tasapeliin        "
+        },
+        {
+         "number": "20",
+         "Text": "{Green}661{White}Como höykytti Man Unitedia UCL:ssä "
+        },
+        {
+         "number": "21",
+         "Text": "{Green}661{White}Bayern ja Arsenal tasapeliin       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}  {White}220 PALLOILU {White}650 EUROJALKAPALLO   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "13",
+           "Text": "URHEILU      "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "https://yle.fi/urheilu",
+           "length": "14",
+           "Text": "yle.fi/urheilu"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "235",
+           "length": "3",
+           "Text": "235"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "NHL: Florida vierailee Ottawassa   "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "277",
+           "length": "3",
+           "Text": "277"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "278",
+           "length": "3",
+           "Text": "278"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Memphis - Utah torstaiaamuna   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "355",
+           "length": "3",
+           "Text": "355"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "HBA Märskyn euro-ottelu Areenasta  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "Keskiviikko                        "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "202",
+           "length": "3",
+           "Text": "202"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Urheilusähkeitä                    "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "203",
+           "length": "3",
+           "Text": "203"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Ruotsi ei halua venäläisiä Faluniin"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "204",
+           "length": "3",
+           "Text": "204"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Arvi Savolainen leikkauspöydälle   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "205",
+           "length": "3",
+           "Text": "205"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Olli Jokinen sai lähteä HIFK:sta   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "206",
+           "length": "3",
+           "Text": "206"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Antti Pennaselle jatkosopimus      "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "221",
+           "length": "3",
+           "Text": "221"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Norrenan Tappara ylsi voittokantaan"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "222",
+           "length": "3",
+           "Text": "222"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "KooKoolla hukkareissu Espooseen    "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "241",
+           "length": "3",
+           "Text": "241"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "PK-35 ja FF Jaro tasapeliin        "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "661",
+           "length": "3",
+           "Text": "661"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Como höykytti Man Unitedia UCL:ssä "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "661",
+           "length": "3",
+           "Text": "661"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Bayern ja Arsenal tasapeliin       "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "220",
+           "length": "3",
+           "Text": "220"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "11",
+           "Text": " PALLOILU  "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "650",
+           "length": "3",
+           "Text": "650"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": " EUROJALKAPALLO   "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1024 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "174",
+   "name": "pörssien maa",
+   "subpagecount": "1",
+   "prevpg": "173",
+   "nextpg": "175",
+   "toptype": "group",
+   "time": "2026-10-24T01:40:01",
+   "utctime": "2026-10-23T22:40:01",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "         MAAILMAN PÖRSSIEN KURSSEJA     "
+        },
+        {
+         "number": "3",
+         "Text": "                  Lähde: FactSet ja OMX "
+        },
+        {
+         "number": "4",
+         "Text": "   Nikkei           : -439,32 =   -0,70 "
+        },
+        {
+         "number": "5",
+         "Text": "   23.10. 09:25     62 734,60 pistettä  "
+        },
+        {
+         "number": "6",
+         "Text": "   Nokia            :   +0,26 =   +3,30 "
+        },
+        {
+         "number": "7",
+         "Text": "   23.10. 23:00          8,14 USD       "
+        },
+        {
+         "number": "8",
+         "Text": "   OMX Helsinki     :  -44,66 =   -0,34 "
+        },
+        {
+         "number": "9",
+         "Text": "   23.10. 18:35     12 904,31 pistettä  "
+        },
+        {
+         "number": "10",
+         "Text": "   OMX Helsinki 25  :  -23,52 =   -0,38 "
+        },
+        {
+         "number": "11",
+         "Text": "   23.10. 18:35      6 177,34 pistettä  "
+        },
+        {
+         "number": "12",
+         "Text": "   OMX Stockholm    :   +2,33 =   +0,21 "
+        },
+        {
+         "number": "13",
+         "Text": "   23.10. 18:35      1 106,54 pistettä  "
+        },
+        {
+         "number": "14",
+         "Text": "   OMX Copenhagen   :   -7,89 =   -0,60 "
+        },
+        {
+         "number": "15",
+         "Text": "   23.10. 18:05      1 311,94 pistettä  "
+        },
+        {
+         "number": "16",
+         "Text": "   DAX Frankfurt    : -190,10 =   -0,75 "
+        },
+        {
+         "number": "17",
+         "Text": "   23.10. 18:50     25 181,65 pistettä  "
+        },
+        {
+         "number": "18",
+         "Text": "   China Shenzen A  :  +55,29 =   +2,45 "
+        },
+        {
+         "number": "19",
+         "Text": "   23.10. 10:20      2 315,39 pistettä  "
+        },
+        {
+         "number": "20",
+         "Text": "   Hang Seng Hongk. : +196,93 =   +0,86 "
+        },
+        {
+         "number": "21",
+         "Text": "   23.10. 11:05     23 116,04 pistettä  "
+        },
+        {
+         "number": "22",
+         "Text": "   SENSEX 30 Mumbai : -125,56 =   -0,17 "
+        },
+        {
+         "number": "23",
+         "Text": "   23.10. 13:15     73 123,83 pistettä  "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{GCyan}~}4 ,,,,,,,,,,,,,$,,,$,,$,,$,$,      "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GCyan}j5${NB}{Blue} MAAILMAN PÖRSSIEN KURSSEJA     "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GCyan}*/%           {Cyan}Lähde: FactSet ja OMX "
+        },
+        {
+         "number": "4",
+         "Text": "{White}{NB}{Blue}Nikkei           : -439,32 =   -0,70 "
+        },
+        {
+         "number": "5",
+         "Text": "{White}{NB}{Blue}23.10. 09:25     62 734,60 pistettä  "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}Nokia            :   +0,26 =   +3,30 "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}23.10. 23:00          8,14 USD       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}{NB}{Blue}OMX Helsinki     :  -44,66 =   -0,34 "
+        },
+        {
+         "number": "9",
+         "Text": "{White}{NB}{Blue}23.10. 18:35     12 904,31 pistettä  "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}OMX Helsinki 25  :  -23,52 =   -0,38 "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}23.10. 18:35      6 177,34 pistettä  "
+        },
+        {
+         "number": "12",
+         "Text": "{White}{NB}{Blue}OMX Stockholm    :   +2,33 =   +0,21 "
+        },
+        {
+         "number": "13",
+         "Text": "{White}{NB}{Blue}23.10. 18:35      1 106,54 pistettä  "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}OMX Copenhagen   :   -7,89 =   -0,60 "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}23.10. 18:05      1 311,94 pistettä  "
+        },
+        {
+         "number": "16",
+         "Text": "{White}{NB}{Blue}DAX Frankfurt    : -190,10 =   -0,75 "
+        },
+        {
+         "number": "17",
+         "Text": "{White}{NB}{Blue}23.10. 18:50     25 181,65 pistettä  "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}China Shenzen A  :  +55,29 =   +2,45 "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}23.10. 10:20      2 315,39 pistettä  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}{NB}{Blue}Hang Seng Hongk. : +196,93 =   +0,86 "
+        },
+        {
+         "number": "21",
+         "Text": "{White}{NB}{Blue}23.10. 11:05     23 116,04 pistettä  "
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}{NB}{Blue}SENSEX 30 Mumbai : -125,56 =   -0,17 "
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}23.10. 13:15     73 123,83 pistettä  "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "13",
+           "Text": ",,,,,,,,,,,,,"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "3",
+           "Text": ",,,"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "6"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "31",
+           "Text": "MAAILMAN PÖRSSIEN KURSSEJA     "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "            Lähde: FactSet ja OMX "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "Nikkei           : -"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "439",
+           "length": "3",
+           "Text": "439"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",32 =   -0,70 "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 09:25     62 "
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "734",
+           "length": "3",
+           "Text": "734"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",60 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "Nokia            :   +0,26 =   +3,30 "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "23.10. 23:00          8,14 USD       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "37",
+           "Text": "OMX Helsinki     :  -44,66 =   -0,34 "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "37",
+           "Text": "23.10. 18:35     12 904,31 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "OMX Helsinki 25  :  -23,52 =   -0,38 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 18:35      6 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "177",
+           "length": "3",
+           "Text": "177"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",34 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "37",
+           "Text": "OMX Stockholm    :   +2,33 =   +0,21 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 18:35      1 "
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "106",
+           "length": "3",
+           "Text": "106"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",54 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "OMX Copenhagen   :   -7,89 =   -0,60 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 18:05      1 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "311",
+           "length": "3",
+           "Text": "311"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",94 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "DAX Frankfurt    : -"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "190",
+           "length": "3",
+           "Text": "190"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",10 =   -0,75 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 18:50     25 "
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "181",
+           "length": "3",
+           "Text": "181"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",65 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "China Shenzen A  :  +55,29 =   +2,45 "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 10:20      2 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "315",
+           "length": "3",
+           "Text": "315"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",39 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "Hang Seng Hongk. : +"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "196",
+           "length": "3",
+           "Text": "196"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",93 =   +0,86 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 11:05     23 "
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "116",
+           "length": "3",
+           "Text": "116"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",04 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "20",
+           "Text": "SENSEX 30 Mumbai : -"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "125",
+           "length": "3",
+           "Text": "125"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",56 =   -0,17 "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "20",
+           "Text": "23.10. 13:15     73 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "123",
+           "length": "3",
+           "Text": "123"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": ",83 pistettä  "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

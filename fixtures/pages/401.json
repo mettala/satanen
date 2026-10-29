@@ -1,0 +1,1284 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "401",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "400",
+   "nextpg": "402",
+   "toptype": "normal",
+   "time": "2026-10-22T00:07:12",
+   "utctime": "2026-10-21T21:07:12",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "            Ilmatieteen laitos 21.10.   "
+        },
+        {
+         "number": "3",
+         "Text": "            Säätiedotus klo 22          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Sää on poutainen suuressa osassa maata,"
+        },
+        {
+         "number": "7",
+         "Text": " laajalti myös selkeä. Yöllä ja aamulla "
+        },
+        {
+         "number": "8",
+         "Text": " muodostuu monin paikoin sumua, joka    "
+        },
+        {
+         "number": "9",
+         "Text": " haihtuu suurelta osin aamupäivän       "
+        },
+        {
+         "number": "10",
+         "Text": " aikana.                                "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " Odotettavissa huomiseen iltaan asti:   "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Maan etelä- ja keskiosassa: Enimmäkseen"
+        },
+        {
+         "number": "15",
+         "Text": " selkeää tai puolipilvistä. Poutaa.     "
+        },
+        {
+         "number": "16",
+         "Text": " Yöstä alkaen monin paikoin sumua.      "
+        },
+        {
+         "number": "17",
+         "Text": " Päivällä vaihtelevaa pilvisyyttä. Yön  "
+        },
+        {
+         "number": "18",
+         "Text": " alin lämpötila on -1...+5, idässä      "
+        },
+        {
+         "number": "19",
+         "Text": " +1...-3 astetta. Päivän ylin 7...12    "
+        },
+        {
+         "number": "20",
+         "Text": " astetta. Heikkoa tai kohtalaista       "
+        },
+        {
+         "number": "21",
+         "Text": " kaakkoistuulta.                        "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": " {GYellow} `\"rr(  {White}                         1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GYellow}$.-b  {White}Ilmatieteen laitos 21.10.   "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GWhite}x||}0 {White}Säätiedotus klo 22          "
+        },
+        {
+         "number": "4",
+         "Text": "{GWhite}{GWhite} +/o//!                              "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Sää on poutainen suuressa osassa maata,"
+        },
+        {
+         "number": "7",
+         "Text": "{White}laajalti myös selkeä. Yöllä ja aamulla "
+        },
+        {
+         "number": "8",
+         "Text": "{White}muodostuu monin paikoin sumua, joka    "
+        },
+        {
+         "number": "9",
+         "Text": "{White}haihtuu suurelta osin aamupäivän       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}aikana.                                "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Odotettavissa huomiseen iltaan asti:   "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Maan etelä- ja keskiosassa:{White}Enimmäkseen"
+        },
+        {
+         "number": "15",
+         "Text": "{White}selkeää tai puolipilvistä. Poutaa.     "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Yöstä alkaen monin paikoin sumua.      "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Päivällä vaihtelevaa pilvisyyttä. Yön  "
+        },
+        {
+         "number": "18",
+         "Text": "{White}alin lämpötila on -1...+5, idässä      "
+        },
+        {
+         "number": "19",
+         "Text": "{White}+1...-3 astetta. Päivän ylin 7...12    "
+        },
+        {
+         "number": "20",
+         "Text": "{White}astetta. Heikkoa tai kohtalaista       "
+        },
+        {
+         "number": "21",
+         "Text": "{White}kaakkoistuulta.                        "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "72h",
+           "length": "2",
+           "Text": "rr"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "28"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "1/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "2Eh",
+           "length": "1",
+           "Text": "."
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "2",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "2Dh",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "62h",
+           "length": "1",
+           "Text": "b"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "Ilmatieteen laitos 21.10.   "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Ch",
+           "length": "2",
+           "Text": "||"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "  Säätiedotus klo 22          "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Fh",
+           "length": "1",
+           "Text": "o"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Fh",
+           "length": "2",
+           "Text": "//"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sää on poutainen suuressa osassa maata,"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " laajalti myös selkeä. Yöllä ja aamulla "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " muodostuu monin paikoin sumua, joka    "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " haihtuu suurelta osin aamupäivän       "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " aikana.                                "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Odotettavissa huomiseen iltaan asti:   "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "28",
+           "Text": "Maan etelä- ja keskiosassa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "Enimmäkseen"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " selkeää tai puolipilvistä. Poutaa.     "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Yöstä alkaen monin paikoin sumua.      "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Päivällä vaihtelevaa pilvisyyttä. Yön  "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " alin lämpötila on -1...+5, idässä      "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " +1...-3 astetta. Päivän ylin 7...12    "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " astetta. Heikkoa tai kohtalaista       "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kaakkoistuulta.                        "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "            Ilmatieteen laitos 21.10.   "
+        },
+        {
+         "number": "3",
+         "Text": "            Säätiedotus klo 22          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Maan pohjoisosassa: Vaihtelevaa        "
+        },
+        {
+         "number": "7",
+         "Text": " pilvisyyttä. Poutaa, Luoteis-Lapissa   "
+        },
+        {
+         "number": "8",
+         "Text": " mahdollisesti tihkua. Yöllä ja aamulla "
+        },
+        {
+         "number": "9",
+         "Text": " paikoin sumua. Iltapäivällä Pohjois-   "
+        },
+        {
+         "number": "10",
+         "Text": " Pohjanmaalla ja Kainuussa paikoin      "
+        },
+        {
+         "number": "11",
+         "Text": " selkeää. Yön alin lämpötila on +2...-5,"
+        },
+        {
+         "number": "12",
+         "Text": " päivän ylin +2...+7 astetta. Heikkoa   "
+        },
+        {
+         "number": "13",
+         "Text": " tai kohtalaista etelänpuoleista tuulta."
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " Liikennesää pääteillä lähivuorokauden  "
+        },
+        {
+         "number": "16",
+         "Text": " aikana: Ajokeli on huono maan          "
+        },
+        {
+         "number": "17",
+         "Text": " pohjoisosassa sekä Etelä-Karjalan,     "
+        },
+        {
+         "number": "18",
+         "Text": " Keski-Suomen, Etelä-Savon, Pohjois-    "
+        },
+        {
+         "number": "19",
+         "Text": " Savon, Pohjois-Karjalan ja Keski-      "
+        },
+        {
+         "number": "20",
+         "Text": " Pohjanmaan maakunnissa kuuraisten      "
+        },
+        {
+         "number": "21",
+         "Text": " teiden vuoksi.                         "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": " {GYellow} `\"rr(  {White}                         2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GYellow}$.-b  {White}Ilmatieteen laitos 21.10.   "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GWhite}x||}0 {White}Säätiedotus klo 22          "
+        },
+        {
+         "number": "4",
+         "Text": "{GWhite}{GWhite} +/o//!                              "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Maan pohjoisosassa:{White}Vaihtelevaa        "
+        },
+        {
+         "number": "7",
+         "Text": "{White}pilvisyyttä. Poutaa, Luoteis-Lapissa   "
+        },
+        {
+         "number": "8",
+         "Text": "{White}mahdollisesti tihkua. Yöllä ja aamulla "
+        },
+        {
+         "number": "9",
+         "Text": "{White}paikoin sumua. Iltapäivällä Pohjois-   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Pohjanmaalla ja Kainuussa paikoin      "
+        },
+        {
+         "number": "11",
+         "Text": "{White}selkeää. Yön alin lämpötila on +2...-5,"
+        },
+        {
+         "number": "12",
+         "Text": "{White}päivän ylin +2...+7 astetta. Heikkoa   "
+        },
+        {
+         "number": "13",
+         "Text": "{White}tai kohtalaista etelänpuoleista tuulta."
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}Liikennesää pääteillä lähivuorokauden  "
+        },
+        {
+         "number": "16",
+         "Text": "{Yellow}aikana:{White}Ajokeli on huono maan          "
+        },
+        {
+         "number": "17",
+         "Text": "{White}pohjoisosassa sekä Etelä-Karjalan,     "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Keski-Suomen, Etelä-Savon, Pohjois-    "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Savon, Pohjois-Karjalan ja Keski-      "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Pohjanmaan maakunnissa kuuraisten      "
+        },
+        {
+         "number": "21",
+         "Text": "{White}teiden vuoksi.                         "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "72h",
+           "length": "2",
+           "Text": "rr"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "28"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "2/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "2Eh",
+           "length": "1",
+           "Text": "."
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "2",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "2Dh",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "62h",
+           "length": "1",
+           "Text": "b"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "Ilmatieteen laitos 21.10.   "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Ch",
+           "length": "2",
+           "Text": "||"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "  Säätiedotus klo 22          "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Fh",
+           "length": "1",
+           "Text": "o"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Fh",
+           "length": "2",
+           "Text": "//"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "20",
+           "Text": "Maan pohjoisosassa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "Vaihtelevaa        "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pilvisyyttä. Poutaa, Luoteis-Lapissa   "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " mahdollisesti tihkua. Yöllä ja aamulla "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " paikoin sumua. Iltapäivällä Pohjois-   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pohjanmaalla ja Kainuussa paikoin      "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " selkeää. Yön alin lämpötila on +2...-5,"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " päivän ylin +2...+7 astetta. Heikkoa   "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tai kohtalaista etelänpuoleista tuulta."
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Liikennesää pääteillä lähivuorokauden  "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "aikana: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Ajokeli on huono maan          "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pohjoisosassa sekä Etelä-Karjalan,     "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Keski-Suomen, Etelä-Savon, Pohjois-    "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Savon, Pohjois-Karjalan ja Keski-      "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pohjanmaan maakunnissa kuuraisten      "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " teiden vuoksi.                         "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

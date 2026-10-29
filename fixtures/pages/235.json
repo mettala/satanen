@@ -1,0 +1,2748 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "235",
+   "name": "",
+   "subpagecount": "5",
+   "prevpg": "233",
+   "nextpg": "236",
+   "toptype": "normal",
+   "time": "2026-10-23T08:19:45",
+   "utctime": "2026-10-23T05:19:45",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL-JÄÄKIEKKO            23.10.  1/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Pittsburgh     - Florida           4-0 "
+        },
+        {
+         "number": "4",
+         "Text": " Robertson     15                       "
+        },
+        {
+         "number": "5",
+         "Text": " Lapierre      29                       "
+        },
+        {
+         "number": "6",
+         "Text": " (Koivunen)                             "
+        },
+        {
+         "number": "7",
+         "Text": " Malkin        41                       "
+        },
+        {
+         "number": "8",
+         "Text": " Robertson     57                       "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " New Jersey     - Anaheim           4-1 "
+        },
+        {
+         "number": "11",
+         "Text": " Gritsyuk       4 Washe         48      "
+        },
+        {
+         "number": "12",
+         "Text": " Hischier      19                       "
+        },
+        {
+         "number": "13",
+         "Text": " Mantha        53                       "
+        },
+        {
+         "number": "14",
+         "Text": " Hughes        59                       "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Boston         - Nashville         6-0 "
+        },
+        {
+         "number": "17",
+         "Text": " Mittelstadt    3                       "
+        },
+        {
+         "number": "18",
+         "Text": " Lindholm      16                       "
+        },
+        {
+         "number": "19",
+         "Text": " Pastrnak      29                       "
+        },
+        {
+         "number": "20",
+         "Text": " Peterka       37                       "
+        },
+        {
+         "number": "21",
+         "Text": " Kastelic      46                       "
+        },
+        {
+         "number": "22",
+         "Text": " Pastrnak      55                       "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL-JÄÄKIEKKO         {Green}{NB}{Blue}23.10.  1/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": " Pittsburgh     - Florida      {Green}    4-0 "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}Robertson     15                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Lapierre      29                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}(Koivunen)                             "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Malkin        41                       "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Robertson     57                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": " New Jersey     - Anaheim      {Green}    4-1 "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Gritsyuk       4{Cyan}Washe         48      "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}Hischier      19                       "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Mantha        53                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Hughes        59                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": " Boston         - Nashville    {Green}    6-0 "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Mittelstadt    3                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}Lindholm      16                       "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}Pastrnak      29                       "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}Peterka       37                       "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}Kastelic      46                       "
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}Pastrnak      55                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL-JÄÄKIEKKO          "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "12",
+           "Text": "23.10.  1/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Pittsburgh     - Florida           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "4-0 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Robertson     15                       "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Lapierre      29                       "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "(Koivunen)                             "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Malkin        41                       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Robertson     57                       "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " New Jersey     - Anaheim           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "4-1 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Gritsyuk       4 Washe         48      "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Hischier      19                       "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Mantha        53                       "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Hughes        59                       "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Boston         - Nashville         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "6-0 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Mittelstadt    3                       "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Lindholm      16                       "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Pastrnak      29                       "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Peterka       37                       "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Kastelic      46                       "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Pastrnak      55                       "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL-JÄÄKIEKKO            23.10.  2/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Toronto        - NY Rangers        5-4 "
+        },
+        {
+         "number": "4",
+         "Text": " Cowan          1 Zibanejad      5      "
+        },
+        {
+         "number": "5",
+         "Text": " Blugers       10 Bjorkstrand   22      "
+        },
+        {
+         "number": "6",
+         "Text": " Duhaime       28 Kartye        26      "
+        },
+        {
+         "number": "7",
+         "Text": " Marchenko     39 Lafreniere    54      "
+        },
+        {
+         "number": "8",
+         "Text": " Stecher       59                       "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " Ottawa         - San Jose          2-6 "
+        },
+        {
+         "number": "11",
+         "Text": " Stutzle        6 Allan         11      "
+        },
+        {
+         "number": "12",
+         "Text": " Spence        46 Toffoli       29      "
+        },
+        {
+         "number": "13",
+         "Text": " (Matinpalo)      Graf          32      "
+        },
+        {
+         "number": "14",
+         "Text": "                  Trouba        33      "
+        },
+        {
+         "number": "15",
+         "Text": "                  Ostapchuk     56      "
+        },
+        {
+         "number": "16",
+         "Text": "                  Stenberg      59      "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " NY Islanders   - Los Angeles    ja 2-3 "
+        },
+        {
+         "number": "19",
+         "Text": " Eklund        34 Panarin        5      "
+        },
+        {
+         "number": "20",
+         "Text": " Schaefer      47 Panarin       16      "
+        },
+        {
+         "number": "21",
+         "Text": "                  Clarke        62      "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL-JÄÄKIEKKO         {Green}{NB}{Blue}23.10.  2/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": " Toronto        - NY Rangers   {Green}    5-4 "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}Cowan          1{Cyan}Zibanejad      5      "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Blugers       10{Cyan}Bjorkstrand   22      "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Duhaime       28{Cyan}Kartye        26      "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Marchenko     39{Cyan}Lafreniere    54      "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Stecher       59                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": " Ottawa         - San Jose     {Green}    2-6 "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Stutzle        6{Cyan}Allan         11      "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}Spence        46{Cyan}Toffoli       29      "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}(Matinpalo)     {Cyan}Graf          32      "
+        },
+        {
+         "number": "14",
+         "Text": "                 {Cyan}Trouba        33      "
+        },
+        {
+         "number": "15",
+         "Text": "                 {Cyan}Ostapchuk     56      "
+        },
+        {
+         "number": "16",
+         "Text": "                 {Cyan}Stenberg      59      "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": " NY Islanders   - Los Angeles  {Green} ja 2-3 "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}Eklund        34{Cyan}Panarin        5      "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}Schaefer      47{Cyan}Panarin       16      "
+        },
+        {
+         "number": "21",
+         "Text": "                 {Magenta}Clarke        62      "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL-JÄÄKIEKKO          "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "12",
+           "Text": "23.10.  2/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Toronto        - NY Rangers        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "5-4 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Cowan          1 Zibanejad      5      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Blugers       10 Bjorkstrand   22      "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Duhaime       28 Kartye        26      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Marchenko     39 Lafreniere    54      "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Stecher       59                       "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Ottawa         - San Jose          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "2-6 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Stutzle        6 Allan         11      "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Spence        46 Toffoli       29      "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "(Matinpalo)      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Graf          32      "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Trouba        33      "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Ostapchuk     56      "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Stenberg      59      "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " NY Islanders   - Los Angeles    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "ja 2-3 "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Eklund        34 Panarin        5      "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Schaefer      47 Panarin       16      "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "22",
+           "Text": "Clarke        62      "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL-JÄÄKIEKKO            23.10.  3/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " St. Louis      - Vegas             6-2 "
+        },
+        {
+         "number": "4",
+         "Text": " Butshnevitsh  10 Howden        25      "
+        },
+        {
+         "number": "5",
+         "Text": " Barron        13 Eichel        44      "
+        },
+        {
+         "number": "6",
+         "Text": " (Kaskimäki)                            "
+        },
+        {
+         "number": "7",
+         "Text": " McTavish      28                       "
+        },
+        {
+         "number": "8",
+         "Text": " Snuggerud     48                       "
+        },
+        {
+         "number": "9",
+         "Text": " Holloway      50                       "
+        },
+        {
+         "number": "10",
+         "Text": " Holloway      56                       "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " Dallas         - Winnipeg       ja 3-2 "
+        },
+        {
+         "number": "13",
+         "Text": " Johnston      21 Vilardi       30      "
+        },
+        {
+         "number": "14",
+         "Text": " (Rantanen)       Connor        32      "
+        },
+        {
+         "number": "15",
+         "Text": " Hintz         58                       "
+        },
+        {
+         "number": "16",
+         "Text": " (Rantanen)                             "
+        },
+        {
+         "number": "17",
+         "Text": " Hintz         63                       "
+        },
+        {
+         "number": "18",
+         "Text": " (Heiskanen)                            "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL-JÄÄKIEKKO         {Green}{NB}{Blue}23.10.  3/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": " St. Louis      - Vegas        {Green}    6-2 "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}Butshnevitsh  10{Cyan}Howden        25      "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Barron        13{Cyan}Eichel        44      "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}(Kaskimäki)                            "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}McTavish      28                       "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Snuggerud     48                       "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Holloway      50                       "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}Holloway      56                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": " Dallas         - Winnipeg     {Green} ja 3-2 "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Johnston      21{Cyan}Vilardi       30      "
+        },
+        {
+         "number": "14",
+         "Text": "{Green}(Rantanen)      {Cyan}Connor        32      "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Hintz         58                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}(Rantanen)                             "
+        },
+        {
+         "number": "17",
+         "Text": "{Magenta}Hintz         63                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}(Heiskanen)                            "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL-JÄÄKIEKKO          "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "12",
+           "Text": "23.10.  3/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " St. Louis      - Vegas             "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "6-2 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Butshnevitsh  10 Howden        25      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Barron        13 Eichel        44      "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "(Kaskimäki)                            "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "McTavish      28                       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Snuggerud     48                       "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Holloway      50                       "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Holloway      56                       "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " Dallas         - Winnipeg       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "ja 3-2 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Johnston      21 Vilardi       30      "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "(Rantanen)       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Connor        32      "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Hintz         58                       "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "(Rantanen)                             "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "39",
+           "Text": "Hintz         63                       "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "(Heiskanen)                            "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL-JÄÄKIEKKO            23.10.  4/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Edmonton       - Carolina       vl 6-5 "
+        },
+        {
+         "number": "4",
+         "Text": " Draisaitl      8 Blake         10      "
+        },
+        {
+         "number": "5",
+         "Text": " Nugent-Hopkins24 (Aho)                 "
+        },
+        {
+         "number": "6",
+         "Text": " McDavid       40 Aho           20      "
+        },
+        {
+         "number": "7",
+         "Text": " Draisaitl     42 Jarvis        32      "
+        },
+        {
+         "number": "8",
+         "Text": " McDavid       58 Stankoven     37      "
+        },
+        {
+         "number": "9",
+         "Text": " Nugent-Hopkins65 Välimäki      57      "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Calgary        - Minnesota         2-1 "
+        },
+        {
+         "number": "12",
+         "Text": " Suniev        10 McCarron      44      "
+        },
+        {
+         "number": "13",
+         "Text": " Farabee       14                       "
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " Seattle        - Utah              5-3 "
+        },
+        {
+         "number": "16",
+         "Text": " Eberle         3 Trocheck      17      "
+        },
+        {
+         "number": "17",
+         "Text": " Beniers       18 Cooley        40      "
+        },
+        {
+         "number": "18",
+         "Text": " (Kakko)          Cooley        47      "
+        },
+        {
+         "number": "19",
+         "Text": " Montour       22                       "
+        },
+        {
+         "number": "20",
+         "Text": " Samoskevich   54                       "
+        },
+        {
+         "number": "21",
+         "Text": " Gaudreau      59                       "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL-JÄÄKIEKKO         {Green}{NB}{Blue}23.10.  4/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": " Edmonton       - Carolina     {Green} vl 6-5 "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}Draisaitl      8{Cyan}Blake         10      "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Nugent-Hopkins24{Green}(Aho)                 "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}McDavid       40{Green}Aho           20      "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Draisaitl     42{Cyan}Jarvis        32      "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}McDavid       58{Cyan}Stankoven     37      "
+        },
+        {
+         "number": "9",
+         "Text": "{Magenta}Nugent-Hopkins65{Green}Välimäki      57      "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": " Calgary        - Minnesota    {Green}    2-1 "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}Suniev        10{Cyan}McCarron      44      "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Farabee       14                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": " Seattle        - Utah         {Green}    5-3 "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}Eberle         3{Cyan}Trocheck      17      "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Beniers       18{Cyan}Cooley        40      "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}(Kakko)         {Cyan}Cooley        47      "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}Montour       22                       "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}Samoskevich   54                       "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}Gaudreau      59                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL-JÄÄKIEKKO          "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "12",
+           "Text": "23.10.  4/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " Edmonton       - Carolina       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "vl 6-5 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Draisaitl      8 Blake         10      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "17",
+           "Text": "Nugent-Hopkins24 "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "22",
+           "Text": "(Aho)                 "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "17",
+           "Text": "McDavid       40 "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "22",
+           "Text": "Aho           20      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Draisaitl     42 Jarvis        32      "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "McDavid       58 Stankoven     37      "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "17",
+           "Text": "Nugent-Hopkins65 "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "22",
+           "Text": "Välimäki      57      "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Calgary        - Minnesota         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "2-1 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Suniev        10 McCarron      44      "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Farabee       14                       "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Seattle        - Utah              "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "5-3 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Eberle         3 Trocheck      17      "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Beniers       18 Cooley        40      "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "(Kakko)          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Cooley        47      "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Montour       22                       "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Samoskevich   54                       "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Gaudreau      59                       "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL-JÄÄKIEKKO            23.10.  5/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Vancouver      - Detroit           2-5 "
+        },
+        {
+         "number": "4",
+         "Text": " Pettersson     7 Raymond        4      "
+        },
+        {
+         "number": "5",
+         "Text": " Lekkerimäki   50 Wallinder      6      "
+        },
+        {
+         "number": "6",
+         "Text": "                  Raymond        8      "
+        },
+        {
+         "number": "7",
+         "Text": "                  Rasmussen     34      "
+        },
+        {
+         "number": "8",
+         "Text": "                  Finnie        44      "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL-JÄÄKIEKKO         {Green}{NB}{Blue}23.10.  5/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": " Vancouver      - Detroit      {Green}    2-5 "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}Pettersson     7{Cyan}Raymond        4      "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Lekkerimäki   50{Cyan}Wallinder      6      "
+        },
+        {
+         "number": "6",
+         "Text": "                 {Cyan}Raymond        8      "
+        },
+        {
+         "number": "7",
+         "Text": "                 {Cyan}Rasmussen     34      "
+        },
+        {
+         "number": "8",
+         "Text": "                 {Cyan}Finnie        44      "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL-JÄÄKIEKKO          "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "12",
+           "Text": "23.10.  5/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Vancouver      - Detroit           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "2-5 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Pettersson     7 Raymond        4      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Lekkerimäki   50 Wallinder      6      "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Raymond        8      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Rasmussen     34      "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Finnie        44      "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

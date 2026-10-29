@@ -1,0 +1,6401 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "187",
+   "name": "",
+   "subpagecount": "8",
+   "prevpg": "186",
+   "nextpg": "188",
+   "toptype": "normal",
+   "time": "2026-10-24T20:40:04",
+   "utctime": "2026-10-24T17:40:04",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " 35UUDMAAA   10,11 EUR 15  -0,12   -1,68"
+        },
+        {
+         "number": "6",
+         "Text": " 35UUDMAAB   10,30 EUR 15  -0,02   -1,29"
+        },
+        {
+         "number": "7",
+         "Text": " 35UUDMAAC   10,55 EUR 15  +0,11   -0,79"
+        },
+        {
+         "number": "8",
+         "Text": " ACMDCS1     1,24T EUR 30  -0,44   +2,45"
+        },
+        {
+         "number": "9",
+         "Text": " AFALIQPDFB 109,49 EUR 28  -0,43       -"
+        },
+        {
+         "number": "10",
+         "Text": " AKTTTKIINA   0,82 EUR 30  -0,07  -11,42"
+        },
+        {
+         "number": "11",
+         "Text": " AKTTTKIINB   0,83 EUR 30  -0,01  -11,24"
+        },
+        {
+         "number": "12",
+         "Text": " AKTTTKIINE   0,84 EUR 30  +0,04  -11,06"
+        },
+        {
+         "number": "13",
+         "Text": " AKTTTKIING   0,86 EUR 30  +0,08  -10,88"
+        },
+        {
+         "number": "14",
+         "Text": " AKTTTKIINI   0,91 EUR 30  +0,14  -10,71"
+        },
+        {
+         "number": "15",
+         "Text": " ALBBOSTADA  98,37 EUR 30  -2,04   -8,61"
+        },
+        {
+         "number": "16",
+         "Text": " ALBBOSTADC 108,08 EUR 30  -1,84   -7,91"
+        },
+        {
+         "number": "17",
+         "Text": " ALBTOMTA   115,94 EUR 31  +1,66   +1,82"
+        },
+        {
+         "number": "18",
+         "Text": " ALEXENVB    64,16 EUR 21  +0,83  +11,84"
+        },
+        {
+         "number": "19",
+         "Text": " ALEXENVI    64,91 EUR 21  +0,85  +12,18"
+        },
+        {
+         "number": "20",
+         "Text": " ALEXKI      54,91 EUR 21  -0,02   -4,60"
+        },
+        {
+         "number": "21",
+         "Text": " ALREALA     57,12 EUR 21  +0,02   +0,71"
+        },
+        {
+         "number": "22",
+         "Text": " ALTUULIA   102,15 EUR 30  +5,35  -19,48"
+        },
+        {
+         "number": "23",
+         "Text": " ALTUULIB   102,15 EUR 30  +5,35  -19,48"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " 35UUDMAAA   10,11 EUR 15 {Cyan}-0,12  {Cyan}-1,68"
+        },
+        {
+         "number": "6",
+         "Text": " 35UUDMAAB   10,30 EUR 15 {Cyan}-0,02  {Cyan}-1,29"
+        },
+        {
+         "number": "7",
+         "Text": " 35UUDMAAC   10,55 EUR 15 {Yellow}+0,11  {Cyan}-0,79"
+        },
+        {
+         "number": "8",
+         "Text": " ACMDCS1     1,24T EUR 30 {Cyan}-0,44  {Yellow}+2,45"
+        },
+        {
+         "number": "9",
+         "Text": " AFALIQPDFB 109,49 EUR 28 {Cyan}-0,43{White}      -"
+        },
+        {
+         "number": "10",
+         "Text": " AKTTTKIINA   0,82 EUR 30 {Cyan}-0,07 {Cyan}-11,42"
+        },
+        {
+         "number": "11",
+         "Text": " AKTTTKIINB   0,83 EUR 30 {Cyan}-0,01 {Cyan}-11,24"
+        },
+        {
+         "number": "12",
+         "Text": " AKTTTKIINE   0,84 EUR 30 {Yellow}+0,04 {Cyan}-11,06"
+        },
+        {
+         "number": "13",
+         "Text": " AKTTTKIING   0,86 EUR 30 {Yellow}+0,08 {Cyan}-10,88"
+        },
+        {
+         "number": "14",
+         "Text": " AKTTTKIINI   0,91 EUR 30 {Yellow}+0,14 {Cyan}-10,71"
+        },
+        {
+         "number": "15",
+         "Text": " ALBBOSTADA  98,37 EUR 30 {Cyan}-2,04  {Cyan}-8,61"
+        },
+        {
+         "number": "16",
+         "Text": " ALBBOSTADC 108,08 EUR 30 {Cyan}-1,84  {Cyan}-7,91"
+        },
+        {
+         "number": "17",
+         "Text": " ALBTOMTA   115,94 EUR 31 {Yellow}+1,66  {Yellow}+1,82"
+        },
+        {
+         "number": "18",
+         "Text": " ALEXENVB    64,16 EUR 21 {Yellow}+0,83 {Yellow}+11,84"
+        },
+        {
+         "number": "19",
+         "Text": " ALEXENVI    64,91 EUR 21 {Yellow}+0,85 {Yellow}+12,18"
+        },
+        {
+         "number": "20",
+         "Text": " ALEXKI      54,91 EUR 21 {Cyan}-0,02  {Cyan}-4,60"
+        },
+        {
+         "number": "21",
+         "Text": " ALREALA     57,12 EUR 21 {Yellow}+0,02  {Yellow}+0,71"
+        },
+        {
+         "number": "22",
+         "Text": " ALTUULIA   102,15 EUR 30 {Yellow}+5,35 {Cyan}-19,48"
+        },
+        {
+         "number": "23",
+         "Text": " ALTUULIB   102,15 EUR 30 {Yellow}+5,35 {Cyan}-19,48"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 35UUDMAAA   10,11 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,12   -1,68"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 35UUDMAAB   10,30 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,02   -1,29"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 35UUDMAAC   10,55 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,11   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,79"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ACMDCS1     1,24T EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,44   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,45"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " AFALIQPDFB "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "109",
+           "length": "3",
+           "Text": "109"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",49 EUR 28  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "-0,43       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " AKTTTKIINA   0,82 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,07  -11,42"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " AKTTTKIINB   0,83 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,01  -11,24"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " AKTTTKIINE   0,84 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+0,04  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-11,06"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " AKTTTKIING   0,86 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+0,08  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-10,88"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " AKTTTKIINI   0,91 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+0,14  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-10,71"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALBBOSTADA  98,37 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-2,04   -8,61"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " ALBBOSTADC "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "108",
+           "length": "3",
+           "Text": "108"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",08 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-1,84   -7,91"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " ALBTOMTA   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "115",
+           "length": "3",
+           "Text": "115"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",94 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,66   +1,82"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALEXENVB    64,16 EUR 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,83  +11,84"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALEXENVI    64,91 EUR 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,85  +12,18"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALEXKI      54,91 EUR 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,02   -4,60"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALREALA     57,12 EUR 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,02   +0,71"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " ALTUULIA   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",15 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+5,35  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-19,48"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " ALTUULIB   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",15 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+5,35  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-19,48"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " ALTUULIC   104,76 EUR 30  +5,59  -19,03"
+        },
+        {
+         "number": "6",
+         "Text": " ALTUULID   104,76 EUR 30  +5,59  -19,03"
+        },
+        {
+         "number": "7",
+         "Text": " ALTUULIS    1,03T SEK 30  -0,95  -20,28"
+        },
+        {
+         "number": "8",
+         "Text": " ALXPAAIFB   51,85 EUR 21  +0,00   +1,59"
+        },
+        {
+         "number": "9",
+         "Text": " ALXPAAIFI   52,18 EUR 21  +0,00   +1,89"
+        },
+        {
+         "number": "10",
+         "Text": " BLACKHCFH  209,58 EUR 30  -2,23   +7,35"
+        },
+        {
+         "number": "11",
+         "Text": " BNYDFPV10W   1,39 EUR 22  -0,86       -"
+        },
+        {
+         "number": "12",
+         "Text": " CAPNPIA     88,55 EUR 30  +0,42   -2,33"
+        },
+        {
+         "number": "13",
+         "Text": " CAPNPIB     88,55 EUR 30  +0,42   -2,33"
+        },
+        {
+         "number": "14",
+         "Text": " CAPNPIC     88,55 EUR 30  +0,42   -2,33"
+        },
+        {
+         "number": "15",
+         "Text": " CAPNPID     88,55 EUR 30  +0,42   -2,33"
+        },
+        {
+         "number": "16",
+         "Text": " CAPNPIE     92,20 EUR 30  +0,55   -1,84"
+        },
+        {
+         "number": "17",
+         "Text": " CAPNPIND    74,42 EUR 30  +0,42   -2,33"
+        },
+        {
+         "number": "18",
+         "Text": " EABLOGREA  102,01 EUR 30  -0,03   -1,47"
+        },
+        {
+         "number": "19",
+         "Text": " EABLOGRED  105,13 EUR 30  +0,15   -0,81"
+        },
+        {
+         "number": "20",
+         "Text": " EABRENTA    65,60 EUR 30  -3,18   -9,46"
+        },
+        {
+         "number": "21",
+         "Text": " EABRENTE    81,61 EUR 30  -2,71   -7,72"
+        },
+        {
+         "number": "22",
+         "Text": " EQHOIVAT   110,67 EUR 30  +0,57   -1,75"
+        },
+        {
+         "number": "23",
+         "Text": " EQLIIKE1T   81,51 EUR 30  -0,22   -7,88"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " ALTUULIC   104,76 EUR 30 {Yellow}+5,59 {Cyan}-19,03"
+        },
+        {
+         "number": "6",
+         "Text": " ALTUULID   104,76 EUR 30 {Yellow}+5,59 {Cyan}-19,03"
+        },
+        {
+         "number": "7",
+         "Text": " ALTUULIS    1,03T SEK 30 {Cyan}-0,95 {Cyan}-20,28"
+        },
+        {
+         "number": "8",
+         "Text": " ALXPAAIFB   51,85 EUR 21 {Yellow}+0,00  {Yellow}+1,59"
+        },
+        {
+         "number": "9",
+         "Text": " ALXPAAIFI   52,18 EUR 21 {Yellow}+0,00  {Yellow}+1,89"
+        },
+        {
+         "number": "10",
+         "Text": " BLACKHCFH  209,58 EUR 30 {Cyan}-2,23  {Yellow}+7,35"
+        },
+        {
+         "number": "11",
+         "Text": " BNYDFPV10W   1,39 EUR 22 {Cyan}-0,86{White}      -"
+        },
+        {
+         "number": "12",
+         "Text": " CAPNPIA     88,55 EUR 30 {Yellow}+0,42  {Cyan}-2,33"
+        },
+        {
+         "number": "13",
+         "Text": " CAPNPIB     88,55 EUR 30 {Yellow}+0,42  {Cyan}-2,33"
+        },
+        {
+         "number": "14",
+         "Text": " CAPNPIC     88,55 EUR 30 {Yellow}+0,42  {Cyan}-2,33"
+        },
+        {
+         "number": "15",
+         "Text": " CAPNPID     88,55 EUR 30 {Yellow}+0,42  {Cyan}-2,33"
+        },
+        {
+         "number": "16",
+         "Text": " CAPNPIE     92,20 EUR 30 {Yellow}+0,55  {Cyan}-1,84"
+        },
+        {
+         "number": "17",
+         "Text": " CAPNPIND    74,42 EUR 30 {Yellow}+0,42  {Cyan}-2,33"
+        },
+        {
+         "number": "18",
+         "Text": " EABLOGREA  102,01 EUR 30 {Cyan}-0,03  {Cyan}-1,47"
+        },
+        {
+         "number": "19",
+         "Text": " EABLOGRED  105,13 EUR 30 {Yellow}+0,15  {Cyan}-0,81"
+        },
+        {
+         "number": "20",
+         "Text": " EABRENTA    65,60 EUR 30 {Cyan}-3,18  {Cyan}-9,46"
+        },
+        {
+         "number": "21",
+         "Text": " EABRENTE    81,61 EUR 30 {Cyan}-2,71  {Cyan}-7,72"
+        },
+        {
+         "number": "22",
+         "Text": " EQHOIVAT   110,67 EUR 30 {Yellow}+0,57  {Cyan}-1,75"
+        },
+        {
+         "number": "23",
+         "Text": " EQLIIKE1T   81,51 EUR 30 {Cyan}-0,22  {Cyan}-7,88"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " ALTUULIC   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "104",
+           "length": "3",
+           "Text": "104"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",76 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+5,59  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-19,03"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " ALTUULID   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "104",
+           "length": "3",
+           "Text": "104"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",76 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+5,59  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-19,03"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALTUULIS    1,03T SEK 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,95  -20,28"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALXPAAIFB   51,85 EUR 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,00   +1,59"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " ALXPAAIFI   52,18 EUR 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,00   +1,89"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " BLACKHCFH  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "209",
+           "length": "3",
+           "Text": "209"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",58 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-2,23   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+7,35"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " BNYDFPV10W   1,39 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "-0,86       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " CAPNPIA     88,55 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,42   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,33"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " CAPNPIB     88,55 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,42   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,33"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " CAPNPIC     88,55 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,42   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,33"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " CAPNPID     88,55 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,42   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,33"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " CAPNPIE     92,20 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,55   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,84"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " CAPNPIND    74,42 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,42   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,33"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " EABLOGREA  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",01 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,03   -1,47"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " EABLOGRED  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "105",
+           "length": "3",
+           "Text": "105"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",13 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,15   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,81"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " EABRENTA    65,60 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-3,18   -9,46"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " EABRENTE    81,61 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-2,71   -7,72"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " EQHOIVAT   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",67 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,57   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,75"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " EQLIIKE1T   81,51 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,22   -7,88"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " EVLILLB    127,34 EUR 30  +0,19   +4,94"
+        },
+        {
+         "number": "6",
+         "Text": " EVLILLIB   130,29 EUR 30  +0,22   +5,41"
+        },
+        {
+         "number": "7",
+         "Text": " EVLIVUOKRA 104,17 EUR 30  +1,08   -0,43"
+        },
+        {
+         "number": "8",
+         "Text": " HCPBRCKSA  114,53 EUR 30  -2,69   +3,08"
+        },
+        {
+         "number": "9",
+         "Text": " JFGCAAEUR  184,85 EUR 23  -0,77   -4,58"
+        },
+        {
+         "number": "10",
+         "Text": " JPGLMACAAE   0,89 EUR 23  -0,47   -2,56"
+        },
+        {
+         "number": "11",
+         "Text": " JPGLMACADE   0,85 EUR 23  -0,47   -3,64"
+        },
+        {
+         "number": "12",
+         "Text": " JPGLMACAU    1,68 USD 23  -0,46   -0,82"
+        },
+        {
+         "number": "13",
+         "Text": " JPMGMSFA    97,52 EUR 23  -0,57   -1,40"
+        },
+        {
+         "number": "14",
+         "Text": " JPMNHELOAA  26,18 USD 22  -1,68   +7,18"
+        },
+        {
+         "number": "15",
+         "Text": " JPMNHELOAD  26,15 USD 22  -1,68   +7,05"
+        },
+        {
+         "number": "16",
+         "Text": " JPMUHELOAA  26,27 USD 22  -0,87   +6,71"
+        },
+        {
+         "number": "17",
+         "Text": " JPMUHELOAD  26,15 USD 22  -0,87   +6,23"
+        },
+        {
+         "number": "18",
+         "Text": " LTESRSKSC   10,70 EUR 30  +0,38   +1,42"
+        },
+        {
+         "number": "19",
+         "Text": " METSAPOP   147,03 EUR 15  +1,18   +5,04"
+        },
+        {
+         "number": "20",
+         "Text": " MLMFFA     139,16 USD 21  +0,37   -1,57"
+        },
+        {
+         "number": "21",
+         "Text": " MORLIHCFH  129,65 USD 21  +0,39   +2,46"
+        },
+        {
+         "number": "22",
+         "Text": " MORLIHCFU  131,70 USD 21  +0,61   +0,87"
+        },
+        {
+         "number": "23",
+         "Text": " N1ALP15MAA  80,60 EUR 23  -1,48   +1,61"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " EVLILLB    127,34 EUR 30 {Yellow}+0,19  {Yellow}+4,94"
+        },
+        {
+         "number": "6",
+         "Text": " EVLILLIB   130,29 EUR 30 {Yellow}+0,22  {Yellow}+5,41"
+        },
+        {
+         "number": "7",
+         "Text": " EVLIVUOKRA 104,17 EUR 30 {Yellow}+1,08  {Cyan}-0,43"
+        },
+        {
+         "number": "8",
+         "Text": " HCPBRCKSA  114,53 EUR 30 {Cyan}-2,69  {Yellow}+3,08"
+        },
+        {
+         "number": "9",
+         "Text": " JFGCAAEUR  184,85 EUR 23 {Cyan}-0,77  {Cyan}-4,58"
+        },
+        {
+         "number": "10",
+         "Text": " JPGLMACAAE   0,89 EUR 23 {Cyan}-0,47  {Cyan}-2,56"
+        },
+        {
+         "number": "11",
+         "Text": " JPGLMACADE   0,85 EUR 23 {Cyan}-0,47  {Cyan}-3,64"
+        },
+        {
+         "number": "12",
+         "Text": " JPGLMACAU    1,68 USD 23 {Cyan}-0,46  {Cyan}-0,82"
+        },
+        {
+         "number": "13",
+         "Text": " JPMGMSFA    97,52 EUR 23 {Cyan}-0,57  {Cyan}-1,40"
+        },
+        {
+         "number": "14",
+         "Text": " JPMNHELOAA  26,18 USD 22 {Cyan}-1,68  {Yellow}+7,18"
+        },
+        {
+         "number": "15",
+         "Text": " JPMNHELOAD  26,15 USD 22 {Cyan}-1,68  {Yellow}+7,05"
+        },
+        {
+         "number": "16",
+         "Text": " JPMUHELOAA  26,27 USD 22 {Cyan}-0,87  {Yellow}+6,71"
+        },
+        {
+         "number": "17",
+         "Text": " JPMUHELOAD  26,15 USD 22 {Cyan}-0,87  {Yellow}+6,23"
+        },
+        {
+         "number": "18",
+         "Text": " LTESRSKSC   10,70 EUR 30 {Yellow}+0,38  {Yellow}+1,42"
+        },
+        {
+         "number": "19",
+         "Text": " METSAPOP   147,03 EUR 15 {Yellow}+1,18  {Yellow}+5,04"
+        },
+        {
+         "number": "20",
+         "Text": " MLMFFA     139,16 USD 21 {Yellow}+0,37  {Cyan}-1,57"
+        },
+        {
+         "number": "21",
+         "Text": " MORLIHCFH  129,65 USD 21 {Yellow}+0,39  {Yellow}+2,46"
+        },
+        {
+         "number": "22",
+         "Text": " MORLIHCFU  131,70 USD 21 {Yellow}+0,61  {Yellow}+0,87"
+        },
+        {
+         "number": "23",
+         "Text": " N1ALP15MAA  80,60 EUR 23 {Cyan}-1,48  {Yellow}+1,61"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " EVLILLB    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",34 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,19   +4,94"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " EVLILLIB   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "130",
+           "length": "3",
+           "Text": "130"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",29 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,22   +5,41"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " EVLIVUOKRA "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "104",
+           "length": "3",
+           "Text": "104"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",17 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,08   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,43"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " HCPBRCKSA  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "114",
+           "length": "3",
+           "Text": "114"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",53 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-2,69   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+3,08"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " JFGCAAEUR  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "184",
+           "length": "3",
+           "Text": "184"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",85 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,77   -4,58"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPGLMACAAE   0,89 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,47   -2,56"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPGLMACADE   0,85 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,47   -3,64"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPGLMACAU    1,68 USD 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,46   -0,82"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPMGMSFA    97,52 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,57   -1,40"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPMNHELOAA  26,18 USD 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-1,68   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+7,18"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPMNHELOAD  26,15 USD 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-1,68   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+7,05"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPMUHELOAA  26,27 USD 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,87   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+6,71"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " JPMUHELOAD  26,15 USD 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,87   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+6,23"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " LTESRSKSC   10,70 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,38   +1,42"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " METSAPOP   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "147",
+           "length": "3",
+           "Text": "147"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",03 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,18   +5,04"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " MLMFFA     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "139",
+           "length": "3",
+           "Text": "139"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",16 USD 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,37   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,57"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " MORLIHCFH  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "129",
+           "length": "3",
+           "Text": "129"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",65 USD 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,39   +2,46"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " MORLIHCFU  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "131",
+           "length": "3",
+           "Text": "131"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",70 USD 21  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,61   +0,87"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " N1ALP15MAA  80,60 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-1,48   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+1,61"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " N1ALP7MAA  108,45 EUR 23  -0,63   +1,86"
+        },
+        {
+         "number": "6",
+         "Text": " N1GLEQMKNA 104,41 EUR 19  +0,05   +7,33"
+        },
+        {
+         "number": "7",
+         "Text": " N1GLREFA   202,17 USD 23  +0,50   +5,24"
+        },
+        {
+         "number": "8",
+         "Text": " N1MULTIABI  14,65 EUR 23  -0,93   +2,75"
+        },
+        {
+         "number": "9",
+         "Text": " N1MULTIABP  13,29 EUR 23  -0,93   +1,92"
+        },
+        {
+         "number": "10",
+         "Text": " N1STREFA    17,80 EUR 23  -0,19   -2,20"
+        },
+        {
+         "number": "11",
+         "Text": " NBPRIEQAFE  13,75 EUR 31  +2,72       -"
+        },
+        {
+         "number": "12",
+         "Text": " NBPRIEQAFU  14,72 USD 31  +4,37       -"
+        },
+        {
+         "number": "13",
+         "Text": " NORALTSTNN  96,52 NOK 23  -0,50       -"
+        },
+        {
+         "number": "14",
+         "Text": " NORALTSTRC   9,58 EUR 23  -0,53       -"
+        },
+        {
+         "number": "15",
+         "Text": " NORALTSTSC  95,68 SEK 23  -0,53       -"
+        },
+        {
+         "number": "16",
+         "Text": " NORDICPOP   94,58 EUR 30  +1,51   -2,39"
+        },
+        {
+         "number": "17",
+         "Text": " NORDICPOPA 102,55 EUR 30  +1,71   -1,63"
+        },
+        {
+         "number": "18",
+         "Text": " NORGLPRMKA  10,81 EUR 14  -0,02   +2,79"
+        },
+        {
+         "number": "19",
+         "Text": " NORLGLINFT 134,16 EUR 18  +0,08       -"
+        },
+        {
+         "number": "20",
+         "Text": " NORLGLOPCT 124,67 EUR 18  +0,89       -"
+        },
+        {
+         "number": "21",
+         "Text": " NORLGLOPET  27,03 EUR 18  +0,13       -"
+        },
+        {
+         "number": "22",
+         "Text": " OPALTPOR2A 111,12 EUR 30  +1,29   -1,75"
+        },
+        {
+         "number": "23",
+         "Text": " OPALTPOR2B  86,95 EUR 30  +1,29   -5,68"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " N1ALP7MAA  108,45 EUR 23 {Cyan}-0,63  {Yellow}+1,86"
+        },
+        {
+         "number": "6",
+         "Text": " N1GLEQMKNA 104,41 EUR 19 {Yellow}+0,05  {Yellow}+7,33"
+        },
+        {
+         "number": "7",
+         "Text": " N1GLREFA   202,17 USD 23 {Yellow}+0,50  {Yellow}+5,24"
+        },
+        {
+         "number": "8",
+         "Text": " N1MULTIABI  14,65 EUR 23 {Cyan}-0,93  {Yellow}+2,75"
+        },
+        {
+         "number": "9",
+         "Text": " N1MULTIABP  13,29 EUR 23 {Cyan}-0,93  {Yellow}+1,92"
+        },
+        {
+         "number": "10",
+         "Text": " N1STREFA    17,80 EUR 23 {Cyan}-0,19  {Cyan}-2,20"
+        },
+        {
+         "number": "11",
+         "Text": " NBPRIEQAFE  13,75 EUR 31 {Yellow}+2,72{White}      -"
+        },
+        {
+         "number": "12",
+         "Text": " NBPRIEQAFU  14,72 USD 31 {Yellow}+4,37{White}      -"
+        },
+        {
+         "number": "13",
+         "Text": " NORALTSTNN  96,52 NOK 23 {Cyan}-0,50{White}      -"
+        },
+        {
+         "number": "14",
+         "Text": " NORALTSTRC   9,58 EUR 23 {Cyan}-0,53{White}      -"
+        },
+        {
+         "number": "15",
+         "Text": " NORALTSTSC  95,68 SEK 23 {Cyan}-0,53{White}      -"
+        },
+        {
+         "number": "16",
+         "Text": " NORDICPOP   94,58 EUR 30 {Yellow}+1,51  {Cyan}-2,39"
+        },
+        {
+         "number": "17",
+         "Text": " NORDICPOPA 102,55 EUR 30 {Yellow}+1,71  {Cyan}-1,63"
+        },
+        {
+         "number": "18",
+         "Text": " NORGLPRMKA  10,81 EUR 14 {Cyan}-0,02  {Yellow}+2,79"
+        },
+        {
+         "number": "19",
+         "Text": " NORLGLINFT 134,16 EUR 18 {Yellow}+0,08{White}      -"
+        },
+        {
+         "number": "20",
+         "Text": " NORLGLOPCT 124,67 EUR 18 {Yellow}+0,89{White}      -"
+        },
+        {
+         "number": "21",
+         "Text": " NORLGLOPET  27,03 EUR 18 {Yellow}+0,13{White}      -"
+        },
+        {
+         "number": "22",
+         "Text": " OPALTPOR2A 111,12 EUR 30 {Yellow}+1,29  {Cyan}-1,75"
+        },
+        {
+         "number": "23",
+         "Text": " OPALTPOR2B  86,95 EUR 30 {Yellow}+1,29  {Cyan}-5,68"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " N1ALP7MAA  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "108",
+           "length": "3",
+           "Text": "108"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",45 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,63   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+1,86"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " N1GLEQMKNA "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "104",
+           "length": "3",
+           "Text": "104"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",41 EUR 19  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,05   +7,33"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " N1GLREFA   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "202",
+           "length": "3",
+           "Text": "202"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",17 USD 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,50   +5,24"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " N1MULTIABI  14,65 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,93   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,75"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " N1MULTIABP  13,29 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,93   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+1,92"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " N1STREFA    17,80 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,19   -2,20"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NBPRIEQAFE  13,75 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "+2,72       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NBPRIEQAFU  14,72 USD 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "+4,37       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NORALTSTNN  96,52 NOK 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "-0,50       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NORALTSTRC   9,58 EUR 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "-0,53       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NORALTSTSC  95,68 SEK 23  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "-0,53       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NORDICPOP   94,58 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,51   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " NORDICPOPA "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",55 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,71   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,63"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NORGLPRMKA  10,81 EUR 14  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,02   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,79"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " NORLGLINFT "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "134",
+           "length": "3",
+           "Text": "134"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",16 EUR 18  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "+0,08       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " NORLGLOPCT "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "124",
+           "length": "3",
+           "Text": "124"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",67 EUR 18  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "+0,89       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " NORLGLOPET  27,03 EUR 18  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "+0,13       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPALTPOR2A "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",12 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,29   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,75"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " OPALTPOR2B  86,95 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,29   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-5,68"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " OPALTPORTA 110,44 EUR 30  +1,29   -1,75"
+        },
+        {
+         "number": "6",
+         "Text": " OPALTPORTB  86,44 EUR 30  +1,29   -5,69"
+        },
+        {
+         "number": "7",
+         "Text": " OPMETSO2B  218,52 EUR 30  +1,45   +4,17"
+        },
+        {
+         "number": "8",
+         "Text": " OPMETSOMB  213,79 EUR 30  +1,37   +3,85"
+        },
+        {
+         "number": "9",
+         "Text": " OPPALKII2B 112,31 EUR 30  +0,70   -2,18"
+        },
+        {
+         "number": "10",
+         "Text": " OPPALKIINB 107,17 EUR 30  +0,53   -2,63"
+        },
+        {
+         "number": "11",
+         "Text": " OPPRIVEQ2A 129,21 EUR 31  +0,94  +10,92"
+        },
+        {
+         "number": "12",
+         "Text": " OPPRIVEQUA 127,12 EUR 31  +0,90  +10,37"
+        },
+        {
+         "number": "13",
+         "Text": " OPVUOKTU2B 111,63 EUR 30  -0,25   -2,22"
+        },
+        {
+         "number": "14",
+         "Text": " OPVUOKTUOT 106,51 EUR 30  -0,43   -2,69"
+        },
+        {
+         "number": "15",
+         "Text": " R2CRYSTAL  177,18T EU 30  +1,27   +8,77"
+        },
+        {
+         "number": "16",
+         "Text": " SASUNTOA    12,62 EUR 31  -2,14   -6,49"
+        },
+        {
+         "number": "17",
+         "Text": " SASUNTOC    14,11 EUR 31  -1,91   -5,62"
+        },
+        {
+         "number": "18",
+         "Text": " SASUNTOD    13,19 EUR 31  -2,02   -6,01"
+        },
+        {
+         "number": "19",
+         "Text": " SBBUILDA   118,20 EUR 30  +0,74   +1,20"
+        },
+        {
+         "number": "20",
+         "Text": " SBBUILDB   124,29 EUR 30  +0,84   +1,61"
+        },
+        {
+         "number": "21",
+         "Text": " SBBUILDC   127,52 EUR 30  +0,92   +1,91"
+        },
+        {
+         "number": "22",
+         "Text": " SBPROPA     76,19 EUR 30  +2,83  -10,29"
+        },
+        {
+         "number": "23",
+         "Text": " SBPROPB     79,38 EUR 30  +2,91  -10,00"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " OPALTPORTA 110,44 EUR 30 {Yellow}+1,29  {Cyan}-1,75"
+        },
+        {
+         "number": "6",
+         "Text": " OPALTPORTB  86,44 EUR 30 {Yellow}+1,29  {Cyan}-5,69"
+        },
+        {
+         "number": "7",
+         "Text": " OPMETSO2B  218,52 EUR 30 {Yellow}+1,45  {Yellow}+4,17"
+        },
+        {
+         "number": "8",
+         "Text": " OPMETSOMB  213,79 EUR 30 {Yellow}+1,37  {Yellow}+3,85"
+        },
+        {
+         "number": "9",
+         "Text": " OPPALKII2B 112,31 EUR 30 {Yellow}+0,70  {Cyan}-2,18"
+        },
+        {
+         "number": "10",
+         "Text": " OPPALKIINB 107,17 EUR 30 {Yellow}+0,53  {Cyan}-2,63"
+        },
+        {
+         "number": "11",
+         "Text": " OPPRIVEQ2A 129,21 EUR 31 {Yellow}+0,94 {Yellow}+10,92"
+        },
+        {
+         "number": "12",
+         "Text": " OPPRIVEQUA 127,12 EUR 31 {Yellow}+0,90 {Yellow}+10,37"
+        },
+        {
+         "number": "13",
+         "Text": " OPVUOKTU2B 111,63 EUR 30 {Cyan}-0,25  {Cyan}-2,22"
+        },
+        {
+         "number": "14",
+         "Text": " OPVUOKTUOT 106,51 EUR 30 {Cyan}-0,43  {Cyan}-2,69"
+        },
+        {
+         "number": "15",
+         "Text": " R2CRYSTAL  177,18T EU 30 {Yellow}+1,27  {Yellow}+8,77"
+        },
+        {
+         "number": "16",
+         "Text": " SASUNTOA    12,62 EUR 31 {Cyan}-2,14  {Cyan}-6,49"
+        },
+        {
+         "number": "17",
+         "Text": " SASUNTOC    14,11 EUR 31 {Cyan}-1,91  {Cyan}-5,62"
+        },
+        {
+         "number": "18",
+         "Text": " SASUNTOD    13,19 EUR 31 {Cyan}-2,02  {Cyan}-6,01"
+        },
+        {
+         "number": "19",
+         "Text": " SBBUILDA   118,20 EUR 30 {Yellow}+0,74  {Yellow}+1,20"
+        },
+        {
+         "number": "20",
+         "Text": " SBBUILDB   124,29 EUR 30 {Yellow}+0,84  {Yellow}+1,61"
+        },
+        {
+         "number": "21",
+         "Text": " SBBUILDC   127,52 EUR 30 {Yellow}+0,92  {Yellow}+1,91"
+        },
+        {
+         "number": "22",
+         "Text": " SBPROPA     76,19 EUR 30 {Yellow}+2,83 {Cyan}-10,29"
+        },
+        {
+         "number": "23",
+         "Text": " SBPROPB     79,38 EUR 30 {Yellow}+2,91 {Cyan}-10,00"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPALTPORTA "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",44 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,29   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,75"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " OPALTPORTB  86,44 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,29   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-5,69"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPMETSO2B  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "218",
+           "length": "3",
+           "Text": "218"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",52 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,45   +4,17"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPMETSOMB  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "213",
+           "length": "3",
+           "Text": "213"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",79 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,37   +3,85"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPPALKII2B "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "112",
+           "length": "3",
+           "Text": "112"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",31 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,70   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,18"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPPALKIINB "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "107",
+           "length": "3",
+           "Text": "107"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",17 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,53   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,63"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPPRIVEQ2A "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "129",
+           "length": "3",
+           "Text": "129"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",21 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,94  +10,92"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPPRIVEQUA "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",12 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,90  +10,37"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPVUOKTU2B "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",63 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,25   -2,22"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " OPVUOKTUOT "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "106",
+           "length": "3",
+           "Text": "106"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",51 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,43   -2,69"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " R2CRYSTAL  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "177",
+           "length": "3",
+           "Text": "177"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",18T EU 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,27   +8,77"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SASUNTOA    12,62 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-2,14   -6,49"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SASUNTOC    14,11 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-1,91   -5,62"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SASUNTOD    13,19 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-2,02   -6,01"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " SBBUILDA   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "118",
+           "length": "3",
+           "Text": "118"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",20 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,74   +1,20"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " SBBUILDB   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "124",
+           "length": "3",
+           "Text": "124"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",29 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,84   +1,61"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " SBBUILDC   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",52 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,92   +1,91"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SBPROPA     76,19 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+2,83  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-10,29"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SBPROPB     79,38 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "+2,91  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-10,00"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "6",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " SBPROPC     86,54 EUR 30  +3,11   -9,26"
+        },
+        {
+         "number": "6",
+         "Text": " SEBLIPREQ  493,93 EUR 22  +1,98   -4,42"
+        },
+        {
+         "number": "7",
+         "Text": " SGPAB       15,07 EUR 31  -0,87   +8,22"
+        },
+        {
+         "number": "8",
+         "Text": " SGPAC       15,35 EUR 31  -0,84   +8,60"
+        },
+        {
+         "number": "9",
+         "Text": " SGPAD       15,46 EUR 31  -0,82   +8,76"
+        },
+        {
+         "number": "10",
+         "Text": " SKIINVARA    9,66 EUR 15  +0,27   -3,14"
+        },
+        {
+         "number": "11",
+         "Text": " SKIINVARB    9,88 EUR 15  +0,31   -2,44"
+        },
+        {
+         "number": "12",
+         "Text": " SKIINVARCG  10,17 EUR 15  +0,37   -1,77"
+        },
+        {
+         "number": "13",
+         "Text": " SKIINVARCY  10,17 EUR 15  +0,37   -1,77"
+        },
+        {
+         "number": "14",
+         "Text": " SMETSAA     13,92 EUR 15  -0,81  -10,04"
+        },
+        {
+         "number": "15",
+         "Text": " SMETSAC     14,62 EUR 15  -0,68   -9,58"
+        },
+        {
+         "number": "16",
+         "Text": " SPAEURPCB   11,58 EUR 31  +0,51   +4,59"
+        },
+        {
+         "number": "17",
+         "Text": " SPAEURPCC   11,67 EUR 31  +0,54   +4,95"
+        },
+        {
+         "number": "18",
+         "Text": " SPAEURPCD   11,74 EUR 31  +0,57   +5,22"
+        },
+        {
+         "number": "19",
+         "Text": " SPANKPRMAB  10,43 EUR 31  -0,45       -"
+        },
+        {
+         "number": "20",
+         "Text": " SPKIINT1    79,33 EUR 30  +0,12   -2,50"
+        },
+        {
+         "number": "21",
+         "Text": " SPYMPB     183,97 EUR 30  -2,01  +14,25"
+        },
+        {
+         "number": "22",
+         "Text": " SPYMPPB    183,97 EUR 30  -2,01  +14,25"
+        },
+        {
+         "number": "23",
+         "Text": " TAALALTA   124,42 EUR 22  +0,16   +5,33"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " SBPROPC     86,54 EUR 30 {Yellow}+3,11  {Cyan}-9,26"
+        },
+        {
+         "number": "6",
+         "Text": " SEBLIPREQ  493,93 EUR 22 {Yellow}+1,98  {Cyan}-4,42"
+        },
+        {
+         "number": "7",
+         "Text": " SGPAB       15,07 EUR 31 {Cyan}-0,87  {Yellow}+8,22"
+        },
+        {
+         "number": "8",
+         "Text": " SGPAC       15,35 EUR 31 {Cyan}-0,84  {Yellow}+8,60"
+        },
+        {
+         "number": "9",
+         "Text": " SGPAD       15,46 EUR 31 {Cyan}-0,82  {Yellow}+8,76"
+        },
+        {
+         "number": "10",
+         "Text": " SKIINVARA    9,66 EUR 15 {Yellow}+0,27  {Cyan}-3,14"
+        },
+        {
+         "number": "11",
+         "Text": " SKIINVARB    9,88 EUR 15 {Yellow}+0,31  {Cyan}-2,44"
+        },
+        {
+         "number": "12",
+         "Text": " SKIINVARCG  10,17 EUR 15 {Yellow}+0,37  {Cyan}-1,77"
+        },
+        {
+         "number": "13",
+         "Text": " SKIINVARCY  10,17 EUR 15 {Yellow}+0,37  {Cyan}-1,77"
+        },
+        {
+         "number": "14",
+         "Text": " SMETSAA     13,92 EUR 15 {Cyan}-0,81 {Cyan}-10,04"
+        },
+        {
+         "number": "15",
+         "Text": " SMETSAC     14,62 EUR 15 {Cyan}-0,68  {Cyan}-9,58"
+        },
+        {
+         "number": "16",
+         "Text": " SPAEURPCB   11,58 EUR 31 {Yellow}+0,51  {Yellow}+4,59"
+        },
+        {
+         "number": "17",
+         "Text": " SPAEURPCC   11,67 EUR 31 {Yellow}+0,54  {Yellow}+4,95"
+        },
+        {
+         "number": "18",
+         "Text": " SPAEURPCD   11,74 EUR 31 {Yellow}+0,57  {Yellow}+5,22"
+        },
+        {
+         "number": "19",
+         "Text": " SPANKPRMAB  10,43 EUR 31 {Cyan}-0,45{White}      -"
+        },
+        {
+         "number": "20",
+         "Text": " SPKIINT1    79,33 EUR 30 {Yellow}+0,12  {Cyan}-2,50"
+        },
+        {
+         "number": "21",
+         "Text": " SPYMPB     183,97 EUR 30 {Cyan}-2,01 {Yellow}+14,25"
+        },
+        {
+         "number": "22",
+         "Text": " SPYMPPB    183,97 EUR 30 {Cyan}-2,01 {Yellow}+14,25"
+        },
+        {
+         "number": "23",
+         "Text": " TAALALTA   124,42 EUR 22 {Yellow}+0,16  {Yellow}+5,33"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SBPROPC     86,54 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+3,11   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-9,26"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " SEBLIPREQ  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "493",
+           "length": "3",
+           "Text": "493"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",93 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,98   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-4,42"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SGPAB       15,07 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,87   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+8,22"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SGPAC       15,35 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,84   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+8,60"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SGPAD       15,46 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,82   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+8,76"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SKIINVARA    9,66 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,27   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-3,14"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SKIINVARB    9,88 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,31   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,44"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SKIINVARCG  10,17 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,37   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,77"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SKIINVARCY  10,17 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,37   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,77"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SMETSAA     13,92 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,81  -10,04"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SMETSAC     14,62 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,68   -9,58"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SPAEURPCB   11,58 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,51   +4,59"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SPAEURPCC   11,67 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,54   +4,95"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SPAEURPCD   11,74 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,57   +5,22"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SPANKPRMAB  10,43 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "-0,45       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " SPKIINT1    79,33 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,12   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,50"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " SPYMPB     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "183",
+           "length": "3",
+           "Text": "183"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",97 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "-2,01  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "6",
+           "Text": "+14,25"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " SPYMPPB    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "183",
+           "length": "3",
+           "Text": "183"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",97 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "-2,01  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "6",
+           "Text": "+14,25"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TAALALTA   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "124",
+           "length": "3",
+           "Text": "124"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",42 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,16   +5,33"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "7",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " TAALALTB    98,40 EUR 22  +0,16   +1,12"
+        },
+        {
+         "number": "6",
+         "Text": " TAALALTE   126,30 EUR 22  +0,16   +5,54"
+        },
+        {
+         "number": "7",
+         "Text": " TAAREFA     73,88 EUR 30  -4,42   -5,08"
+        },
+        {
+         "number": "8",
+         "Text": " TAAREFAR    73,88 EUR 30  -4,42   -5,08"
+        },
+        {
+         "number": "9",
+         "Text": " TAAREFE     74,96 EUR 30  -4,36   -4,85"
+        },
+        {
+         "number": "10",
+         "Text": " TAAREFER    74,96 EUR 30  -4,36   -4,85"
+        },
+        {
+         "number": "11",
+         "Text": " TAAREFI     76,05 EUR 30  -4,29   -4,61"
+        },
+        {
+         "number": "12",
+         "Text": " TAAREFIR    76,05 EUR 30  -4,29   -4,61"
+        },
+        {
+         "number": "13",
+         "Text": " TIMPKA     115,85 EUR 22  -0,45   +5,33"
+        },
+        {
+         "number": "14",
+         "Text": " TIMPKE     118,08 EUR 22  -0,45   +5,65"
+        },
+        {
+         "number": "15",
+         "Text": " TIMPTD     101,40 EUR 22  -0,45   +2,48"
+        },
+        {
+         "number": "16",
+         "Text": " TIMPTT      99,48 EUR 22  -0,45   +2,17"
+        },
+        {
+         "number": "17",
+         "Text": " TITAHOIVA  168,66 EUR 30  +0,26   -1,07"
+        },
+        {
+         "number": "18",
+         "Text": " TITASUN     98,19 EUR 31  -1,00   -4,59"
+        },
+        {
+         "number": "19",
+         "Text": " TITBALT    116,46 EUR 30  +0,32   +2,44"
+        },
+        {
+         "number": "20",
+         "Text": " TITPRIVEQA 107,65 EUR 30  +0,23   +7,65"
+        },
+        {
+         "number": "21",
+         "Text": " TITPRIVEQI 114,53 EUR 30  +0,31   +8,26"
+        },
+        {
+         "number": "22",
+         "Text": " TITPRIVEQV 103,49 EUR 31  +0,00       -"
+        },
+        {
+         "number": "23",
+         "Text": " TTVAIHB    107,26 EUR 22  +0,15   +4,44"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " TAALALTB    98,40 EUR 22 {Yellow}+0,16  {Yellow}+1,12"
+        },
+        {
+         "number": "6",
+         "Text": " TAALALTE   126,30 EUR 22 {Yellow}+0,16  {Yellow}+5,54"
+        },
+        {
+         "number": "7",
+         "Text": " TAAREFA     73,88 EUR 30 {Cyan}-4,42  {Cyan}-5,08"
+        },
+        {
+         "number": "8",
+         "Text": " TAAREFAR    73,88 EUR 30 {Cyan}-4,42  {Cyan}-5,08"
+        },
+        {
+         "number": "9",
+         "Text": " TAAREFE     74,96 EUR 30 {Cyan}-4,36  {Cyan}-4,85"
+        },
+        {
+         "number": "10",
+         "Text": " TAAREFER    74,96 EUR 30 {Cyan}-4,36  {Cyan}-4,85"
+        },
+        {
+         "number": "11",
+         "Text": " TAAREFI     76,05 EUR 30 {Cyan}-4,29  {Cyan}-4,61"
+        },
+        {
+         "number": "12",
+         "Text": " TAAREFIR    76,05 EUR 30 {Cyan}-4,29  {Cyan}-4,61"
+        },
+        {
+         "number": "13",
+         "Text": " TIMPKA     115,85 EUR 22 {Cyan}-0,45  {Yellow}+5,33"
+        },
+        {
+         "number": "14",
+         "Text": " TIMPKE     118,08 EUR 22 {Cyan}-0,45  {Yellow}+5,65"
+        },
+        {
+         "number": "15",
+         "Text": " TIMPTD     101,40 EUR 22 {Cyan}-0,45  {Yellow}+2,48"
+        },
+        {
+         "number": "16",
+         "Text": " TIMPTT      99,48 EUR 22 {Cyan}-0,45  {Yellow}+2,17"
+        },
+        {
+         "number": "17",
+         "Text": " TITAHOIVA  168,66 EUR 30 {Yellow}+0,26  {Cyan}-1,07"
+        },
+        {
+         "number": "18",
+         "Text": " TITASUN     98,19 EUR 31 {Cyan}-1,00  {Cyan}-4,59"
+        },
+        {
+         "number": "19",
+         "Text": " TITBALT    116,46 EUR 30 {Yellow}+0,32  {Yellow}+2,44"
+        },
+        {
+         "number": "20",
+         "Text": " TITPRIVEQA 107,65 EUR 30 {Yellow}+0,23  {Yellow}+7,65"
+        },
+        {
+         "number": "21",
+         "Text": " TITPRIVEQI 114,53 EUR 30 {Yellow}+0,31  {Yellow}+8,26"
+        },
+        {
+         "number": "22",
+         "Text": " TITPRIVEQV 103,49 EUR 31 {Yellow}+0,00{White}      -"
+        },
+        {
+         "number": "23",
+         "Text": " TTVAIHB    107,26 EUR 22 {Yellow}+0,15  {Yellow}+4,44"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAALALTB    98,40 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,16   +1,12"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TAALALTE   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "126",
+           "length": "3",
+           "Text": "126"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",30 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,16   +5,54"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAAREFA     73,88 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,42   -5,08"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAAREFAR    73,88 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,42   -5,08"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAAREFE     74,96 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,36   -4,85"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAAREFER    74,96 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,36   -4,85"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAAREFI     76,05 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,29   -4,61"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TAAREFIR    76,05 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,29   -4,61"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TIMPKA     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "115",
+           "length": "3",
+           "Text": "115"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",85 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,45   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+5,33"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TIMPKE     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "118",
+           "length": "3",
+           "Text": "118"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",08 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,45   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+5,65"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TIMPTD     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "101",
+           "length": "3",
+           "Text": "101"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",40 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,45   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,48"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TIMPTT      99,48 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,45   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,17"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TITAHOIVA  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "168",
+           "length": "3",
+           "Text": "168"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",66 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+0,26   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,07"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " TITASUN     98,19 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-1,00   -4,59"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TITBALT    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "116",
+           "length": "3",
+           "Text": "116"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",46 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,32   +2,44"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TITPRIVEQA "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "107",
+           "length": "3",
+           "Text": "107"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",65 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,23   +7,65"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TITPRIVEQI "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "114",
+           "length": "3",
+           "Text": "114"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",53 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,31   +8,26"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TITPRIVEQV "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "103",
+           "length": "3",
+           "Text": "103"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",49 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "+0,00       "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TTVAIHB    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "107",
+           "length": "3",
+           "Text": "107"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",26 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,15   +4,44"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "8",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "   Vaihtoehtoiset ja kiinteistö-     sn "
+        },
+        {
+         "number": "3",
+         "Text": "   rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "                  ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " TTVAIHC    100,19 EUR 22  +0,15   +4,81"
+        },
+        {
+         "number": "6",
+         "Text": " TTVAIHD    106,90 EUR 22  +0,15   +4,81"
+        },
+        {
+         "number": "7",
+         "Text": " TTVAIHX    110,12 EUR 22  +0,15   +5,12"
+        },
+        {
+         "number": "8",
+         "Text": " TTVAIHZ    107,24 EUR 22  +0,15   +5,12"
+        },
+        {
+         "number": "9",
+         "Text": " UBMETSAA   147,03 EUR 15  +1,18   +5,04"
+        },
+        {
+         "number": "10",
+         "Text": " UBMETSAI   148,98 EUR 15  +1,24   +5,29"
+        },
+        {
+         "number": "11",
+         "Text": " UBNOPRA    102,57 EUR 30  +1,71   -1,63"
+        },
+        {
+         "number": "12",
+         "Text": " UBNOPRI    108,43 EUR 30  +1,90   -0,95"
+        },
+        {
+         "number": "13",
+         "Text": " UBNOPRT    105,51 EUR 30  +1,81   -1,29"
+        },
+        {
+         "number": "14",
+         "Text": " UBNORDPRR   94,73 EUR 30  +1,51   -2,39"
+        },
+        {
+         "number": "15",
+         "Text": " UBSUOMIKA   94,28 EUR 31  -0,15  -11,09"
+        },
+        {
+         "number": "16",
+         "Text": " UBSUOMIKB   95,84 EUR 31  -0,08  -10,87"
+        },
+        {
+         "number": "17",
+         "Text": " UBSUOMIKI   97,46 EUR 31  -0,02  -10,64"
+        },
+        {
+         "number": "18",
+         "Text": " UBSUOMIPOP  94,28 EUR 31  -0,15  -11,09"
+        },
+        {
+         "number": "19",
+         "Text": " UBUUSEAK   158,01 EUR 30  -1,24   -0,67"
+        },
+        {
+         "number": "20",
+         "Text": " UBUUSEAT   148,79 EUR 30  -4,24   -3,69"
+        },
+        {
+         "number": "21",
+         "Text": " UBUUSEIK   158,96 EUR 30  -1,12   -0,45"
+        },
+        {
+         "number": "22",
+         "Text": " UBUUSERK   152,30 EUR 31  -0,46   +6,55"
+        },
+        {
+         "number": "23",
+         "Text": "   Lähde: Suomen Sijoitustutkimus Oy/SRY"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Rahastojen arvot 24.10. 20:40        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}Vaihtoehtoiset ja kiinteistö-  {White}{Conceal}{Conceal}sn{White}"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}rahastot    OSUUDEN    MUUTOS  MUUTOS"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{Cyan}               ARVO PV %EDELL   %12KK"
+        },
+        {
+         "number": "5",
+         "Text": " TTVAIHC    100,19 EUR 22 {Yellow}+0,15  {Yellow}+4,81"
+        },
+        {
+         "number": "6",
+         "Text": " TTVAIHD    106,90 EUR 22 {Yellow}+0,15  {Yellow}+4,81"
+        },
+        {
+         "number": "7",
+         "Text": " TTVAIHX    110,12 EUR 22 {Yellow}+0,15  {Yellow}+5,12"
+        },
+        {
+         "number": "8",
+         "Text": " TTVAIHZ    107,24 EUR 22 {Yellow}+0,15  {Yellow}+5,12"
+        },
+        {
+         "number": "9",
+         "Text": " UBMETSAA   147,03 EUR 15 {Yellow}+1,18  {Yellow}+5,04"
+        },
+        {
+         "number": "10",
+         "Text": " UBMETSAI   148,98 EUR 15 {Yellow}+1,24  {Yellow}+5,29"
+        },
+        {
+         "number": "11",
+         "Text": " UBNOPRA    102,57 EUR 30 {Yellow}+1,71  {Cyan}-1,63"
+        },
+        {
+         "number": "12",
+         "Text": " UBNOPRI    108,43 EUR 30 {Yellow}+1,90  {Cyan}-0,95"
+        },
+        {
+         "number": "13",
+         "Text": " UBNOPRT    105,51 EUR 30 {Yellow}+1,81  {Cyan}-1,29"
+        },
+        {
+         "number": "14",
+         "Text": " UBNORDPRR   94,73 EUR 30 {Yellow}+1,51  {Cyan}-2,39"
+        },
+        {
+         "number": "15",
+         "Text": " UBSUOMIKA   94,28 EUR 31 {Cyan}-0,15 {Cyan}-11,09"
+        },
+        {
+         "number": "16",
+         "Text": " UBSUOMIKB   95,84 EUR 31 {Cyan}-0,08 {Cyan}-10,87"
+        },
+        {
+         "number": "17",
+         "Text": " UBSUOMIKI   97,46 EUR 31 {Cyan}-0,02 {Cyan}-10,64"
+        },
+        {
+         "number": "18",
+         "Text": " UBSUOMIPOP  94,28 EUR 31 {Cyan}-0,15 {Cyan}-11,09"
+        },
+        {
+         "number": "19",
+         "Text": " UBUUSEAK   158,01 EUR 30 {Cyan}-1,24  {Cyan}-0,67"
+        },
+        {
+         "number": "20",
+         "Text": " UBUUSEAT   148,79 EUR 30 {Cyan}-4,24  {Cyan}-3,69"
+        },
+        {
+         "number": "21",
+         "Text": " UBUUSEIK   158,96 EUR 30 {Cyan}-1,12  {Cyan}-0,45"
+        },
+        {
+         "number": "22",
+         "Text": " UBUUSERK   152,30 EUR 31 {Cyan}-0,46  {Yellow}+6,55"
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}Lähde: Suomen Sijoitustutkimus Oy/SRY"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Rahastojen arvot 24.10. 20:40        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "Vaihtoehtoiset ja kiinteistö-     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "conceal": "true",
+           "length": "3",
+           "Text": "sn "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "rahastot    OSUUDEN    MUUTOS  MUUTOS"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "17"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "ARVO PV %EDELL   %12KK"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TTVAIHC    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "100",
+           "length": "3",
+           "Text": "100"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",19 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,15   +4,81"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TTVAIHD    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "106",
+           "length": "3",
+           "Text": "106"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",90 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,15   +4,81"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TTVAIHX    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",12 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,15   +5,12"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " TTVAIHZ    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "107",
+           "length": "3",
+           "Text": "107"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",24 EUR 22  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+0,15   +5,12"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBMETSAA   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "147",
+           "length": "3",
+           "Text": "147"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",03 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,18   +5,04"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBMETSAI   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "148",
+           "length": "3",
+           "Text": "148"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",98 EUR 15  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "+1,24   +5,29"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBNOPRA    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",57 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,71   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,63"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBNOPRI    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "108",
+           "length": "3",
+           "Text": "108"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",43 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,90   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,95"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBNOPRT    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "105",
+           "length": "3",
+           "Text": "105"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",51 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,81   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,29"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " UBNORDPRR   94,73 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "+1,51   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-2,39"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " UBSUOMIKA   94,28 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,15  -11,09"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " UBSUOMIKB   95,84 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,08  -10,87"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " UBSUOMIKI   97,46 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,02  -10,64"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " UBSUOMIPOP  94,28 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-0,15  -11,09"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBUUSEAK   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "158",
+           "length": "3",
+           "Text": "158"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",01 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-1,24   -0,67"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBUUSEAT   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "148",
+           "length": "3",
+           "Text": "148"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",79 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-4,24   -3,69"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBUUSEIK   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "158",
+           "length": "3",
+           "Text": "158"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",96 EUR 30  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "-1,12   -0,45"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " UBUUSERK   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "152",
+           "length": "3",
+           "Text": "152"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": ",30 EUR 31  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "-0,46   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+6,55"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Lähde: Suomen Sijoitustutkimus Oy/SRY"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

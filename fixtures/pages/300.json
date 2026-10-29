@@ -1,0 +1,1585 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "300",
+   "name": "TV / Radio",
+   "subpagecount": "1",
+   "prevpg": "299",
+   "nextpg": "301",
+   "toptype": "block",
+   "time": "2024-12-04T13:26:31",
+   "utctime": "2024-12-04T11:26:31",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " Ohjelmat tänään    Ohjelmat huomenna   "
+        },
+        {
+         "number": "5",
+         "Text": " 301 TV1            310 TV1 311 TV2     "
+        },
+        {
+         "number": "6",
+         "Text": " 302 TV2            312 Yle Teema & Fem "
+        },
+        {
+         "number": "7",
+         "Text": " 303 MTV3                               "
+        },
+        {
+         "number": "8",
+         "Text": " 304 Nelonen        Ohjelmat ylihuomenna"
+        },
+        {
+         "number": "9",
+         "Text": " 305 Yle Teema &    315 TV1 316 TV2     "
+        },
+        {
+         "number": "10",
+         "Text": "     Yle Fem        317 Yle Teema & Fem "
+        },
+        {
+         "number": "11",
+         "Text": " 306 Ava 307 Liv                        "
+        },
+        {
+         "number": "12",
+         "Text": " 308 Sub 309 JIM                        "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " 320 TV:ssä nyt     339 Yle Klassinen   "
+        },
+        {
+         "number": "15",
+         "Text": " 321 TV1 viikko     340 Radio 1 341 YleX"
+        },
+        {
+         "number": "16",
+         "Text": " 322 TV2 viikko     342 Radio Suomi     "
+        },
+        {
+         "number": "17",
+         "Text": " 323-326 TV Finland 344 Yöklassinen     "
+        },
+        {
+         "number": "18",
+         "Text": " 330 TEKSTITYS      349 Radiossa nyt    "
+        },
+        {
+         "number": "19",
+         "Text": " 337 Äänitekstitys  350 OHJELMAOPAS     "
+        },
+        {
+         "number": "20",
+         "Text": " 338 Tekstinpeitto- 355 Yle Urheilu     "
+        },
+        {
+         "number": "21",
+         "Text": "     sivu                               "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "     Aakkosellinen hakemisto 196-198    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GYellow}~}4{Blue}{GYellow} 8d`,08d   `,04h  4<$4 t`48d(<    "
+        },
+        {
+         "number": "2",
+         "Text": "{GYellow}j5${Red}{NB}{GYellow}0fj 55j ,$*p%7k*p%w0u05!57k 5    "
+        },
+        {
+         "number": "3",
+         "Text": "{GYellow}*/%{GYellow}  \"! # \"!                          "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}Ohjelmat tänään   {Green}Ohjelmat huomenna   "
+        },
+        {
+         "number": "5",
+         "Text": "{Yellow}301{White}TV1           {Yellow}310{White}TV1{Yellow}311{White}TV2     "
+        },
+        {
+         "number": "6",
+         "Text": "{Yellow}302{White}TV2           {Yellow}312{White}Yle Teema & Fem "
+        },
+        {
+         "number": "7",
+         "Text": "{Yellow}303{White}MTV3          {Yellow}                    "
+        },
+        {
+         "number": "8",
+         "Text": "{Yellow}304{White}Nelonen       {Green}Ohjelmat ylihuomenna"
+        },
+        {
+         "number": "9",
+         "Text": "{Yellow}305{White}Yle Teema &   {Yellow}315{White}TV1{Yellow}316{White}TV2     "
+        },
+        {
+         "number": "10",
+         "Text": "{Yellow}   {White}Yle Fem       {Yellow}317{White}Yle Teema & Fem "
+        },
+        {
+         "number": "11",
+         "Text": "{Yellow}306{White}Ava{Yellow}307{White}Liv                        "
+        },
+        {
+         "number": "12",
+         "Text": "{Yellow}308{White}Sub{Yellow}309{White}JIM   {Yellow}                    "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Yellow}320{White}TV:ssä{Green}nyt    {Yellow}339{White}Yle Klassinen   "
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}321{White}TV1{Green}viikko    {Yellow}340{White}Radio 1{Yellow}341{White}YleX"
+        },
+        {
+         "number": "16",
+         "Text": "{Yellow}322{White}TV2 viikko    {Yellow}342{White}Radio Suomi     "
+        },
+        {
+         "number": "17",
+         "Text": "{Yellow}323-326{White}TV Finland{Yellow}344{White}Yöklassinen     "
+        },
+        {
+         "number": "18",
+         "Text": "{Yellow}330{Yellow}TEKSTITYS     {Yellow}349{White}Radiossa{Green}nyt    "
+        },
+        {
+         "number": "19",
+         "Text": "{Yellow}337{White}Äänitekstitys {Yellow}350 OHJELMAOPAS     "
+        },
+        {
+         "number": "20",
+         "Text": "{Yellow}338{White}Tekstinpeitto-{Yellow}355{White}Yle Urheilu     "
+        },
+        {
+         "number": "21",
+         "Text": "{White}    sivu                               "
+        },
+        {
+         "number": "22",
+         "Text": "{GRed},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Red}{NB}{Yellow}  Aakkosellinen hakemisto{White}196-198    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "74h",
+           "length": "1",
+           "Text": "t"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "66h",
+           "length": "1",
+           "Text": "f"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "77h",
+           "length": "1",
+           "Text": "w"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "26"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Ohjelmat tänään    Ohjelmat huomenna   "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "301",
+           "length": "3",
+           "Text": "301"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "TV1            "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "310",
+           "length": "3",
+           "Text": "310"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "TV1 "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "311",
+           "length": "3",
+           "Text": "311"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "TV2     "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "302",
+           "length": "3",
+           "Text": "302"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "TV2            "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "312",
+           "length": "3",
+           "Text": "312"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Yle Teema & Fem "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "303",
+           "length": "3",
+           "Text": "303"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "MTV3                               "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "304",
+           "length": "3",
+           "Text": "304"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Nelonen        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "Ohjelmat ylihuomenna"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "305",
+           "length": "3",
+           "Text": "305"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Yle Teema &    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "315",
+           "length": "3",
+           "Text": "315"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "TV1 "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "316",
+           "length": "3",
+           "Text": "316"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "TV2     "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "     Yle Fem        "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "317",
+           "length": "3",
+           "Text": "317"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Yle Teema & Fem "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "306",
+           "length": "3",
+           "Text": "306"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "Ava "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "307",
+           "length": "3",
+           "Text": "307"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": "Liv                        "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "308",
+           "length": "3",
+           "Text": "308"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "Sub "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "309",
+           "length": "3",
+           "Text": "309"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": "JIM                        "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "320",
+           "length": "3",
+           "Text": "320"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "TV:ssä "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "nyt     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "339",
+           "length": "3",
+           "Text": "339"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Yle Klassinen   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "321",
+           "length": "3",
+           "Text": "321"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "TV1 "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "viikko     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "340",
+           "length": "3",
+           "Text": "340"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "Radio 1 "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "341",
+           "length": "3",
+           "Text": "341"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "YleX"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "322",
+           "length": "3",
+           "Text": "322"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "TV2 viikko     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "342",
+           "length": "3",
+           "Text": "342"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Radio Suomi     "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "323",
+           "length": "3",
+           "Text": "323"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "326",
+           "length": "3",
+           "Text": "326"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "TV Finland "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "344",
+           "length": "3",
+           "Text": "344"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Yöklassinen     "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "330",
+           "length": "3",
+           "Text": "330"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "16",
+           "Text": " TEKSTITYS      "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "349",
+           "length": "3",
+           "Text": "349"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "Radiossa "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "nyt    "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "337",
+           "length": "3",
+           "Text": "337"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Äänitekstitys  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "350",
+           "length": "3",
+           "Text": "350"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": " OHJELMAOPAS     "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "338",
+           "length": "3",
+           "Text": "338"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Tekstinpeitto- "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "355",
+           "length": "3",
+           "Text": "355"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Yle Urheilu     "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     sivu                               "
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "2Ch",
+           "length": "39",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "4"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "24",
+           "Text": "Aakkosellinen hakemisto "
+          },
+          {
+           "bg": "red",
+           "fg": "white",
+           "link": "196",
+           "length": "3",
+           "Text": "196"
+          },
+          {
+           "bg": "red",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "red",
+           "fg": "white",
+           "link": "198",
+           "length": "3",
+           "Text": "198"
+          },
+          {
+           "bg": "red",
+           "fg": "white",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

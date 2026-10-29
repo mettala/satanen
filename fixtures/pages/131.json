@@ -1,0 +1,459 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "131",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "130",
+   "nextpg": "132",
+   "toptype": "normal",
+   "time": "2026-10-21T15:36:27",
+   "utctime": "2026-10-21T12:36:27",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   ULKOMAAT        YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Witkoff tapasi Putinin                "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Yhdysvaltojen erityislähettiläs Steve  "
+        },
+        {
+         "number": "7",
+         "Text": " Witkoff on tavannut keskiviikkona      "
+        },
+        {
+         "number": "8",
+         "Text": " Venäjän presidentin Vladimir Putin.    "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " Witkoffin oli määrä esitellä tiistaina "
+        },
+        {
+         "number": "11",
+         "Text": " Oslossa käydyn Ukraina-kokouksen       "
+        },
+        {
+         "number": "12",
+         "Text": " tuloksia.                              "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Putinin ja Witkoffin tapaaminen kesti  "
+        },
+        {
+         "number": "15",
+         "Text": " yli kolme tuntia. Keskusteluiden       "
+        },
+        {
+         "number": "16",
+         "Text": " sisällöstä ei heti tuoreeltaan annettu "
+        },
+        {
+         "number": "17",
+         "Text": " tietoja. NRK:n mukaan Witkoff          "
+        },
+        {
+         "number": "18",
+         "Text": " pistäytyy vielä pikaisesti Oslossa     "
+        },
+        {
+         "number": "19",
+         "Text": " ennen kotiinpaluuta.                   "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": " Reutersin tietojen mukaan Ukrainan     "
+        },
+        {
+         "number": "22",
+         "Text": " delegaatio toi tiistaina pöytään uusia "
+        },
+        {
+         "number": "23",
+         "Text": " ehdotuksia ja ajatuksia.               "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}ULKOMAAT        YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Witkoff tapasi Putinin                "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Yhdysvaltojen erityislähettiläs Steve  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Witkoff on tavannut keskiviikkona      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Venäjän presidentin Vladimir Putin.    "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Witkoffin oli määrä esitellä tiistaina "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Oslossa käydyn Ukraina-kokouksen       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}tuloksia.                              "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Putinin ja Witkoffin tapaaminen kesti  "
+        },
+        {
+         "number": "15",
+         "Text": "{White}yli kolme tuntia. Keskusteluiden       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}sisällöstä ei heti tuoreeltaan annettu "
+        },
+        {
+         "number": "17",
+         "Text": "{White}tietoja. NRK:n mukaan Witkoff          "
+        },
+        {
+         "number": "18",
+         "Text": "{White}pistäytyy vielä pikaisesti Oslossa     "
+        },
+        {
+         "number": "19",
+         "Text": "{White}ennen kotiinpaluuta.                   "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Reutersin tietojen mukaan Ukrainan     "
+        },
+        {
+         "number": "22",
+         "Text": "{White}delegaatio toi tiistaina pöytään uusia "
+        },
+        {
+         "number": "23",
+         "Text": "{White}ehdotuksia ja ajatuksia.               "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "ULKOMAAT        YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Witkoff tapasi Putinin                "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Yhdysvaltojen erityislähettiläs Steve  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Witkoff on tavannut keskiviikkona      "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Venäjän presidentin Vladimir Putin.    "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Witkoffin oli määrä esitellä tiistaina "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Oslossa käydyn Ukraina-kokouksen       "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tuloksia.                              "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Putinin ja Witkoffin tapaaminen kesti  "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " yli kolme tuntia. Keskusteluiden       "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sisällöstä ei heti tuoreeltaan annettu "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tietoja. NRK:n mukaan Witkoff          "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pistäytyy vielä pikaisesti Oslossa     "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ennen kotiinpaluuta.                   "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Reutersin tietojen mukaan Ukrainan     "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " delegaatio toi tiistaina pöytään uusia "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ehdotuksia ja ajatuksia.               "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

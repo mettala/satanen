@@ -1,0 +1,992 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "102",
+   "name": "Kotimaa",
+   "subpagecount": "1",
+   "prevpg": "101",
+   "nextpg": "103",
+   "toptype": "group",
+   "time": "2026-10-22T00:13:55",
+   "utctime": "2026-10-21T21:13:55",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "                           TORSTAI      "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Keskiviikon uutisia:                   "
+        },
+        {
+         "number": "12",
+         "Text": " 103 Etelässä odotetaan lämpenemistä    "
+        },
+        {
+         "number": "13",
+         "Text": " 104 Auto törmäsi tolppaan Limingassa   "
+        },
+        {
+         "number": "14",
+         "Text": " 105 Yksi kuoli Jyväskylän palossa      "
+        },
+        {
+         "number": "15",
+         "Text": " 106 HS-gallup: PS kirii kokoomusta     "
+        },
+        {
+         "number": "16",
+         "Text": " 107 Ympäristövahinkojen määrä ennallaan"
+        },
+        {
+         "number": "17",
+         "Text": " 108 Pelastustoimi valtion vastuulle?   "
+        },
+        {
+         "number": "18",
+         "Text": " 109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "19",
+         "Text": " 110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "20",
+         "Text": " 111 Teksti-tv:n nettiversion katkos ohi"
+        },
+        {
+         "number": "21",
+         "Text": " 113 Tampere-Jkl-junaliikenteessä häiriö"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "   130 ULKOMAAT 160 TALOUS  200 URHEILU "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4  {GWhite}0` p p000 0`0 p                  "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}{GWhite}=1j 5j 57&5uzjp5{White}   TORSTAI      "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%  {GWhite}!\" # \" !! !!\"\" !                 "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Keskiviikon uutisia:                   "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}103 Etelässä odotetaan lämpenemistä    "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}104 Auto törmäsi tolppaan Limingassa   "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}105 Yksi kuoli Jyväskylän palossa      "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}106 HS-gallup: PS kirii kokoomusta     "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}107 Ympäristövahinkojen määrä ennallaan"
+        },
+        {
+         "number": "17",
+         "Text": "{SB}108 Pelastustoimi valtion vastuulle?   "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}111 Teksti-tv:n nettiversion katkos ohi"
+        },
+        {
+         "number": "21",
+         "Text": "{SB}113 Tampere-Jkl-junaliikenteessä häiriö"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}130 ULKOMAAT 160 TALOUS  200 URHEILU "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "3",
+           "Text": "000"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "31h",
+           "length": "1",
+           "Text": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Ah",
+           "length": "1",
+           "Text": "z"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "17",
+           "Text": "    TORSTAI      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Keskiviikon uutisia:                   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "103",
+           "length": "3",
+           "Text": "103"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Etelässä odotetaan lämpenemistä    "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "104",
+           "length": "3",
+           "Text": "104"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Auto törmäsi tolppaan Limingassa   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "105",
+           "length": "3",
+           "Text": "105"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Yksi kuoli Jyväskylän palossa      "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "106",
+           "length": "3",
+           "Text": "106"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " HS-gallup: PS kirii kokoomusta     "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "107",
+           "length": "3",
+           "Text": "107"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Ympäristövahinkojen määrä ennallaan"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "108",
+           "length": "3",
+           "Text": "108"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Pelastustoimi valtion vastuulle?   "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "109",
+           "length": "3",
+           "Text": "109"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Verkkopalveluja ajetaan alas       "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Epäily: Jyväskylän palo tahallinen "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Teksti-tv:n nettiversion katkos ohi"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "113",
+           "length": "3",
+           "Text": "113"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Tampere-Jkl-junaliikenteessä häiriö"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "130",
+           "length": "3",
+           "Text": "130"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "10",
+           "Text": " ULKOMAAT "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": " TALOUS  "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": " URHEILU "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

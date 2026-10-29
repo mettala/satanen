@@ -1,0 +1,1609 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "725",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "724",
+   "nextpg": "726",
+   "toptype": "normal",
+   "time": "2026-10-21T22:50:03",
+   "utctime": "2026-10-21T19:50:03",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   HUVUDSTADSREGIONEN      ONSDAG   1/3 "
+        },
+        {
+         "number": "2",
+         "Text": " Så här ska Helsingfors rädda fiskarna i"
+        },
+        {
+         "number": "3",
+         "Text": " Gammelstadsforsen                      "
+        },
+        {
+         "number": "4",
+         "Text": " Gammelstadsforsens framtid har         "
+        },
+        {
+         "number": "5",
+         "Text": " diskuterats i många år. Nu har         "
+        },
+        {
+         "number": "6",
+         "Text": " Helsingfors stad utrett det bästa      "
+        },
+        {
+         "number": "7",
+         "Text": " alternativet för forsen.               "
+        },
+        {
+         "number": "8",
+         "Text": " Nu har Helsingfors stad utrett vad som "
+        },
+        {
+         "number": "9",
+         "Text": " kan tänkas vara den bästa lösningen för"
+        },
+        {
+         "number": "10",
+         "Text": " Gammelstadsforsen.                     "
+        },
+        {
+         "number": "11",
+         "Text": " I den södra ändan av Vanda å, där ån   "
+        },
+        {
+         "number": "12",
+         "Text": " rinner ut i Gammelstadsfjärden och     "
+        },
+        {
+         "number": "13",
+         "Text": " Finska viken, finns en fors med två    "
+        },
+        {
+         "number": "14",
+         "Text": " fåror – den västra och den östra – och "
+        },
+        {
+         "number": "15",
+         "Text": " en damm.                               "
+        },
+        {
+         "number": "16",
+         "Text": " Dammen och den västra fåran har i många"
+        },
+        {
+         "number": "17",
+         "Text": " år ansetts vara ett hinder för         "
+        },
+        {
+         "number": "18",
+         "Text": " vandringsfiskar att vandra upp för     "
+        },
+        {
+         "number": "19",
+         "Text": " Vanda å, och en rivning har ansetts    "
+        },
+        {
+         "number": "20",
+         "Text": " gynna fiskbeståndet.                   "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "      svenska.yle.fi/huvudstadsregionen "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Cyan}HUVUDSTADSREGIONEN{Cyan}     ONSDAG   1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Green}Så här ska Helsingfors rädda fiskarna i"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Gammelstadsforsen                      "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Gammelstadsforsens framtid har         "
+        },
+        {
+         "number": "5",
+         "Text": "{White}diskuterats i många år. Nu har         "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Helsingfors stad utrett det bästa      "
+        },
+        {
+         "number": "7",
+         "Text": "{White}alternativet för forsen.               "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Nu har Helsingfors stad utrett vad som "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}kan tänkas vara den bästa lösningen för"
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}Gammelstadsforsen.                     "
+        },
+        {
+         "number": "11",
+         "Text": "{White}I den södra ändan av Vanda å, där ån   "
+        },
+        {
+         "number": "12",
+         "Text": "{White}rinner ut i Gammelstadsfjärden och     "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Finska viken, finns en fors med två    "
+        },
+        {
+         "number": "14",
+         "Text": "{White}fåror – den västra och den östra – och "
+        },
+        {
+         "number": "15",
+         "Text": "{White}en damm.                               "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}Dammen och den västra fåran har i många"
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}år ansetts vara ett hinder för         "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}vandringsfiskar att vandra upp för     "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}Vanda å, och en rivning har ansetts    "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}gynna fiskbeståndet.                   "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}   svenska.yle.fi/huvudstadsregionen "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "HUVUDSTADSREGIONEN      ONSDAG   1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Så här ska Helsingfors rädda fiskarna i"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Gammelstadsforsen                      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Gammelstadsforsens framtid har         "
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " diskuterats i många år. Nu har         "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Helsingfors stad utrett det bästa      "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " alternativet för forsen.               "
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Nu har Helsingfors stad utrett vad som "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "kan tänkas vara den bästa lösningen för"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Gammelstadsforsen.                     "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " I den södra ändan av Vanda å, där ån   "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " rinner ut i Gammelstadsfjärden och     "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Finska viken, finns en fors med två    "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " fåror – den västra och den östra – och "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " en damm.                               "
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Dammen och den västra fåran har i många"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "år ansetts vara ett hinder för         "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "vandringsfiskar att vandra upp för     "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Vanda å, och en rivning har ansetts    "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "gynna fiskbeståndet.                   "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "link": "https://svenska.yle.fi/huvudstadsregionen",
+           "length": "33",
+           "Text": "svenska.yle.fi/huvudstadsregionen"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   HUVUDSTADSREGIONEN      ONSDAG   2/3 "
+        },
+        {
+         "number": "2",
+         "Text": " Många elever hastar igenom lunchen på  "
+        },
+        {
+         "number": "3",
+         "Text": " 20 minuter                             "
+        },
+        {
+         "number": "4",
+         "Text": " Flera skolor har lunchpauser som är    "
+        },
+        {
+         "number": "5",
+         "Text": " klart kortare än vad myndigheter       "
+        },
+        {
+         "number": "6",
+         "Text": " rekommenderar.                         "
+        },
+        {
+         "number": "7",
+         "Text": " Minst 30 minuter. Det är den tid       "
+        },
+        {
+         "number": "8",
+         "Text": " Statens näringsdelegation rekommenderar"
+        },
+        {
+         "number": "9",
+         "Text": " att skolbarn ska ha på sig för sin     "
+        },
+        {
+         "number": "10",
+         "Text": " lunch.                                 "
+        },
+        {
+         "number": "11",
+         "Text": " Så är ändå inte fallet i alla skolor i "
+        },
+        {
+         "number": "12",
+         "Text": " Helsingfors.                           "
+        },
+        {
+         "number": "13",
+         "Text": " Bland annat har eleverna i Nordsjö     "
+        },
+        {
+         "number": "14",
+         "Text": " lågstadieskola bara 20 minuter på sig  "
+        },
+        {
+         "number": "15",
+         "Text": " för lunchen. Klasserna äter i tre turer"
+        },
+        {
+         "number": "16",
+         "Text": " mellan klockan 11 och 12.              "
+        },
+        {
+         "number": "17",
+         "Text": " Också i Botby grundskola är tiden      "
+        },
+        {
+         "number": "18",
+         "Text": " kortare än rekommenderat. Där äter     "
+        },
+        {
+         "number": "19",
+         "Text": " eleverna i två turer mellan 11 och     "
+        },
+        {
+         "number": "20",
+         "Text": " 11.45. Det betyder att eleverna har    "
+        },
+        {
+         "number": "21",
+         "Text": " 20–25 minuter på sig att äta lunch.    "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "      svenska.yle.fi/huvudstadsregionen "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Cyan}HUVUDSTADSREGIONEN{Cyan}     ONSDAG   2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Green}Många elever hastar igenom lunchen på  "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}20 minuter                             "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Flera skolor har lunchpauser som är    "
+        },
+        {
+         "number": "5",
+         "Text": "{White}klart kortare än vad myndigheter       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}rekommenderar.                         "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Minst 30 minuter. Det är den tid       "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Statens näringsdelegation rekommenderar"
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}att skolbarn ska ha på sig för sin     "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}lunch.                                 "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Så är ändå inte fallet i alla skolor i "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Helsingfors.                           "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Bland annat har eleverna i Nordsjö     "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}lågstadieskola bara 20 minuter på sig  "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}för lunchen. Klasserna äter i tre turer"
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}mellan klockan 11 och 12.              "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Också i Botby grundskola är tiden      "
+        },
+        {
+         "number": "18",
+         "Text": "{White}kortare än rekommenderat. Där äter     "
+        },
+        {
+         "number": "19",
+         "Text": "{White}eleverna i två turer mellan 11 och     "
+        },
+        {
+         "number": "20",
+         "Text": "{White}11.45. Det betyder att eleverna har    "
+        },
+        {
+         "number": "21",
+         "Text": "{White}20–25 minuter på sig att äta lunch.    "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}   svenska.yle.fi/huvudstadsregionen "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "HUVUDSTADSREGIONEN      ONSDAG   2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Många elever hastar igenom lunchen på  "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "20 minuter                             "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Flera skolor har lunchpauser som är    "
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " klart kortare än vad myndigheter       "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " rekommenderar.                         "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Minst 30 minuter. Det är den tid       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Statens näringsdelegation rekommenderar"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "att skolbarn ska ha på sig för sin     "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "lunch.                                 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Så är ändå inte fallet i alla skolor i "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Helsingfors.                           "
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Bland annat har eleverna i Nordsjö     "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "lågstadieskola bara 20 minuter på sig  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "för lunchen. Klasserna äter i tre turer"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "mellan klockan 11 och 12.              "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Också i Botby grundskola är tiden      "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kortare än rekommenderat. Där äter     "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " eleverna i två turer mellan 11 och     "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 11.45. Det betyder att eleverna har    "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 20–25 minuter på sig att äta lunch.    "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "link": "https://svenska.yle.fi/huvudstadsregionen",
+           "length": "33",
+           "Text": "svenska.yle.fi/huvudstadsregionen"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   HUVUDSTADSREGIONEN      TISDAG   3/3 "
+        },
+        {
+         "number": "2",
+         "Text": " Fågelexpert Johan Ekroos plockade undan"
+        },
+        {
+         "number": "3",
+         "Text": " tiotals döda sidensvansar på sin       "
+        },
+        {
+         "number": "4",
+         "Text": " arbetsplats: ”Har aldrig varit med om  "
+        },
+        {
+         "number": "5",
+         "Text": " liknande”                              "
+        },
+        {
+         "number": "6",
+         "Text": " Under den senaste tiden har ovanligt   "
+        },
+        {
+         "number": "7",
+         "Text": " många fåglar flugit in i glasrutor och "
+        },
+        {
+         "number": "8",
+         "Text": " skadats eller dött. En orsak kan vara  "
+        },
+        {
+         "number": "9",
+         "Text": " dåligt rönnbärsår, säger fågelexpert.  "
+        },
+        {
+         "number": "10",
+         "Text": " Några meter utanför en av byggnaderna  "
+        },
+        {
+         "number": "11",
+         "Text": " på Helsingfors universitets campus i   "
+        },
+        {
+         "number": "12",
+         "Text": " Vik står två rönnar. Nu är de så gott  "
+        },
+        {
+         "number": "13",
+         "Text": " som tömda på bär, men för bara några   "
+        },
+        {
+         "number": "14",
+         "Text": " dagar sedan besöktes de av hundratals  "
+        },
+        {
+         "number": "15",
+         "Text": " sidensvansar. Av dem kraschade 150     "
+        },
+        {
+         "number": "16",
+         "Text": " stycken i byggnadens fönster.          "
+        },
+        {
+         "number": "17",
+         "Text": " – Det är ganska vanligt att fåglar     "
+        },
+        {
+         "number": "18",
+         "Text": " flyger in i fönster, tyvärr. Men så här"
+        },
+        {
+         "number": "19",
+         "Text": " många och på så här litet område är    "
+        },
+        {
+         "number": "20",
+         "Text": " ovanligt. Jag har aldrig varit med om  "
+        },
+        {
+         "number": "21",
+         "Text": " något liknande, säger Johan Ekroos,    "
+        },
+        {
+         "number": "22",
+         "Text": " professor vid Helsingfors universitet. "
+        },
+        {
+         "number": "23",
+         "Text": "      svenska.yle.fi/huvudstadsregionen "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Cyan}HUVUDSTADSREGIONEN{Cyan}     TISDAG   3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Green}Fågelexpert Johan Ekroos plockade undan"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}tiotals döda sidensvansar på sin       "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}arbetsplats: ”Har aldrig varit med om  "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}liknande”                              "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Under den senaste tiden har ovanligt   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}många fåglar flugit in i glasrutor och "
+        },
+        {
+         "number": "8",
+         "Text": "{White}skadats eller dött. En orsak kan vara  "
+        },
+        {
+         "number": "9",
+         "Text": "{White}dåligt rönnbärsår, säger fågelexpert.  "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}Några meter utanför en av byggnaderna  "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}på Helsingfors universitets campus i   "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}Vik står två rönnar. Nu är de så gott  "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}som tömda på bär, men för bara några   "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}dagar sedan besöktes de av hundratals  "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}sidensvansar. Av dem kraschade 150     "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}stycken i byggnadens fönster.          "
+        },
+        {
+         "number": "17",
+         "Text": "{White}– Det är ganska vanligt att fåglar     "
+        },
+        {
+         "number": "18",
+         "Text": "{White}flyger in i fönster, tyvärr. Men så här"
+        },
+        {
+         "number": "19",
+         "Text": "{White}många och på så här litet område är    "
+        },
+        {
+         "number": "20",
+         "Text": "{White}ovanligt. Jag har aldrig varit med om  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}något liknande, säger Johan Ekroos,    "
+        },
+        {
+         "number": "22",
+         "Text": "{White}professor vid Helsingfors universitet. "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}   svenska.yle.fi/huvudstadsregionen "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "HUVUDSTADSREGIONEN      TISDAG   3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Fågelexpert Johan Ekroos plockade undan"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "tiotals döda sidensvansar på sin       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "arbetsplats: ”Har aldrig varit med om  "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "liknande”                              "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Under den senaste tiden har ovanligt   "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " många fåglar flugit in i glasrutor och "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " skadats eller dött. En orsak kan vara  "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " dåligt rönnbärsår, säger fågelexpert.  "
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Några meter utanför en av byggnaderna  "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "på Helsingfors universitets campus i   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Vik står två rönnar. Nu är de så gott  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "som tömda på bär, men för bara några   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "dagar sedan besöktes de av hundratals  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "sidensvansar. Av dem kraschade "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "150",
+           "length": "3",
+           "Text": "150"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "stycken i byggnadens fönster.          "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " – Det är ganska vanligt att fåglar     "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " flyger in i fönster, tyvärr. Men så här"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " många och på så här litet område är    "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ovanligt. Jag har aldrig varit med om  "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " något liknande, säger Johan Ekroos,    "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " professor vid Helsingfors universitet. "
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "link": "https://svenska.yle.fi/huvudstadsregionen",
+           "length": "33",
+           "Text": "svenska.yle.fi/huvudstadsregionen"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

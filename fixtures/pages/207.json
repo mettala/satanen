@@ -1,0 +1,615 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "207",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "205",
+   "nextpg": "218",
+   "toptype": "normal",
+   "time": "2026-10-24T21:37:35",
+   "utctime": "2026-10-24T18:37:35",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "    F1 USA   3. HARJOITUKSET        1/1 "
+        },
+        {
+         "number": "2",
+         "Text": " 1. Lewis Hamilton    Ferrari   1.34,893"
+        },
+        {
+         "number": "3",
+         "Text": " 2. Max Verstappen    Red Bull  1.35,061"
+        },
+        {
+         "number": "4",
+         "Text": " 3. Charles Leclerc   Ferrari   1.35,127"
+        },
+        {
+         "number": "5",
+         "Text": " 4. Kimi Antonelli    Mercedes  1.35,196"
+        },
+        {
+         "number": "6",
+         "Text": " 5. George Russell    Mercedes  1.35,381"
+        },
+        {
+         "number": "7",
+         "Text": " 6. Oscar Piastri     McLaren   1.35,531"
+        },
+        {
+         "number": "8",
+         "Text": " 7. Nico Hülkenberg   Audi      1.35,591"
+        },
+        {
+         "number": "9",
+         "Text": " 8. Lando Norris      McLaren   1.35,706"
+        },
+        {
+         "number": "10",
+         "Text": " 9. Pierre Gasly      Alpine    1.35,904"
+        },
+        {
+         "number": "11",
+         "Text": "10. Isack Hadjar      Red Bull  1.35,930"
+        },
+        {
+         "number": "12",
+         "Text": "11. Liam Lawson       Racing B  1.35,931"
+        },
+        {
+         "number": "13",
+         "Text": "12. Arvid Lindblad    Racing B  1.36,081"
+        },
+        {
+         "number": "14",
+         "Text": "13. Gabriel Bortoleto Audi      1.36,176"
+        },
+        {
+         "number": "15",
+         "Text": "14. Oliver Bearman    Haas      1.36,235"
+        },
+        {
+         "number": "16",
+         "Text": "15. Franco Colapinto  Alpine    1.36,251"
+        },
+        {
+         "number": "17",
+         "Text": "16. Fernando Alonso   Aston M   1.36,455"
+        },
+        {
+         "number": "18",
+         "Text": "17. Esteban Ocon      Haas      1.36,742"
+        },
+        {
+         "number": "19",
+         "Text": "18. Lance Stroll      Aston M   1.37,131"
+        },
+        {
+         "number": "20",
+         "Text": "19. Alexander Albon   Williams  1.37,668"
+        },
+        {
+         "number": "21",
+         "Text": "20. Carlos Sainz Jr.  Williams  1.37,711"
+        },
+        {
+         "number": "22",
+         "Text": "21. Sergio Pérez      Cadillac  1.37,884"
+        },
+        {
+         "number": "23",
+         "Text": "22. Valtteri Bottas   Cadillac  1.38,765"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White} F1 USA{Blue}{NB}{White}3. HARJOITUKSET        1/1 "
+        },
+        {
+         "number": "2",
+         "Text": " 1.{White}Lewis Hamilton    Ferrari   1.34,893"
+        },
+        {
+         "number": "3",
+         "Text": " 2.{White}Max Verstappen    Red Bull  1.35,061"
+        },
+        {
+         "number": "4",
+         "Text": " 3.{White}Charles Leclerc   Ferrari   1.35,127"
+        },
+        {
+         "number": "5",
+         "Text": " 4.{White}Kimi Antonelli    Mercedes  1.35,196"
+        },
+        {
+         "number": "6",
+         "Text": " 5.{White}George Russell    Mercedes  1.35,381"
+        },
+        {
+         "number": "7",
+         "Text": " 6.{White}Oscar Piastri     McLaren   1.35,531"
+        },
+        {
+         "number": "8",
+         "Text": " 7.{White}Nico Hülkenberg   Audi      1.35,591"
+        },
+        {
+         "number": "9",
+         "Text": " 8.{White}Lando Norris      McLaren   1.35,706"
+        },
+        {
+         "number": "10",
+         "Text": " 9.{White}Pierre Gasly      Alpine    1.35,904"
+        },
+        {
+         "number": "11",
+         "Text": "10.{White}Isack Hadjar      Red Bull  1.35,930"
+        },
+        {
+         "number": "12",
+         "Text": "11.{White}Liam Lawson       Racing B  1.35,931"
+        },
+        {
+         "number": "13",
+         "Text": "12.{White}Arvid Lindblad    Racing B  1.36,081"
+        },
+        {
+         "number": "14",
+         "Text": "13.{White}Gabriel Bortoleto Audi      1.36,176"
+        },
+        {
+         "number": "15",
+         "Text": "14.{White}Oliver Bearman    Haas      1.36,235"
+        },
+        {
+         "number": "16",
+         "Text": "15.{White}Franco Colapinto  Alpine    1.36,251"
+        },
+        {
+         "number": "17",
+         "Text": "16.{White}Fernando Alonso   Aston M   1.36,455"
+        },
+        {
+         "number": "18",
+         "Text": "17.{White}Esteban Ocon      Haas      1.36,742"
+        },
+        {
+         "number": "19",
+         "Text": "18.{White}Lance Stroll      Aston M   1.37,131"
+        },
+        {
+         "number": "20",
+         "Text": "19.{White}Alexander Albon   Williams  1.37,668"
+        },
+        {
+         "number": "21",
+         "Text": "20.{White}Carlos Sainz Jr.  Williams  1.37,711"
+        },
+        {
+         "number": "22",
+         "Text": "21.{White}Sergio Pérez      Cadillac  1.37,884"
+        },
+        {
+         "number": "23",
+         "Text": "22.{Cyan}Valtteri Bottas   Cadillac  1.38,765"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "36",
+           "Text": "F1 USA   3. HARJOITUKSET        1/1 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 1. Lewis Hamilton    Ferrari   1.34,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "893",
+           "length": "3",
+           "Text": "893"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 2. Max Verstappen    Red Bull  1.35,061"
+         }
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 3. Charles Leclerc   Ferrari   1.35,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 4. Kimi Antonelli    Mercedes  1.35,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "196",
+           "length": "3",
+           "Text": "196"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 5. George Russell    Mercedes  1.35,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "381",
+           "length": "3",
+           "Text": "381"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 6. Oscar Piastri     McLaren   1.35,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "531",
+           "length": "3",
+           "Text": "531"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 7. Nico Hülkenberg   Audi      1.35,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "591",
+           "length": "3",
+           "Text": "591"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": " 8. Lando Norris      McLaren   1.35,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "706",
+           "length": "3",
+           "Text": "706"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 9. Pierre Gasly      Alpine    1.35,904"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "10. Isack Hadjar      Red Bull  1.35,930"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "11. Liam Lawson       Racing B  1.35,931"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "12. Arvid Lindblad    Racing B  1.36,081"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "13. Gabriel Bortoleto Audi      1.36,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "176",
+           "length": "3",
+           "Text": "176"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "14. Oliver Bearman    Haas      1.36,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "235",
+           "length": "3",
+           "Text": "235"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "15. Franco Colapinto  Alpine    1.36,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "251",
+           "length": "3",
+           "Text": "251"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "16. Fernando Alonso   Aston M   1.36,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "455",
+           "length": "3",
+           "Text": "455"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "17. Esteban Ocon      Haas      1.36,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "742",
+           "length": "3",
+           "Text": "742"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "18. Lance Stroll      Aston M   1.37,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "131",
+           "length": "3",
+           "Text": "131"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "19. Alexander Albon   Williams  1.37,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "668",
+           "length": "3",
+           "Text": "668"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "20. Carlos Sainz Jr.  Williams  1.37,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "711",
+           "length": "3",
+           "Text": "711"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "21. Sergio Pérez      Cadillac  1.37,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "884",
+           "length": "3",
+           "Text": "884"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "22. "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "33",
+           "Text": "Valtteri Bottas   Cadillac  1.38,"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "765",
+           "length": "3",
+           "Text": "765"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

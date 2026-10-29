@@ -1,0 +1,44 @@
+# secrets
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# dependencies
+node_modules/
+
+# Expo / Metro
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+
+# Cloudflare (proxy)
+.wrangler/
+coverage/
+
+# local agent worktrees (Claude Code)
+.claude/worktrees/
+
+# generated native folders (EAS / prebuild)
+/ios
+/android
+.kotlin/
+*.tsbuildinfo
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS / editors
+.DS_Store
+*.log

@@ -1,0 +1,19 @@
+name = "satanen-web"
+main = "src/index.mjs"
+compatibility_date = "2026-10-01"
+
+# The web app: a static single-page app built into ../dist by `npm run build:web`.
+# No account id and no secrets here (D17).
+
+[assets]
+directory = "../dist"
+binding = "ASSETS"
+# Run the worker first, so it can answer 404 for missing script files and
+# send every other unknown path to index.html (the app shows page 105 for /105).
+run_worker_first = true
+
+# Custom domain: Cloudflare creates the DNS record and certificate on deploy.
+# satanen.io must be an active zone in the same Cloudflare account.
+[[routes]]
+pattern = "satanen.io"
+custom_domain = true

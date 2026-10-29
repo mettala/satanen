@@ -1,0 +1,3921 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "100",
+   "name": "Uutiset",
+   "subpagecount": "4",
+   "nextpg": "101",
+   "toptype": "block",
+   "time": "2026-10-21T23:00:25",
+   "utctime": "2026-10-21T20:00:25",
+   "animated": "yes",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "8",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "           Teksti-TV                    "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "    yle.fi/tekstitv    199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " 110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " 109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " 111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " 205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "   101 UUTISET  160 TALOUS 190 ENGLISH  "
+        },
+        {
+         "number": "19",
+         "Text": "   201 URHEILU  350 RADIOT 470 VEIKKAUS "
+        },
+        {
+         "number": "20",
+         "Text": "   300 OHJELMAT 400 SÄÄ    575 TEKSTI-TV"
+        },
+        {
+         "number": "21",
+         "Text": "   799 SVENSKA  500 ALUEET 890 KALENTERI"
+        },
+        {
+         "number": "22",
+         "Text": "   Sää paikkakunnittain         406-408 "
+        },
+        {
+         "number": "23",
+         "Text": "   Pehmeä banaani-kahvikakku        811 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}{NB}{GWhite}h hh p                               "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GWhite}\"d&jj,%{White}Teksti-TV                    "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GWhite} * *\",!                              "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB} {Blue}yle.fi/tekstitv   {Blue}199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "6",
+         "Text": "{DH}136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{DH}110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": "{DH}109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{DH}205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": "{GGreen}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}{NB}{Blue}101 UUTISET  160 TALOUS 190 ENGLISH  "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}{NB}{Blue}201 URHEILU  350 RADIOT 470 VEIKKAUS "
+        },
+        {
+         "number": "20",
+         "Text": "{Green}{NB}{Blue}300 OHJELMAT 400 SÄÄ    575 TEKSTI-TV"
+        },
+        {
+         "number": "21",
+         "Text": "{Green}{NB}{Blue}799 SVENSKA  500 ALUEET 890 KALENTERI"
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}Sää paikkakunnittain         406-408 "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}Pehmeä banaani-kahvikakku        811 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "2",
+           "Text": "hh"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "31"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": " Teksti-TV                    "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "https://yle.fi/tekstitv",
+           "length": "15",
+           "Text": "yle.fi/tekstitv"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": " PÄÄHAKEMISTO "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3",
+           "Text": "136"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Putin: Olen valmis neuvotteluihin  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Epäily: Jyväskylän palo tahallinen "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3",
+           "Text": "109"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Verkkopalveluja ajetaan alas       "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36",
+           "Text": " TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3",
+           "Text": "205"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Olli Jokinen sai lähteä HIFK:sta   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "101",
+           "length": "3",
+           "Text": "101"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " UUTISET  "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " TALOUS "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "190",
+           "length": "3",
+           "Text": "190"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " ENGLISH  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "201",
+           "length": "3",
+           "Text": "201"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " URHEILU  "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "350",
+           "length": "3",
+           "Text": "350"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " RADIOT "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "470",
+           "length": "3",
+           "Text": "470"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " VEIKKAUS "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " OHJELMAT "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " SÄÄ    "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "575",
+           "length": "3",
+           "Text": "575"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " TEKSTI-TV"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "799",
+           "length": "3",
+           "Text": "799"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " SVENSKA  "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "500",
+           "length": "3",
+           "Text": "500"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " ALUEET "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "890",
+           "length": "3",
+           "Text": "890"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " KALENTERI"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "29",
+           "Text": "Sää paikkakunnittain         "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "406",
+           "length": "3",
+           "Text": "406"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "408",
+           "length": "3",
+           "Text": "408"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "33",
+           "Text": "Pehmeä banaani-kahvikakku        "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "811",
+           "length": "3",
+           "Text": "811"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "8",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "           Teksti-TV                    "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "    yle.fi/tekstitv    199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " 110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " 109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " 111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " 205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "   331 TEKSTITYS     357-358 ELOKUVAT   "
+        },
+        {
+         "number": "19",
+         "Text": "   348 RADIO SUOMI   801 VIIKKOMAKASIINI"
+        },
+        {
+         "number": "20",
+         "Text": "   344 YÖKLASSINEN   359-360 YLE TEEMA  "
+        },
+        {
+         "number": "21",
+         "Text": "   599 YHTEYSTIEDOT  860 KANSALAISTAITO "
+        },
+        {
+         "number": "22",
+         "Text": "   Teksti-TV 45v -juhlapikselit 841-849 "
+        },
+        {
+         "number": "23",
+         "Text": "   Ajatus päivälle                  895 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{GWhite}h hh p                               "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GWhite}\"d&jj,%{White}Teksti-TV                    "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GWhite} * *\",!                              "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB} {Blue}yle.fi/tekstitv   {Blue}199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "6",
+         "Text": "{DH}136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{DH}110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": "{DH}109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{DH}205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": "{GCyan}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}331 TEKSTITYS     357-358 ELOKUVAT   "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}348 RADIO SUOMI   801 VIIKKOMAKASIINI"
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}{NB}{Blue}344 YÖKLASSINEN   359-360 YLE TEEMA  "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}{NB}{Blue}599 YHTEYSTIEDOT  860 KANSALAISTAITO "
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}Teksti-TV 45v -juhlapikselit 841-849 "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}Ajatus päivälle                  895{Blue}"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "2",
+           "Text": "hh"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "31"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": " Teksti-TV                    "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "https://yle.fi/tekstitv",
+           "length": "15",
+           "Text": "yle.fi/tekstitv"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": " PÄÄHAKEMISTO "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3",
+           "Text": "136"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Putin: Olen valmis neuvotteluihin  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Epäily: Jyväskylän palo tahallinen "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3",
+           "Text": "109"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Verkkopalveluja ajetaan alas       "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36",
+           "Text": " TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3",
+           "Text": "205"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Olli Jokinen sai lähteä HIFK:sta   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "331",
+           "length": "3",
+           "Text": "331"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " TEKSTITYS     "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "357",
+           "length": "3",
+           "Text": "357"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "358",
+           "length": "3",
+           "Text": "358"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "12",
+           "Text": " ELOKUVAT   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "348",
+           "length": "3",
+           "Text": "348"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " RADIO SUOMI   "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "801",
+           "length": "3",
+           "Text": "801"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "16",
+           "Text": " VIIKKOMAKASIINI"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "344",
+           "length": "3",
+           "Text": "344"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " YÖKLASSINEN   "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "359",
+           "length": "3",
+           "Text": "359"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "360",
+           "length": "3",
+           "Text": "360"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "12",
+           "Text": " YLE TEEMA  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "599",
+           "length": "3",
+           "Text": "599"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " YHTEYSTIEDOT  "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "860",
+           "length": "3",
+           "Text": "860"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "16",
+           "Text": " KANSALAISTAITO "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "29",
+           "Text": "Teksti-TV 45v -juhlapikselit "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "841",
+           "length": "3",
+           "Text": "841"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "849",
+           "length": "3",
+           "Text": "849"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "33",
+           "Text": "Ajatus päivälle                  "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "895",
+           "length": "3",
+           "Text": "895"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "8",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "           Teksti-TV                    "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "    yle.fi/tekstitv    199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " 110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " 109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " 111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " 205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "   101 UUTISET  160 TALOUS 190 ENGLISH  "
+        },
+        {
+         "number": "19",
+         "Text": "   201 URHEILU  350 RADIOT 470 VEIKKAUS "
+        },
+        {
+         "number": "20",
+         "Text": "   300 OHJELMAT 400 SÄÄ    575 TEKSTI-TV"
+        },
+        {
+         "number": "21",
+         "Text": "   799 SVENSKA  500 ALUEET 890 KALENTERI"
+        },
+        {
+         "number": "22",
+         "Text": "   Yle Teksti-TV 45 v.          830-849 "
+        },
+        {
+         "number": "23",
+         "Text": "   Digitreenit                  851-857 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}{NB}{GWhite}h hh p                               "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GWhite}\"d&jj,%{White}Teksti-TV                    "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GWhite} * *\",!                              "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB} {Blue}yle.fi/tekstitv   {Blue}199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "6",
+         "Text": "{DH}136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{DH}110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": "{DH}109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{DH}205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": "{GGreen}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}{NB}{Blue}101 UUTISET  160 TALOUS 190 ENGLISH  "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}{NB}{Blue}201 URHEILU  350 RADIOT 470 VEIKKAUS "
+        },
+        {
+         "number": "20",
+         "Text": "{Green}{NB}{Blue}300 OHJELMAT 400 SÄÄ    575 TEKSTI-TV"
+        },
+        {
+         "number": "21",
+         "Text": "{Green}{NB}{Blue}799 SVENSKA  500 ALUEET 890 KALENTERI"
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}Yle Teksti-TV 45 v.          830-849 "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}Digitreenit                  851-857 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "2",
+           "Text": "hh"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "31"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": " Teksti-TV                    "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "https://yle.fi/tekstitv",
+           "length": "15",
+           "Text": "yle.fi/tekstitv"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": " PÄÄHAKEMISTO "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3",
+           "Text": "136"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Putin: Olen valmis neuvotteluihin  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Epäily: Jyväskylän palo tahallinen "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3",
+           "Text": "109"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Verkkopalveluja ajetaan alas       "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36",
+           "Text": " TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3",
+           "Text": "205"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Olli Jokinen sai lähteä HIFK:sta   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "101",
+           "length": "3",
+           "Text": "101"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " UUTISET  "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " TALOUS "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "190",
+           "length": "3",
+           "Text": "190"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " ENGLISH  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "201",
+           "length": "3",
+           "Text": "201"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " URHEILU  "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "350",
+           "length": "3",
+           "Text": "350"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " RADIOT "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "470",
+           "length": "3",
+           "Text": "470"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " VEIKKAUS "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " OHJELMAT "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " SÄÄ    "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "575",
+           "length": "3",
+           "Text": "575"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " TEKSTI-TV"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "799",
+           "length": "3",
+           "Text": "799"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " SVENSKA  "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "500",
+           "length": "3",
+           "Text": "500"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "8",
+           "Text": " ALUEET "
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "link": "890",
+           "length": "3",
+           "Text": "890"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": " KALENTERI"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "29",
+           "Text": "Yle Teksti-TV 45 v.          "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "830",
+           "length": "3",
+           "Text": "830"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "849",
+           "length": "3",
+           "Text": "849"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "29",
+           "Text": "Digitreenit                  "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "851",
+           "length": "3",
+           "Text": "851"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "857",
+           "length": "3",
+           "Text": "857"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "8",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "           Teksti-TV                    "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "    yle.fi/tekstitv    199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " 110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " 109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " 111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " 205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "   189 SÄHKÖN HINTA  345-346 RADIO 1    "
+        },
+        {
+         "number": "19",
+         "Text": "   331 TEKSTITYS     351-352 TV1:SSÄ    "
+        },
+        {
+         "number": "20",
+         "Text": "   344 YÖKLASSINEN   353-354 TV2:SSA    "
+        },
+        {
+         "number": "21",
+         "Text": "   870 KULUTTAJA     359-360 YLE TEEMA  "
+        },
+        {
+         "number": "22",
+         "Text": "   First Excursions in Teletext 805-806 "
+        },
+        {
+         "number": "23",
+         "Text": "   Shakki: Viikon peli              809 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{GWhite}h hh p                               "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{GWhite}\"d&jj,%{White}Teksti-TV                    "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{GWhite} * *\",!                              "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB} {Blue}yle.fi/tekstitv   {Blue}199 PÄÄHAKEMISTO "
+        },
+        {
+         "number": "5",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "6",
+         "Text": "{DH}136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{DH}110 Epäily: Jyväskylän palo tahallinen "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": "{DH}109 Verkkopalveluja ajetaan alas       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}111 TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{DH}205 Olli Jokinen sai lähteä HIFK:sta   "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": "{GCyan}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}189 SÄHKÖN HINTA  345-346 RADIO 1    "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}331 TEKSTITYS     351-352 TV1:SSÄ    "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}{NB}{Blue}344 YÖKLASSINEN   353-354 TV2:SSA    "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}{NB}{Blue}870{Blue}KULUTTAJA    {Blue}359-360 YLE TEEMA  "
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}First Excursions in Teletext 805-806 "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}Shakki: Viikon peli              809 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "2",
+           "Text": "hh"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "31"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": " Teksti-TV                    "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "https://yle.fi/tekstitv",
+           "length": "15",
+           "Text": "yle.fi/tekstitv"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "14",
+           "Text": " PÄÄHAKEMISTO "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3",
+           "Text": "136"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Putin: Olen valmis neuvotteluihin  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "136",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3",
+           "Text": "110"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Epäily: Jyväskylän palo tahallinen "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "110",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3",
+           "Text": "109"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Verkkopalveluja ajetaan alas       "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "109",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "111",
+           "length": "3",
+           "Text": "111"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36",
+           "Text": " TEKSTI-TV:N NETTIVERSION KATKOS OHI"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3",
+           "Text": "205"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36",
+           "Text": " Olli Jokinen sai lähteä HIFK:sta   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "link": "205",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "189",
+           "length": "3",
+           "Text": "189"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " SÄHKÖN HINTA  "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "345",
+           "length": "3",
+           "Text": "345"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "346",
+           "length": "3",
+           "Text": "346"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "12",
+           "Text": " RADIO 1    "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "331",
+           "length": "3",
+           "Text": "331"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " TEKSTITYS     "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "351",
+           "length": "3",
+           "Text": "351"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "352",
+           "length": "3",
+           "Text": "352"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "12",
+           "Text": " TV1:SSÄ    "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "344",
+           "length": "3",
+           "Text": "344"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " YÖKLASSINEN   "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "353",
+           "length": "3",
+           "Text": "353"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "354",
+           "length": "3",
+           "Text": "354"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "12",
+           "Text": " TV2:SSA    "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "870",
+           "length": "3",
+           "Text": "870"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": " KULUTTAJA     "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "359",
+           "length": "3",
+           "Text": "359"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "360",
+           "length": "3",
+           "Text": "360"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "12",
+           "Text": " YLE TEEMA  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "29",
+           "Text": "First Excursions in Teletext "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "805",
+           "length": "3",
+           "Text": "805"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "806",
+           "length": "3",
+           "Text": "806"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "33",
+           "Text": "Shakki: Viikon peli              "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "809",
+           "length": "3",
+           "Text": "809"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

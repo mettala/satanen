@@ -1,0 +1,1112 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "230",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "229",
+   "nextpg": "233",
+   "toptype": "normal",
+   "time": "2026-10-21T21:15:02",
+   "utctime": "2026-10-21T18:15:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "    JÄÄKIEKKO      U20 SM-SARJA     1/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " HIFK       15  9  2  2  2  55- 31  33  "
+        },
+        {
+         "number": "4",
+         "Text": " Pelicans   13 10  0  0  3  50- 31  30  "
+        },
+        {
+         "number": "5",
+         "Text": " K-Espoo    15  9  0  1  5  63- 43  28  "
+        },
+        {
+         "number": "6",
+         "Text": " Lukko      13  8  2  0  3  43- 27  28  "
+        },
+        {
+         "number": "7",
+         "Text": " Kärpät     14  7  3  0  4  52- 40  27  "
+        },
+        {
+         "number": "8",
+         "Text": " HPK        12  7  0  3  2  52- 33  24  "
+        },
+        {
+         "number": "9",
+         "Text": " Jokerit    15  6  1  3  5  54- 41  23  "
+        },
+        {
+         "number": "10",
+         "Text": " Tappara    14  7  0  2  5  43- 48  23  "
+        },
+        {
+         "number": "11",
+         "Text": " Ilves      13  6  1  1  5  49- 52  21  "
+        },
+        {
+         "number": "12",
+         "Text": " SaiPa      13  5  2  1  5  45- 46  20  "
+        },
+        {
+         "number": "13",
+         "Text": " Jukurit    13  4  2  2  5  34- 44  18  "
+        },
+        {
+         "number": "14",
+         "Text": " KalPa      11  2  5  0  4  33- 33  16  "
+        },
+        {
+         "number": "15",
+         "Text": " TPS        12  4  0  4  4  37- 43  16  "
+        },
+        {
+         "number": "16",
+         "Text": " JYP        11  4  1  1  5  32- 37  15  "
+        },
+        {
+         "number": "17",
+         "Text": " Ässät      14  1  4  1  8  36- 51  12  "
+        },
+        {
+         "number": "18",
+         "Text": " Sport      11  2  1  1  7  36- 45   9  "
+        },
+        {
+         "number": "19",
+         "Text": " RoKi       13  1  1  1 10  33- 70   6  "
+        },
+        {
+         "number": "20",
+         "Text": " KooKoo     14  1  0  2 11  25- 57   5  "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": " Runkosarjassa pelataan 44 kierrosta.   "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue} JÄÄKIEKKO  {NB}{White}  U20 SM-SARJA     1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": " HIFK       15  9  2  2  2  55- 31  33  "
+        },
+        {
+         "number": "4",
+         "Text": " Pelicans   13 10  0  0  3  50- 31  30  "
+        },
+        {
+         "number": "5",
+         "Text": " K-Espoo    15  9  0  1  5  63- 43  28  "
+        },
+        {
+         "number": "6",
+         "Text": " Lukko      13  8  2  0  3  43- 27  28  "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Kärpät     14  7  3  0  4  52- 40  27  "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}HPK        12  7  0  3  2  52- 33  24  "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Jokerit    15  6  1  3  5  54- 41  23  "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}Tappara    14  7  0  2  5  43- 48  23  "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Ilves      13  6  1  1  5  49- 52  21  "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}SaiPa      13  5  2  1  5  45- 46  20  "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Jukurit    13  4  2  2  5  34- 44  18  "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}KalPa      11  2  5  0  4  33- 33  16  "
+        },
+        {
+         "number": "15",
+         "Text": "{White}TPS        12  4  0  4  4  37- 43  16  "
+        },
+        {
+         "number": "16",
+         "Text": "{White}JYP        11  4  1  1  5  32- 37  15  "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Ässät      14  1  4  1  8  36- 51  12  "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Sport      11  2  1  1  7  36- 45   9  "
+        },
+        {
+         "number": "19",
+         "Text": "{White}RoKi       13  1  1  1 10  33- 70   6  "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}KooKoo     14  1  0  2 11  25- 57   5  "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{Green}Runkosarjassa pelataan 44 kierrosta.   "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JÄÄKIEKKO  "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "21",
+           "Text": "U20 SM-SARJA     1/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " HIFK       15  9  2  2  2  55- 31  33  "
+         }
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pelicans   13 10  0  0  3  50- 31  30  "
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " K-Espoo    15  9  0  1  5  63- 43  28  "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lukko      13  8  2  0  3  43- 27  28  "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Kärpät     14  7  3  0  4  52- 40  27  "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "HPK        12  7  0  3  2  52- 33  24  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Jokerit    15  6  1  3  5  54- 41  23  "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Tappara    14  7  0  2  5  43- 48  23  "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Ilves      13  6  1  1  5  49- 52  21  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "SaiPa      13  5  2  1  5  45- 46  20  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Jukurit    13  4  2  2  5  34- 44  18  "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "KalPa      11  2  5  0  4  33- 33  16  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " TPS        12  4  0  4  4  37- 43  16  "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " JYP        11  4  1  1  5  32- 37  15  "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ässät      14  1  4  1  8  36- 51  12  "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sport      11  2  1  1  7  36- 45   9  "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " RoKi       13  1  1  1 10  33- 70   6  "
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "KooKoo     14  1  0  2 11  25- 57   5  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Runkosarjassa pelataan 44 kierrosta.   "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "    JÄÄKIEKKO      U20 SM-SARJA     2/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " 23.10.                                 "
+        },
+        {
+         "number": "4",
+         "Text": " KalPa        - Kärpät       12.00      "
+        },
+        {
+         "number": "5",
+         "Text": " Jukurit      - Sport        15.30      "
+        },
+        {
+         "number": "6",
+         "Text": " Ässät        - Lukko        18.00      "
+        },
+        {
+         "number": "7",
+         "Text": " Pelicans     - SaiPa        18.00      "
+        },
+        {
+         "number": "8",
+         "Text": " Ilves        - HPK          18.30      "
+        },
+        {
+         "number": "9",
+         "Text": " TPS          - HIFK         18.30      "
+        },
+        {
+         "number": "10",
+         "Text": " RoKi         - JYP          19.00      "
+        },
+        {
+         "number": "11",
+         "Text": " K-Espoo      - Jokerit      19.10      "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " 24.10.                                 "
+        },
+        {
+         "number": "14",
+         "Text": " JYP          - Sport        12.00      "
+        },
+        {
+         "number": "15",
+         "Text": " Lukko        - Pelicans     12.00      "
+        },
+        {
+         "number": "16",
+         "Text": " Tappara      - KooKoo       14.00      "
+        },
+        {
+         "number": "17",
+         "Text": " KalPa        - RoKi         15.30      "
+        },
+        {
+         "number": "18",
+         "Text": " Ässät        - TPS          16.00      "
+        },
+        {
+         "number": "19",
+         "Text": " Kärpät       - Jukurit      19.00      "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue} JÄÄKIEKKO  {NB}{White}  U20 SM-SARJA     2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}23.10.                                 "
+        },
+        {
+         "number": "4",
+         "Text": " KalPa        - Kärpät      {Cyan}12.00      "
+        },
+        {
+         "number": "5",
+         "Text": " Jukurit      - Sport       {Cyan}15.30      "
+        },
+        {
+         "number": "6",
+         "Text": " Ässät        - Lukko       {Cyan}18.00      "
+        },
+        {
+         "number": "7",
+         "Text": " Pelicans     - SaiPa       {Cyan}18.00      "
+        },
+        {
+         "number": "8",
+         "Text": " Ilves        - HPK         {Cyan}18.30      "
+        },
+        {
+         "number": "9",
+         "Text": " TPS          - HIFK        {Cyan}18.30      "
+        },
+        {
+         "number": "10",
+         "Text": " RoKi         - JYP         {Cyan}19.00      "
+        },
+        {
+         "number": "11",
+         "Text": " K-Espoo      - Jokerit     {Cyan}19.10      "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}24.10.                                 "
+        },
+        {
+         "number": "14",
+         "Text": " JYP          - Sport       {Cyan}12.00      "
+        },
+        {
+         "number": "15",
+         "Text": " Lukko        - Pelicans    {Cyan}12.00      "
+        },
+        {
+         "number": "16",
+         "Text": " Tappara      - KooKoo      {Cyan}14.00      "
+        },
+        {
+         "number": "17",
+         "Text": " KalPa        - RoKi        {Cyan}15.30      "
+        },
+        {
+         "number": "18",
+         "Text": " Ässät        - TPS         {Cyan}16.00      "
+        },
+        {
+         "number": "19",
+         "Text": " Kärpät       - Jukurit     {Cyan}19.00      "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JÄÄKIEKKO  "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "21",
+           "Text": "U20 SM-SARJA     2/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "23.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " KalPa        - Kärpät       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "12.00      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Jukurit      - Sport        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "15.30      "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Ässät        - Lukko        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "18.00      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Pelicans     - SaiPa        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "18.00      "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Ilves        - HPK          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "18.30      "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " TPS          - HIFK         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "18.30      "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " RoKi         - JYP          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "19.00      "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " K-Espoo      - Jokerit      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "19.10      "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "24.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " JYP          - Sport        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "12.00      "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Lukko        - Pelicans     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "12.00      "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Tappara      - KooKoo       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "14.00      "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " KalPa        - RoKi         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "15.30      "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Ässät        - TPS          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "16.00      "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Kärpät       - Jukurit      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "19.00      "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

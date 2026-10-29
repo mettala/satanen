@@ -1,0 +1,3016 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "189",
+   "name": "",
+   "subpagecount": "4",
+   "prevpg": "188",
+   "nextpg": "190",
+   "toptype": "normal",
+   "time": "2026-10-25T23:10:02",
+   "utctime": "2026-10-25T21:10:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Nord Pool                        1/4 "
+        },
+        {
+         "number": "2",
+         "Text": "   Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": " Hinta nyt 0,25 snt/kWh (sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": " Tänään klo 00-12 (hinta 15 min välein) "
+        },
+        {
+         "number": "5",
+         "Text": " 00   0,64 03   0,25 06   0,13 09   0,16"
+        },
+        {
+         "number": "6",
+         "Text": "      0,60      0,20      0,13      0,16"
+        },
+        {
+         "number": "7",
+         "Text": "      0,55      0,19      0,13      0,16"
+        },
+        {
+         "number": "8",
+         "Text": "      0,47      0,17      0,14      0,13"
+        },
+        {
+         "number": "9",
+         "Text": " 01   0,58 04   0,19 07   0,14 10   0,13"
+        },
+        {
+         "number": "10",
+         "Text": "      0,54      0,18      0,14      0,13"
+        },
+        {
+         "number": "11",
+         "Text": "      0,52      0,17      0,15      0,15"
+        },
+        {
+         "number": "12",
+         "Text": "      0,43      0,15      0,15      0,15"
+        },
+        {
+         "number": "13",
+         "Text": " 02   0,53 05   0,15 08   0,16 11   0,17"
+        },
+        {
+         "number": "14",
+         "Text": "      0,46      0,15      0,16      0,16"
+        },
+        {
+         "number": "15",
+         "Text": "      0,34      0,13      0,16      0,19"
+        },
+        {
+         "number": "16",
+         "Text": "      0,31      0,13      0,15      0,19"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Päivän alin/ylin            0,13/0,64  "
+        },
+        {
+         "number": "19",
+         "Text": " Kuluvan päivän keskihinta        0,30  "
+        },
+        {
+         "number": "20",
+         "Text": " 3 edell. päivän alin/ylin   0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": " 7  vrk:n keskihinta              3,49  "
+        },
+        {
+         "number": "22",
+         "Text": " 28 vrk:n keskihinta              5,02  "
+        },
+        {
+         "number": "23",
+         "Text": " Tuntikeskihinnat 188 Tänään klo 12-24 >"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Yellow}Nord Pool                      {Cyan} 1/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Hinta nyt{Cyan}0,25 snt/kWh{Green}(sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": "{Yellow}Tänään{White}klo 00-12 (hinta 15 min välein) "
+        },
+        {
+         "number": "5",
+         "Text": "{White}00{Cyan}  0,64{White}03{Cyan}  0,25{White}06{Cyan}  0,13{White}09{Cyan}  0,16"
+        },
+        {
+         "number": "6",
+         "Text": "{White}  {Cyan}  0,60{White}  {Cyan}  0,20{White}  {Cyan}  0,13{White}  {Cyan}  0,16"
+        },
+        {
+         "number": "7",
+         "Text": "{White}  {Cyan}  0,55{White}  {Cyan}  0,19{White}  {Cyan}  0,13{White}  {Cyan}  0,16"
+        },
+        {
+         "number": "8",
+         "Text": "{White}  {Cyan}  0,47{White}  {Cyan}  0,17{White}  {Cyan}  0,14{White}  {Cyan}  0,13"
+        },
+        {
+         "number": "9",
+         "Text": "{White}01{Cyan}  0,58{White}04{Cyan}  0,19{White}07{Cyan}  0,14{White}10{Cyan}  0,13"
+        },
+        {
+         "number": "10",
+         "Text": "{White}  {Cyan}  0,54{White}  {Cyan}  0,18{White}  {Cyan}  0,14{White}  {Cyan}  0,13"
+        },
+        {
+         "number": "11",
+         "Text": "{White}  {Cyan}  0,52{White}  {Cyan}  0,17{White}  {Cyan}  0,15{White}  {Cyan}  0,15"
+        },
+        {
+         "number": "12",
+         "Text": "{White}  {Cyan}  0,43{White}  {Cyan}  0,15{White}  {Cyan}  0,15{White}  {Cyan}  0,15"
+        },
+        {
+         "number": "13",
+         "Text": "{White}02{Cyan}  0,53{White}05{Cyan}  0,15{White}08{Cyan}  0,16{White}11{Cyan}  0,17"
+        },
+        {
+         "number": "14",
+         "Text": "{White}  {Cyan}  0,46{White}  {Cyan}  0,15{White}  {Cyan}  0,16{White}  {Cyan}  0,16"
+        },
+        {
+         "number": "15",
+         "Text": "{White}  {Cyan}  0,34{White}  {Cyan}  0,13{White}  {Cyan}  0,16{White}  {Cyan}  0,19"
+        },
+        {
+         "number": "16",
+         "Text": "{White}  {Cyan}  0,31{White}  {Cyan}  0,13{White}  {Cyan}  0,15{White}  {Cyan}  0,19"
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Päivän alin/ylin{Cyan}           0,13/0,64  "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Kuluvan päivän keskihinta{Cyan}       0,30  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}3 edell. päivän alin/ylin{Cyan}  0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}7  vrk:n keskihinta{Cyan}             3,49  "
+        },
+        {
+         "number": "22",
+         "Text": "{White}28 vrk:n keskihinta{Cyan}             5,02  "
+        },
+        {
+         "number": "23",
+         "Text": "{Magenta}Tuntikeskihinnat 188{Yellow}Tänään klo 12-24 >"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "Nord Pool                        "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "1/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Pörssisähkö          25.10. klo 23.10"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "Hinta nyt "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "0,25 snt/kWh "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "(sis. ALV:n)    "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "Tänään "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": "klo 00-12 (hinta 15 min välein) "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 00   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,64 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "03   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,25 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "06   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,13 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "09   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,16"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,60      0,20      0,13      0,16"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,55      0,19      0,13      0,16"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,47      0,17      0,14      0,13"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 01   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,58 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "04   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,19 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "07   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,14 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "10   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,13"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,54      0,18      0,14      0,13"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,52      0,17      0,15      0,15"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,43      0,15      0,15      0,15"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 02   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,53 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "05   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,15 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "08   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,16 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "11   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,17"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,46      0,15      0,16      0,16"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,34      0,13      0,16      0,19"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,31      0,13      0,15      0,19"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Päivän alin/ylin            "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,13/0,64  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " Kuluvan päivän keskihinta        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "0,30  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 3 edell. päivän alin/ylin   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,52/7,35  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 7  vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "3,49  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 28 vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "5,02  "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "17",
+           "Text": "Tuntikeskihinnat "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "link": "188",
+           "length": "3",
+           "Text": "188"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Tänään klo 12-24 >"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Nord Pool                        2/4 "
+        },
+        {
+         "number": "2",
+         "Text": "   Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": " Hinta nyt 0,25 snt/kWh (sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": " Tänään klo 12-24 (hinta 15min välein)  "
+        },
+        {
+         "number": "5",
+         "Text": " 12   0,19 15   0,38 18   0,45 21   0,31"
+        },
+        {
+         "number": "6",
+         "Text": "      0,19      0,43      0,46      0,32"
+        },
+        {
+         "number": "7",
+         "Text": "      0,19      0,47      0,45      0,27"
+        },
+        {
+         "number": "8",
+         "Text": "      0,19      0,50      0,45      0,25"
+        },
+        {
+         "number": "9",
+         "Text": " 13   0,21 16   0,49 19   0,49 22   0,34"
+        },
+        {
+         "number": "10",
+         "Text": "      0,22      0,54      0,46      0,33"
+        },
+        {
+         "number": "11",
+         "Text": "      0,25      0,45      0,44      0,31"
+        },
+        {
+         "number": "12",
+         "Text": "      0,25      0,47      0,43      0,28"
+        },
+        {
+         "number": "13",
+         "Text": " 14   0,25 17   0,45 20   0,43 23   0,25"
+        },
+        {
+         "number": "14",
+         "Text": "      0,25      0,47      0,43      0,24"
+        },
+        {
+         "number": "15",
+         "Text": "      0,32      0,43      0,40      0,24"
+        },
+        {
+         "number": "16",
+         "Text": "      0,40      0,45      0,36      0,20"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Päivän alin/ylin            0,13/0,64  "
+        },
+        {
+         "number": "19",
+         "Text": " Kuluvan päivän keskihinta        0,30  "
+        },
+        {
+         "number": "20",
+         "Text": " 3 edell. päivän alin/ylin   0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": " 7  vrk:n keskihinta              3,49  "
+        },
+        {
+         "number": "22",
+         "Text": " 28 vrk:n keskihinta              5,02  "
+        },
+        {
+         "number": "23",
+         "Text": " Keskihinnat s.188 Huomenna klo 00-12 >>"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Yellow}Nord Pool                      {Cyan} 2/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Hinta nyt{Cyan}0,25 snt/kWh{Green}(sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": "{Yellow}Tänään{White}klo 12-24 (hinta 15min välein)  "
+        },
+        {
+         "number": "5",
+         "Text": "{White}12{Cyan}  0,19{White}15{Cyan}  0,38{White}18{Cyan}  0,45{White}21{Cyan}  0,31"
+        },
+        {
+         "number": "6",
+         "Text": "{White}  {Cyan}  0,19{White}  {Cyan}  0,43{White}  {Cyan}  0,46{White}  {Cyan}  0,32"
+        },
+        {
+         "number": "7",
+         "Text": "{White}  {Cyan}  0,19{White}  {Cyan}  0,47{White}  {Cyan}  0,45{White}  {Cyan}  0,27"
+        },
+        {
+         "number": "8",
+         "Text": "{White}  {Cyan}  0,19{White}  {Cyan}  0,50{White}  {Cyan}  0,45{White}  {Cyan}  0,25"
+        },
+        {
+         "number": "9",
+         "Text": "{White}13{Cyan}  0,21{White}16{Cyan}  0,49{White}19{Cyan}  0,49{White}22{Cyan}  0,34"
+        },
+        {
+         "number": "10",
+         "Text": "{White}  {Cyan}  0,22{White}  {Cyan}  0,54{White}  {Cyan}  0,46{White}  {Cyan}  0,33"
+        },
+        {
+         "number": "11",
+         "Text": "{White}  {Cyan}  0,25{White}  {Cyan}  0,45{White}  {Cyan}  0,44{White}  {Cyan}  0,31"
+        },
+        {
+         "number": "12",
+         "Text": "{White}  {Cyan}  0,25{White}  {Cyan}  0,47{White}  {Cyan}  0,43{White}  {Cyan}  0,28"
+        },
+        {
+         "number": "13",
+         "Text": "{White}14{Cyan}  0,25{White}17{Cyan}  0,45{White}20{Cyan}  0,43{White}23{Cyan}  0,25"
+        },
+        {
+         "number": "14",
+         "Text": "{White}  {Cyan}  0,25{White}  {Cyan}  0,47{White}  {Cyan}  0,43{White}  {Cyan}  0,24"
+        },
+        {
+         "number": "15",
+         "Text": "{White}  {Cyan}  0,32{White}  {Cyan}  0,43{White}  {Cyan}  0,40{White}  {Cyan}  0,24"
+        },
+        {
+         "number": "16",
+         "Text": "{White}  {Cyan}  0,40{White}  {Cyan}  0,45{White}  {Cyan}  0,36{White}  {Cyan}  0,20"
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Päivän alin/ylin{Cyan}           0,13/0,64  "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Kuluvan päivän keskihinta{Cyan}       0,30  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}3 edell. päivän alin/ylin{Cyan}  0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}7  vrk:n keskihinta{Cyan}             3,49  "
+        },
+        {
+         "number": "22",
+         "Text": "{White}28 vrk:n keskihinta{Cyan}             5,02  "
+        },
+        {
+         "number": "23",
+         "Text": "{Magenta}Keskihinnat s.188{Yellow}Huomenna klo 00-12 >>"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "Nord Pool                        "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "2/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Pörssisähkö          25.10. klo 23.10"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "Hinta nyt "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "0,25 snt/kWh "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "(sis. ALV:n)    "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "Tänään "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": "klo 12-24 (hinta 15min välein)  "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 12   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,19 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "15   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,38 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "18   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,45 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "21   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,31"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,19      0,43      0,46      0,32"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,19      0,47      0,45      0,27"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,19      0,50      0,45      0,25"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 13   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,21 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "16   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,49 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "19   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,49 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "22   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,34"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,22      0,54      0,46      0,33"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,25      0,45      0,44      0,31"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,25      0,47      0,43      0,28"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 14   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,25 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "17   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,45 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "20   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,43 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "23   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,25"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,25      0,47      0,43      0,24"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,32      0,43      0,40      0,24"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,40      0,45      0,36      0,20"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Päivän alin/ylin            "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,13/0,64  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " Kuluvan päivän keskihinta        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "0,30  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 3 edell. päivän alin/ylin   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,52/7,35  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 7  vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "3,49  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 28 vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "5,02  "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "14",
+           "Text": "Keskihinnat s."
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "link": "188",
+           "length": "3",
+           "Text": "188"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": "Huomenna klo 00-12 "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": ">>",
+           "length": "2",
+           "Text": ">>"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Nord Pool                        3/4 "
+        },
+        {
+         "number": "2",
+         "Text": "   Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": " Hinta nyt 0,25 snt/kWh (sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": " Huomenna klo 00-12 (hinta 15min välein)"
+        },
+        {
+         "number": "5",
+         "Text": " 00   0,19 03   0,04 06   0,18 09   0,70"
+        },
+        {
+         "number": "6",
+         "Text": "      0,18      0,05      0,25      0,75"
+        },
+        {
+         "number": "7",
+         "Text": "      0,19      0,07      0,25      0,96"
+        },
+        {
+         "number": "8",
+         "Text": "      0,19      0,09      0,25      0,95"
+        },
+        {
+         "number": "9",
+         "Text": " 01   0,18 04   0,01 07   0,32 10   0,70"
+        },
+        {
+         "number": "10",
+         "Text": "      0,15      0,00      0,34      0,88"
+        },
+        {
+         "number": "11",
+         "Text": "      0,16      0,01      0,44      0,96"
+        },
+        {
+         "number": "12",
+         "Text": "      0,15      0,01      0,46      0,96"
+        },
+        {
+         "number": "13",
+         "Text": " 02   0,09 05   0,04 08   0,45 11   0,94"
+        },
+        {
+         "number": "14",
+         "Text": "      0,07      0,10      0,50      0,88"
+        },
+        {
+         "number": "15",
+         "Text": "      0,06      0,11      0,54      0,83"
+        },
+        {
+         "number": "16",
+         "Text": "      0,06      0,11      0,54      0,87"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Huomisen alin/ylin          0,00/1,41  "
+        },
+        {
+         "number": "19",
+         "Text": " Huomisen keskihinta              0,57  "
+        },
+        {
+         "number": "20",
+         "Text": " 3 edell. päivän alin/ylin   0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": " 7  vrk:n keskihinta              3,49  "
+        },
+        {
+         "number": "22",
+         "Text": " 28 vrk:n keskihinta              5,02  "
+        },
+        {
+         "number": "23",
+         "Text": " Keskihinnat s.188 Huomenna klo 12-24 >>"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Yellow}Nord Pool                      {Cyan} 3/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Hinta nyt{Cyan}0,25 snt/kWh{Green}(sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": "{Yellow}Huomenna{White}klo 00-12 (hinta 15min välein)"
+        },
+        {
+         "number": "5",
+         "Text": "{White}00{Cyan}  0,19{White}03{Cyan}  0,04{White}06{Cyan}  0,18{White}09{Cyan}  0,70"
+        },
+        {
+         "number": "6",
+         "Text": "{White}  {Cyan}  0,18{White}  {Cyan}  0,05{White}  {Cyan}  0,25{White}  {Cyan}  0,75"
+        },
+        {
+         "number": "7",
+         "Text": "{White}  {Cyan}  0,19{White}  {Cyan}  0,07{White}  {Cyan}  0,25{White}  {Cyan}  0,96"
+        },
+        {
+         "number": "8",
+         "Text": "{White}  {Cyan}  0,19{White}  {Cyan}  0,09{White}  {Cyan}  0,25{White}  {Cyan}  0,95"
+        },
+        {
+         "number": "9",
+         "Text": "{White}01{Cyan}  0,18{White}04{Cyan}  0,01{White}07{Cyan}  0,32{White}10{Cyan}  0,70"
+        },
+        {
+         "number": "10",
+         "Text": "{White}  {Cyan}  0,15{White}  {Cyan}  0,00{White}  {Cyan}  0,34{White}  {Cyan}  0,88"
+        },
+        {
+         "number": "11",
+         "Text": "{White}  {Cyan}  0,16{White}  {Cyan}  0,01{White}  {Cyan}  0,44{White}  {Cyan}  0,96"
+        },
+        {
+         "number": "12",
+         "Text": "{White}  {Cyan}  0,15{White}  {Cyan}  0,01{White}  {Cyan}  0,46{White}  {Cyan}  0,96"
+        },
+        {
+         "number": "13",
+         "Text": "{White}02{Cyan}  0,09{White}05{Cyan}  0,04{White}08{Cyan}  0,45{White}11{Cyan}  0,94"
+        },
+        {
+         "number": "14",
+         "Text": "{White}  {Cyan}  0,07{White}  {Cyan}  0,10{White}  {Cyan}  0,50{White}  {Cyan}  0,88"
+        },
+        {
+         "number": "15",
+         "Text": "{White}  {Cyan}  0,06{White}  {Cyan}  0,11{White}  {Cyan}  0,54{White}  {Cyan}  0,83"
+        },
+        {
+         "number": "16",
+         "Text": "{White}  {Cyan}  0,06{White}  {Cyan}  0,11{White}  {Cyan}  0,54{White}  {Cyan}  0,87"
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Huomisen alin/ylin{Cyan}         0,00/1,41  "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Huomisen keskihinta{Cyan}             0,57  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}3 edell. päivän alin/ylin{Cyan}  0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}7  vrk:n keskihinta{Cyan}             3,49  "
+        },
+        {
+         "number": "22",
+         "Text": "{White}28 vrk:n keskihinta{Cyan}             5,02  "
+        },
+        {
+         "number": "23",
+         "Text": "{Magenta}Keskihinnat s.188{Yellow}Huomenna klo 12-24 >>"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "Nord Pool                        "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "3/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Pörssisähkö          25.10. klo 23.10"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "Hinta nyt "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "0,25 snt/kWh "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "(sis. ALV:n)    "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "Huomenna "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": "klo 00-12 (hinta 15min välein)"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 00   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,19 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "03   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,04 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "06   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,18 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "09   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,70"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,18      0,05      0,25      0,75"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,19      0,07      0,25      0,96"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,19      0,09      0,25      0,95"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 01   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,18 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "04   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,01 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "07   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,32 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "10   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,70"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,15      0,00      0,34      0,88"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,16      0,01      0,44      0,96"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,15      0,01      0,46      0,96"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 02   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,09 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "05   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,04 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "08   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,45 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "11   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,94"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,07      0,10      0,50      0,88"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,06      0,11      0,54      0,83"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,06      0,11      0,54      0,87"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Huomisen alin/ylin          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,00/1,41  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " Huomisen keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "0,57  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 3 edell. päivän alin/ylin   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,52/7,35  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 7  vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "3,49  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 28 vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "5,02  "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "14",
+           "Text": "Keskihinnat s."
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "link": "188",
+           "length": "3",
+           "Text": "188"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": "Huomenna klo 12-24 "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": ">>",
+           "length": "2",
+           "Text": ">>"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Nord Pool                        4/4 "
+        },
+        {
+         "number": "2",
+         "Text": "   Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": " Hinta nyt 0,25 snt/kWh (sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": " Huomenna klo 12-24 (hinta 15min välein)"
+        },
+        {
+         "number": "5",
+         "Text": " 12   0,85 15   0,84 18   0,81 21   0,49"
+        },
+        {
+         "number": "6",
+         "Text": "      0,88      0,98      0,71      0,50"
+        },
+        {
+         "number": "7",
+         "Text": "      0,83      1,17      0,70      0,47"
+        },
+        {
+         "number": "8",
+         "Text": "      0,89      1,26      0,65      0,45"
+        },
+        {
+         "number": "9",
+         "Text": " 13   0,92 16   1,15 19   0,58 22   0,45"
+        },
+        {
+         "number": "10",
+         "Text": "      0,92      1,26      0,59      0,53"
+        },
+        {
+         "number": "11",
+         "Text": "      0,78      1,41      0,58      0,61"
+        },
+        {
+         "number": "12",
+         "Text": "      0,91      1,40      0,60      0,61"
+        },
+        {
+         "number": "13",
+         "Text": " 14   0,63 17   1,28 20   0,62 23   0,48"
+        },
+        {
+         "number": "14",
+         "Text": "      0,65      1,26      0,60      0,48"
+        },
+        {
+         "number": "15",
+         "Text": "      0,78      1,18      0,53      0,45"
+        },
+        {
+         "number": "16",
+         "Text": "      1,04      1,04      0,53      0,43"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Huomisen alin/ylin          0,00/1,41  "
+        },
+        {
+         "number": "19",
+         "Text": " Huomisen keskihinta              0,57  "
+        },
+        {
+         "number": "20",
+         "Text": " 3 edell. päivän alin/ylin   0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": " 7  vrk:n keskihinta              3,49  "
+        },
+        {
+         "number": "22",
+         "Text": " 28 vrk:n keskihinta              5,02  "
+        },
+        {
+         "number": "23",
+         "Text": " Tuntikeskihinnat 188 Tänään klo 00-12 >"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{Yellow}Nord Pool                      {Cyan} 4/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}Pörssisähkö          25.10. klo 23.10"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Hinta nyt{Cyan}0,25 snt/kWh{Green}(sis. ALV:n)    "
+        },
+        {
+         "number": "4",
+         "Text": "{Yellow}Huomenna{White}klo 12-24 (hinta 15min välein)"
+        },
+        {
+         "number": "5",
+         "Text": "{White}12{Cyan}  0,85{White}15{Cyan}  0,84{White}18{Cyan}  0,81{White}21{Cyan}  0,49"
+        },
+        {
+         "number": "6",
+         "Text": "{White}  {Cyan}  0,88{White}  {Cyan}  0,98{White}  {Cyan}  0,71{White}  {Cyan}  0,50"
+        },
+        {
+         "number": "7",
+         "Text": "{White}  {Cyan}  0,83{White}  {Cyan}  1,17{White}  {Cyan}  0,70{White}  {Cyan}  0,47"
+        },
+        {
+         "number": "8",
+         "Text": "{White}  {Cyan}  0,89{White}  {Cyan}  1,26{White}  {Cyan}  0,65{White}  {Cyan}  0,45"
+        },
+        {
+         "number": "9",
+         "Text": "{White}13{Cyan}  0,92{White}16{Cyan}  1,15{White}19{Cyan}  0,58{White}22{Cyan}  0,45"
+        },
+        {
+         "number": "10",
+         "Text": "{White}  {Cyan}  0,92{White}  {Cyan}  1,26{White}  {Cyan}  0,59{White}  {Cyan}  0,53"
+        },
+        {
+         "number": "11",
+         "Text": "{White}  {Cyan}  0,78{White}  {Cyan}  1,41{White}  {Cyan}  0,58{White}  {Cyan}  0,61"
+        },
+        {
+         "number": "12",
+         "Text": "{White}  {Cyan}  0,91{White}  {Cyan}  1,40{White}  {Cyan}  0,60{White}  {Cyan}  0,61"
+        },
+        {
+         "number": "13",
+         "Text": "{White}14{Cyan}  0,63{White}17{Cyan}  1,28{White}20{Cyan}  0,62{White}23{Cyan}  0,48"
+        },
+        {
+         "number": "14",
+         "Text": "{White}  {Cyan}  0,65{White}  {Cyan}  1,26{White}  {Cyan}  0,60{White}  {Cyan}  0,48"
+        },
+        {
+         "number": "15",
+         "Text": "{White}  {Cyan}  0,78{White}  {Cyan}  1,18{White}  {Cyan}  0,53{White}  {Cyan}  0,45"
+        },
+        {
+         "number": "16",
+         "Text": "{White}  {Cyan}  1,04{White}  {Cyan}  1,04{White}  {Cyan}  0,53{White}  {Cyan}  0,43"
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Huomisen alin/ylin{Cyan}         0,00/1,41  "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Huomisen keskihinta{Cyan}             0,57  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}3 edell. päivän alin/ylin{Cyan}  0,52/7,35  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}7  vrk:n keskihinta{Cyan}             3,49  "
+        },
+        {
+         "number": "22",
+         "Text": "{White}28 vrk:n keskihinta{Cyan}             5,02  "
+        },
+        {
+         "number": "23",
+         "Text": "{Magenta}Tuntikeskihinnat 188{Yellow}Tänään klo 00-12 >"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "Nord Pool                        "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "4/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Pörssisähkö          25.10. klo 23.10"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "Hinta nyt "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "0,25 snt/kWh "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "(sis. ALV:n)    "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "Huomenna "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": "klo 12-24 (hinta 15min välein)"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 12   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,85 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "15   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,84 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "18   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,81 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "21   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,49"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,88      0,98      0,71      0,50"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,83      1,17      0,70      0,47"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,89      1,26      0,65      0,45"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 13   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,92 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "16   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "1,15 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "19   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,58 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "22   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,45"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,92      1,26      0,59      0,53"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,78      1,41      0,58      0,61"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,91      1,40      0,60      0,61"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 14   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,63 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "17   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "1,28 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "20   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "0,62 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "23   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "0,48"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,65      1,26      0,60      0,48"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "0,78      1,18      0,53      0,45"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "1,04      1,04      0,53      0,43"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Huomisen alin/ylin          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,00/1,41  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " Huomisen keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "0,57  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 3 edell. päivän alin/ylin   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "0,52/7,35  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 7  vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "3,49  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 28 vrk:n keskihinta              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "5,02  "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "17",
+           "Text": "Tuntikeskihinnat "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "link": "188",
+           "length": "3",
+           "Text": "188"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Tänään klo 00-12 >"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

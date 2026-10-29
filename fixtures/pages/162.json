@@ -1,0 +1,475 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "162",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "161",
+   "nextpg": "163",
+   "toptype": "normal",
+   "time": "2026-10-21T01:51:55",
+   "utctime": "2026-10-20T22:51:55",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   TALOUS          YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Musk: Tesla ja SpaceX ehkä yhteen     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Miljardööri Elon Musk sanoo, että      "
+        },
+        {
+         "number": "7",
+         "Text": " avaruusyhtiö SpaceX:n ja auto-         "
+        },
+        {
+         "number": "8",
+         "Text": " valmistaja Teslan yhdistyminen olisi   "
+        },
+        {
+         "number": "9",
+         "Text": " hyvä idea. Samalla hän paljastaa, että "
+        },
+        {
+         "number": "10",
+         "Text": " yhtiöissä on perustettu erityis-       "
+        },
+        {
+         "number": "11",
+         "Text": " komiteat, joiden tehtävä on selvittää  "
+        },
+        {
+         "number": "12",
+         "Text": " yritysten mahdollista yhdistämistä.    "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Musk kertoi asiasta samaan aikaan, kun "
+        },
+        {
+         "number": "15",
+         "Text": " SpaceX ilmoitti ensimmäisestä vuosi-   "
+        },
+        {
+         "number": "16",
+         "Text": " neljänneksen tuloksesta pörssiin       "
+        },
+        {
+         "number": "17",
+         "Text": " listautumisensa jälkeen. Yhtiö         "
+        },
+        {
+         "number": "18",
+         "Text": " listautui kesäkuussa.                  "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " Yhtiön kokonaistulos oli 4,4 miljardia "
+        },
+        {
+         "number": "21",
+         "Text": " dollaria. Yhtiön liikevaihto kasvoi    "
+        },
+        {
+         "number": "22",
+         "Text": " 161 prosenttia vuoden takaisesta ja    "
+        },
+        {
+         "number": "23",
+         "Text": " oli nyt 14,6 miljardia.                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}TALOUS          YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Musk: Tesla ja SpaceX ehkä yhteen     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Miljardööri Elon Musk sanoo, että      "
+        },
+        {
+         "number": "7",
+         "Text": "{White}avaruusyhtiö SpaceX:n ja auto-         "
+        },
+        {
+         "number": "8",
+         "Text": "{White}valmistaja Teslan yhdistyminen olisi   "
+        },
+        {
+         "number": "9",
+         "Text": "{White}hyvä idea. Samalla hän paljastaa, että "
+        },
+        {
+         "number": "10",
+         "Text": "{White}yhtiöissä on perustettu erityis-       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}komiteat, joiden tehtävä on selvittää  "
+        },
+        {
+         "number": "12",
+         "Text": "{White}yritysten mahdollista yhdistämistä.    "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Musk kertoi asiasta samaan aikaan, kun "
+        },
+        {
+         "number": "15",
+         "Text": "{White}SpaceX ilmoitti ensimmäisestä vuosi-   "
+        },
+        {
+         "number": "16",
+         "Text": "{White}neljänneksen tuloksesta pörssiin       "
+        },
+        {
+         "number": "17",
+         "Text": "{White}listautumisensa jälkeen. Yhtiö         "
+        },
+        {
+         "number": "18",
+         "Text": "{White}listautui kesäkuussa.                  "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Yhtiön kokonaistulos oli 4,4 miljardia "
+        },
+        {
+         "number": "21",
+         "Text": "{White}dollaria. Yhtiön liikevaihto kasvoi    "
+        },
+        {
+         "number": "22",
+         "Text": "{White}161 prosenttia vuoden takaisesta ja    "
+        },
+        {
+         "number": "23",
+         "Text": "{White}oli nyt 14,6 miljardia.                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "TALOUS          YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Musk: Tesla ja SpaceX ehkä yhteen     "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Miljardööri Elon Musk sanoo, että      "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " avaruusyhtiö SpaceX:n ja auto-         "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " valmistaja Teslan yhdistyminen olisi   "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " hyvä idea. Samalla hän paljastaa, että "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " yhtiöissä on perustettu erityis-       "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " komiteat, joiden tehtävä on selvittää  "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " yritysten mahdollista yhdistämistä.    "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Musk kertoi asiasta samaan aikaan, kun "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " SpaceX ilmoitti ensimmäisestä vuosi-   "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " neljänneksen tuloksesta pörssiin       "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " listautumisensa jälkeen. Yhtiö         "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " listautui kesäkuussa.                  "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Yhtiön kokonaistulos oli 4,4 miljardia "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " dollaria. Yhtiön liikevaihto kasvoi    "
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "161",
+           "length": "3",
+           "Text": "161"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " prosenttia vuoden takaisesta ja    "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " oli nyt 14,6 miljardia.                "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

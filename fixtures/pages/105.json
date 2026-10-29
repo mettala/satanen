@@ -1,0 +1,459 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "105",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "104",
+   "nextpg": "106",
+   "toptype": "normal",
+   "time": "2026-10-21T06:08:42",
+   "utctime": "2026-10-21T03:08:42",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Yksi kuoli Jyväskylän palossa         "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Jyväskylässä Hämeenkadulla             "
+        },
+        {
+         "number": "7",
+         "Text": " tapahtuneessa kerrostalopalossa on     "
+        },
+        {
+         "number": "8",
+         "Text": " kuollut yksi mies. Neljä ihmistä on    "
+        },
+        {
+         "number": "9",
+         "Text": " toimitettu sairaalaan, kertoo          "
+        },
+        {
+         "number": "10",
+         "Text": " Keski-Suomen pelastuslaitos.           "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " Ensihoito tarkasti paikan päällä 16    "
+        },
+        {
+         "number": "13",
+         "Text": " ihmistä, joista neljä lähti            "
+        },
+        {
+         "number": "14",
+         "Text": " jatkotutkimuksiin.                     "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Palo sattui yhdessä huoneistossa, ja   "
+        },
+        {
+         "number": "17",
+         "Text": " savu levisi porraskäytävään ja muihin  "
+        },
+        {
+         "number": "18",
+         "Text": " asuntoihin. Päivystävän palomestarin   "
+        },
+        {
+         "number": "19",
+         "Text": " mukaan vaaraan joutuivat erityisesti   "
+        },
+        {
+         "number": "20",
+         "Text": " porraskäytävään paenneet.              "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": " Pelastuslaitos sai hälytyksen hieman   "
+        },
+        {
+         "number": "23",
+         "Text": " ennen iltaseitsemää kerrostaloon.      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Yksi kuoli Jyväskylän palossa         "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Jyväskylässä Hämeenkadulla             "
+        },
+        {
+         "number": "7",
+         "Text": "{White}tapahtuneessa kerrostalopalossa on     "
+        },
+        {
+         "number": "8",
+         "Text": "{White}kuollut yksi mies. Neljä ihmistä on    "
+        },
+        {
+         "number": "9",
+         "Text": "{White}toimitettu sairaalaan, kertoo          "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Keski-Suomen pelastuslaitos.           "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Ensihoito tarkasti paikan päällä 16    "
+        },
+        {
+         "number": "13",
+         "Text": "{White}ihmistä, joista neljä lähti            "
+        },
+        {
+         "number": "14",
+         "Text": "{White}jatkotutkimuksiin.                     "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Palo sattui yhdessä huoneistossa, ja   "
+        },
+        {
+         "number": "17",
+         "Text": "{White}savu levisi porraskäytävään ja muihin  "
+        },
+        {
+         "number": "18",
+         "Text": "{White}asuntoihin. Päivystävän palomestarin   "
+        },
+        {
+         "number": "19",
+         "Text": "{White}mukaan vaaraan joutuivat erityisesti   "
+        },
+        {
+         "number": "20",
+         "Text": "{White}porraskäytävään paenneet.              "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Pelastuslaitos sai hälytyksen hieman   "
+        },
+        {
+         "number": "23",
+         "Text": "{White}ennen iltaseitsemää kerrostaloon.      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "KOTIMAA         YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Yksi kuoli Jyväskylän palossa         "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jyväskylässä Hämeenkadulla             "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tapahtuneessa kerrostalopalossa on     "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kuollut yksi mies. Neljä ihmistä on    "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " toimitettu sairaalaan, kertoo          "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Keski-Suomen pelastuslaitos.           "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ensihoito tarkasti paikan päällä 16    "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ihmistä, joista neljä lähti            "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " jatkotutkimuksiin.                     "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Palo sattui yhdessä huoneistossa, ja   "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " savu levisi porraskäytävään ja muihin  "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " asuntoihin. Päivystävän palomestarin   "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " mukaan vaaraan joutuivat erityisesti   "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " porraskäytävään paenneet.              "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pelastuslaitos sai hälytyksen hieman   "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ennen iltaseitsemää kerrostaloon.      "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

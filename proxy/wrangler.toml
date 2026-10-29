@@ -1,0 +1,30 @@
+name = "satanen-proxy"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+# No account id and no secrets here. The Yle keys are Worker secrets
+# (YLE_APP_ID, YLE_APP_KEY); locally they come from .dev.vars.
+
+# Custom domain: Cloudflare creates the DNS record and certificate on deploy.
+# satanen.io must be an active zone in the same Cloudflare account.
+[[routes]]
+pattern = "api.satanen.io"
+custom_domain = true
+
+[vars]
+# Production only. `npm run dev` adds the app's development address with
+# --var (package.json), so nothing on a computer's own address can read the
+# live proxy (PUB.14).
+ALLOWED_ORIGINS = "https://satanen.io"
+
+# No Workers Logs (D45): request logs would hold the visitor's connection
+# details for longer than needed. The counts below are all we keep. Turn this
+# on only while hunting a fault, and off again after.
+[observability]
+enabled = false
+
+# Page counts (D32, D45). The dataset is created on the first write. The salt
+# is a Worker secret (ANALYTICS_SALT); locally it comes from .dev.vars.
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "satanen_analytics"

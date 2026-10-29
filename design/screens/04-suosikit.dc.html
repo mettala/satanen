@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>Suosikit</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&amp;display=swap">
+<style>
+body{margin:0;font-family:'Schibsted Grotesk',system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; background: {{t.bg}}; color: {{t.ink}}; display: flex; flex-direction: column; font-family: 'Schibsted Grotesk', system-ui, sans-serif;">
+<div style="padding: 52px 20px 14px; display: flex; align-items: baseline; justify-content: space-between;">
+<div style="font-size: 24px; font-weight: 800; letter-spacing: -0.02em;">Suosikit</div>
+<a href="#" style="font-size: 15px; font-weight: 600; color: {{t.link}}; padding: 10px 0;">Muokkaa</a>
+</div>
+<div style="flex-grow: 1; overflow: hidden; padding: 0 20px; display: flex; flex-direction: column; gap: 12px;">
+<sc-for list="{{favs}}" as="f" hint-placeholder-count="4">
+<a href="#" style="background: {{t.surface}}; border-radius: 16px; padding: 16px 18px; display: flex; flex-direction: column; gap: 8px;">
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; color: {{f.c}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{f.c}};"></span><span style="flex-grow: 1;">{{f.name}} · {{f.n}}</span><span style="font-weight: 400; letter-spacing: 0; font-size: 13px; color: {{t.muted}};">{{f.t}}</span></div>
+<div style="font-size: 18px; font-weight: 700; line-height: 1.25;">{{f.h}}</div>
+<div style="font-size: 15px; line-height: 1.4; color: {{t.muted}};">{{f.sub}}</div>
+</a>
+</sc-for>
+</div>
+<nav style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-top: 1px solid {{t.line}}; background: {{t.bg}}; padding: 8px 8px 26px;">
+<a href="01-etusivu.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"></rect><path d="M8 9h8M8 13h8M8 17h5"></path></svg>Uutiset</a>
+<a href="#" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="8"></circle><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"></path></svg>Urheilu</a>
+<a href="#" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18h10a4 4 0 0 0 0-8 6 6 0 0 0-11.5 1.5A3.3 3.3 0 0 0 7 18z"></path></svg>Sää</a>
+<a href="04-suosikit.dc.html" aria-current="page" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.ink}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 4l2.5 5 5.5.8-4 3.9.9 5.5-4.9-2.6-4.9 2.6.9-5.5-4-3.9 5.5-.8z"></path></svg>Suosikit</a>
+</nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"mode":{"editor":"enum","options":["light","dark"],"default":"light"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+renderVals() {
+const themes = {
+light: { bg: '#F6F7F9', surface: '#FFFFFF', ink: '#15181D', muted: '#5D636E', line: '#E1E4E9', link: '#1D47B8', news: '#2357D9', biz: '#A84A08', sport: '#2B7A35', weather: '#6B45C6' },
+dark: { bg: '#15181D', surface: '#1F232A', ink: '#ECEEF1', muted: '#A0A7B2', line: '#2E333B', link: '#9DB6FF', news: '#86A6FF', biz: '#F2A35E', sport: '#6DD27C', weather: '#B69CFF' }
+};
+const t = themes[this.props.mode] || themes.light;
+return {
+t,
+favs: [
+{ name: 'LIIGA', n: '235', t: '14.28', c: t.sport, h: '[Illan ottelut — tilanne nyt]', sub: '[Kärkiottelun tulos · 3 ottelua käynnissä]' },
+{ name: 'SÄÄ ESPOO', n: '403', t: '14.00', c: t.weather, h: '[Huomenna pilvistä, +6 °C]', sub: '[Iltapäivällä sadetta]' },
+{ name: 'TALOUS', n: '160', t: '14.15', c: t.biz, h: 'Pörssi nousi aamupäivän kaupankäynnissä', sub: '[Indeksi ja suurimmat nousijat]' },
+{ name: 'KOTIMAA', n: '102', t: '14:32', c: t.news, h: 'Hallitus esittää uutta energiatukea', sub: '+ 6 muuta uutista' }
+]
+};
+}
+}
+</script>
+</body>
+</html>

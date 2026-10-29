@@ -1,0 +1,35 @@
+# Generated / build output
+node_modules/
+.expo/
+dist/
+web-build/
+coverage/
+src/theme/tokens.generated.ts
+
+# Assets and binary files
+assets/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+# Hand-maintained docs and design files (kept out of prettier's scope)
+docs/
+design/
+design-system/
+
+# Agent config and instructions
+.claude/
+AGENTS.md
+CLAUDE.md
+
+# Lockfile and files prettier cannot parse
+package-lock.json
+.gitignore
+.nvmrc
+.env*
+.git
+fixtures/pages/
+proxy/package-lock.json

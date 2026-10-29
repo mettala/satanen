@@ -1,0 +1,1021 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "160",
+   "name": "Talous",
+   "subpagecount": "1",
+   "prevpg": "139",
+   "nextpg": "161",
+   "toptype": "group",
+   "time": "2026-10-22T00:15:51",
+   "utctime": "2026-10-21T21:15:51",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "                           TORSTAI      "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " Keskiviikon uutisia:                   "
+        },
+        {
+         "number": "10",
+         "Text": " 161 Netflixin osake laskussa           "
+        },
+        {
+         "number": "11",
+         "Text": " 162 Musk: Tesla ja SpaceX ehkä yhteen  "
+        },
+        {
+         "number": "12",
+         "Text": " 163 Nordea: Käänne asuntomarkkinoille  "
+        },
+        {
+         "number": "13",
+         "Text": " 164 Elisa panostaa asiakaskokemukseen  "
+        },
+        {
+         "number": "14",
+         "Text": " 165 Pihlajalinnalta tulosvaroitus      "
+        },
+        {
+         "number": "15",
+         "Text": " 166 Hartwallin toimitusjohtaja ulos    "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " 172-173 Korot ja valuuttakurssit       "
+        },
+        {
+         "number": "19",
+         "Text": " 174 Maailman pörssien kursseja         "
+        },
+        {
+         "number": "20",
+         "Text": " 175-187 Pörssisivut                    "
+        },
+        {
+         "number": "21",
+         "Text": " 188-189 Pörssisähkön hinta             "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "   102 KOTIMAA 130 ULKOMAAT 200 URHEILU "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4  {GWhite}{White}{GWhite}`p p 0 `0` 0`p                 "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}{GWhite}   5jp55 5jj 5)d    TORSTAI      "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%  {GWhite}   !\" !#!\"! # #!                 "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Keskiviikon uutisia:                   "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}161 Netflixin osake laskussa           "
+        },
+        {
+         "number": "11",
+         "Text": "{White}162 Musk: Tesla ja SpaceX ehkä yhteen  "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}163 Nordea: Käänne asuntomarkkinoille  "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}164 Elisa panostaa asiakaskokemukseen  "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}165 Pihlajalinnalta tulosvaroitus      "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}166 Hartwallin toimitusjohtaja ulos    "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{GBlue}###################################### "
+        },
+        {
+         "number": "18",
+         "Text": "{Yellow}172-173 Korot ja valuuttakurssit       "
+        },
+        {
+         "number": "19",
+         "Text": "{Yellow}174 Maailman pörssien kursseja         "
+        },
+        {
+         "number": "20",
+         "Text": "{Yellow}175-187 Pörssisivut                    "
+        },
+        {
+         "number": "21",
+         "Text": "{Yellow}188-189 Pörssisähkön hinta             "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}102 KOTIMAA 130 ULKOMAAT 200 URHEILU "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "17",
+           "Text": "    TORSTAI      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Keskiviikon uutisia:                   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "161",
+           "length": "3",
+           "Text": "161"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Netflixin osake laskussa           "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "162",
+           "length": "3",
+           "Text": "162"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Musk: Tesla ja SpaceX ehkä yhteen  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "163",
+           "length": "3",
+           "Text": "163"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Nordea: Käänne asuntomarkkinoille  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "164",
+           "length": "3",
+           "Text": "164"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Elisa panostaa asiakaskokemukseen  "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "165",
+           "length": "3",
+           "Text": "165"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Pihlajalinnalta tulosvaroitus      "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "166",
+           "length": "3",
+           "Text": "166"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Hartwallin toimitusjohtaja ulos    "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "38",
+           "Text": "######################################"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "172",
+           "length": "3",
+           "Text": "172"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "173",
+           "length": "3",
+           "Text": "173"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "32",
+           "Text": " Korot ja valuuttakurssit       "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "174",
+           "length": "3",
+           "Text": "174"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "36",
+           "Text": " Maailman pörssien kursseja         "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "175",
+           "length": "3",
+           "Text": "175"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "187",
+           "length": "3",
+           "Text": "187"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "32",
+           "Text": " Pörssisivut                    "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "188",
+           "length": "3",
+           "Text": "188"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "189",
+           "length": "3",
+           "Text": "189"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "32",
+           "Text": " Pörssisähkön hinta             "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": " KOTIMAA "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "130",
+           "length": "3",
+           "Text": "130"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "10",
+           "Text": " ULKOMAAT "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": " URHEILU "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

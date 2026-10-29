@@ -1,0 +1,461 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "104",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "103",
+   "nextpg": "105",
+   "toptype": "normal",
+   "time": "2026-10-21T05:31:45",
+   "utctime": "2026-10-21T02:31:45",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Auto törmäsi tolppaan Limingassa      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Limingassa neljä ihmistä loukkaantui   "
+        },
+        {
+         "number": "7",
+         "Text": " vakavasti, kun henkilöauto törmäsi     "
+        },
+        {
+         "number": "8",
+         "Text": " liikenneopasteen tolppaan myöhään      "
+        },
+        {
+         "number": "9",
+         "Text": " tiistaina. Asiasta kertoo              "
+        },
+        {
+         "number": "10",
+         "Text": " Pohjois-Pohjanmaan pelastuslaitos.     "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " Oulun poliisin mukaan henkilöauto      "
+        },
+        {
+         "number": "13",
+         "Text": " törmäsi pylvääseen kovalla nopeudella. "
+        },
+        {
+         "number": "14",
+         "Text": " Poliisi epäilee alkoholilla olleen     "
+        },
+        {
+         "number": "15",
+         "Text": " osuutta turmaan.                       "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Nelostiellä Jyväskylän suunnasta       "
+        },
+        {
+         "number": "18",
+         "Text": " kulkeneessa autossa oli kyydissä viisi "
+        },
+        {
+         "number": "19",
+         "Text": " ihmistä. Pelastuslaitos irrotti kaksi  "
+        },
+        {
+         "number": "20",
+         "Text": " ihmistä autosta sekä avusti ensihoitoa "
+        },
+        {
+         "number": "21",
+         "Text": " muiden loukkaantuneiden siirtämisessä. "
+        },
+        {
+         "number": "22",
+         "Text": " Poliisin mukaan kaikki kyydissä olleet "
+        },
+        {
+         "number": "23",
+         "Text": " loukkaantuivat.                        "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Auto törmäsi tolppaan Limingassa      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Limingassa neljä ihmistä loukkaantui   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}vakavasti, kun henkilöauto törmäsi     "
+        },
+        {
+         "number": "8",
+         "Text": "{White}liikenneopasteen tolppaan myöhään      "
+        },
+        {
+         "number": "9",
+         "Text": "{White}tiistaina. Asiasta kertoo              "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Pohjois-Pohjanmaan pelastuslaitos.     "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Oulun poliisin mukaan henkilöauto      "
+        },
+        {
+         "number": "13",
+         "Text": "{White}törmäsi pylvääseen kovalla nopeudella. "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Poliisi epäilee alkoholilla olleen     "
+        },
+        {
+         "number": "15",
+         "Text": "{White}osuutta turmaan.                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Nelostiellä Jyväskylän suunnasta       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}kulkeneessa autossa oli kyydissä viisi "
+        },
+        {
+         "number": "19",
+         "Text": "{White}ihmistä. Pelastuslaitos irrotti kaksi  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}ihmistä autosta sekä avusti ensihoitoa "
+        },
+        {
+         "number": "21",
+         "Text": "{White}muiden loukkaantuneiden siirtämisessä. "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Poliisin mukaan kaikki kyydissä olleet "
+        },
+        {
+         "number": "23",
+         "Text": "{White}loukkaantuivat.                        "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "KOTIMAA         YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Auto törmäsi tolppaan Limingassa      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Limingassa neljä ihmistä loukkaantui   "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " vakavasti, kun henkilöauto törmäsi     "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " liikenneopasteen tolppaan myöhään      "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tiistaina. Asiasta kertoo              "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pohjois-Pohjanmaan pelastuslaitos.     "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Oulun poliisin mukaan henkilöauto      "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " törmäsi pylvääseen kovalla nopeudella. "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Poliisi epäilee alkoholilla olleen     "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " osuutta turmaan.                       "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Nelostiellä Jyväskylän suunnasta       "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kulkeneessa autossa oli kyydissä viisi "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ihmistä. Pelastuslaitos irrotti kaksi  "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ihmistä autosta sekä avusti ensihoitoa "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " muiden loukkaantuneiden siirtämisessä. "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Poliisin mukaan kaikki kyydissä olleet "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " loukkaantuivat.                        "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

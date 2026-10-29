@@ -1,0 +1,1014 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "130",
+   "name": "Ulkomaat",
+   "subpagecount": "1",
+   "prevpg": "113",
+   "nextpg": "131",
+   "toptype": "group",
+   "time": "2026-10-22T00:14:57",
+   "utctime": "2026-10-21T21:14:57",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "                           TORSTAI      "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Keskiviikon uutisia:                   "
+        },
+        {
+         "number": "14",
+         "Text": " 131 Witkoff tapasi Putinin             "
+        },
+        {
+         "number": "15",
+         "Text": " 132 WSJ: Musk määräsi Starlink-verkosta"
+        },
+        {
+         "number": "16",
+         "Text": " 133 Hävittäjä syöksyi maahan Ranskassa "
+        },
+        {
+         "number": "17",
+         "Text": " 134 Ilmasto lämpenee yli 1,5 astetta   "
+        },
+        {
+         "number": "18",
+         "Text": " 135 Putin haluaa kaupankäyntiä USA:han "
+        },
+        {
+         "number": "19",
+         "Text": " 136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "20",
+         "Text": " 137 Pariisiin ulkonaliikkumiskielto    "
+        },
+        {
+         "number": "21",
+         "Text": " 138 PHP-vika sulki verkkosivuja        "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "   102 KOTIMAA  160 TALOUS  200 URHEILU "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4  {GWhite}0`` 0` p 0 0`0 p p0              "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}{GWhite}5jj =1j 57&5uzjp5j  TORSTAI      "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%{GWhite}  \"!\"!!\" # ! !!\"\" !\"               "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Keskiviikon uutisia:                   "
+        },
+        {
+         "number": "14",
+         "Text": "{White}131 Witkoff tapasi Putinin             "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}132 WSJ: Musk määräsi Starlink-verkosta"
+        },
+        {
+         "number": "16",
+         "Text": "{SB}133 Hävittäjä syöksyi maahan Ranskassa "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}134 Ilmasto lämpenee yli 1,5 astetta   "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}135 Putin haluaa kaupankäyntiä USA:han "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}136 Putin: Olen valmis neuvotteluihin  "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}137 Pariisiin ulkonaliikkumiskielto    "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}138 PHP-vika sulki verkkosivuja        "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}102 KOTIMAA  160 TALOUS  200 URHEILU "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "2",
+           "Text": "``"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "31h",
+           "length": "1",
+           "Text": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Ah",
+           "length": "1",
+           "Text": "z"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15",
+           "Text": "  TORSTAI      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Keskiviikon uutisia:                   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "131",
+           "length": "3",
+           "Text": "131"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Witkoff tapasi Putinin             "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "132",
+           "length": "3",
+           "Text": "132"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " WSJ: Musk määräsi Starlink-verkosta"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "133",
+           "length": "3",
+           "Text": "133"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Hävittäjä syöksyi maahan Ranskassa "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "134",
+           "length": "3",
+           "Text": "134"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Ilmasto lämpenee yli 1,5 astetta   "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "135",
+           "length": "3",
+           "Text": "135"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Putin haluaa kaupankäyntiä USA:han "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "136",
+           "length": "3",
+           "Text": "136"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Putin: Olen valmis neuvotteluihin  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "137",
+           "length": "3",
+           "Text": "137"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " Pariisiin ulkonaliikkumiskielto    "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "138",
+           "length": "3",
+           "Text": "138"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " PHP-vika sulki verkkosivuja        "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "102",
+           "length": "3",
+           "Text": "102"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "10",
+           "Text": " KOTIMAA  "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": " TALOUS  "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": " URHEILU "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

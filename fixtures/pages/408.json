@@ -1,0 +1,1854 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "408",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "407",
+   "nextpg": "409",
+   "toptype": "normal",
+   "time": "2026-10-21T15:30:03",
+   "utctime": "2026-10-21T12:30:03",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "       Ilmatieteen laitos: 3 vrk    1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "       21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "     klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": " Amsterdam +12vk SW6 +11vs SE5 +12pi SW5"
+        },
+        {
+         "number": "5",
+         "Text": " Ateena    +23se SW3 +24vk SE0 +21pp  E1"
+        },
+        {
+         "number": "6",
+         "Text": " Barcelona +18pi  E2 +21pp  W3 +18pi  S2"
+        },
+        {
+         "number": "7",
+         "Text": " Belgrad   +17pp NW4 +14se NW1 +18pi SE3"
+        },
+        {
+         "number": "8",
+         "Text": " Berliini  +12pi SW3 +13pi SE3 +10vs SW6"
+        },
+        {
+         "number": "9",
+         "Text": " Bryssel   +13vk SW7 +12vs SE6 +11pi SW5"
+        },
+        {
+         "number": "10",
+         "Text": " Budapest  +13pi NW7 +14se SE2  +9vs NW2"
+        },
+        {
+         "number": "11",
+         "Text": " Bukarest  +18vk  N1 +14vs NW0 +17pi NE1"
+        },
+        {
+         "number": "12",
+         "Text": " Dublin    +12pp SW3 +10se NW8 +14vs SW9"
+        },
+        {
+         "number": "13",
+         "Text": " Frankfurt +13pi SW6 +11vs  S4 +11pp SW6"
+        },
+        {
+         "number": "14",
+         "Text": " Glasgow   +10vk  W5  +6vs NW5 +11vs  S7"
+        },
+        {
+         "number": "15",
+         "Text": " Göteborg  +12pi  S4 +12se SE2 +12pi  E4"
+        },
+        {
+         "number": "16",
+         "Text": " Istanbul  +21se  S1 +21vk  N3 +18vk  N4"
+        },
+        {
+         "number": "17",
+         "Text": " Kiova     +15vs SE4 +16pi SE3 +17pi SE3"
+        },
+        {
+         "number": "18",
+         "Text": " Kööpenham +12pi SW5 +11pp  S4 +11pp SW4"
+        },
+        {
+         "number": "19",
+         "Text": " Las Palma +23vk SE4 +23vk  E4 +22vs NE4"
+        },
+        {
+         "number": "20",
+         "Text": " Lissabon  +19se  W2 +20se  N3 +19pi  N3"
+        },
+        {
+         "number": "21",
+         "Text": " Lontoo    +13se  W4 +12vk  N3 +11vs SW5"
+        },
+        {
+         "number": "22",
+         "Text": " Madrid    +17se SW2 +17se NW2 +16pi SW2"
+        },
+        {
+         "number": "23",
+         "Text": " Malaga    +22se SE2 +23pi NW6 +22pp  S2"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{Cyan}{NB}{Blue}Ilmatieteen laitos: 3 vrk    1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Blue}{NB}{White}21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{Yellow}klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Amsterdam +12vk SW6 +11vs SE5 +12pi SW5"
+        },
+        {
+         "number": "5",
+         "Text": "{White}Ateena    +23se SW3 +24vk SE0 +21pp  E1"
+        },
+        {
+         "number": "6",
+         "Text": "{Green}Barcelona +18pi  E2 +21pp  W3 +18pi  S2"
+        },
+        {
+         "number": "7",
+         "Text": "{Green}Belgrad   +17pp NW4 +14se NW1 +18pi SE3"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Berliini  +12pi SW3 +13pi SE3 +10vs SW6"
+        },
+        {
+         "number": "9",
+         "Text": "{White}Bryssel   +13vk SW7 +12vs SE6 +11pi SW5"
+        },
+        {
+         "number": "10",
+         "Text": "{Green}Budapest  +13pi NW7 +14se SE2  +9vs NW2"
+        },
+        {
+         "number": "11",
+         "Text": "{Green}Bukarest  +18vk  N1 +14vs NW0 +17pi NE1"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Dublin    +12pp SW3 +10se NW8 +14vs SW9"
+        },
+        {
+         "number": "13",
+         "Text": "{White}Frankfurt +13pi SW6 +11vs  S4 +11pp SW6"
+        },
+        {
+         "number": "14",
+         "Text": "{Green}Glasgow   +10vk  W5  +6vs NW5 +11vs  S7"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Göteborg  +12pi  S4 +12se SE2 +12pi  E4"
+        },
+        {
+         "number": "16",
+         "Text": "{White}Istanbul  +21se  S1 +21vk  N3 +18vk  N4"
+        },
+        {
+         "number": "17",
+         "Text": "{White}Kiova     +15vs SE4 +16pi SE3 +17pi SE3"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}Kööpenham +12pi SW5 +11pp  S4 +11pp SW4"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}Las Palma +23vk SE4 +23vk  E4 +22vs NE4"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Lissabon  +19se  W2 +20se  N3 +19pi  N3"
+        },
+        {
+         "number": "21",
+         "Text": "{White}Lontoo    +13se  W4 +12vk  N3 +11vs SW5"
+        },
+        {
+         "number": "22",
+         "Text": "{Green}Madrid    +17se SW2 +17se NW2 +16pi SW2"
+        },
+        {
+         "number": "23",
+         "Text": "{Green}Malaga    +22se SE2 +23pi NW6 +22pp  S2"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Ilmatieteen laitos: 3 vrk    1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "21.10. klo 15.30  selitteet s."
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "419",
+           "length": "3",
+           "Text": "419"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "35",
+           "Text": "klo 15    TO        PE        LA   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Amsterdam +12vk SW6 +11vs SE5 +12pi SW5"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ateena    +23se SW3 +24vk SE0 +21pp  E1"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Barcelona +18pi  E2 +21pp  W3 +18pi  S2"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Belgrad   +17pp NW4 +14se NW1 +18pi SE3"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Berliini  +12pi SW3 +13pi SE3 +10vs SW6"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Bryssel   +13vk SW7 +12vs SE6 +11pi SW5"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Budapest  +13pi NW7 +14se SE2  +9vs NW2"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Bukarest  +18vk  N1 +14vs NW0 +17pi NE1"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Dublin    +12pp SW3 +10se NW8 +14vs SW9"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Frankfurt +13pi SW6 +11vs  S4 +11pp SW6"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Glasgow   +10vk  W5  +6vs NW5 +11vs  S7"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Göteborg  +12pi  S4 +12se SE2 +12pi  E4"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Istanbul  +21se  S1 +21vk  N3 +18vk  N4"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kiova     +15vs SE4 +16pi SE3 +17pi SE3"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Kööpenham +12pi SW5 +11pp  S4 +11pp SW4"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Las Palma +23vk SE4 +23vk  E4 +22vs NE4"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lissabon  +19se  W2 +20se  N3 +19pi  N3"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lontoo    +13se  W4 +12vk  N3 +11vs SW5"
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Madrid    +17se SW2 +17se NW2 +16pi SW2"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Malaga    +22se SE2 +23pi NW6 +22pp  S2"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "       Ilmatieteen laitos: 3 vrk    2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "       21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "     klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": " Mallorca  +21pp  W2 +21pi  N5 +19vs SW1"
+        },
+        {
+         "number": "5",
+         "Text": " Milano    +18se  N1 +14vs SE2 +16se NW6"
+        },
+        {
+         "number": "6",
+         "Text": " Moskova    +8pi  E2 +10pi SE3 +11pi SE2"
+        },
+        {
+         "number": "7",
+         "Text": " Nizza     +18pi  S3 +16vs  N1 +16pi SW2"
+        },
+        {
+         "number": "8",
+         "Text": " Oslo      +11vs  S4  +8pi SW2  +7vs  E3"
+        },
+        {
+         "number": "9",
+         "Text": " Pariisi   +14vs SW5 +13vsSW11 +11vs  S3"
+        },
+        {
+         "number": "10",
+         "Text": " Pietari    +9se SE3  +8pp SE3 +12pi  S3"
+        },
+        {
+         "number": "11",
+         "Text": " Praha     +12pp  W5 +13pi SE3 +10pi SW6"
+        },
+        {
+         "number": "12",
+         "Text": " Reykjavik  +2vs SE1  +2se SE4  +2se NW1"
+        },
+        {
+         "number": "13",
+         "Text": " Riika     +13se SE5 +12pi SE4 +13se SE5"
+        },
+        {
+         "number": "14",
+         "Text": " Rodos     +23pi  S4 +23uk  S5 +22se SE1"
+        },
+        {
+         "number": "15",
+         "Text": " Rooma     +20pi  N1 +20se SW2 +18vs NW2"
+        },
+        {
+         "number": "16",
+         "Text": " Tallinna  +12se SE5 +11se SE4 +12se  S4"
+        },
+        {
+         "number": "17",
+         "Text": " Tromssa   +10se  S4  +9se  S4  +7pp  E2"
+        },
+        {
+         "number": "18",
+         "Text": " Tukholma  +12pi SE5 +10vs  W1 +11vk SE5"
+        },
+        {
+         "number": "19",
+         "Text": " Valletta  +23se NW8 +22se NW5 +23vs NW6"
+        },
+        {
+         "number": "20",
+         "Text": " Varna     +19pp  S5 +15vs NW5 +16pi NE1"
+        },
+        {
+         "number": "21",
+         "Text": " Varsova   +14vs SE3 +12se SW2 +13se  S3"
+        },
+        {
+         "number": "22",
+         "Text": " Wien      +12pi NW6 +14pi SE6 +10vs  W5"
+        },
+        {
+         "number": "23",
+         "Text": " Zürich    +12se SW3 +13pi SW2  +9vk  W5"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{Cyan}{NB}{Blue}Ilmatieteen laitos: 3 vrk    2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Blue}{NB}{White}21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{Yellow}klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Mallorca  +21pp  W2 +21pi  N5 +19vs SW1"
+        },
+        {
+         "number": "5",
+         "Text": "{White}Milano    +18se  N1 +14vs SE2 +16se NW6"
+        },
+        {
+         "number": "6",
+         "Text": "{Green}Moskova    +8pi  E2 +10pi SE3 +11pi SE2"
+        },
+        {
+         "number": "7",
+         "Text": "{Green}Nizza     +18pi  S3 +16vs  N1 +16pi SW2"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Oslo      +11vs  S4  +8pi SW2  +7vs  E3"
+        },
+        {
+         "number": "9",
+         "Text": "{White}Pariisi   +14vs SW5 +13vsSW11 +11vs  S3"
+        },
+        {
+         "number": "10",
+         "Text": "{Green}Pietari    +9se SE3  +8pp SE3 +12pi  S3"
+        },
+        {
+         "number": "11",
+         "Text": "{Green}Praha     +12pp  W5 +13pi SE3 +10pi SW6"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Reykjavik  +2vs SE1  +2se SE4  +2se NW1"
+        },
+        {
+         "number": "13",
+         "Text": "{White}Riika     +13se SE5 +12pi SE4 +13se SE5"
+        },
+        {
+         "number": "14",
+         "Text": "{Green}Rodos     +23pi  S4 +23uk  S5 +22se SE1"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Rooma     +20pi  N1 +20se SW2 +18vs NW2"
+        },
+        {
+         "number": "16",
+         "Text": "{White}Tallinna  +12se SE5 +11se SE4 +12se  S4"
+        },
+        {
+         "number": "17",
+         "Text": "{White}Tromssa   +10se  S4  +9se  S4  +7pp  E2"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}Tukholma  +12pi SE5 +10vs  W1 +11vk SE5"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}Valletta  +23se NW8 +22se NW5 +23vs NW6"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Varna     +19pp  S5 +15vs NW5 +16pi NE1"
+        },
+        {
+         "number": "21",
+         "Text": "{White}Varsova   +14vs SE3 +12se SW2 +13se  S3"
+        },
+        {
+         "number": "22",
+         "Text": "{Green}Wien      +12pi NW6 +14pi SE6 +10vs  W5"
+        },
+        {
+         "number": "23",
+         "Text": "{Green}Zürich    +12se SW3 +13pi SW2  +9vk  W5"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Ilmatieteen laitos: 3 vrk    2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "21.10. klo 15.30  selitteet s."
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "419",
+           "length": "3",
+           "Text": "419"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "35",
+           "Text": "klo 15    TO        PE        LA   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Mallorca  +21pp  W2 +21pi  N5 +19vs SW1"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Milano    +18se  N1 +14vs SE2 +16se NW6"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Moskova    +8pi  E2 +10pi SE3 +11pi SE2"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Nizza     +18pi  S3 +16vs  N1 +16pi SW2"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Oslo      +11vs  S4  +8pi SW2  +7vs  E3"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pariisi   +14vs SW5 +13vsSW11 +11vs  S3"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Pietari    +9se SE3  +8pp SE3 +12pi  S3"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Praha     +12pp  W5 +13pi SE3 +10pi SW6"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Reykjavik  +2vs SE1  +2se SE4  +2se NW1"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Riika     +13se SE5 +12pi SE4 +13se SE5"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Rodos     +23pi  S4 +23uk  S5 +22se SE1"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Rooma     +20pi  N1 +20se SW2 +18vs NW2"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tallinna  +12se SE5 +11se SE4 +12se  S4"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tromssa   +10se  S4  +9se  S4  +7pp  E2"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Tukholma  +12pi SE5 +10vs  W1 +11vk SE5"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Valletta  +23se NW8 +22se NW5 +23vs NW6"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Varna     +19pp  S5 +15vs NW5 +16pi NE1"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Varsova   +14vs SE3 +12se SW2 +13se  S3"
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Wien      +12pi NW6 +14pi SE6 +10vs  W5"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Zürich    +12se SW3 +13pi SW2  +9vk  W5"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "       Ilmatieteen laitos: 3 vrk    3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "       21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "     klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": " Bangkok   +32uk  N1 +31uk  S1 +31vs  S2"
+        },
+        {
+         "number": "5",
+         "Text": " Buenos Ai +19pi SE5 +18pi  E2 +18vs SE5"
+        },
+        {
+         "number": "6",
+         "Text": " Delhi     +30se NW2 +31se NW2 +30se NW2"
+        },
+        {
+         "number": "7",
+         "Text": " Goa       +29uk  N2 +29uk  W3 +30uk  W3"
+        },
+        {
+         "number": "8",
+         "Text": " Haifa     +26pi  N5 +28se  N6 +27se  N6"
+        },
+        {
+         "number": "9",
+         "Text": " Hongkong  +31pp  N4 +31pi NW4 +29pp SW3"
+        },
+        {
+         "number": "10",
+         "Text": " Kairo     +30se NE3 +32se  N3 +32se  N2"
+        },
+        {
+         "number": "11",
+         "Text": " Kapkaupun +17se  W3 +20pi  W3 +21se  S3"
+        },
+        {
+         "number": "12",
+         "Text": " Los Angel +19vk SW1 +20se SW1 +22se  S2"
+        },
+        {
+         "number": "13",
+         "Text": " Mexico Ci +21vk  N2 +21pi  W2 +21pi  W2"
+        },
+        {
+         "number": "14",
+         "Text": " Miami     +26uk NE5 +25vk NE4 +27uk NE6"
+        },
+        {
+         "number": "15",
+         "Text": " Nairobi   +29se NE5 +30se NE4 +29vs  E4"
+        },
+        {
+         "number": "16",
+         "Text": " New York  +17se  N4 +13se  N2 +14se  N1"
+        },
+        {
+         "number": "17",
+         "Text": " Peking    +15se  S2 +17se  E1 +13vs NE1"
+        },
+        {
+         "number": "18",
+         "Text": " Rio de Ja +22vs  E4 +25pi SE3 +29uk SW2"
+        },
+        {
+         "number": "19",
+         "Text": " Singapore +31uk  S3 +29uk  W3 +27uk  W3"
+        },
+        {
+         "number": "20",
+         "Text": " Sydney    +21vk NE7 +23vk NE5 +28vk  N6"
+        },
+        {
+         "number": "21",
+         "Text": " Tokio     +21pi SE2 +17vs  N1 +22pi  E0"
+        },
+        {
+         "number": "22",
+         "Text": " Tunis     +23vk NW3 +23se NE2 +22se NW4"
+        },
+        {
+         "number": "23",
+         "Text": " Vancouver +16pi NW4 +14pi  S0 +13pi SW1"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{Cyan}{NB}{Blue}Ilmatieteen laitos: 3 vrk    3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Blue}{NB}{White}21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{Yellow}klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Bangkok   +32uk  N1 +31uk  S1 +31vs  S2"
+        },
+        {
+         "number": "5",
+         "Text": "{White}Buenos Ai +19pi SE5 +18pi  E2 +18vs SE5"
+        },
+        {
+         "number": "6",
+         "Text": "{Green}Delhi     +30se NW2 +31se NW2 +30se NW2"
+        },
+        {
+         "number": "7",
+         "Text": "{Green}Goa       +29uk  N2 +29uk  W3 +30uk  W3"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Haifa     +26pi  N5 +28se  N6 +27se  N6"
+        },
+        {
+         "number": "9",
+         "Text": "{White}Hongkong  +31pp  N4 +31pi NW4 +29pp SW3"
+        },
+        {
+         "number": "10",
+         "Text": "{Green}Kairo     +30se NE3 +32se  N3 +32se  N2"
+        },
+        {
+         "number": "11",
+         "Text": "{Green}Kapkaupun +17se  W3 +20pi  W3 +21se  S3"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Los Angel +19vk SW1 +20se SW1 +22se  S2"
+        },
+        {
+         "number": "13",
+         "Text": "{White}Mexico Ci +21vk  N2 +21pi  W2 +21pi  W2"
+        },
+        {
+         "number": "14",
+         "Text": "{Green}Miami     +26uk NE5 +25vk NE4 +27uk NE6"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Nairobi   +29se NE5 +30se NE4 +29vs  E4"
+        },
+        {
+         "number": "16",
+         "Text": "{White}New York  +17se  N4 +13se  N2 +14se  N1"
+        },
+        {
+         "number": "17",
+         "Text": "{White}Peking    +15se  S2 +17se  E1 +13vs NE1"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}Rio de Ja +22vs  E4 +25pi SE3 +29uk SW2"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}Singapore +31uk  S3 +29uk  W3 +27uk  W3"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Sydney    +21vk NE7 +23vk NE5 +28vk  N6"
+        },
+        {
+         "number": "21",
+         "Text": "{White}Tokio     +21pi SE2 +17vs  N1 +22pi  E0"
+        },
+        {
+         "number": "22",
+         "Text": "{Green}Tunis     +23vk NW3 +23se NE2 +22se NW4"
+        },
+        {
+         "number": "23",
+         "Text": "{Green}Vancouver +16pi NW4 +14pi  S0 +13pi SW1"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Ilmatieteen laitos: 3 vrk    3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "21.10. klo 15.30  selitteet s."
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "419",
+           "length": "3",
+           "Text": "419"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "35",
+           "Text": "klo 15    TO        PE        LA   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Bangkok   +32uk  N1 +31uk  S1 +31vs  S2"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Buenos Ai +19pi SE5 +18pi  E2 +18vs SE5"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Delhi     +30se NW2 +31se NW2 +30se NW2"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Goa       +29uk  N2 +29uk  W3 +30uk  W3"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Haifa     +26pi  N5 +28se  N6 +27se  N6"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hongkong  +31pp  N4 +31pi NW4 +29pp SW3"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Kairo     +30se NE3 +32se  N3 +32se  N2"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Kapkaupun +17se  W3 +20pi  W3 +21se  S3"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Los Angel +19vk SW1 +20se SW1 +22se  S2"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Mexico Ci +21vk  N2 +21pi  W2 +21pi  W2"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Miami     +26uk NE5 +25vk NE4 +27uk NE6"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Nairobi   +29se NE5 +30se NE4 +29vs  E4"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " New York  +17se  N4 +13se  N2 +14se  N1"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Peking    +15se  S2 +17se  E1 +13vs NE1"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Rio de Ja +22vs  E4 +25pi SE3 +29uk SW2"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Singapore +31uk  S3 +29uk  W3 +27uk  W3"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sydney    +21vk NE7 +23vk NE5 +28vk  N6"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tokio     +21pi SE2 +17vs  N1 +22pi  E0"
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Tunis     +23vk NW3 +23se NE2 +22se NW4"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Vancouver +16pi NW4 +14pi  S0 +13pi SW1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

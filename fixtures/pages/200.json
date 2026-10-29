@@ -1,0 +1,1571 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "200",
+   "name": "Urheilu",
+   "subpagecount": "1",
+   "prevpg": "199",
+   "nextpg": "201",
+   "toptype": "block",
+   "time": "2026-10-12T18:38:59",
+   "utctime": "2026-10-12T15:38:59",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " 223 JÄÄKIEKKOLIIGA  263 F-LIIGA (M)    "
+        },
+        {
+         "number": "6",
+         "Text": " 226 MESTIS          266 F-LIIGA (N)    "
+        },
+        {
+         "number": "7",
+         "Text": " 228 SUOMI-SARJA     269 DIVARIT        "
+        },
+        {
+         "number": "8",
+         "Text": " 230 U20 SM-SARJA    270 EUROKORIS      "
+        },
+        {
+         "number": "9",
+         "Text": " 233 AURORALIIGA     272 KORISLIIGA (M) "
+        },
+        {
+         "number": "10",
+         "Text": " 237 NHL-TAULUKOT    274 KORISLIIGA (N) "
+        },
+        {
+         "number": "11",
+         "Text": "                     276 DIVARIT 279 NBA"
+        },
+        {
+         "number": "12",
+         "Text": " 242 VEIKKAUSLIIGA                      "
+        },
+        {
+         "number": "13",
+         "Text": " 244 1-LIIGA/YKKÖNEN 282-284 EUROKIEKKO "
+        },
+        {
+         "number": "14",
+         "Text": " 246 KAKKONEN        286 RINGETTE       "
+        },
+        {
+         "number": "15",
+         "Text": " 248 NAISTEN FUTIS   290 FUTSAL         "
+        },
+        {
+         "number": "16",
+         "Text": " 250 NAISET/NUORET   297 PÖYTÄTENNIS    "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " 252 LENTOPALLO (M)  298 F1 299 RALLI   "
+        },
+        {
+         "number": "19",
+         "Text": " 254 LENTOPALLO (N)  460 RAVIT          "
+        },
+        {
+         "number": "20",
+         "Text": " 256 YKKÖSSARJAT     470 VEIKKAUS       "
+        },
+        {
+         "number": "21",
+         "Text": " 260 KÄSIPALLO       650 EUROJALKAPALLO "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "     201 UUTISET     220 PALLOILU       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4   {GGreen}`,08d`,0   ` 0p00``p`` 0`       "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${GBlue}{NB} {GGreen}`,!5jj 5 , j 5=1=nj$jj 5j       "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%   {GGreen}\"#!\"! #     # !!!\"\"#\"\"!\"!       "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}223{White}JÄÄKIEKKOLIIGA {Green}263{White}F-LIIGA (M)    "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}226{White}MESTIS         {Green}266{White}F-LIIGA (N)    "
+        },
+        {
+         "number": "7",
+         "Text": "{Green}228{White}SUOMI-SARJA    {Green}269{White}DIVARIT        "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}230{White}U20 SM-SARJA   {Green}270{White}EUROKORIS      "
+        },
+        {
+         "number": "9",
+         "Text": "{Green}233{White}AURORALIIGA    {Green}272{White}KORISLIIGA (M) "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}237{White}NHL-TAULUKOT   {Green}274{White}KORISLIIGA (N) "
+        },
+        {
+         "number": "11",
+         "Text": "{White}                   {Green}276{White}DIVARIT{Green}279{White}NBA"
+        },
+        {
+         "number": "12",
+         "Text": "{Green}242{White}VEIKKAUSLIIGA                      "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}244{White}1-LIIGA/YKKÖNEN{Green}282-284{White}EUROKIEKKO "
+        },
+        {
+         "number": "14",
+         "Text": "{Green}246{White}KAKKONEN       {Green}286{White}RINGETTE       "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}248{White}NAISTEN FUTIS  {Green}290{White}FUTSAL         "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}250{White}NAISET/NUORET  {Green}297{White}PÖYTÄTENNIS    "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}252{White}LENTOPALLO (M) {Green}298{White}F1{Green}299{White}RALLI   "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}254{White}LENTOPALLO (N) {Green}460{White}RAVIT          "
+        },
+        {
+         "number": "20",
+         "Text": "{Green}256{White}YKKÖSSARJAT    {Green}470{White}VEIKKAUS       "
+        },
+        {
+         "number": "21",
+         "Text": "{Green}260{White}KÄSIPALLO      {Green}650{White}EUROJALKAPALLO "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}  {White}201 UUTISET    {White}220 PALLOILU       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "2",
+           "Text": "00"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "2",
+           "Text": "``"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "2",
+           "Text": "``"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "31h",
+           "length": "1",
+           "Text": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "6Eh",
+           "length": "1",
+           "Text": "n"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "7"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "3",
+           "Text": "!!!"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "223",
+           "length": "3",
+           "Text": "223"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "JÄÄKIEKKOLIIGA  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "263",
+           "length": "3",
+           "Text": "263"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "F-LIIGA (M)    "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "226",
+           "length": "3",
+           "Text": "226"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "MESTIS          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "266",
+           "length": "3",
+           "Text": "266"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "F-LIIGA (N)    "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "228",
+           "length": "3",
+           "Text": "228"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "SUOMI-SARJA     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "269",
+           "length": "3",
+           "Text": "269"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "DIVARIT        "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "230",
+           "length": "3",
+           "Text": "230"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "U20 SM-SARJA    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "270",
+           "length": "3",
+           "Text": "270"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "EUROKORIS      "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "233",
+           "length": "3",
+           "Text": "233"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "AURORALIIGA     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "272",
+           "length": "3",
+           "Text": "272"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "KORISLIIGA (M) "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "237",
+           "length": "3",
+           "Text": "237"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "NHL-TAULUKOT    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "274",
+           "length": "3",
+           "Text": "274"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "KORISLIIGA (N) "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "276",
+           "length": "3",
+           "Text": "276"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "DIVARIT "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "279",
+           "length": "3",
+           "Text": "279"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3",
+           "Text": "NBA"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "242",
+           "length": "3",
+           "Text": "242"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "VEIKKAUSLIIGA                      "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "244",
+           "length": "3",
+           "Text": "244"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "1-LIIGA/YKKÖNEN "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "282",
+           "length": "3",
+           "Text": "282"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "284",
+           "length": "3",
+           "Text": "284"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "EUROKIEKKO "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "246",
+           "length": "3",
+           "Text": "246"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "KAKKONEN        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "286",
+           "length": "3",
+           "Text": "286"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "RINGETTE       "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "248",
+           "length": "3",
+           "Text": "248"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "NAISTEN FUTIS   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "290",
+           "length": "3",
+           "Text": "290"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "FUTSAL         "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "250",
+           "length": "3",
+           "Text": "250"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "NAISET/NUORET   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "297",
+           "length": "3",
+           "Text": "297"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "PÖYTÄTENNIS    "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "252",
+           "length": "3",
+           "Text": "252"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "LENTOPALLO (M)  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "298",
+           "length": "3",
+           "Text": "298"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3",
+           "Text": "F1 "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "299",
+           "length": "3",
+           "Text": "299"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "RALLI   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "254",
+           "length": "3",
+           "Text": "254"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "LENTOPALLO (N)  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "460",
+           "length": "3",
+           "Text": "460"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "RAVIT          "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "256",
+           "length": "3",
+           "Text": "256"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "YKKÖSSARJAT     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "470",
+           "length": "3",
+           "Text": "470"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "VEIKKAUS       "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "260",
+           "length": "3",
+           "Text": "260"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "KÄSIPALLO       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "650",
+           "length": "3",
+           "Text": "650"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "EUROJALKAPALLO "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "201",
+           "length": "3",
+           "Text": "201"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13",
+           "Text": " UUTISET     "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "220",
+           "length": "3",
+           "Text": "220"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "16",
+           "Text": " PALLOILU       "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

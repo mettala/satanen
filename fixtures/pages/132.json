@@ -1,0 +1,459 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "132",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "131",
+   "nextpg": "133",
+   "toptype": "normal",
+   "time": "2026-10-21T01:33:43",
+   "utctime": "2026-10-20T22:33:43",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   ULKOMAAT        YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  WSJ: Musk määräsi Starlink-verkosta   "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Avaruusyhtiö SpaceX:n toimitusjohtaja  "
+        },
+        {
+         "number": "7",
+         "Text": " Elon Musk käski hidastaa Ukrainan      "
+        },
+        {
+         "number": "8",
+         "Text": " käyttämän satelliittipalvelu           "
+        },
+        {
+         "number": "9",
+         "Text": " Starlinkin sotilasversiota. Asiasta    "
+        },
+        {
+         "number": "10",
+         "Text": " kertoo lähteisiinsä viitaten Wall      "
+        },
+        {
+         "number": "11",
+         "Text": " Street Journal -lehti.                 "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Käytännössä tämä tarkoitti sitä, että  "
+        },
+        {
+         "number": "14",
+         "Text": " Ukraina ei viime viikolla pystynyt     "
+        },
+        {
+         "number": "15",
+         "Text": " käyttämään torjuntajärjestelmiään      "
+        },
+        {
+         "number": "16",
+         "Text": " Venäjän drooni-iskuja vastaan.         "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Starlinkin hidastaminen aiheutti       "
+        },
+        {
+         "number": "19",
+         "Text": " suurta vahinkoa Ukrainassa ja          "
+        },
+        {
+         "number": "20",
+         "Text": " hämmennystä Yhdysvaltain hallinnon     "
+        },
+        {
+         "number": "21",
+         "Text": " sisällä. Hallinto on kiistänyt         "
+        },
+        {
+         "number": "22",
+         "Text": " osallisuutensa Starlinkin hidasteluun. "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}ULKOMAAT        YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}WSJ: Musk määräsi Starlink-verkosta   "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Avaruusyhtiö SpaceX:n toimitusjohtaja  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Elon Musk käski hidastaa Ukrainan      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}käyttämän satelliittipalvelu           "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Starlinkin sotilasversiota. Asiasta    "
+        },
+        {
+         "number": "10",
+         "Text": "{White}kertoo lähteisiinsä viitaten Wall      "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Street Journal -lehti.                 "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Käytännössä tämä tarkoitti sitä, että  "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Ukraina ei viime viikolla pystynyt     "
+        },
+        {
+         "number": "15",
+         "Text": "{White}käyttämään torjuntajärjestelmiään      "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Venäjän drooni-iskuja vastaan.         "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Starlinkin hidastaminen aiheutti       "
+        },
+        {
+         "number": "19",
+         "Text": "{White}suurta vahinkoa Ukrainassa ja          "
+        },
+        {
+         "number": "20",
+         "Text": "{White}hämmennystä Yhdysvaltain hallinnon     "
+        },
+        {
+         "number": "21",
+         "Text": "{White}sisällä. Hallinto on kiistänyt         "
+        },
+        {
+         "number": "22",
+         "Text": "{White}osallisuutensa Starlinkin hidasteluun. "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "ULKOMAAT        YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "WSJ: Musk määräsi Starlink-verkosta   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Avaruusyhtiö SpaceX:n toimitusjohtaja  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Elon Musk käski hidastaa Ukrainan      "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " käyttämän satelliittipalvelu           "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Starlinkin sotilasversiota. Asiasta    "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kertoo lähteisiinsä viitaten Wall      "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Street Journal -lehti.                 "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Käytännössä tämä tarkoitti sitä, että  "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ukraina ei viime viikolla pystynyt     "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " käyttämään torjuntajärjestelmiään      "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Venäjän drooni-iskuja vastaan.         "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Starlinkin hidastaminen aiheutti       "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " suurta vahinkoa Ukrainassa ja          "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " hämmennystä Yhdysvaltain hallinnon     "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sisällä. Hallinto on kiistänyt         "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " osallisuutensa Starlinkin hidasteluun. "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

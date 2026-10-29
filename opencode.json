@@ -1,0 +1,31 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "read": {
+      "*": "allow",
+      "*.env": "deny",
+      "*.env.*": "deny",
+      "*.dev.vars": "deny",
+      "*.dev.vars.*": "deny",
+      "*.env.example": "allow",
+      "*.dev.vars.example": "allow"
+    },
+    "webfetch": "deny",
+    "websearch": "deny",
+    "bash": {
+      "*": "allow",
+      "wrangler secret*": "deny",
+      "npx wrangler secret*": "deny",
+      "npm --prefix proxy exec wrangler secret*": "deny",
+      "proxy/node_modules/.bin/wrangler secret*": "deny",
+      "wrangler login*": "deny",
+      "npx wrangler login*": "deny",
+      "npm --prefix proxy exec wrangler login*": "deny",
+      "proxy/node_modules/.bin/wrangler login*": "deny",
+      "wrangler logout*": "deny",
+      "npx wrangler logout*": "deny",
+      "npm --prefix proxy exec wrangler logout*": "deny",
+      "proxy/node_modules/.bin/wrangler logout*": "deny"
+    }
+  }
+}

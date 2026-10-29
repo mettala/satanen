@@ -1,0 +1,15 @@
+# Extend the default gitleaks rules; allow only the dummy credentials in two tests.
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Obviously fake Yle credentials used by the proxy unit tests"
+condition = "AND"
+paths = ['''^proxy/src/index\.test\.ts$''']
+regexes = ['''test-(id|key)-not-a-real-(id|key)''']
+
+[[allowlists]]
+description = "Obviously fake secret in the build-guard test (check-dist.test.ts)"
+condition = "AND"
+paths = ['''^scripts/check-dist\.test\.ts$''']
+regexes = ['''abcd1234secret''']

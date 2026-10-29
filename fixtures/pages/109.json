@@ -1,0 +1,459 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "109",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "108",
+   "nextpg": "110",
+   "toptype": "normal",
+   "time": "2026-10-21T13:21:28",
+   "utctime": "2026-10-21T10:21:28",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Verkkopalveluja ajetaan alas          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Valtion tieto- ja                      "
+        },
+        {
+         "number": "7",
+         "Text": " viestintätekniikkakeskus Valtori       "
+        },
+        {
+         "number": "8",
+         "Text": " kertoo, että se ajaa varotoimena alas  "
+        },
+        {
+         "number": "9",
+         "Text": " valtionhallinnon julkisen internetin   "
+        },
+        {
+         "number": "10",
+         "Text": " verkkopalveluja.                       "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " Taustalla on laajasti käytössä         "
+        },
+        {
+         "number": "13",
+         "Text": " olevasta PHP-ohjelmistosta löydetyt    "
+        },
+        {
+         "number": "14",
+         "Text": " kriittiset haavoittuvuudet.            "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Käyttökatko ei johdu haavoittuvuuden   "
+        },
+        {
+         "number": "17",
+         "Text": " hyväksikäytöstä eikä palveluihin       "
+        },
+        {
+         "number": "18",
+         "Text": " kohdistuneesta tietomurrosta, vaan     "
+        },
+        {
+         "number": "19",
+         "Text": " tarkoitus on suojata palveluita.       "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": " Haavoittuvuuksia korjaava päivitys on  "
+        },
+        {
+         "number": "22",
+         "Text": " valmistajan mukaan tulossa saataville  "
+        },
+        {
+         "number": "23",
+         "Text": " kello 17.                              "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Verkkopalveluja ajetaan alas          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Valtion tieto- ja                      "
+        },
+        {
+         "number": "7",
+         "Text": "{White}viestintätekniikkakeskus Valtori       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}kertoo, että se ajaa varotoimena alas  "
+        },
+        {
+         "number": "9",
+         "Text": "{White}valtionhallinnon julkisen internetin   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}verkkopalveluja.                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Taustalla on laajasti käytössä         "
+        },
+        {
+         "number": "13",
+         "Text": "{White}olevasta PHP-ohjelmistosta löydetyt    "
+        },
+        {
+         "number": "14",
+         "Text": "{White}kriittiset haavoittuvuudet.            "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Käyttökatko ei johdu haavoittuvuuden   "
+        },
+        {
+         "number": "17",
+         "Text": "{White}hyväksikäytöstä eikä palveluihin       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}kohdistuneesta tietomurrosta, vaan     "
+        },
+        {
+         "number": "19",
+         "Text": "{White}tarkoitus on suojata palveluita.       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Haavoittuvuuksia korjaava päivitys on  "
+        },
+        {
+         "number": "22",
+         "Text": "{White}valmistajan mukaan tulossa saataville  "
+        },
+        {
+         "number": "23",
+         "Text": "{White}kello 17.                              "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "KOTIMAA         YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Verkkopalveluja ajetaan alas          "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Valtion tieto- ja                      "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " viestintätekniikkakeskus Valtori       "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kertoo, että se ajaa varotoimena alas  "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " valtionhallinnon julkisen internetin   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " verkkopalveluja.                       "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Taustalla on laajasti käytössä         "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " olevasta PHP-ohjelmistosta löydetyt    "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kriittiset haavoittuvuudet.            "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Käyttökatko ei johdu haavoittuvuuden   "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " hyväksikäytöstä eikä palveluihin       "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kohdistuneesta tietomurrosta, vaan     "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tarkoitus on suojata palveluita.       "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Haavoittuvuuksia korjaava päivitys on  "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " valmistajan mukaan tulossa saataville  "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kello 17.                              "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

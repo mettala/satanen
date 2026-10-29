@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>Mosaic logo variations</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&amp;display=swap">
+<style>
+body{margin:0;font-family:'Schibsted Grotesk',system-ui,sans-serif}
+.card{background:#FFFFFF;border-radius:20px;padding:28px;display:flex;flex-direction:column;gap:18px;color:#15181D}
+.dir{font-size:12px;font-weight:700;letter-spacing:.08em;color:#5D636E}
+.why{font-size:14px;line-height:1.45;color:#3E444D}
+.cap{font-size:11px;color:#5D636E;text-align:center}
+</style>
+</helmet>
+<div style="width: 1360px; height: 860px; box-sizing: border-box; padding: 40px; background: #E9EAEC; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px;">
+<sc-for list="{{variants}}" as="v" hint-placeholder-count="3">
+<div class="card">
+<div class="dir">{{v.title}}</div>
+
+<div style="display: flex; align-items: flex-end; gap: 16px;">
+<div style="display: flex; flex-direction: column; gap: 6px;">
+<svg width="150" height="150" viewBox="0 0 120 120" role="img" aria-label="{{v.title}}"><rect x="0.5" y="0.5" width="119" height="119" rx="27" fill="{{v.bg}}" stroke="{{v.stroke}}"></rect><sc-for list="{{v.big}}" as="c" hint-placeholder-count="30"><rect x="{{c.x}}" y="{{c.y}}" width="{{c.s}}" height="{{c.s}}" rx="{{c.r}}" fill="{{c.f}}"></rect></sc-for></svg>
+<span class="cap">iOS</span>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px;">
+<svg width="96" height="96" viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="59.5" fill="{{v.bg}}" stroke="{{v.stroke}}"></circle><sc-for list="{{v.small}}" as="c" hint-placeholder-count="30"><rect x="{{c.x}}" y="{{c.y}}" width="{{c.s}}" height="{{c.s}}" rx="{{c.r}}" fill="{{c.f}}"></rect></sc-for></svg>
+<span class="cap">Android</span>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px;">
+<svg width="29" height="29" viewBox="0 0 120 120" aria-hidden="true"><rect x="0.5" y="0.5" width="119" height="119" rx="27" fill="{{v.bg}}" stroke="{{v.stroke}}"></rect><sc-for list="{{v.big}}" as="c" hint-placeholder-count="30"><rect x="{{c.x}}" y="{{c.y}}" width="{{c.s}}" height="{{c.s}}" rx="{{c.r}}" fill="{{c.f}}"></rect></sc-for></svg>
+<span class="cap">29 px</span>
+</div>
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<div class="cap" style="text-align: left;">Sovelluksen yläpalkissa, vaalea / tumma</div>
+<div style="background: #F6F7F9; border-radius: 12px; padding: 12px 14px; display: flex; align-items: center; gap: 10px;">
+<svg width="28" height="28" viewBox="0 0 120 120" aria-hidden="true"><rect x="0.5" y="0.5" width="119" height="119" rx="27" fill="{{v.bg}}" stroke="{{v.stroke}}"></rect><sc-for list="{{v.big}}" as="c" hint-placeholder-count="30"><rect x="{{c.x}}" y="{{c.y}}" width="{{c.s}}" height="{{c.s}}" rx="{{c.r}}" fill="{{c.f}}"></rect></sc-for></svg>
+<span style="flex-grow: 1; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; color: #15181D;">Satanen</span><span style="font-size: 12px; color: #5D636E;">klo 14:32</span>
+</div>
+<div style="background: #15181D; border-radius: 12px; padding: 12px 14px; display: flex; align-items: center; gap: 10px;">
+<svg width="28" height="28" viewBox="0 0 120 120" aria-hidden="true"><rect x="0.5" y="0.5" width="119" height="119" rx="27" fill="{{v.bgDark}}" stroke="{{v.strokeDark}}"></rect><sc-for list="{{v.bigDark}}" as="c" hint-placeholder-count="30"><rect x="{{c.x}}" y="{{c.y}}" width="{{c.s}}" height="{{c.s}}" rx="{{c.r}}" fill="{{c.f}}"></rect></sc-for></svg>
+<span style="flex-grow: 1; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; color: #ECEEF1;">Satanen</span><span style="font-size: 12px; color: #A0A7B2;">klo 14:32</span>
+</div>
+</div>
+
+<div class="why">{{v.why}}</div>
+</div>
+</sc-for>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1360,"height":860}}'>
+class Component extends DCLogic {
+renderVals() {
+const one = ['.X.', 'XX.', '.X.', '.X.', 'XXX'];
+const zero = ['XXX', 'X.X', 'X.X', 'X.X', 'XXX'];
+const digits = [one, zero, zero];
+// big: iOS (fills the tile); small: Android round crop (fits the safe circle)
+const grid = (p, s, gap, colorFor) => {
+const dW = 2 * p + s, totalW = 3 * dW + 2 * gap, totalH = 4 * p + s;
+const x0 = (120 - totalW) / 2, y0 = (120 - totalH) / 2, out = [];
+digits.forEach((d, i) => d.forEach((row, r) => row.split('').forEach((ch, c) => {
+if (ch === 'X') out.push({ x: x0 + i * (dW + gap) + c * p, y: y0 + r * p, s: s, r: s * 0.28, f: colorFor(i, r, c) });
+})));
+return out;
+};
+const mk = (colorFor) => ({ big: grid(9, 7.6, 6, colorFor), small: grid(6.6, 5.6, 4.5, colorFor) });
+const pick = (map, base) => (i, r, c) => map[i + '-' + r + '-' + c] || (typeof base === 'function' ? base(i) : base);
+
+const v1 = mk(pick({ '0-4-1': '#2357D9', '1-0-0': '#2B7A35', '2-4-2': '#A84A08' }, '#15181D'));
+const v1d = mk(pick({ '0-4-1': '#86A6FF', '1-0-0': '#6DD27C', '2-4-2': '#F2A35E' }, '#ECEEF1'));
+const v2 = mk(pick({ '2-4-2': '#F2A35E' }, '#FFFFFF'));
+const v3col = ['#86A6FF', '#6DD27C', '#F2A35E'];
+const v3 = mk((i) => v3col[i]);
+
+return { variants: [
+{ title: 'B1 · VAALEA', bg: '#FFFFFF', stroke: '#E1E4E9', big: v1.big, small: v1.small, bgDark: '#1F232A', strokeDark: '#2E333B', bigDark: v1d.big,
+why: 'Ink blocks on white, one block in each section colour — the app\'s own light screen in miniature. Calm and quiet on a busy home screen; flips to Grafiitti inside the app.' },
+{ title: 'B2 · SININEN', bg: '#2357D9', stroke: '#2357D9', big: v2.big, small: v2.small, bgDark: '#2357D9', strokeDark: '#2357D9', bigDark: v2.big,
+why: 'White blocks on the app\'s news blue, with a single orange "signal" block. The boldest and most recognisable at small sizes; same icon in both themes.' },
+{ title: 'B3 · GRAFIITTI', bg: '#15181D', stroke: '#15181D', big: v3.big, small: v3.small, bgDark: '#1F232A', strokeDark: '#2E333B', bigDark: v3.big,
+why: 'Closest to your favourite: dark graphite ground, but each digit takes a section colour (blue, green, orange) — the colour system becomes the logo.' }
+] };
+}
+}
+</script>
+</body>
+</html>

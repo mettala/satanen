@@ -1,0 +1,2703 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "260",
+   "name": "",
+   "subpagecount": "4",
+   "prevpg": "256",
+   "nextpg": "263",
+   "toptype": "normal",
+   "time": "2026-10-19T00:00:26",
+   "utctime": "2026-10-18T21:00:26",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KÄSIPALLO   MIESTEN LIIGA        1/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " RUNKOSARJA                             "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " HIFK          5  4  1  0 185-127  9    "
+        },
+        {
+         "number": "6",
+         "Text": " Cocks         6  4  0  2 206-157  8    "
+        },
+        {
+         "number": "7",
+         "Text": " BK-46         5  4  0  1 146-127  8    "
+        },
+        {
+         "number": "8",
+         "Text": " Dicken        6  4  0  2 160-165  8    "
+        },
+        {
+         "number": "9",
+         "Text": " EIF           6  2  1  3 182-185  5    "
+        },
+        {
+         "number": "10",
+         "Text": " GrIFK         6  2  0  4 160-166  4    "
+        },
+        {
+         "number": "11",
+         "Text": " SIF           6  2  0  4 138-178  4    "
+        },
+        {
+         "number": "12",
+         "Text": " ÅIFK          6  0  0  6 152-224  0    "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " la 24.10.                              "
+        },
+        {
+         "number": "15",
+         "Text": " Dicken       - EIF           klo 15.45 "
+        },
+        {
+         "number": "16",
+         "Text": " GrIFK        - Cocks         klo 16.00 "
+        },
+        {
+         "number": "17",
+         "Text": " ti 27.10.                              "
+        },
+        {
+         "number": "18",
+         "Text": " HIFK         - SIF           klo 19.30 "
+        },
+        {
+         "number": "19",
+         "Text": " ke 28.10.                              "
+        },
+        {
+         "number": "20",
+         "Text": " ÅIFK         - BK-46         klo 19.00 "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}KÄSIPALLO {NB}{White}MIESTEN LIIGA        1/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}RUNKOSARJA                             "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}HIFK          5  4  1  0 185-127  9    "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Cocks         6  4  0  2 206-157  8    "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}BK-46         5  4  0  1 146-127  8    "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Dicken        6  4  0  2 160-165  8    "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}EIF           6  2  1  3 182-185  5    "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}GrIFK         6  2  0  4 160-166  4    "
+        },
+        {
+         "number": "11",
+         "Text": "{White}SIF           6  2  0  4 138-178  4    "
+        },
+        {
+         "number": "12",
+         "Text": "{White}ÅIFK          6  0  0  6 152-224  0    "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Green}la 24.10.                              "
+        },
+        {
+         "number": "15",
+         "Text": "{White}Dicken       - EIF          {Cyan}klo 15.45 "
+        },
+        {
+         "number": "16",
+         "Text": "{White}GrIFK        - Cocks        {Cyan}klo 16.00 "
+        },
+        {
+         "number": "17",
+         "Text": "{Green}ti 27.10.                              "
+        },
+        {
+         "number": "18",
+         "Text": "{White}HIFK         - SIF          {Cyan}klo 19.30 "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}ke 28.10.                              "
+        },
+        {
+         "number": "20",
+         "Text": "{White}ÅIFK         - BK-46        {Cyan}klo 19.00 "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "KÄSIPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "MIESTEN LIIGA        1/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "RUNKOSARJA                             "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " HIFK          5  4  1  0 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "185",
+           "length": "3",
+           "Text": "185"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "  9    "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " Cocks         6  4  0  2 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "206",
+           "length": "3",
+           "Text": "206"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "157",
+           "length": "3",
+           "Text": "157"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "  8    "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "BK-46         5  4  0  1 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "146",
+           "length": "3",
+           "Text": "146"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  8    "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "Dicken        6  4  0  2 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "165",
+           "length": "3",
+           "Text": "165"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  8    "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "EIF           6  2  1  3 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "182",
+           "length": "3",
+           "Text": "182"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "185",
+           "length": "3",
+           "Text": "185"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  5    "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "GrIFK         6  2  0  4 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "166",
+           "length": "3",
+           "Text": "166"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  4    "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " SIF           6  2  0  4 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "138",
+           "length": "3",
+           "Text": "138"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "178",
+           "length": "3",
+           "Text": "178"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "  4    "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " ÅIFK          6  0  0  6 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "152",
+           "length": "3",
+           "Text": "152"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "224",
+           "length": "3",
+           "Text": "224"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "  0    "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "la 24.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Dicken       - EIF           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 15.45 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " GrIFK        - Cocks         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 16.00 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ti 27.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " HIFK         - SIF           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 19.30 "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ke 28.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " ÅIFK         - BK-46         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 19.00 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KÄSIPALLO   MIESTEN LIIGA        2/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " MAALIPÖRSSI 18.10.                     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Liam Hagman           EIF         68   "
+        },
+        {
+         "number": "6",
+         "Text": " Rui Rolo              Dicken      47   "
+        },
+        {
+         "number": "7",
+         "Text": " Jooa Knaapinen        HIFK        43   "
+        },
+        {
+         "number": "8",
+         "Text": " Christian Cosmo       HIFK        42   "
+        },
+        {
+         "number": "9",
+         "Text": " Jan Bolehovsky        EIF         41   "
+        },
+        {
+         "number": "10",
+         "Text": " Teemu Tamminen        Cocks       40   "
+        },
+        {
+         "number": "11",
+         "Text": " Topias Laine          GrIFK       32   "
+        },
+        {
+         "number": "12",
+         "Text": " Aaron Kronberg        BK-46       31   "
+        },
+        {
+         "number": "13",
+         "Text": " Sebastian Hernelahti  ÅIFK        29   "
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " Maalivahdit            O    T   P  %   "
+        },
+        {
+         "number": "16",
+         "Text": " Ukkonen                5   70  87 45   "
+        },
+        {
+         "number": "17",
+         "Text": " Malassu                4   52  92 36   "
+        },
+        {
+         "number": "18",
+         "Text": " Parvinen               6   52 103 34   "
+        },
+        {
+         "number": "19",
+         "Text": " Pedersen               5   49  95 34   "
+        },
+        {
+         "number": "20",
+         "Text": " Heinonen               5   46  71 39   "
+        },
+        {
+         "number": "21",
+         "Text": " Sjöström               4   46  94 33   "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}KÄSIPALLO {NB}{White}MIESTEN LIIGA        2/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}MAALIPÖRSSI 18.10.                     "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Liam Hagman          {Cyan}EIF       {Green} 68   "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Rui Rolo             {Cyan}Dicken    {Green} 47   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Jooa Knaapinen       {Cyan}HIFK      {Green} 43   "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Christian Cosmo      {Cyan}HIFK      {Green} 42   "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Jan Bolehovsky       {Cyan}EIF       {Green} 41   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Teemu Tamminen       {Cyan}Cocks     {Green} 40   "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Topias Laine         {Cyan}GrIFK     {Green} 32   "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Aaron Kronberg       {Cyan}BK-46     {Green} 31   "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Sebastian Hernelahti {Cyan}ÅIFK      {Green} 29   "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Maalivahdit            O    T   P  %   "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Ukkonen       {Cyan}      {White} 5   70  87 45   "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Malassu       {Cyan}      {White} 4   52  92 36   "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Parvinen      {Cyan}      {White} 6   52 103 34   "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Pedersen      {Cyan}      {White} 5   49  95 34   "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Heinonen      {Cyan}      {White} 5   46  71 39   "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Sjöström      {Cyan}      {White} 4   46  94 33   "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "KÄSIPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "MIESTEN LIIGA        2/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "MAALIPÖRSSI 18.10.                     "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Liam Hagman           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "EIF         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "68   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Rui Rolo              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Dicken      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "47   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Jooa Knaapinen        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "HIFK        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "43   "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Christian Cosmo       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "HIFK        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "42   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Jan Bolehovsky        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "EIF         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "41   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Teemu Tamminen        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Cocks       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "40   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Topias Laine          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "GrIFK       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "32   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Aaron Kronberg        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "BK-46       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "31   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Sebastian Hernelahti  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "ÅIFK        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "29   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Maalivahdit            O    T   P  %   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ukkonen                5   70  87 45   "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Malassu                4   52  92 36   "
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " Parvinen               6   52 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "103",
+           "length": "3",
+           "Text": "103"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 34   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pedersen               5   49  95 34   "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Heinonen               5   46  71 39   "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sjöström               4   46  94 33   "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KÄSIPALLO   NAISTEN LIIGA        3/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " RUNKOSARJA                             "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " HIFK          6  6  0  0 223-125 12    "
+        },
+        {
+         "number": "6",
+         "Text": " Cocks         6  5  0  1 173-156 10    "
+        },
+        {
+         "number": "7",
+         "Text": " GrIFK         6  4  1  1 175-143  9    "
+        },
+        {
+         "number": "8",
+         "Text": " Dicken        6  3  1  2 195-164  7    "
+        },
+        {
+         "number": "9",
+         "Text": " PIF           6  2  0  4 142-224  4    "
+        },
+        {
+         "number": "10",
+         "Text": " Atlas         6  2  0  4 160-163  4    "
+        },
+        {
+         "number": "11",
+         "Text": " SIF           6  1  0  5 133-180  2    "
+        },
+        {
+         "number": "12",
+         "Text": " BK-46         6  0  0  6 117-163  0    "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " ke 4.11.                               "
+        },
+        {
+         "number": "15",
+         "Text": " Atlas        - GrIFK         klo 19.00 "
+        },
+        {
+         "number": "16",
+         "Text": " pe 6.11.                               "
+        },
+        {
+         "number": "17",
+         "Text": " PIF          - BK-46         klo 19.00 "
+        },
+        {
+         "number": "18",
+         "Text": " HIFK         - Cocks         klo 19.00 "
+        },
+        {
+         "number": "19",
+         "Text": " su 8.11.                               "
+        },
+        {
+         "number": "20",
+         "Text": " Dicken       - SIF           klo 15.45 "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}KÄSIPALLO {NB}{White}NAISTEN LIIGA        3/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}RUNKOSARJA                             "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}HIFK          6  6  0  0 223-125 12    "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Cocks         6  5  0  1 173-156 10    "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}GrIFK         6  4  1  1 175-143  9    "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Dicken        6  3  1  2 195-164  7    "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}PIF           6  2  0  4 142-224  4    "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}Atlas         6  2  0  4 160-163  4    "
+        },
+        {
+         "number": "11",
+         "Text": "{White}SIF           6  1  0  5 133-180  2    "
+        },
+        {
+         "number": "12",
+         "Text": "{White}BK-46         6  0  0  6 117-163  0    "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Green}ke 4.11.                               "
+        },
+        {
+         "number": "15",
+         "Text": "{White}Atlas        - GrIFK        {Cyan}klo 19.00 "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}pe 6.11.                               "
+        },
+        {
+         "number": "17",
+         "Text": "{White}PIF          - BK-46        {Cyan}klo 19.00 "
+        },
+        {
+         "number": "18",
+         "Text": "{White}HIFK         - Cocks        {Cyan}klo 19.00 "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}su 8.11.                               "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Dicken       - SIF          {Cyan}klo 15.45 "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "KÄSIPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "NAISTEN LIIGA        3/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "RUNKOSARJA                             "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " HIFK          6  6  0  0 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "223",
+           "length": "3",
+           "Text": "223"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "125",
+           "length": "3",
+           "Text": "125"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": " 12    "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " Cocks         6  5  0  1 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "173",
+           "length": "3",
+           "Text": "173"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "156",
+           "length": "3",
+           "Text": "156"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": " 10    "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "GrIFK         6  4  1  1 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "175",
+           "length": "3",
+           "Text": "175"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "143",
+           "length": "3",
+           "Text": "143"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  9    "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "Dicken        6  3  1  2 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "195",
+           "length": "3",
+           "Text": "195"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "164",
+           "length": "3",
+           "Text": "164"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  7    "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "PIF           6  2  0  4 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "142",
+           "length": "3",
+           "Text": "142"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "224",
+           "length": "3",
+           "Text": "224"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  4    "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "Atlas         6  2  0  4 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "160",
+           "length": "3",
+           "Text": "160"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "163",
+           "length": "3",
+           "Text": "163"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "  4    "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " SIF           6  1  0  5 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "133",
+           "length": "3",
+           "Text": "133"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "180",
+           "length": "3",
+           "Text": "180"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "  2    "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " BK-46         6  0  0  6 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "117",
+           "length": "3",
+           "Text": "117"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "163",
+           "length": "3",
+           "Text": "163"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "  0    "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ke 4.11.                               "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Atlas        - GrIFK         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 19.00 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "pe 6.11.                               "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " PIF          - BK-46         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 19.00 "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " HIFK         - Cocks         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 19.00 "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "su 8.11.                               "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Dicken       - SIF           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 15.45 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KÄSIPALLO   NAISTEN LIIGA        4/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " MAALIPÖRSSI 18.10.                     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Stefani Petrova       SIF         44   "
+        },
+        {
+         "number": "6",
+         "Text": " Ella Holopainen       HIFK        42   "
+        },
+        {
+         "number": "7",
+         "Text": " Malena Heikkinen      Dicken      40   "
+        },
+        {
+         "number": "8",
+         "Text": " Kira Härkönen         HIFK        39   "
+        },
+        {
+         "number": "9",
+         "Text": " Astrid Stubb          PIF         37   "
+        },
+        {
+         "number": "10",
+         "Text": " Mariela Lönnqvist     Atlas       35   "
+        },
+        {
+         "number": "11",
+         "Text": " Aminata Doucoure      Cocks       34   "
+        },
+        {
+         "number": "12",
+         "Text": " Matilda Peitsaro      Dicken      34   "
+        },
+        {
+         "number": "13",
+         "Text": " Andjela Petrovic      SIF         33   "
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " Maalivahdit            O    T   P  %   "
+        },
+        {
+         "number": "16",
+         "Text": " Olsson                 6   66  85 44   "
+        },
+        {
+         "number": "17",
+         "Text": " Kosonen                6   64 107 37   "
+        },
+        {
+         "number": "18",
+         "Text": " Narkiniemi             6   52  97 35   "
+        },
+        {
+         "number": "19",
+         "Text": " Fröjdö                 6   47 127 27   "
+        },
+        {
+         "number": "20",
+         "Text": " Terlinden              6   46  97 32   "
+        },
+        {
+         "number": "21",
+         "Text": " Kanninen               6   45  64 41   "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}KÄSIPALLO {NB}{White}NAISTEN LIIGA        4/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}MAALIPÖRSSI 18.10.                     "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Stefani Petrova      {Cyan}SIF       {Green} 44   "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Ella Holopainen      {Cyan}HIFK      {Green} 42   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Malena Heikkinen     {Cyan}Dicken    {Green} 40   "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Kira Härkönen        {Cyan}HIFK      {Green} 39   "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Astrid Stubb         {Cyan}PIF       {Green} 37   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Mariela Lönnqvist    {Cyan}Atlas     {Green} 35   "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Aminata Doucoure     {Cyan}Cocks     {Green} 34   "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Matilda Peitsaro     {Cyan}Dicken    {Green} 34   "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Andjela Petrovic     {Cyan}SIF       {Green} 33   "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Maalivahdit            O    T   P  %   "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Olsson        {Cyan}      {White} 6   66  85 44   "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Kosonen       {Cyan}      {White} 6   64 107 37   "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Narkiniemi    {Cyan}      {White} 6   52  97 35   "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Fröjdö        {Cyan}      {White} 6   47 127 27   "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Terlinden     {Cyan}      {White} 6   46  97 32   "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Kanninen      {Cyan}      {White} 6   45  64 41   "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "KÄSIPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "NAISTEN LIIGA        4/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "MAALIPÖRSSI 18.10.                     "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Stefani Petrova       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "SIF         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "44   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Ella Holopainen       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "HIFK        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "42   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Malena Heikkinen      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Dicken      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "40   "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Kira Härkönen         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "HIFK        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "39   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Astrid Stubb          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "PIF         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "37   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Mariela Lönnqvist     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Atlas       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "35   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Aminata Doucoure      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Cocks       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "34   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Matilda Peitsaro      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Dicken      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "34   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Andjela Petrovic      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "SIF         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "33   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Maalivahdit            O    T   P  %   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Olsson                 6   66  85 44   "
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " Kosonen                6   64 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "107",
+           "length": "3",
+           "Text": "107"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 37   "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Narkiniemi             6   52  97 35   "
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " Fröjdö                 6   47 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "127",
+           "length": "3",
+           "Text": "127"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": " 27   "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Terlinden              6   46  97 32   "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kanninen               6   45  64 41   "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

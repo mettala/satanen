@@ -1,0 +1,1604 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "237",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "236",
+   "nextpg": "238",
+   "toptype": "normal",
+   "time": "2026-10-21T08:19:44",
+   "utctime": "2026-10-21T05:19:44",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL/ITÄ (84 OTTELUA)             1/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " METROPOLITAN-DIVISIOONA                "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Carolina     11  7  1  1  2  42- 27  17"
+        },
+        {
+         "number": "6",
+         "Text": " NY Rangers   11  7  0  1  3  33- 24  15"
+        },
+        {
+         "number": "7",
+         "Text": " NY Islanders  9  5  0  1  3  27- 20  11"
+        },
+        {
+         "number": "8",
+         "Text": " Washington    9  5  0  0  4  30- 29  10"
+        },
+        {
+         "number": "9",
+         "Text": " New Jersey    9  3  2  0  4  29- 30  10"
+        },
+        {
+         "number": "10",
+         "Text": " Pittsburgh   10  1  2  1  6  33- 38   7"
+        },
+        {
+         "number": "11",
+         "Text": " Philadelphia 11  2  0  3  6  17- 36   7"
+        },
+        {
+         "number": "12",
+         "Text": " Columbus      8  1  2  0  5  20- 29   6"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " ATLANTIN DIVISIOONA                    "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Boston       10  6  1  1  2  36- 22  15"
+        },
+        {
+         "number": "17",
+         "Text": " Tampa Bay     9  6  1  0  2  31- 23  14"
+        },
+        {
+         "number": "18",
+         "Text": " Ottawa        9  4  2  0  3  24- 23  12"
+        },
+        {
+         "number": "19",
+         "Text": " Florida       9  3  2  2  2  30- 25  12"
+        },
+        {
+         "number": "20",
+         "Text": " Toronto      11  4  1  2  4  38- 35  12"
+        },
+        {
+         "number": "21",
+         "Text": " Buffalo       9  2  2  2  3  27- 34  10"
+        },
+        {
+         "number": "22",
+         "Text": " Montreal      9  1  3  2  3  30- 34  10"
+        },
+        {
+         "number": "23",
+         "Text": " Detroit       9  2  1  3  3  23- 28   9"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL/ITÄ (84 OTTELUA)  {Green}{NB}{Blue}        1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}METROPOLITAN-DIVISIOONA                "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Carolina     11  7  1  1  2  42- 27  17"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}NY Rangers   11  7  0  1  3  33- 24  15"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}NY Islanders  9  5  0  1  3  27- 20  11"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Washington    9  5  0  0  4  30- 29  10"
+        },
+        {
+         "number": "9",
+         "Text": "{White}New Jersey    9  3  2  0  4  29- 30  10"
+        },
+        {
+         "number": "10",
+         "Text": "{White}Pittsburgh   10  1  2  1  6  33- 38   7"
+        },
+        {
+         "number": "11",
+         "Text": "{White}Philadelphia 11  2  0  3  6  17- 36   7"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Columbus      8  1  2  0  5  20- 29   6"
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Green}ATLANTIN DIVISIOONA                    "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}Boston       10  6  1  1  2  36- 22  15"
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Tampa Bay     9  6  1  0  2  31- 23  14"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}Ottawa        9  4  2  0  3  24- 23  12"
+        },
+        {
+         "number": "19",
+         "Text": "{White}Florida       9  3  2  2  2  30- 25  12"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Toronto      11  4  1  2  4  38- 35  12"
+        },
+        {
+         "number": "21",
+         "Text": "{White}Buffalo       9  2  2  2  3  27- 34  10"
+        },
+        {
+         "number": "22",
+         "Text": "{White}Montreal      9  1  3  2  3  30- 34  10"
+        },
+        {
+         "number": "23",
+         "Text": "{White}Detroit       9  2  1  3  3  23- 28   9"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL/ITÄ (84 OTTELUA)   "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "10"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "4",
+           "Text": "1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "METROPOLITAN-DIVISIOONA                "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Carolina     11  7  1  1  2  42- 27  17"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "NY Rangers   11  7  0  1  3  33- 24  15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "NY Islanders  9  5  0  1  3  27- 20  11"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Washington    9  5  0  0  4  30- 29  10"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " New Jersey    9  3  2  0  4  29- 30  10"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pittsburgh   10  1  2  1  6  33- 38   7"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Philadelphia 11  2  0  3  6  17- 36   7"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Columbus      8  1  2  0  5  20- 29   6"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ATLANTIN DIVISIOONA                    "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Boston       10  6  1  1  2  36- 22  15"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Tampa Bay     9  6  1  0  2  31- 23  14"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Ottawa        9  4  2  0  3  24- 23  12"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Florida       9  3  2  2  2  30- 25  12"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Toronto      11  4  1  2  4  38- 35  12"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Buffalo       9  2  2  2  3  27- 34  10"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Montreal      9  1  3  2  3  30- 34  10"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Detroit       9  2  1  3  3  23- 28   9"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL/LÄNSI (84 OTTELUA)           2/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " KESKINEN DIVISIOONA                    "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Utah         10  7  0  0  3  38- 31  14"
+        },
+        {
+         "number": "6",
+         "Text": " Minnesota    10  6  0  2  2  31- 25  14"
+        },
+        {
+         "number": "7",
+         "Text": " Dallas        9  3  2  1  3  23- 15  11"
+        },
+        {
+         "number": "8",
+         "Text": " Colorado     10  5  0  1  4  41- 31  11"
+        },
+        {
+         "number": "9",
+         "Text": " Winnipeg      9  4  0  2  3  24- 26  10"
+        },
+        {
+         "number": "10",
+         "Text": " Nashville     8  3  0  3  2  23- 24   9"
+        },
+        {
+         "number": "11",
+         "Text": " St. Louis     9  4  0  1  4  29- 29   9"
+        },
+        {
+         "number": "12",
+         "Text": " Chicago       9  2  1  0  6  21- 36   6"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " TYYNENMEREN DIVISIOONA                 "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Vegas        11  6  2  0  3  44- 30  16"
+        },
+        {
+         "number": "17",
+         "Text": " Edmonton      9  6  1  1  1  41- 27  15"
+        },
+        {
+         "number": "18",
+         "Text": " Seattle      10  4  2  1  3  39- 34  13"
+        },
+        {
+         "number": "19",
+         "Text": " San Jose     10  0  5  1  4  27- 35  11"
+        },
+        {
+         "number": "20",
+         "Text": " Anaheim       9  3  1  0  5  26- 29   8"
+        },
+        {
+         "number": "21",
+         "Text": " Vancouver    11  1  1  1  8  33- 51   5"
+        },
+        {
+         "number": "22",
+         "Text": " Los Angeles   7  1  0  2  4  17- 27   4"
+        },
+        {
+         "number": "23",
+         "Text": " Calgary       8  2  0  0  6  17- 37   4"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL/LÄNSI (84 OTTELUA){Green}{NB}{Blue}        2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}KESKINEN DIVISIOONA                    "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Utah         10  7  0  0  3  38- 31  14"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Minnesota    10  6  0  2  2  31- 25  14"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Dallas        9  3  2  1  3  23- 15  11"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Colorado     10  5  0  1  4  41- 31  11"
+        },
+        {
+         "number": "9",
+         "Text": "{White}Winnipeg      9  4  0  2  3  24- 26  10"
+        },
+        {
+         "number": "10",
+         "Text": "{White}Nashville     8  3  0  3  2  23- 24   9"
+        },
+        {
+         "number": "11",
+         "Text": "{White}St. Louis     9  4  0  1  4  29- 29   9"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Chicago       9  2  1  0  6  21- 36   6"
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Green}TYYNENMEREN DIVISIOONA                 "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}Vegas        11  6  2  0  3  44- 30  16"
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Edmonton      9  6  1  1  1  41- 27  15"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}Seattle      10  4  2  1  3  39- 34  13"
+        },
+        {
+         "number": "19",
+         "Text": "{White}San Jose     10  0  5  1  4  27- 35  11"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Anaheim       9  3  1  0  5  26- 29   8"
+        },
+        {
+         "number": "21",
+         "Text": "{White}Vancouver    11  1  1  1  8  33- 51   5"
+        },
+        {
+         "number": "22",
+         "Text": "{White}Los Angeles   7  1  0  2  4  17- 27   4"
+        },
+        {
+         "number": "23",
+         "Text": "{White}Calgary       8  2  0  0  6  17- 37   4"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL/LÄNSI (84 OTTELUA) "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "10"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "4",
+           "Text": "2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "KESKINEN DIVISIOONA                    "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Utah         10  7  0  0  3  38- 31  14"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Minnesota    10  6  0  2  2  31- 25  14"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Dallas        9  3  2  1  3  23- 15  11"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Colorado     10  5  0  1  4  41- 31  11"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Winnipeg      9  4  0  2  3  24- 26  10"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Nashville     8  3  0  3  2  23- 24   9"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " St. Louis     9  4  0  1  4  29- 29   9"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Chicago       9  2  1  0  6  21- 36   6"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "TYYNENMEREN DIVISIOONA                 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Vegas        11  6  2  0  3  44- 30  16"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Edmonton      9  6  1  1  1  41- 27  15"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Seattle      10  4  2  1  3  39- 34  13"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " San Jose     10  0  5  1  4  27- 35  11"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Anaheim       9  3  1  0  5  26- 29   8"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Vancouver    11  1  1  1  8  33- 51   5"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Los Angeles   7  1  0  2  4  17- 27   4"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Calgary       8  2  0  0  6  17- 37   4"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   NHL-JÄÄKIEKKO                    3/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " 22.10.                                 "
+        },
+        {
+         "number": "4",
+         "Text": " Buffalo       - Philadelphia   02.30   "
+        },
+        {
+         "number": "5",
+         "Text": " Ottawa        - Florida        02.30   "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7",
+         "Text": " 23.10.                                 "
+        },
+        {
+         "number": "8",
+         "Text": " Pittsburgh    - Florida        02.00   "
+        },
+        {
+         "number": "9",
+         "Text": " New Jersey    - Anaheim        02.00   "
+        },
+        {
+         "number": "10",
+         "Text": " Boston        - Nashville      02.00   "
+        },
+        {
+         "number": "11",
+         "Text": " Toronto       - NY Rangers     02.00   "
+        },
+        {
+         "number": "12",
+         "Text": " Ottawa        - San Jose       02.00   "
+        },
+        {
+         "number": "13",
+         "Text": " NY Islanders  - Los Angeles    02.30   "
+        },
+        {
+         "number": "14",
+         "Text": " St. Louis     - Vegas          03.00   "
+        },
+        {
+         "number": "15",
+         "Text": " Dallas        - Winnipeg       03.00   "
+        },
+        {
+         "number": "16",
+         "Text": " Edmonton      - Carolina       04.00   "
+        },
+        {
+         "number": "17",
+         "Text": " Calgary       - Minnesota      04.00   "
+        },
+        {
+         "number": "18",
+         "Text": " Seattle       - Utah           05.00   "
+        },
+        {
+         "number": "19",
+         "Text": " Vancouver     - Detroit        05.00   "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": " 24.10.                                 "
+        },
+        {
+         "number": "22",
+         "Text": " Chicago       - Montreal       03.00   "
+        },
+        {
+         "number": "23",
+         "Text": " Colorado      - Tampa Bay      04.00   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}NHL-JÄÄKIEKKO         {Green}{NB}{Blue}        3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}22.10.                                 "
+        },
+        {
+         "number": "4",
+         "Text": " Buffalo       - Philadelphia  {Cyan}02.30   "
+        },
+        {
+         "number": "5",
+         "Text": " Ottawa        - Florida       {Cyan}02.30   "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{Green}23.10.                                 "
+        },
+        {
+         "number": "8",
+         "Text": " Pittsburgh    - Florida       {Cyan}02.00   "
+        },
+        {
+         "number": "9",
+         "Text": " New Jersey    - Anaheim       {Cyan}02.00   "
+        },
+        {
+         "number": "10",
+         "Text": " Boston        - Nashville     {Cyan}02.00   "
+        },
+        {
+         "number": "11",
+         "Text": " Toronto       - NY Rangers    {Cyan}02.00   "
+        },
+        {
+         "number": "12",
+         "Text": " Ottawa        - San Jose      {Cyan}02.00   "
+        },
+        {
+         "number": "13",
+         "Text": " NY Islanders  - Los Angeles   {Cyan}02.30   "
+        },
+        {
+         "number": "14",
+         "Text": " St. Louis     - Vegas         {Cyan}03.00   "
+        },
+        {
+         "number": "15",
+         "Text": " Dallas        - Winnipeg      {Cyan}03.00   "
+        },
+        {
+         "number": "16",
+         "Text": " Edmonton      - Carolina      {Cyan}04.00   "
+        },
+        {
+         "number": "17",
+         "Text": " Calgary       - Minnesota     {Cyan}04.00   "
+        },
+        {
+         "number": "18",
+         "Text": " Seattle       - Utah          {Cyan}05.00   "
+        },
+        {
+         "number": "19",
+         "Text": " Vancouver     - Detroit       {Cyan}05.00   "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{Green}24.10.                                 "
+        },
+        {
+         "number": "22",
+         "Text": " Chicago       - Montreal      {Cyan}03.00   "
+        },
+        {
+         "number": "23",
+         "Text": " Colorado      - Tampa Bay     {Cyan}04.00   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "23",
+           "Text": "NHL-JÄÄKIEKKO          "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "10"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "4",
+           "Text": "3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "22.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Buffalo       - Philadelphia   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.30   "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Ottawa        - Florida        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.30   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "23.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Pittsburgh    - Florida        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.00   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " New Jersey    - Anaheim        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.00   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Boston        - Nashville      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.00   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Toronto       - NY Rangers     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.00   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Ottawa        - San Jose       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.00   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " NY Islanders  - Los Angeles    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "02.30   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " St. Louis     - Vegas          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "03.00   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Dallas        - Winnipeg       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "03.00   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Edmonton      - Carolina       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "04.00   "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Calgary       - Minnesota      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "04.00   "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Seattle       - Utah           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "05.00   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Vancouver     - Detroit        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "05.00   "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "24.10.                                 "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Chicago       - Montreal       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "03.00   "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " Colorado      - Tampa Bay      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "04.00   "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

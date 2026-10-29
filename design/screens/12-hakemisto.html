@@ -1,0 +1,276 @@
+<!doctype html><html lang="fi"><head><meta charset="utf-8"><title>Hakemisto 199: ehdotus</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap">
+<style>
+/* Mock-up for RP.11 (page 199, Päähakemistojen kooste). Colours, type, spacing and radii from
+   design-system/tokens.json only. Plain HTML, not a .dc component. Entries are Yle's page 199 as
+   captured in fixtures/pages/199.json (21.10.2026), unchanged except where a name option says so. */
+body{margin:0;padding:24px;background:#d9dce1;font-family:'Schibsted Grotesk',system-ui,sans-serif;color:#333}
+.note{max-width:1700px;margin:0 auto 20px;font-size:14px;line-height:1.5}
+.note h1{font-size:20px;margin:0 0 6px}
+.note h2{font-size:16px;margin:28px 0 4px}
+.wrap{display:flex;flex-wrap:wrap;gap:28px;justify-content:center;max-width:1700px;margin:0 auto 36px}
+.col{display:flex;flex-direction:column;gap:10px;width:390px}
+.cap{font-size:14px;font-weight:600;min-height:38px}
+.phone{position:relative;width:390px;height:844px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column;border-radius:28px;background:var(--bg);color:var(--ink)}
+.light{--bg:#F6F7F9;--surface:#FFFFFF;--field:#ECEEF2;--ink:#15181D;--muted:#5D636E;--line:#E1E4E9;--link:#1D47B8;--news:#2357D9;--sport:#2B7A35;--weather:#6B45C6}
+.dark{--bg:#15181D;--surface:#1F232A;--field:#262B33;--ink:#ECEEF1;--muted:#A0A7B2;--line:#2E333B;--link:#9DB6FF;--news:#86A6FF;--sport:#6DD27C;--weather:#B69CFF}
+a{color:inherit;text-decoration:none}
+/* Header as on 09-artikkeli-virrasta: ☰ · ‹ Takaisin · page number · ☆ */
+.hd{padding:44px 8px 4px;display:flex;align-items:center;flex-shrink:0}
+.ic{width:44px;height:44px;display:flex;align-items:center;justify-content:center;color:var(--ink)}
+.back{height:44px;display:flex;align-items:center;gap:2px;padding-right:8px;font-size:16px;line-height:23px}
+.num{font-size:15px;font-weight:600;font-variant-numeric:tabular-nums;padding:0 4px}
+.sp{flex:1}
+/* Scrolling content, list-screen gutter (space-5). */
+.body{flex:1;overflow-y:auto;padding:4px 20px 24px}
+.ttl{font-size:24px;line-height:28px;font-weight:800;letter-spacing:-.02em;margin:4px 0 16px}
+/* The A–Z index, Yle's repeated bottom row, shown once as a card (surface, radius-lg). */
+.card{display:flex;align-items:center;justify-content:space-between;min-height:44px;padding:12px 16px;background:var(--surface);border-radius:16px;font-size:16px;line-height:23px;font-weight:600;box-sizing:border-box}
+.card .n{color:var(--link);font-weight:500;font-variant-numeric:tabular-nums}
+/* Subpage counter, as the article divider on 05-artikkeli. */
+.div{display:flex;align-items:center;gap:12px;margin:28px 0 4px}
+.div i{flex:1;height:1px;background:var(--line)}
+.div span{font-size:13px;line-height:18px;color:var(--muted);font-variant-numeric:tabular-nums}
+/* Group heading: Yle's yellow heading row. Dot + label in the section colour, its number as a link. */
+.gh{display:flex;align-items:center;justify-content:space-between;min-height:44px;margin-top:24px}
+.gh .lab{display:flex;align-items:center;gap:8px;font-size:12px;line-height:16px;font-weight:700;letter-spacing:.08em}
+.gh .lab i{width:8px;height:8px;border-radius:4px;background:currentColor;flex-shrink:0}
+.gh .n,.row .n{color:var(--link);font-size:16px;line-height:23px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.sub{font-size:13px;line-height:18px;color:var(--muted);margin:-6px 0 6px}
+.subh{font-size:13px;line-height:18px;font-weight:600;color:var(--muted);padding:16px 0 6px}
+/* Entry row: name left, number › right, as the Aiheesta list. Whole row is the link. */
+.row{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:44px;border-top:1px solid var(--line);font-size:16px;line-height:23px;font-weight:500}
+.row .nm{padding:10px 0}
+/* Several numbers on one entry (340,345-346): each number is its own link, ≥ 44 px wide. */
+.row.multi .ns{display:flex;gap:0}
+.row.multi .n{min-width:44px;min-height:44px;display:flex;align-items:center;justify-content:center;text-decoration:underline;text-underline-offset:3px}
+.row.multi .sep{display:flex;align-items:center;color:var(--muted)}
+.gap{height:24px}
+/* Tab bar: no tab is active on page 199 (RP.3). */
+.tabs{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--line);background:var(--bg);padding:8px 4px 26px;flex-shrink:0}
+.tabs span{display:flex;flex-direction:column;align-items:center;gap:4px;font-size:12px;line-height:16px;font-weight:600;color:var(--muted);padding:4px 0}
+.opt{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.06em;padding:2px 8px;border-radius:6px;background:#15181D;color:#F6F7F9;margin-right:6px}
+table.names{border-collapse:collapse;font-size:13px;margin-top:6px}
+table.names td,table.names th{border:1px solid #b9bec7;padding:3px 8px;text-align:left}
+</style></head><body>
+
+<div class="note">
+<h1>Hakemisto 199: proposal (RP.11)</h1>
+<p>Teletext page 199 <i>Päähakemistojen kooste</i> as one scrolling list, read the way the teletext page is meant to be read: each yellow heading (UUTISET, URHEILU, ALUEUUTISET …) starts a group, and inside a group the left column is read first, then the right one. Every entry is its own row with its page number on the right, so <i>Yle TV1 301</i> and <i>Äänitekstitys 337</i> no longer interleave. The title and the <i>1/4 … 4/4</i> counters are shown. The <i>Aakkosellinen hakemisto 196-198</i> line that Yle repeats at the bottom of every sub-page is shown once, as a card at the top. Group headings are links too (UUTISET opens 101). A row with one number is one link; a row with several (<i>Yle Radio1 340, 345-346</i>) has one underlined link per number, and a range opens its first page (as proposed in RP.7). Colour dots follow the drawer: Uutiset blue, Urheilu green, Sää ja liikenne purple, the rest grey. The previous/next card (RP.10) stays at the end of the page as on every page and is not drawn here.</p>
+<p>Phones in the first two rows show one long page cut into consecutive screens (scroll inside any phone to move). Region names there use <b>option C</b>, the recommended one; the last two rows compare the three options.</p>
+</div>
+
+<div class="note"><h2>Vaalea: the whole page, screen by screen</h2></div>
+<div class="wrap" id="full-light"></div>
+<div class="note"><h2>Tumma: the whole page, screen by screen</h2></div>
+<div class="wrap" id="full-dark"></div>
+
+<div class="note">
+<h2>Region names: three options (owner decides)</h2>
+<p>On page 199 Yle cuts some region names to fit 40 columns: <i>Kymenlaak</i>, <i>Meri-Lapp</i>, <i>Päijät-Hä</i>, <i>E-Pohjanm</i>, and shortens others (<i>E-Karj.</i>, <i>K-Pohj.</i>).</p>
+<p><span class="opt">A</span><b>As Yle wrote them on page 199.</b> No licence risk. Ugly.<br>
+<span class="opt">B</span><b>Expanded from a fixed list written into the app</b> (the owner allows this). Reads best, but it replaces Yle's text with text Satanen wrote. Yle's API licence forbids changing the content, and only Yle can waive that. The pending answer to the email sent to Yle on 23.10. may settle it.<br>
+<span class="opt">C</span><b>Recommended: Yle's own longer names from page 500 (Alueuutiset).</b> Yle writes the same regions in full on its own regional index: <i>Kymenlaakso</i>, <i>Meri-Lappi</i>, <i>Päijät-Häme</i>, <i>Etelä-Pohjanmaa</i>. Every word shown is still Yle's, so it is re-layout, not rewording. Two names stay a little short because Yle shortens them on 500 too: <i>Keski-Pohjanm.</i> and <i>Pohj.-Pohjanmaa</i>. If page 500 changes, the app falls back to option A.</p>
+<table class="names"><tr><th>Page</th><th>A: 199 as written</th><th>B: list in the app</th><th>C: Yle's page 500</th></tr>
+<tbody id="names-table"></tbody></table>
+</div>
+<div class="wrap" id="opts-light"></div>
+<div class="wrap" id="opts-dark"></div>
+
+<script>
+// Page 199 as groups. Each subpage: items in reading order.
+//  h: group heading [number, text, colour]; s: subtitle under a heading; sh: sub-heading without a link;
+//  e: entry [name, number] or [name, [numbers]]; g: gap between groups that have no heading.
+const REGIONS = [
+  ['501', 'E-Karj.', 'Etelä-Karjala', 'Etelä-Karjala'],
+  ['502', 'E-Savo', 'Etelä-Savo', 'Etelä-Savo'],
+  ['503', 'Häme', 'Häme', 'Häme'],
+  ['504', 'Kainuu', 'Kainuu', 'Kainuu'],
+  ['505', 'K-Pohj.', 'Keski-Pohjanmaa', 'Keski-Pohjanm.'],
+  ['506', 'K-Suomi', 'Keski-Suomi', 'Keski-Suomi'],
+  ['507', 'Kymenlaak', 'Kymenlaakso', 'Kymenlaakso'],
+  ['508', 'Lappi', 'Lappi', 'Lappi'],
+  ['509', 'Meri-Lapp', 'Meri-Lappi', 'Meri-Lappi'],
+  ['510', 'Pirkanmaa', 'Pirkanmaa', 'Pirkanmaa'],
+  ['511', 'Pohjanmaa', 'Pohjanmaa', 'Pohjanmaa'],
+  ['512', 'P-Karjala', 'Pohjois-Karjala', 'Pohjois-Karjala'],
+  ['513', 'P-Pohjanm', 'Pohjois-Pohjanmaa', 'Pohj.-Pohjanmaa'],
+  ['514', 'P-Savo', 'Pohjois-Savo', 'Pohjois-Savo'],
+  ['515', 'Päijät-Hä', 'Päijät-Häme', 'Päijät-Häme'],
+  ['516', 'Helsinki/Uusimaa', 'Helsinki/Uusimaa', 'Helsinki/Uusimaa'],
+  ['517', 'Satakunta', 'Satakunta', 'Satakunta'],
+  ['518', 'Vars-Suom', 'Varsinais-Suomi', 'Varsinais-Suomi'],
+  ['519', 'E-Pohjanm', 'Etelä-Pohjanmaa', 'Etelä-Pohjanmaa'],
+];
+const OPT = { A: 1, B: 2, C: 3 };
+
+function regionItems(opt) {
+  return [
+    { h: ['500', 'ALUEUUTISET', 'muted'] },
+    ...REGIONS.map((r) => ({ e: [r[OPT[opt]], r[0]] })),
+    { sh: 'Uutiset saameksi:' },
+    { e: ['pohjoissaami', '520'] },
+    { e: ['inarinsaami', '521'] },
+  ];
+}
+
+function pageData(opt) {
+  return [
+    [
+      { h: ['101', 'UUTISET', 'news'] },
+      { e: ['Etusivu', '100'] }, { e: ['Kotimaa', '102'] }, { e: ['Ulkomaat', '130'] }, { e: ['Talous', '160'] },
+      { e: ['Vaaratiedotteet', '112'] }, { e: ['Pörssisivut', '175'] }, { e: ['News in English', '190'] },
+      { e: ['Aakkosellinen hakemisto', '196-198'] },
+      { h: ['200', 'URHEILU', 'sport'] },
+      { e: ['Urheilu-uutiset', '201'] }, { e: ['Palloilusarjat', '220'] }, { e: ['Eurojalkapallo', '670'] },
+      { e: ['Moottoriurheilu', '298-299'] }, { e: ['Ravit', '460'] }, { e: ['Veikkaus', '470'] },
+      { e: ['Suurtapahtumat', '600'] },
+      ...regionItems(opt),
+    ],
+    [
+      { h: ['300', 'OHJELMAT', 'muted'] },
+      { e: ['Yle TV1', '301'] }, { e: ['Yle TV2', '302'] }, { e: ['MTV3', '303'] }, { e: ['Nelonen', '304'] },
+      { e: ['Yle Teema & Fem', '305'] }, { e: ['Ava', '306'] }, { e: ['Liv', '307'] }, { e: ['Sub', '308'] },
+      { e: ['JIM', '309'] }, { e: ['Ylen kanavat huomenna', '310-312'] },
+      { e: ['Ylen kanavat ylihuomenna', '315-317'] }, { e: ['TV:ssä nyt', '320'] }, { e: ['TV1 viikko', '321'] },
+      { e: ['TV2 viikko', '322'] }, { e: ['Yle Urheilu', '355'] }, { e: ['Nuntii Latini', '365-373'] },
+      { h: ['330', 'TEKSTITYSOPAS', 'muted'] },
+      { e: ['Äänitekstitys', '337'] }, { e: ['Tekstinpeitto', '338'] }, { e: ['Yle Klassinen', '339'] },
+      { e: ['Yle Radio1', ['340', '345-346']] }, { e: ['YleX', '341'] }, { e: ['Radio Suomi', ['342', '348']] },
+      { e: ['Yöklassinen', '344'] }, { e: ['Radiossa nyt', '349'] }, { e: ['Yle Areena', ['371', '389']] },
+      { h: ['350', 'OHJELMAOPAS', 'muted'] }, { s: 'Lisää ohjelmista' },
+      { e: ['TV1', '351-352'] }, { e: ['TV2', '353-354'] }, { e: ['Yle Teema & Fem', '359-360'] },
+      { e: ['Ajankohtaiset', '356'] },
+    ],
+    [
+      { h: ['400', 'SÄÄ JA LIIKENNE', 'weather'] },
+      { e: ['Säätiedotus', '401'] }, { e: ['Maa-asemat', '402'] }, { e: ['Merisää', '403'] },
+      { e: ['Tiesää,tietyöt', '410'] }, { e: ['Lennot: Hki,Tampere,Turku,Oulu', '425-427'] },
+      { e: ['Lentosää', '428-429'] }, { e: ['Ravit', '460'] }, { e: ['Rannikkoasemat', '404'] },
+      { e: ['5 vrk:n sää', '405'] }, { e: ['Päivän sää', '406'] }, { e: ['3 vrk:n sää', '407'] },
+      { e: ['Ulkomaan sää', '408'] }, { e: ['Ilmanlaatu', '424'] }, { e: ['Siitepölyt/UV', '418'] },
+      { e: ['Rinteet', '420'] },
+      { h: ['470', 'VEIKKAUS', 'muted'] },
+      { h: ['500', 'ALUEUUTISET, TEKNIIKKA', 'muted'] },
+      { e: ['Alueuutiset', '501-518'] }, { e: ['Kuulosivut', '550'] }, { e: ['Teksti-TV-info', '576'] },
+      { e: ['Teksti-tv- ja digi-tv-tietoa', '575'] }, { e: ['Lähetys-info,boxipäivitys', ['582', '588']] },
+      { e: ['Digineuvonta', '589'] }, { e: ['DX-kuuntelijat', '591'] }, { e: ['Teksti-TV:n yhteystiedot', '599'] },
+      { e: ['Testisivu', '580'] }, { e: ['Yle-vero', '584'] }, { e: ['Radioamatöörit', '590'] },
+      { e: ['Ammunnat', '592'] },
+    ],
+    [
+      { h: ['700', 'TEXT-TV PÅ SVENSKA', 'muted'] },
+      { e: ['Huvudnyheter', '701'] }, { e: ['Inrikes', '702'] }, { e: ['Utrikes', '710'] },
+      { e: ['Kultur och nöje', '715'] }, { e: ['Väder', '760'] }, { e: ['YleTeema&Fem', '774-776'] },
+      { e: ['Radio Vega', '777'] }, { e: ['Radio X3M', '778'] }, { e: ['Huvudstadsreg.', '725'] },
+      { e: ['Västnyland', '730'] }, { e: ['Åboland', '735'] }, { e: ['Österbotten', '740'] },
+      { e: ['Östnyland', '745'] }, { e: ['Textning', '786'] }, { e: ['Nödhjälpssida', '795'] },
+      { e: ['Hörselskadade', '796'] }, { e: ['Index', '799'] },
+      { h: ['800', 'VIIKKOMAKASIINI', 'muted'] },
+      { e: ['Viikkomakasiinin hakemisto', '801'] }, { e: ['Vapaa-aika (lista,kirjat,ttv-taide)', '802'] },
+      { e: ['Kansalaistaito', '860'] }, { e: ['Kuluttaja', ['861-862', '870']] }, { e: ['Pelastuspalvelu', '868'] },
+      { e: ['Eläketurva', '858'] }, { e: ['Säteilyturva', '867'] }, { e: ['Kalenteri', '890'] },
+      { g: true },
+      { e: ['Vaaratiedotteet', '112'] }, { e: ['Teksti-TV:n yhteystiedot', '599'] },
+      { e: ['Vaaratiedote-info', '866'] },
+    ],
+  ];
+}
+
+const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+const ICON_MENU = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>';
+const ICON_BACK = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>';
+const ICON_STAR = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 4l2.5 5 5.5.8-4 3.9.9 5.5-4.9-2.6-4.9 2.6.9-5.5-4-3.9 5.5-.8z"/></svg>';
+const TABS = [
+  ['Etusivu', '<path d="M4 11l8-7 8 7v8a1 1 0 0 1-1 1h-4v-6h-6v6H5a1 1 0 0 1-1-1z"/>'],
+  ['Uutiset', '<rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 9h8M8 13h8M8 17h5"/>'],
+  ['Urheilu', '<circle cx="12" cy="12" r="8"/><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"/>'],
+  ['Talous', '<path d="M4 17l5-5 4 3 7-7"/><path d="M15 8h5v5"/>'],
+  ['Sää', '<path d="M7 18h10a4 4 0 0 0 0-8 6 6 0 0 0-11.5 1.5A3.3 3.3 0 0 0 7 18z"/>'],
+];
+
+function itemHtml(it) {
+  if (it.h) {
+    const [n, text, c] = it.h;
+    return `<a href="#" class="gh" aria-label="${esc(text)}, sivu ${n}"><span class="lab" style="color:var(--${c})"><i></i>${esc(text)}</span><span class="n">${n} ›</span></a>`;
+  }
+  if (it.s) return `<div class="sub">${esc(it.s)}</div>`;
+  if (it.sh) return `<div class="subh" role="heading">${esc(it.sh)}</div>`;
+  if (it.g) return '<div class="gap"></div>';
+  const [name, num] = it.e;
+  if (Array.isArray(num)) {
+    const links = num
+      .map((n) => `<a href="#" class="n" aria-label="${esc(name)}, sivu ${n}">${n}</a>`)
+      .join('<span class="sep" aria-hidden="true">,</span>');
+    return `<div class="row multi"><span class="nm">${esc(name)}</span><span class="ns">${links}</span></div>`;
+  }
+  return `<a href="#" class="row"><span class="nm">${esc(name)}</span><span class="n">${num} ›</span></a>`;
+}
+
+function bodyHtml(subpages) {
+  let html = '<div class="ttl" role="heading">Päähakemistojen kooste</div>';
+  html += '<a href="#" class="card"><span>Aakkosellinen hakemisto</span><span class="n">196-198 ›</span></a>';
+  subpages.forEach((items, i) => {
+    html += `<div class="div"><i></i><span>${i + 1}/${subpages.length}</span><i></i></div>`;
+    html += items.map(itemHtml).join('');
+  });
+  return html;
+}
+
+function phone(theme, inner) {
+  const tabs = TABS.map(
+    ([label, path]) =>
+      `<span><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${path}</svg>${label}</span>`,
+  ).join('');
+  return `<div class="phone ${theme}">
+<div class="hd"><a href="#" class="ic" aria-label="Kaikki osastot">${ICON_MENU}</a><a href="#" class="back">${ICON_BACK}Takaisin</a><span class="sp"></span><span class="num">199</span><button class="ic" style="border:0;background:transparent" aria-label="Lisää suosikkeihin">${ICON_STAR}</button></div>
+<div class="body">${inner}</div>
+<nav class="tabs">${tabs}</nav></div>`;
+}
+
+function column(caption, html) {
+  return `<div class="col"><div class="cap">${caption}</div>${html}</div>`;
+}
+
+// Whole page as consecutive screens: same content, each phone scrolled one screen further.
+function fullPage(targetId, theme, label) {
+  const target = document.getElementById(targetId);
+  const html = bodyHtml(pageData('C'));
+  // Measure once to know how many screens the page needs.
+  target.innerHTML = column('', phone(theme, html));
+  const body = target.querySelector('.body');
+  const step = body.clientHeight - 48; // keep a little overlap between screens
+  const screens = Math.ceil((body.scrollHeight - body.clientHeight) / step) + 1;
+  let out = '';
+  for (let k = 0; k < screens; k++) out += column(`${label}, screen ${k + 1}/${screens}`, phone(theme, html));
+  target.innerHTML = out;
+  target.querySelectorAll('.body').forEach((b, k) => (b.scrollTop = k * step));
+}
+
+function options(targetId, theme, label) {
+  const target = document.getElementById(targetId);
+  const caps = {
+    A: 'A: as Yle wrote them on 199 (no licence risk)',
+    B: 'B: expanded from a list in the app (licence risk)',
+    C: 'C, recommended: Yle\'s own names from page 500',
+  };
+  target.innerHTML = ['A', 'B', 'C']
+    .map((o) => column(`${label} ${caps[o]}`, phone(theme, regionItems(o).map(itemHtml).join(''))))
+    .join('');
+}
+
+document.getElementById('names-table').innerHTML = REGIONS.filter((r) => r[1] !== r[2] || r[2] !== r[3])
+  .map((r) => `<tr><td>${r[0]}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`)
+  .join('');
+
+function render() {
+  fullPage('full-light', 'light', 'Vaalea');
+  fullPage('full-dark', 'dark', 'Tumma');
+  options('opts-light', 'light', 'Vaalea');
+  options('opts-dark', 'dark', 'Tumma');
+}
+render();
+// Re-measure once the web font has loaded (text widths change the page height).
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(render);
+</script>
+</body></html>

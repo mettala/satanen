@@ -1,0 +1,3328 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "196",
+   "name": "Hakemisto",
+   "subpagecount": "3",
+   "prevpg": "194",
+   "nextpg": "197",
+   "toptype": "group",
+   "time": "2026-10-07T21:10:20",
+   "utctime": "2026-10-07T18:10:20",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "          AAKKOSELLINEN HAKEMISTO       "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "     Aamu-tv:n aiheet 399               "
+        },
+        {
+         "number": "6",
+         "Text": "     Aikataulut 400                     "
+        },
+        {
+         "number": "7",
+         "Text": "     Ajankohtaisohjelmien aiheet 356    "
+        },
+        {
+         "number": "8",
+         "Text": "     Ajatus päivälle 895                "
+        },
+        {
+         "number": "9",
+         "Text": "     Alueuutiset 500                    "
+        },
+        {
+         "number": "10",
+         "Text": "     Arkistopikseleiden paluu 806       "
+        },
+        {
+         "number": "11",
+         "Text": "     Aurinko nousee 891                 "
+        },
+        {
+         "number": "12",
+         "Text": "     Areena 386-395                     "
+        },
+        {
+         "number": "13",
+         "Text": "     Arkisto, teksti-tv:n 897           "
+        },
+        {
+         "number": "14",
+         "Text": "     Ava tänään 306                     "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": "     Chabla-palvelu,viittomakielinen 566"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "     Digineuvonta 589                   "
+        },
+        {
+         "number": "19",
+         "Text": "     DIGITA tiedottaa 577, 582, 588     "
+        },
+        {
+         "number": "20",
+         "Text": "     Digitreenit 851-857                "
+        },
+        {
+         "number": "21",
+         "Text": "     DX-kuuntelijoiden sivut 591        "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "     Svenska sidor index på s.  799 >>> "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4 ,,,,,,,,,,,,,,,,,,,,$,,$,$,(({White} 1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}   {White}AAKKOSELLINEN HAKEMISTO       "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%                                    "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{GWhite}h<4{White}Aamu-tv:n aiheet{Yellow}399               "
+        },
+        {
+         "number": "6",
+         "Text": "{GWhite}j75{Yellow}Aikataulut{Yellow}400                     "
+        },
+        {
+         "number": "7",
+         "Text": "{White}   {White}Ajankohtaisohjelmien aiheet{Yellow}356    "
+        },
+        {
+         "number": "8",
+         "Text": "{White}    Ajatus päivälle{Yellow}895                "
+        },
+        {
+         "number": "9",
+         "Text": "{White}   {Yellow}Alueuutiset{Yellow}500                    "
+        },
+        {
+         "number": "10",
+         "Text": "{White}   {White}Arkistopikseleiden paluu{Yellow}806       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}    Aurinko nousee{Yellow}891                 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}   {White}Areena{Yellow}386-395                     "
+        },
+        {
+         "number": "13",
+         "Text": "{White}    Arkisto, teksti-tv:n{Yellow}897           "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}    Ava tänään{Yellow}306                     "
+        },
+        {
+         "number": "15",
+         "Text": "{GWhite}h<4                                    "
+        },
+        {
+         "number": "16",
+         "Text": "{GWhite}ju4{White}Chabla-palvelu,viittomakielinen{Yellow}566"
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{GWhite}j74{White}Digineuvonta{Yellow}589                   "
+        },
+        {
+         "number": "19",
+         "Text": "{GWhite}*-!{White}DIGITA tiedottaa{Yellow}577, 582,{Yellow}588     "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}    Digitreenit{Yellow}851-857                "
+        },
+        {
+         "number": "21",
+         "Text": "{White}   {White}DX-kuuntelijoiden sivut{Yellow}591        "
+        },
+        {
+         "number": "22",
+         "Text": "{GCyan},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Yellow} {Blue}Svenska sidor index på s.{Blue} 799{Blue}>>> "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "20",
+           "Text": ",,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "AAKKOSELLINEN HAKEMISTO       "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Aamu-tv:n aiheet "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "399",
+           "length": "3",
+           "Text": "399"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "Aikataulut "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "     Ajankohtaisohjelmien aiheet "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "356",
+           "length": "3",
+           "Text": "356"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": "     Ajatus päivälle "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "895",
+           "length": "3",
+           "Text": "895"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "16"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "Alueuutiset "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "500",
+           "length": "3",
+           "Text": "500"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "20"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": "     Arkistopikseleiden paluu "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "806",
+           "length": "3",
+           "Text": "806"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "     Aurinko nousee "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "891",
+           "length": "3",
+           "Text": "891"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "     Areena "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "386",
+           "length": "3",
+           "Text": "386"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "395",
+           "length": "3",
+           "Text": "395"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "     Arkisto, teksti-tv:n "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "897",
+           "length": "3",
+           "Text": "897"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "     Ava tänään "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "306",
+           "length": "3",
+           "Text": "306"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " Chabla-palvelu,viittomakielinen "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "566",
+           "length": "3",
+           "Text": "566"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": " Digineuvonta "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "589",
+           "length": "3",
+           "Text": "589"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Dh",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " DIGITA tiedottaa "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "577",
+           "length": "3",
+           "Text": "577"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "582",
+           "length": "3",
+           "Text": "582"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "588",
+           "length": "3",
+           "Text": "588"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": "     Digitreenit "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "851",
+           "length": "3",
+           "Text": "851"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "857",
+           "length": "3",
+           "Text": "857"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "16"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "     DX-kuuntelijoiden sivut "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "591",
+           "length": "3",
+           "Text": "591"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "39",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "27",
+           "Text": "Svenska sidor index på s.  "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "799",
+           "length": "3",
+           "Text": "799"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": ">>>",
+           "length": "3",
+           "Text": ">>>"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "          AAKKOSELLINEN HAKEMISTO       "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "     Elokuvat Ylen kanavilla 357-358    "
+        },
+        {
+         "number": "5",
+         "Text": "     Eläketieto 858                     "
+        },
+        {
+         "number": "6",
+         "Text": "     Elävä arkisto 383                  "
+        },
+        {
+         "number": "7",
+         "Text": "     Englanninkieliset uutiset 190      "
+        },
+        {
+         "number": "8",
+         "Text": "     Euribor-korot 173                  "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": "     Fem, Yle Teema & Fem 305, 312, 317,"
+        },
+        {
+         "number": "11",
+         "Text": "     359-360, 774-776                   "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": "     Hakemistojen kooste 199            "
+        },
+        {
+         "number": "14",
+         "Text": "     HD-lähetykset 585                  "
+        },
+        {
+         "number": "15",
+         "Text": "     Helsinki-Vantaan lentoasema 426-427"
+        },
+        {
+         "number": "16",
+         "Text": "     Inrikes 702                        "
+        },
+        {
+         "number": "17",
+         "Text": "     Ilmanlaatu 424                     "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": "     Jalankulkusää 418 (marras-huhtikuu)"
+        },
+        {
+         "number": "20",
+         "Text": "     JIM tänään 309                     "
+        },
+        {
+         "number": "21",
+         "Text": "     Junat: VR:n liikennetiedote 430-431"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "     M-S sivu 197, T-Y sivu 198     >>> "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4 ,,,,,,,,,,,,,,,,,,,,$,,$,$,(({White} 2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}   {White}AAKKOSELLINEN HAKEMISTO       "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%                                    "
+        },
+        {
+         "number": "4",
+         "Text": "{GWhite}h<${White}Elokuvat Ylen kanavilla{Yellow}357-358    "
+        },
+        {
+         "number": "5",
+         "Text": "{GWhite}jw0{White}Eläketieto{Yellow}858                     "
+        },
+        {
+         "number": "6",
+         "Text": "{White}   {White}Elävä arkisto{Yellow}383                  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}   {White}Englanninkieliset uutiset{Yellow}190      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}   {White}Euribor-korot{Yellow}173                  "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{GWhite}jw!{White}Fem, Yle Teema & Fem{Yellow}305, 312, 317,"
+        },
+        {
+         "number": "11",
+         "Text": "{GWhite}*% {Yellow}359-360, 774-776{White}                  "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{GWhite}`00{Yellow}Hakemistojen kooste{Yellow}199            "
+        },
+        {
+         "number": "14",
+         "Text": "{GWhite}j=5{White}HD-lähetykset{Yellow}585                  "
+        },
+        {
+         "number": "15",
+         "Text": "{GWhite}\"!!{White}Helsinki-Vantaan{White}lentoasema{Yellow}426-427"
+        },
+        {
+         "number": "16",
+         "Text": "{GWhite}  {White}Inrikes{Yellow}702                        "
+        },
+        {
+         "number": "17",
+         "Text": "{GWhite} / {White}Ilmanlaatu{Yellow}424                     "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{GWhite}  4{White}Jalankulkusää{Yellow}418{White}(marras-huhtikuu)"
+        },
+        {
+         "number": "20",
+         "Text": "{GWhite}ht5{White}JIM tänään{Yellow}309                     "
+        },
+        {
+         "number": "21",
+         "Text": "{White}   {White}Junat: VR:n liikennetiedote{Yellow}430-431"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Yellow}  M-S sivu{White}197,{Yellow}T-Y sivu{White}198    {Yellow}>>> "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "20",
+           "Text": ",,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "AAKKOSELLINEN HAKEMISTO       "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " Elokuvat Ylen kanavilla "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "357",
+           "length": "3",
+           "Text": "357"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "358",
+           "length": "3",
+           "Text": "358"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "77h",
+           "length": "1",
+           "Text": "w"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " Eläketieto "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "858",
+           "length": "3",
+           "Text": "858"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "     Elävä arkisto "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "383",
+           "length": "3",
+           "Text": "383"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "     Englanninkieliset uutiset "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "190",
+           "length": "3",
+           "Text": "190"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "6"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "     Euribor-korot "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "173",
+           "length": "3",
+           "Text": "173"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "77h",
+           "length": "1",
+           "Text": "w"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Fem, Yle Teema & Fem "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "305",
+           "length": "3",
+           "Text": "305"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "312",
+           "length": "3",
+           "Text": "312"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "317",
+           "length": "3",
+           "Text": "317"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": ","
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "359",
+           "length": "3",
+           "Text": "359"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "360",
+           "length": "3",
+           "Text": "360"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "774",
+           "length": "3",
+           "Text": "774"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "776",
+           "length": "3",
+           "Text": "776"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "2",
+           "Text": "00"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "20",
+           "Text": "Hakemistojen kooste "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": " HD-lähetykset "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "585",
+           "length": "3",
+           "Text": "585"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Helsinki-Vantaan lentoasema "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "426",
+           "length": "3",
+           "Text": "426"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "427",
+           "length": "3",
+           "Text": "427"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10",
+           "Text": "  Inrikes "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "702",
+           "length": "3",
+           "Text": "702"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "24"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13",
+           "Text": "  Ilmanlaatu "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "424",
+           "length": "3",
+           "Text": "424"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": " Jalankulkusää "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "418",
+           "length": "3",
+           "Text": "418"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": "(marras-huhtikuu)"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "74h",
+           "length": "1",
+           "Text": "t"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": " JIM tänään "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "309",
+           "length": "3",
+           "Text": "309"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "     Junat: VR:n liikennetiedote "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "430",
+           "length": "3",
+           "Text": "430"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "431",
+           "length": "3",
+           "Text": "431"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "M-S sivu "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "197",
+           "length": "3",
+           "Text": "197"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "T-Y sivu "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "198",
+           "length": "3",
+           "Text": "198"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "link": ">>>",
+           "length": "3",
+           "Text": ">>>"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "          AAKKOSELLINEN HAKEMISTO       "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "     Kalenteri 890                      "
+        },
+        {
+         "number": "5",
+         "Text": "     Kansalaistaito 860                 "
+        },
+        {
+         "number": "6",
+         "Text": "     Katsotuimmat ohjelmat 378          "
+        },
+        {
+         "number": "7",
+         "Text": "     Kellosivu (näkyy vain tv:ssä) 574  "
+        },
+        {
+         "number": "8",
+         "Text": "    \"Kirkasvalosivu\" 579, keltaisena 572"
+        },
+        {
+         "number": "9",
+         "Text": "     Kultur och nöje  720               "
+        },
+        {
+         "number": "10",
+         "Text": "     Kuluttajasivut 861-862, 870-878    "
+        },
+        {
+         "number": "11",
+         "Text": "     KUUROJEN, huonokuuloisten sivut 550"
+        },
+        {
+         "number": "12",
+         "Text": "     Käännöstekstitys Teksti-TV:ssä  450"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": "     Lapsille sopimattomat ohjelmat 526 "
+        },
+        {
+         "number": "15",
+         "Text": "     Latinankieliset uutiset 365-366    "
+        },
+        {
+         "number": "16",
+         "Text": "     Lentoaikataulut 425-427            "
+        },
+        {
+         "number": "17",
+         "Text": "     Liikenne, aikataulut 400           "
+        },
+        {
+         "number": "18",
+         "Text": "     Liikenne, sää 410-414              "
+        },
+        {
+         "number": "19",
+         "Text": "     Lintutilanne 888     Lista 804     "
+        },
+        {
+         "number": "20",
+         "Text": "     Liv tänään 307                     "
+        },
+        {
+         "number": "21",
+         "Text": "     LOTTO & Jokeri 471, Vikinglotto 472"
+        },
+        {
+         "number": "22",
+         "Text": "     Lähetyskatko, radiokelihäiriö 570  "
+        },
+        {
+         "number": "23",
+         "Text": "     Päähakemistojen kooste s. 199      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4 ,,,,,,,,,,,,,,,,,,,,$,,$,$,(({White} 3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}   {White}AAKKOSELLINEN HAKEMISTO       "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%                                    "
+        },
+        {
+         "number": "4",
+         "Text": "{GWhite}h`${White}Kalenteri{Yellow}890                      "
+        },
+        {
+         "number": "5",
+         "Text": "{GWhite}j)0{White}Kansalaistaito{Yellow}860                 "
+        },
+        {
+         "number": "6",
+         "Text": "{White}   {White}Katsotuimmat ohjelmat{Yellow}378          "
+        },
+        {
+         "number": "7",
+         "Text": "{White}   {White}Kellosivu (näkyy vain tv:ssä){Yellow}574  "
+        },
+        {
+         "number": "8",
+         "Text": "{White}   \"Kirkasvalosivu\"{Yellow}579,{White}keltaisena{Yellow}572"
+        },
+        {
+         "number": "9",
+         "Text": "{White}   {White}Kultur och nöje {Yellow}720               "
+        },
+        {
+         "number": "10",
+         "Text": "{White}    Kuluttajasivut{Yellow}861-862, 870-878    "
+        },
+        {
+         "number": "11",
+         "Text": "{White}   {Yellow}KUUROJEN, huonokuuloisten{White}sivut{Yellow}550"
+        },
+        {
+         "number": "12",
+         "Text": "{SB}   {White}Käännöstekstitys Teksti-TV:ssä {Yellow}450"
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{GWhite}j5 {White}Lapsille sopimattomat ohjelmat{Yellow}526 "
+        },
+        {
+         "number": "15",
+         "Text": "{GWhite}*-${White}Latinankieliset uutiset{Yellow}365-366    "
+        },
+        {
+         "number": "16",
+         "Text": "{White}   {Yellow}Lentoaikataulut 425-427            "
+        },
+        {
+         "number": "17",
+         "Text": "{White}   {White}Liikenne, aikataulut{Yellow}400           "
+        },
+        {
+         "number": "18",
+         "Text": "{White}    Liikenne, sää{Yellow}410-414              "
+        },
+        {
+         "number": "19",
+         "Text": "{White}   {Yellow}Lintutilanne 888{White}    Lista{Yellow}804     "
+        },
+        {
+         "number": "20",
+         "Text": "{White}    Liv tänään{Yellow}307                     "
+        },
+        {
+         "number": "21",
+         "Text": "{White}   {Yellow}LOTTO{White}&{White}Jokeri{Yellow}471, Vikinglotto{Yellow}472"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}    Lähetyskatko, radiokelihäiriö{Yellow}570  "
+        },
+        {
+         "number": "23",
+         "Text": "{GCyan}{NB}{Yellow} {Blue}Päähakemistojen kooste s.{Blue}199      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "20",
+           "Text": ",,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "AAKKOSELLINEN HAKEMISTO       "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": " Kalenteri "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "890",
+           "length": "3",
+           "Text": "890"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "22"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kansalaistaito "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "860",
+           "length": "3",
+           "Text": "860"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": "     Katsotuimmat ohjelmat "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "378",
+           "length": "3",
+           "Text": "378"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "     Kellosivu (näkyy vain tv:ssä) "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "574",
+           "length": "3",
+           "Text": "574"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": "    \"Kirkasvalosivu\" "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "579",
+           "length": "3",
+           "Text": "579"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "keltaisena "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "572",
+           "length": "3",
+           "Text": "572"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": "     Kultur och nöje  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "720",
+           "length": "3",
+           "Text": "720"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "     Kuluttajasivut "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "861",
+           "length": "3",
+           "Text": "861"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "862",
+           "length": "3",
+           "Text": "862"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ", "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "870",
+           "length": "3",
+           "Text": "870"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "878",
+           "length": "3",
+           "Text": "878"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "26",
+           "Text": "KUUROJEN, huonokuuloisten "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "sivut "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "550",
+           "length": "3",
+           "Text": "550"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "     Käännöstekstitys Teksti-TV:ssä  "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "450",
+           "length": "3",
+           "Text": "450"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "  Lapsille sopimattomat ohjelmat "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "526",
+           "length": "3",
+           "Text": "526"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Dh",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " Latinankieliset uutiset "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "365",
+           "length": "3",
+           "Text": "365"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "366",
+           "length": "3",
+           "Text": "366"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "16",
+           "Text": "Lentoaikataulut "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "425",
+           "length": "3",
+           "Text": "425"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "427",
+           "length": "3",
+           "Text": "427"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "     Liikenne, aikataulut "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "     Liikenne, sää "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "410",
+           "length": "3",
+           "Text": "410"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "414",
+           "length": "3",
+           "Text": "414"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "Lintutilanne "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "888",
+           "length": "3",
+           "Text": "888"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "Lista "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "804",
+           "length": "3",
+           "Text": "804"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "     Liv tänään "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "307",
+           "length": "3",
+           "Text": "307"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "6",
+           "Text": "LOTTO "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "& Jokeri "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "471",
+           "length": "3",
+           "Text": "471"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": ", Vikinglotto "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "472",
+           "length": "3",
+           "Text": "472"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "     Lähetyskatko, radiokelihäiriö "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "570",
+           "length": "3",
+           "Text": "570"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "26",
+           "Text": "Päähakemistojen kooste s. "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "6"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

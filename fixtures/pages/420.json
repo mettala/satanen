@@ -1,0 +1,1359 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "420",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "419",
+   "nextpg": "421",
+   "toptype": "normal",
+   "time": "2026-05-29T20:58:01",
+   "utctime": "2026-05-29T17:58:01",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "  .................      ........  ...  "
+        },
+        {
+         "number": "2",
+         "Text": " ...............       ............ ... "
+        },
+        {
+         "number": "3",
+         "Text": "  .............      ....        .... .."
+        },
+        {
+         "number": "4",
+         "Text": "   ............     ....          .... ."
+        },
+        {
+         "number": "5",
+         "Text": "    ......         ....            ... ."
+        },
+        {
+         "number": "6",
+         "Text": "     ...........   ....            ... ."
+        },
+        {
+         "number": "7",
+         "Text": " !!   ...........  ....            ... ."
+        },
+        {
+         "number": "8",
+         "Text": " !!!    ..........  ...           .... ."
+        },
+        {
+         "number": "9",
+         "Text": " !!?!    ..........  ...         .... .."
+        },
+        {
+         "number": "10",
+         "Text": " !?!!!    ..........  ....     ..... ..."
+        },
+        {
+         "number": "11",
+         "Text": " ?!!!!!     .........  ...........  ...."
+        },
+        {
+         "number": "12",
+         "Text": "             ..........  ........  ....."
+        },
+        {
+         "number": "13",
+         "Text": "               Rinnesivuilla            "
+        },
+        {
+         "number": "14",
+         "Text": "                 bike parkit            "
+        },
+        {
+         "number": "15",
+         "Text": "                  421 Pohjois-Suomi     "
+        },
+        {
+         "number": "16",
+         "Text": "                    422 Keski-Suomi     "
+        },
+        {
+         "number": "17",
+         "Text": "                      423 Etelä-Suomi   "
+        },
+        {
+         "number": "18",
+         "Text": "                        ........        "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": "                       www.ski.fi       "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Yellow} .................   {Yellow}{SG}{Flash}........{Steady} ...  "
+        },
+        {
+         "number": "2",
+         "Text": "{Yellow}...............     {Yellow}{Flash}............{Steady}... "
+        },
+        {
+         "number": "3",
+         "Text": "{SG}{Yellow}.............{GBlue}x{NB}{Flash}{Yellow}....{CG}{Steady}{GYellow}`{Flash}{Yellow}  ....{Steady}.."
+        },
+        {
+         "number": "4",
+         "Text": "{Magenta} {Yellow}............   {Flash}{Yellow}....{Steady}{GYellow}$    ${Flash}{Yellow}....{Steady}."
+        },
+        {
+         "number": "5",
+         "Text": "{White} {SG}{Yellow}......{GBlue}`|{NB} {Flash}{Yellow}....{Steady}{GYellow}0`~s+t{CG}0{Flash}{Yellow}...{Steady}."
+        },
+        {
+         "number": "6",
+         "Text": "{Green}{White}  {Yellow}...........{SG}{Flash}{Yellow}....{Steady}{GYellow}0j}|ij{CG}0{Flash}{Yellow}...{Steady}."
+        },
+        {
+         "number": "7",
+         "Text": "{Green}!!{White} {Yellow}...........{SG}{Flash}....{Steady}{GYellow} \"o~'{Flash}{Yellow}  ...{Steady}."
+        },
+        {
+         "number": "8",
+         "Text": "{Green}!!!{White}  {Yellow}.......... {Flash}...{Steady}{GYellow}\"     \"{Flash}{Yellow}....{Steady}."
+        },
+        {
+         "number": "9",
+         "Text": "{Green}!!?!   {Yellow}.......... {Flash}...{Steady}{GYellow}\" ( \"{Flash}{Yellow}....{Steady}.."
+        },
+        {
+         "number": "10",
+         "Text": "{Green}!?!!!{White}  {Yellow}.......... {Flash}....     .....{Steady}..."
+        },
+        {
+         "number": "11",
+         "Text": "{Green}?!!!!!{White}   {Yellow}......... {Flash}........... {Steady}...."
+        },
+        {
+         "number": "12",
+         "Text": "{GGreen},,,,,,{GGreen}~y0 {Yellow}.......... {Flash}........ {Steady}....."
+        },
+        {
+         "number": "13",
+         "Text": "{GGreen}ssss# {GGreen}+'{Green}{White}  {Yellow}Rinnesivuilla            "
+        },
+        {
+         "number": "14",
+         "Text": "{GGreen},,,  {GGreen}xu+t{Green}{White}   {Green}bike parkit            "
+        },
+        {
+         "number": "15",
+         "Text": "{GGreen}s#  {GGreen}x? \"m0{White}   {Yellow}421 Pohjois-Suomi     "
+        },
+        {
+         "number": "16",
+         "Text": "{GGreen}$    //!   #{Green}{White}    {Yellow}422 Keski-Suomi     "
+        },
+        {
+         "number": "17",
+         "Text": "{GBlue} `&#){GGreen}k}{GBlue}`&#)0{Magenta}     {Yellow}423 Etelä-Suomi   "
+        },
+        {
+         "number": "18",
+         "Text": "{GBlue} 5 0{GGreen} `?{GBlue}5 ` j{Magenta}       {Yellow}........ {GBlue}{SG}(,,$ "
+        },
+        {
+         "number": "19",
+         "Text": "{GBlue} e  {GGreen}hw {GBlue}e   :{Magenta}         {GBlue}{SG}`pppprsss#!{GGreen}`"
+        },
+        {
+         "number": "20",
+         "Text": "{GBlue}  ),&{GGreen}  {GBlue} ),&{SG}{Magenta}    {GGreen} {Cyan}www.ski.fi{GGreen}    (,"
+        },
+        {
+         "number": "21",
+         "Text": "{Magenta}{SG}         {GGreen}  ppsssssssssssss3##    prss"
+        },
+        {
+         "number": "22",
+         "Text": "{Magenta}{SG}{GGreen}        ,,,,,,,,,,,,,,,,      (,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{GGreen}{SG}ppssssssssssssssss3###     pprssssssss"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "38",
+           "Text": ".................      ........  ...  "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "...............       ............ ... "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "............. "
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "2",
+           "Text": "x"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "....   "
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "    .... .."
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "23",
+           "Text": "............     ....  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "  .... ."
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "...... "
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "4",
+           "Text": "`|"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "....  0`~s+t "
+          },
+          {
+           "bg": "blue",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "  ... ."
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "27",
+           "Text": "...........   ....  0j}|ij "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "  ... ."
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5",
+           "Text": "!!   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "34",
+           "Text": "...........  ....   \"o~'    ... ."
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "!!!    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": "..........  ...  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "  .... ."
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "!!?!    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": "..........  ...  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "  .... .."
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "!?!!!    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "30",
+           "Text": "..........  ....     ..... ..."
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "?!!!!!     "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "28",
+           "Text": ".........  ...........  ...."
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Ch",
+           "length": "6",
+           "Text": ",,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "79h",
+           "length": "1",
+           "Text": "y"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "27",
+           "Text": "..........  ........  ....."
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "73h",
+           "length": "4",
+           "Text": "ssss"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "27h",
+           "length": "1",
+           "Text": "'"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "25",
+           "Text": "Rinnesivuilla            "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Ch",
+           "length": "3",
+           "Text": ",,,"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "74h",
+           "length": "1",
+           "Text": "t"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "29",
+           "Text": "      bike parkit            "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "73h",
+           "length": "1",
+           "Text": "s"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "3Fh",
+           "length": "1",
+           "Text": "?"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Dh",
+           "length": "1",
+           "Text": "m"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "421",
+           "length": "3",
+           "Text": "421"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": " Pohjois-Suomi     "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Fh",
+           "length": "2",
+           "Text": "//"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "422",
+           "length": "3",
+           "Text": "422"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": " Keski-Suomi     "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "423",
+           "length": "3",
+           "Text": "423"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "15",
+           "Text": " Etelä-Suomi   "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "3Fh",
+           "length": "1",
+           "Text": "?"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "........  "
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "6",
+           "Text": " (,,$ "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "65h",
+           "length": "1",
+           "Text": "e"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "77h",
+           "length": "1",
+           "Text": "w"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "65h",
+           "length": "1",
+           "Text": "e"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "3Ah",
+           "length": "1",
+           "Text": ":"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "24",
+           "Text": "            `pppprsss#! "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "`"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "https://www.ski.fi",
+           "length": "10",
+           "Text": "www.ski.fi"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "6",
+           "Text": "    (,"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "11"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "28",
+           "Text": "  ppsssssssssssss3##    prss"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "37",
+           "Text": "        ,,,,,,,,,,,,,,,,      (,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": " ppssssssssssssssss3###     pprssssssss"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

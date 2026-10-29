@@ -1,0 +1,1734 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "402",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "401",
+   "nextpg": "403",
+   "toptype": "normal",
+   "time": "2026-10-21T20:25:02",
+   "utctime": "2026-10-21T17:25:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "    Sää maa-asemilla 21.10. klo 20  1/3 "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Helsinki        -   E  6 -             "
+        },
+        {
+         "number": "6",
+         "Text": " Hki-Vantaa      9   E  4 SELKEÄÄ       "
+        },
+        {
+         "number": "7",
+         "Text": " Turku          10   E  4 SELKEÄÄ       "
+        },
+        {
+         "number": "8",
+         "Text": " Maarianhamina  12  SE  6 PILVISTÄ      "
+        },
+        {
+         "number": "9",
+         "Text": " Pori            9   E  5 SELKEÄÄ       "
+        },
+        {
+         "number": "10",
+         "Text": " Kankaanpää      7   E  3 SELKEÄÄ       "
+        },
+        {
+         "number": "11",
+         "Text": " Tampere         8  SE  4 SELKEÄÄ       "
+        },
+        {
+         "number": "12",
+         "Text": " Jokioinen       8   E  5 SELKEÄÄ       "
+        },
+        {
+         "number": "13",
+         "Text": " Lahti           7  --  - SELKEÄÄ       "
+        },
+        {
+         "number": "14",
+         "Text": " Lappeenranta    5  SE  2 SELKEÄÄ       "
+        },
+        {
+         "number": "15",
+         "Text": " Varkaus         5  NE  2 SELKEÄÄ       "
+        },
+        {
+         "number": "16",
+         "Text": " Ilomantsi       3  SE  2 SELKEÄÄ       "
+        },
+        {
+         "number": "17",
+         "Text": " Joensuu         1  SE  3 SELKEÄÄ       "
+        },
+        {
+         "number": "18",
+         "Text": " Kuopio          6  SE  3 PILVISTÄ      "
+        },
+        {
+         "number": "19",
+         "Text": " Viitasaari      4  SE  3 MELK.PILVISTÄ "
+        },
+        {
+         "number": "20",
+         "Text": " Jyväskylä       3  SE  3 SELKEÄÄ       "
+        },
+        {
+         "number": "21",
+         "Text": " Ähtäri          4  --  - SELKEÄÄ       "
+        },
+        {
+         "number": "22",
+         "Text": " Kauhava         3   E  2 SELKEÄÄ       "
+        },
+        {
+         "number": "23",
+         "Text": " Vaasa           5  SE  4 SELKEÄÄ       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{DH}{White}Sää maa-asemilla 21.10. klo 20{NH}{Cyan}1/3 "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "{GCyan}#######################################"
+        },
+        {
+         "number": "5",
+         "Text": "{Yellow}Helsinki     {Yellow}  -{Yellow}  E{Yellow} 6{Yellow}-             "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Hki-Vantaa   {White}  9{White}  E{White} 4{White}SELKEÄÄ       "
+        },
+        {
+         "number": "7",
+         "Text": "{Yellow}Turku        {Yellow} 10{Yellow}  E{Yellow} 4{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Maarianhamina{White} 12{White} SE{White} 6{White}PILVISTÄ      "
+        },
+        {
+         "number": "9",
+         "Text": "{Yellow}Pori         {Yellow}  9{Yellow}  E{Yellow} 5{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Kankaanpää   {White}  7{White}  E{White} 3{White}SELKEÄÄ       "
+        },
+        {
+         "number": "11",
+         "Text": "{Yellow}Tampere      {Yellow}  8{Yellow} SE{Yellow} 4{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Jokioinen    {White}  8{White}  E{White} 5{White}SELKEÄÄ       "
+        },
+        {
+         "number": "13",
+         "Text": "{Yellow}Lahti        {Yellow}  7{Yellow} --{Yellow} -{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Lappeenranta {White}  5{White} SE{White} 2{White}SELKEÄÄ       "
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}Varkaus      {Yellow}  5{Yellow} NE{Yellow} 2{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Ilomantsi    {White}  3{White} SE{White} 2{White}SELKEÄÄ       "
+        },
+        {
+         "number": "17",
+         "Text": "{Yellow}Joensuu      {Yellow}  1{Yellow} SE{Yellow} 3{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Kuopio       {White}  6{White} SE{White} 3{White}PILVISTÄ      "
+        },
+        {
+         "number": "19",
+         "Text": "{Yellow}Viitasaari   {Yellow}  4{Yellow} SE{Yellow} 3{Yellow}MELK.PILVISTÄ "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Jyväskylä    {White}  3{White} SE{White} 3{White}SELKEÄÄ       "
+        },
+        {
+         "number": "21",
+         "Text": "{Yellow}Ähtäri       {Yellow}  4{Yellow} --{Yellow} -{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Kauhava      {White}  3{White}  E{White} 2{White}SELKEÄÄ       "
+        },
+        {
+         "number": "23",
+         "Text": "{Yellow}Vaasa        {Yellow}  5{Yellow} SE{Yellow} 4{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "size": "double height",
+           "length": "32",
+           "Text": "Sää maa-asemilla 21.10. klo 20  "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "1/3 "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Helsinki        -   E  6 -             "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hki-Vantaa      9   E  4 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Turku          10   E  4 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Maarianhamina  12  SE  6 PILVISTÄ      "
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Pori            9   E  5 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kankaanpää      7   E  3 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Tampere         8  SE  4 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jokioinen       8   E  5 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Lahti           7  --  - SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lappeenranta    5  SE  2 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Varkaus         5  NE  2 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ilomantsi       3  SE  2 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Joensuu         1  SE  3 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kuopio          6  SE  3 PILVISTÄ      "
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Viitasaari      4  SE  3 MELK.PILVISTÄ "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jyväskylä       3  SE  3 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Ähtäri          4  --  - SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kauhava         3   E  2 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Vaasa           5  SE  4 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "    Sää maa-asemilla 21.10. klo 20  2/3 "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Ylivieska       2  SE  4 SELKEÄÄ       "
+        },
+        {
+         "number": "6",
+         "Text": " Kajaani         1   E  2 MELK.PILVISTÄ "
+        },
+        {
+         "number": "7",
+         "Text": " Oulu            0  SE  5 MELK.PILVISTÄ "
+        },
+        {
+         "number": "8",
+         "Text": " Pudasjärvi      1   E  2 MELK.SELKEÄÄ  "
+        },
+        {
+         "number": "9",
+         "Text": " Suomussalmi    -1  SE  2 UTUA          "
+        },
+        {
+         "number": "10",
+         "Text": " Kuusamo        -1  SE  2 SELKEÄÄ       "
+        },
+        {
+         "number": "11",
+         "Text": " Rovaniemi      -1   E  1 SELKEÄÄ       "
+        },
+        {
+         "number": "12",
+         "Text": " Pello           2  SE  3 PILVISTÄ      "
+        },
+        {
+         "number": "13",
+         "Text": " Salla          -1  SE  2 SELKEÄÄ       "
+        },
+        {
+         "number": "14",
+         "Text": " Sodankylä       0   S  2 SELKEÄÄ       "
+        },
+        {
+         "number": "15",
+         "Text": " Kittilä         2   S  4 PILVISTÄ      "
+        },
+        {
+         "number": "16",
+         "Text": " Kilpisjärvi    -1   E  5 PILVISTÄ      "
+        },
+        {
+         "number": "17",
+         "Text": " Inari           2   S  4 MELK.SELKEÄÄ  "
+        },
+        {
+         "number": "18",
+         "Text": " Utsjoki         0   S  3 PUOLIPILVISTÄ "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " ---------------------------------------"
+        },
+        {
+         "number": "21",
+         "Text": " S=etelä N=pohjoinen W=länsi E=itä      "
+        },
+        {
+         "number": "22",
+         "Text": " NE=koill. SE=kaakko SW=lounas NW=luode "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{DH}{White}Sää maa-asemilla 21.10. klo 20{NH}{Cyan}2/3 "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": "{GCyan}#######################################"
+        },
+        {
+         "number": "5",
+         "Text": "{White}Ylivieska    {White}  2{White} SE{White} 4{White}SELKEÄÄ       "
+        },
+        {
+         "number": "6",
+         "Text": "{Yellow}Kajaani      {Yellow}  1{Yellow}  E{Yellow} 2{Yellow}MELK.PILVISTÄ "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Oulu         {White}  0{White} SE{White} 5{White}MELK.PILVISTÄ "
+        },
+        {
+         "number": "8",
+         "Text": "{Yellow}Pudasjärvi   {Yellow}  1{Yellow}  E{Yellow} 2{Yellow}MELK.SELKEÄÄ  "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Suomussalmi  {White} -1{White} SE{White} 2{White}UTUA          "
+        },
+        {
+         "number": "10",
+         "Text": "{Yellow}Kuusamo      {Yellow} -1{Yellow} SE{Yellow} 2{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Rovaniemi    {White} -1{White}  E{White} 1{White}SELKEÄÄ       "
+        },
+        {
+         "number": "12",
+         "Text": "{Yellow}Pello        {Yellow}  2{Yellow} SE{Yellow} 3{Yellow}PILVISTÄ      "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Salla        {White} -1{White} SE{White} 2{White}SELKEÄÄ       "
+        },
+        {
+         "number": "14",
+         "Text": "{Yellow}Sodankylä    {Yellow}  0{Yellow}  S{Yellow} 2{Yellow}SELKEÄÄ       "
+        },
+        {
+         "number": "15",
+         "Text": "{White}Kittilä      {White}  2{White}  S{White} 4{White}PILVISTÄ      "
+        },
+        {
+         "number": "16",
+         "Text": "{Yellow}Kilpisjärvi  {Yellow} -1{Yellow}  E{Yellow} 5{Yellow}PILVISTÄ      "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Inari        {White}  2{White}  S{White} 4{White}MELK.SELKEÄÄ  "
+        },
+        {
+         "number": "18",
+         "Text": "{Yellow}Utsjoki      {Yellow}  0{Yellow}  S{Yellow} 3{Yellow}PUOLIPILVISTÄ "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}---------------------------------------"
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}S=etelä N=pohjoinen W=länsi E=itä      "
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}NE=koill. SE=kaakko SW=lounas NW=luode "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "size": "double height",
+           "length": "32",
+           "Text": "Sää maa-asemilla 21.10. klo 20  "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "2/3 "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "size": "double height",
+           "length": "36"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ylivieska       2  SE  4 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Kajaani         1   E  2 MELK.PILVISTÄ "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Oulu            0  SE  5 MELK.PILVISTÄ "
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Pudasjärvi      1   E  2 MELK.SELKEÄÄ  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Suomussalmi    -1  SE  2 UTUA          "
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Kuusamo        -1  SE  2 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Rovaniemi      -1   E  1 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Pello           2  SE  3 PILVISTÄ      "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Salla          -1  SE  2 SELKEÄÄ       "
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Sodankylä       0   S  2 SELKEÄÄ       "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kittilä         2   S  4 PILVISTÄ      "
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Kilpisjärvi    -1   E  5 PILVISTÄ      "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Inari           2   S  4 MELK.SELKEÄÄ  "
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "39",
+           "Text": "Utsjoki         0   S  3 PUOLIPILVISTÄ "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "---------------------------------------"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "S=etelä N=pohjoinen W=länsi E=itä      "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "NE=koill. SE=kaakko SW=lounas NW=luode "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "      Lämpötiloja ulkomailla 21.10.     "
+        },
+        {
+         "number": "3",
+         "Text": "      Klo 15 Suomen aikaa          3/3  "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Amsterdam      13    Oslo            8 "
+        },
+        {
+         "number": "6",
+         "Text": " Ateena         24    Palma de Mall  24 "
+        },
+        {
+         "number": "7",
+         "Text": " Belgrad        26    Pariisi        14 "
+        },
+        {
+         "number": "8",
+         "Text": " Berliini       13    Pietari        11 "
+        },
+        {
+         "number": "9",
+         "Text": " Bryssel        12    Praha          13 "
+        },
+        {
+         "number": "10",
+         "Text": " Budapest       19    Reykjavik       - "
+        },
+        {
+         "number": "11",
+         "Text": " Bukarest       17    Rodos          24 "
+        },
+        {
+         "number": "12",
+         "Text": " Frankfurt A    12    Rooma          21 "
+        },
+        {
+         "number": "13",
+         "Text": " Istanbul       19    Tallinna       14 "
+        },
+        {
+         "number": "14",
+         "Text": " Kööpenhamina   11    Tel Aviv       27 "
+        },
+        {
+         "number": "15",
+         "Text": " Las Palmas     22    Tokio          26 "
+        },
+        {
+         "number": "16",
+         "Text": " Lissabon       21    Tromssa         7 "
+        },
+        {
+         "number": "17",
+         "Text": " Lontoo         10    Tukholma       11 "
+        },
+        {
+         "number": "18",
+         "Text": " Madrid         17    Varna          22 "
+        },
+        {
+         "number": "19",
+         "Text": " Malaga         23    Varsova        16 "
+        },
+        {
+         "number": "20",
+         "Text": " Moskova        12    Venetsia       22 "
+        },
+        {
+         "number": "21",
+         "Text": " New York       10    Wien           21 "
+        },
+        {
+         "number": "22",
+         "Text": " Nizza          21    Zürich          8 "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}ppppppppppppppppppppppppppppppppppppppp"
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}   Lämpötiloja ulkomailla 21.10.     "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}   Klo 15 Suomen aikaa          3/3  "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Yellow}Amsterdam    {Yellow} 13{White}  {White}Oslo         {White}  8 "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Ateena       {White} 24{White}  {Yellow}Palma de Mall{Yellow} 24 "
+        },
+        {
+         "number": "7",
+         "Text": "{Yellow}Belgrad      {Yellow} 26{White}  {White}Pariisi      {White} 14 "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Berliini     {White} 13{White}  {Yellow}Pietari      {Yellow} 11 "
+        },
+        {
+         "number": "9",
+         "Text": "{Yellow}Bryssel      {Yellow} 12{White}  {White}Praha        {White} 13 "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Budapest     {White} 19{White}  {Yellow}Reykjavik    {Yellow}  - "
+        },
+        {
+         "number": "11",
+         "Text": "{Yellow}Bukarest     {Yellow} 17{White}  {White}Rodos        {White} 24 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Frankfurt A  {White} 12{White}  {Yellow}Rooma        {Yellow} 21 "
+        },
+        {
+         "number": "13",
+         "Text": "{Yellow}Istanbul     {Yellow} 19{White}  {White}Tallinna     {White} 14 "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Kööpenhamina {White} 11{White}  {Yellow}Tel Aviv     {Yellow} 27 "
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}Las Palmas   {Yellow} 22{White}  {White}Tokio        {White} 26 "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Lissabon     {White} 21{White}  {Yellow}Tromssa      {Yellow}  7 "
+        },
+        {
+         "number": "17",
+         "Text": "{Yellow}Lontoo       {Yellow} 10{White}  {White}Tukholma     {White} 11 "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Madrid       {White} 17{White}  {Yellow}Varna        {Yellow} 22 "
+        },
+        {
+         "number": "19",
+         "Text": "{Yellow}Malaga       {Yellow} 23{White}  {White}Varsova      {White} 16 "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Moskova      {White} 12{White}  {Yellow}Venetsia     {Yellow} 22 "
+        },
+        {
+         "number": "21",
+         "Text": "{Yellow}New York     {Yellow} 10{White}  {White}Wien         {White} 21 "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Nizza        {White} 21{White}  {Yellow}Zürich       {Yellow}  8 "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "39",
+           "Text": "ppppppppppppppppppppppppppppppppppppppp"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "Lämpötiloja ulkomailla 21.10.     "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "5"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "Klo 15 Suomen aikaa          3/3  "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Amsterdam      13    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Oslo            8 "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Ateena         24    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Palma de Mall  24 "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Belgrad        26    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Pariisi        14 "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Berliini       13    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Pietari        11 "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Bryssel        12    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Praha          13 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Budapest       19    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Reykjavik       - "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Bukarest       17    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Rodos          24 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Frankfurt A    12    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Rooma          21 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Istanbul       19    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Tallinna       14 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Kööpenhamina   11    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Tel Aviv       27 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Las Palmas     22    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Tokio          26 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Lissabon       21    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Tromssa         7 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Lontoo         10    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Tukholma       11 "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Madrid         17    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Varna          22 "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "Malaga         23    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Varsova        16 "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Moskova        12    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Venetsia       22 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "21",
+           "Text": "New York       10    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Wien           21 "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Nizza          21    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "18",
+           "Text": "Zürich          8 "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

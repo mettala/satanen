@@ -1,0 +1,890 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "203",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "202",
+   "nextpg": "205",
+   "toptype": "normal",
+   "time": "2026-10-24T17:01:41",
+   "utctime": "2026-10-24T14:01:41",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "      SM-MAASTOJUOKSUT * TAMPERE    1/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "      Miesten 10 km                     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "   1. Niko Putkinen          31.14      "
+        },
+        {
+         "number": "6",
+         "Text": "   2. Leevi Keronen         + 0.03      "
+        },
+        {
+         "number": "7",
+         "Text": "   3. Konsta Saksola        + 0.13      "
+        },
+        {
+         "number": "8",
+         "Text": "   4. Tommi Lintala         + 1.03      "
+        },
+        {
+         "number": "9",
+         "Text": "   5. Otto Kaario           + 1.13      "
+        },
+        {
+         "number": "10",
+         "Text": "   6. Rasmus Krogell        + 1.17      "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": "      Naisten 10 km                     "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": "   1. Ilona Mononen          34.30      "
+        },
+        {
+         "number": "15",
+         "Text": "   2. Julia Lahnajärvi      + 1.44      "
+        },
+        {
+         "number": "16",
+         "Text": "   3. Suvi Miettinen        + 2.01      "
+        },
+        {
+         "number": "17",
+         "Text": "   4. Astrid Snäll          + 2.35      "
+        },
+        {
+         "number": "18",
+         "Text": "   5. Ella Sorvisto         + 2.46      "
+        },
+        {
+         "number": "19",
+         "Text": "   6. Minttu Hukka          + 2.50      "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}   {White}SM-MAASTOJUOKSUT * TAMPERE    1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{White}    {Green}Miesten 10 km                     "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}  1. Niko Putkinen          31.14      "
+        },
+        {
+         "number": "6",
+         "Text": "{White}  2. Leevi Keronen         + 0.03      "
+        },
+        {
+         "number": "7",
+         "Text": "{White}  3. Konsta Saksola        + 0.13      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}  4. Tommi Lintala         + 1.03      "
+        },
+        {
+         "number": "9",
+         "Text": "{White}  5. Otto Kaario           + 1.13      "
+        },
+        {
+         "number": "10",
+         "Text": "{White}  6. Rasmus Krogell        + 1.17      "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}    {Green}Naisten 10 km                     "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}  1. Ilona Mononen          34.30      "
+        },
+        {
+         "number": "15",
+         "Text": "{White}  2. Julia Lahnajärvi      + 1.44      "
+        },
+        {
+         "number": "16",
+         "Text": "{White}  3. Suvi Miettinen        + 2.01      "
+        },
+        {
+         "number": "17",
+         "Text": "{White}  4. Astrid Snäll          + 2.35      "
+        },
+        {
+         "number": "18",
+         "Text": "{White}  5. Ella Sorvisto         + 2.46      "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}  6. Minttu Hukka          + 2.50      "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "SM-MAASTOJUOKSUT * TAMPERE    1/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "34",
+           "Text": "Miesten 10 km                     "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   1. Niko Putkinen          31.14      "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   2. Leevi Keronen         + 0.03      "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   3. Konsta Saksola        + 0.13      "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   4. Tommi Lintala         + 1.03      "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   5. Otto Kaario           + 1.13      "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   6. Rasmus Krogell        + 1.17      "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "34",
+           "Text": "Naisten 10 km                     "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   1. Ilona Mononen          34.30      "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   2. Julia Lahnajärvi      + 1.44      "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   3. Suvi Miettinen        + 2.01      "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   4. Astrid Snäll          + 2.35      "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   5. Ella Sorvisto         + 2.46      "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   6. Minttu Hukka          + 2.50      "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "      SM-MAASTOJUOKSUT * TAMPERE    2/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "      Miesten 4 km                      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "   1. Mikko Kauppinen        11.58      "
+        },
+        {
+         "number": "6",
+         "Text": "   2. Leonard Marken        + 0.09      "
+        },
+        {
+         "number": "7",
+         "Text": "   3. Eero Koskivaara       + 0.12      "
+        },
+        {
+         "number": "8",
+         "Text": "   4. Joni Virkkala         + 0.17      "
+        },
+        {
+         "number": "9",
+         "Text": "   5. Elias Virtanen        + 0.24      "
+        },
+        {
+         "number": "10",
+         "Text": "   6. Aaro Aho              + 0.29      "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": "      Naisten 4 km                      "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": "   1. Aino Suni              13.38      "
+        },
+        {
+         "number": "15",
+         "Text": "   2. Kristiina Mäki        + 0.21      "
+        },
+        {
+         "number": "16",
+         "Text": "   3. Elli Punto            + 0.27      "
+        },
+        {
+         "number": "17",
+         "Text": "   4. Siiri Rainio          + 0.28      "
+        },
+        {
+         "number": "18",
+         "Text": "   5. Sini Rajaniemi        + 0.47      "
+        },
+        {
+         "number": "19",
+         "Text": "   6. Astrid Snäll          + 0.49      "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}   {White}SM-MAASTOJUOKSUT * TAMPERE    2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{White}    {Green}Miesten 4 km                      "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}  1. Mikko Kauppinen        11.58      "
+        },
+        {
+         "number": "6",
+         "Text": "{White}  2. Leonard Marken        + 0.09      "
+        },
+        {
+         "number": "7",
+         "Text": "{White}  3. Eero Koskivaara       + 0.12      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}  4. Joni Virkkala         + 0.17      "
+        },
+        {
+         "number": "9",
+         "Text": "{White}  5. Elias Virtanen        + 0.24      "
+        },
+        {
+         "number": "10",
+         "Text": "{White}  6. Aaro Aho              + 0.29      "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}    {Green}Naisten 4 km                      "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}  1. Aino Suni              13.38      "
+        },
+        {
+         "number": "15",
+         "Text": "{White}  2. Kristiina Mäki        + 0.21      "
+        },
+        {
+         "number": "16",
+         "Text": "{White}  3. Elli Punto            + 0.27      "
+        },
+        {
+         "number": "17",
+         "Text": "{White}  4. Siiri Rainio          + 0.28      "
+        },
+        {
+         "number": "18",
+         "Text": "{White}  5. Sini Rajaniemi        + 0.47      "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}  6. Astrid Snäll          + 0.49      "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "SM-MAASTOJUOKSUT * TAMPERE    2/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "34",
+           "Text": "Miesten 4 km                      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   1. Mikko Kauppinen        11.58      "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   2. Leonard Marken        + 0.09      "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   3. Eero Koskivaara       + 0.12      "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   4. Joni Virkkala         + 0.17      "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   5. Elias Virtanen        + 0.24      "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   6. Aaro Aho              + 0.29      "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "34",
+           "Text": "Naisten 4 km                      "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   1. Aino Suni              13.38      "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   2. Kristiina Mäki        + 0.21      "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   3. Elli Punto            + 0.27      "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   4. Siiri Rainio          + 0.28      "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   5. Sini Rajaniemi        + 0.47      "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   6. Astrid Snäll          + 0.49      "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

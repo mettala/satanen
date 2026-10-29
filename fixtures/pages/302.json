@@ -1,0 +1,2040 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "302",
+   "name": "YLE TV2",
+   "subpagecount": "3",
+   "prevpg": "301",
+   "nextpg": "303",
+   "toptype": "group",
+   "time": "2026-10-22T00:05:04",
+   "utctime": "2026-10-21T21:05:04",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "   TV2            Keskiviikko 21.10.    "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 23.00 Paratiisi (12) T A >354          "
+        },
+        {
+         "number": "5",
+         "Text": " 23.55 Pentulive 2026 TV2 yöstriimi     "
+        },
+        {
+         "number": "6",
+         "Text": " 06.40 Egenlandin matkakohteet:         "
+        },
+        {
+         "number": "7",
+         "Text": "       Kiipeilyä Vaasan vesitornissa T A"
+        },
+        {
+         "number": "8",
+         "Text": " 06.50 Pikku Kakkonen                   "
+        },
+        {
+         "number": "9",
+         "Text": " 06.51 Nimipäiväonnittelu: 22.10. A     "
+        },
+        {
+         "number": "10",
+         "Text": " 06.52 Tulipop (S) T A                  "
+        },
+        {
+         "number": "11",
+         "Text": " 07.00 Tete ja Mama (S) T A             "
+        },
+        {
+         "number": "12",
+         "Text": " 07.07 Pikku Kakkonen A                 "
+        },
+        {
+         "number": "13",
+         "Text": " 07.09 Mauno (S) T A                    "
+        },
+        {
+         "number": "14",
+         "Text": " 07.20 Pikku Kakkonen A                 "
+        },
+        {
+         "number": "15",
+         "Text": " 07.22 Sanni Sateenkaari (S) T A        "
+        },
+        {
+         "number": "16",
+         "Text": " 07.35 Milli ja Molli (S) T A           "
+        },
+        {
+         "number": "17",
+         "Text": " 07.59 Pikku Kakkonen A                 "
+        },
+        {
+         "number": "18",
+         "Text": " 08.00 Rollen remmi (S) T A             "
+        },
+        {
+         "number": "19",
+         "Text": " 08.11 Nimipäiväonnittelu: 22.10. A     "
+        },
+        {
+         "number": "20",
+         "Text": " 08.13 Pikku Kakkonen                   "
+        },
+        {
+         "number": "21",
+         "Text": " 08.14 Pikku Kakkosen postipyyntö T A   "
+        },
+        {
+         "number": "22",
+         "Text": " T = Tekstitys                          "
+        },
+        {
+         "number": "23",
+         "Text": " A = Jo Areenassa    A = Tulee Areenaan "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}         {White}{NB}                    {Blue}  1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}TV2     {White}{NB}{Blue}    Keskiviikko 21.10.    "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}#########{Hold}{GWhite}############################"
+        },
+        {
+         "number": "4",
+         "Text": " 23.00{White}Paratiisi{White}(12){Magenta}T{Green}A{Yellow}>354          "
+        },
+        {
+         "number": "5",
+         "Text": " 23.55{White}Pentulive 2026 TV2 yöstriimi     "
+        },
+        {
+         "number": "6",
+         "Text": " 06.40{White}Egenlandin matkakohteet:         "
+        },
+        {
+         "number": "7",
+         "Text": "      {White}Kiipeilyä Vaasan vesitornissa{Magenta}T{Green}A"
+        },
+        {
+         "number": "8",
+         "Text": " 06.50{White}Pikku Kakkonen                   "
+        },
+        {
+         "number": "9",
+         "Text": " 06.51{White}Nimipäiväonnittelu: 22.10.{Cyan}A     "
+        },
+        {
+         "number": "10",
+         "Text": " 06.52{White}Tulipop{White}(S){Magenta}T{Cyan}A                  "
+        },
+        {
+         "number": "11",
+         "Text": " 07.00{White}Tete ja Mama{White}(S){Magenta}T{Cyan}A             "
+        },
+        {
+         "number": "12",
+         "Text": " 07.07{White}Pikku Kakkonen{Cyan}A                 "
+        },
+        {
+         "number": "13",
+         "Text": " 07.09{White}Mauno{White}(S){Magenta}T{Cyan}A                    "
+        },
+        {
+         "number": "14",
+         "Text": " 07.20{White}Pikku Kakkonen{Cyan}A                 "
+        },
+        {
+         "number": "15",
+         "Text": " 07.22{White}Sanni Sateenkaari{White}(S){Magenta}T{Green}A        "
+        },
+        {
+         "number": "16",
+         "Text": " 07.35{White}Milli ja Molli{White}(S){Magenta}T{Green}A           "
+        },
+        {
+         "number": "17",
+         "Text": " 07.59{White}Pikku Kakkonen{Cyan}A                 "
+        },
+        {
+         "number": "18",
+         "Text": " 08.00{White}Rollen remmi{White}(S){Magenta}T{Cyan}A             "
+        },
+        {
+         "number": "19",
+         "Text": " 08.11{White}Nimipäiväonnittelu: 22.10.{Cyan}A     "
+        },
+        {
+         "number": "20",
+         "Text": " 08.13{White}Pikku Kakkonen                   "
+        },
+        {
+         "number": "21",
+         "Text": " 08.14{White}Pikku Kakkosen postipyyntö{Magenta}T{Green}A   "
+        },
+        {
+         "number": "22",
+         "Text": "{Magenta}T = Tekstitys                          "
+        },
+        {
+         "number": "23",
+         "Text": "{Green}A = Jo Areenassa   {Cyan}A = Tulee Areenaan "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "24"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "4",
+           "Text": "1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": "TV2      "
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "22",
+           "Text": "Keskiviikko 21.10.    "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "11",
+           "Text": "#########  "
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "28",
+           "Text": "############################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 23.00 Paratiisi (12) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2",
+           "Text": "A "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": ">"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "354",
+           "length": "3",
+           "Text": "354"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 23.55 Pentulive 2026 TV2 yöstriimi     "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 06.40 Egenlandin matkakohteet:         "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "37",
+           "Text": "       Kiipeilyä Vaasan vesitornissa "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "A"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 06.50 Pikku Kakkonen                   "
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 06.51 Nimipäiväonnittelu: 22.10. "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "A     "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 06.52 Tulipop (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "19",
+           "Text": "A                  "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": " 07.00 Tete ja Mama (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "14",
+           "Text": "A             "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 07.07 Pikku Kakkonen "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "A                 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": " 07.09 Mauno (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 07.20 Pikku Kakkonen "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "A                 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 07.22 Sanni Sateenkaari (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "A        "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " 07.35 Milli ja Molli (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "A           "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 07.59 Pikku Kakkonen "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "A                 "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": " 08.00 Rollen remmi (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "14",
+           "Text": "A             "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 08.11 Nimipäiväonnittelu: 22.10. "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "A     "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 08.13 Pikku Kakkonen                   "
+         }
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 08.14 Pikku Kakkosen postipyyntö "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "A   "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "39",
+           "Text": "T = Tekstitys                          "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "A = Jo Areenassa    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "19",
+           "Text": "A = Tulee Areenaan "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "   TV2            Torstai 22.10.        "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 08.15 Auri ja maailman eläimet (S) T A "
+        },
+        {
+         "number": "5",
+         "Text": " 08.27 Kärpästen Harri (7) T A          "
+        },
+        {
+         "number": "6",
+         "Text": " 08.38 Kotikadun jengi ja vihreä valo   "
+        },
+        {
+         "number": "7",
+         "Text": "       (7) T A                          "
+        },
+        {
+         "number": "8",
+         "Text": " 08.50 Jumppahetki T A                  "
+        },
+        {
+         "number": "9",
+         "Text": " 09.00 Kerran kesällä T A               "
+        },
+        {
+         "number": "10",
+         "Text": " 09.30 Sukkahousut, purukumi, rupla T A "
+        },
+        {
+         "number": "11",
+         "Text": " 10.00 SuomiLOVE T A                    "
+        },
+        {
+         "number": "12",
+         "Text": " 11.00 Soramonttuprinsessat T A         "
+        },
+        {
+         "number": "13",
+         "Text": " 11.30 Lamastalgia T                    "
+        },
+        {
+         "number": "14",
+         "Text": " 12.20 Naissotilaat 3 T A               "
+        },
+        {
+         "number": "15",
+         "Text": " 12.50 Eränkävijät T A                  "
+        },
+        {
+         "number": "16",
+         "Text": " 13.20 Tiettömän taipaleen takana A     "
+        },
+        {
+         "number": "17",
+         "Text": " 14.03 Vanhasta uudeksi -               "
+        },
+        {
+         "number": "18",
+         "Text": "       kierrätysvinkkejä A              "
+        },
+        {
+         "number": "19",
+         "Text": " 14.15 Tanskalainen maajussi A          "
+        },
+        {
+         "number": "20",
+         "Text": " 15.00 Kauppakaupunkien aarteita A      "
+        },
+        {
+         "number": "21",
+         "Text": " 16.00 Näin Ruotsi rakennettiin A       "
+        },
+        {
+         "number": "22",
+         "Text": " 17.00 Pikku Kakkonen T A               "
+        },
+        {
+         "number": "23",
+         "Text": "   TV2 huomenna 311  ylihuomenna 316    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}         {White}{NB}                    {Blue}  2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}TV2     {White}{NB}{Blue}    Torstai 22.10.        "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}#########{Hold}{GWhite}############################"
+        },
+        {
+         "number": "4",
+         "Text": " 08.15{White}Auri ja maailman eläimet{White}(S){Magenta}T{Green}A "
+        },
+        {
+         "number": "5",
+         "Text": " 08.27{White}Kärpästen Harri{White}(7){Magenta}T{Cyan}A          "
+        },
+        {
+         "number": "6",
+         "Text": " 08.38{White}Kotikadun jengi ja vihreä valo   "
+        },
+        {
+         "number": "7",
+         "Text": "      {White}(7){Magenta}T{Green}A                          "
+        },
+        {
+         "number": "8",
+         "Text": " 08.50{White}Jumppahetki{Magenta}T{Green}A                  "
+        },
+        {
+         "number": "9",
+         "Text": " 09.00{White}Kerran kesällä{Magenta}T{Green}A               "
+        },
+        {
+         "number": "10",
+         "Text": " 09.30{White}Sukkahousut, purukumi, rupla{Magenta}T{Green}A "
+        },
+        {
+         "number": "11",
+         "Text": " 10.00{White}SuomiLOVE{Magenta}T{Green}A                    "
+        },
+        {
+         "number": "12",
+         "Text": " 11.00{White}Soramonttuprinsessat{Magenta}T{Green}A         "
+        },
+        {
+         "number": "13",
+         "Text": " 11.30{White}Lamastalgia{Magenta}T                    "
+        },
+        {
+         "number": "14",
+         "Text": " 12.20{White}Naissotilaat 3{Magenta}T{Green}A               "
+        },
+        {
+         "number": "15",
+         "Text": " 12.50{White}Eränkävijät{Magenta}T{Green}A                  "
+        },
+        {
+         "number": "16",
+         "Text": " 13.20{White}Tiettömän taipaleen takana{Green}A     "
+        },
+        {
+         "number": "17",
+         "Text": " 14.03{White}Vanhasta uudeksi -               "
+        },
+        {
+         "number": "18",
+         "Text": "      {White}kierrätysvinkkejä{Green}A              "
+        },
+        {
+         "number": "19",
+         "Text": " 14.15{White}Tanskalainen maajussi{Green}A          "
+        },
+        {
+         "number": "20",
+         "Text": " 15.00{White}Kauppakaupunkien aarteita{Cyan}A      "
+        },
+        {
+         "number": "21",
+         "Text": " 16.00{White}Näin Ruotsi rakennettiin{Green}A       "
+        },
+        {
+         "number": "22",
+         "Text": " 17.00{White}Pikku Kakkonen{Magenta}T{Cyan}A               "
+        },
+        {
+         "number": "23",
+         "Text": "{White}{NB}{Blue}TV2 huomenna{Blue}311  ylihuomenna{Blue}316    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "24"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "4",
+           "Text": "2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": "TV2      "
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "22",
+           "Text": "Torstai 22.10.        "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "11",
+           "Text": "#########  "
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "28",
+           "Text": "############################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " 08.15 Auri ja maailman eläimet (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2",
+           "Text": "A "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 08.27 Kärpästen Harri (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "A          "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 08.38 Kotikadun jengi ja vihreä valo   "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "       (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "27",
+           "Text": "A                          "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 08.50 Jumppahetki "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "19",
+           "Text": "A                  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 09.00 Kerran kesällä "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "A               "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " 09.30 Sukkahousut, purukumi, rupla "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2",
+           "Text": "A "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": " 10.00 SuomiLOVE "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " 11.00 Soramonttuprinsessat "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "A         "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 11.30 Lamastalgia "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "21",
+           "Text": "T                    "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 12.20 Naissotilaat 3 "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "A               "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 12.50 Eränkävijät "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "19",
+           "Text": "A                  "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 13.20 Tiettömän taipaleen takana "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "6",
+           "Text": "A     "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 14.03 Vanhasta uudeksi -               "
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": "       kierrätysvinkkejä "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "15",
+           "Text": "A              "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 14.15 Tanskalainen maajussi "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "A          "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " 15.00 Kauppakaupunkien aarteita "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "A      "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " 16.00 Näin Ruotsi rakennettiin "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "A       "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 17.00 Pikku Kakkonen "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "A               "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "13",
+           "Text": "TV2 huomenna "
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "311",
+           "length": "3",
+           "Text": "311"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "14",
+           "Text": "  ylihuomenna "
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "link": "316",
+           "length": "3",
+           "Text": "316"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "   TV2            Torstai 22.10.        "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 18.00 SuomiLOVE T A                    "
+        },
+        {
+         "number": "5",
+         "Text": " 19.00 Soramonttuprinsessat T A         "
+        },
+        {
+         "number": "6",
+         "Text": " 19.30 Erätulilla T A                   "
+        },
+        {
+         "number": "7",
+         "Text": " 20.00 Fokus (7) T A                    "
+        },
+        {
+         "number": "8",
+         "Text": " 20.30 Kunnes ruoste meidät erottaa (S) "
+        },
+        {
+         "number": "9",
+         "Text": "       T A                              "
+        },
+        {
+         "number": "10",
+         "Text": " 21.00 Hormonit! (12) T A               "
+        },
+        {
+         "number": "11",
+         "Text": " 21.50 Belzebubs (7) T A                "
+        },
+        {
+         "number": "12",
+         "Text": " 22.15 Monissa häissä (S) T A           "
+        },
+        {
+         "number": "13",
+         "Text": " 22.40 Millainen Hampus on sängyssä?    "
+        },
+        {
+         "number": "14",
+         "Text": "       (12) A                           "
+        },
+        {
+         "number": "15",
+         "Text": " 23.16 Kovin kuski haussa A             "
+        },
+        {
+         "number": "16",
+         "Text": " 00.10 Pentulive 2026 TV2 yöstriimi     "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "       TV-ohjelmien hakemisto s. 300    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}         {White}{NB}                    {Blue}  3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}TV2     {White}{NB}{Blue}    Torstai 22.10.        "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}#########{Hold}{GWhite}############################"
+        },
+        {
+         "number": "4",
+         "Text": " 18.00{White}SuomiLOVE{Magenta}T{Green}A                    "
+        },
+        {
+         "number": "5",
+         "Text": " 19.00{White}Soramonttuprinsessat{Magenta}T{Green}A         "
+        },
+        {
+         "number": "6",
+         "Text": " 19.30{White}Erätulilla{Magenta}T{Green}A                   "
+        },
+        {
+         "number": "7",
+         "Text": " 20.00{White}Fokus{White}(7){Magenta}T{Green}A                    "
+        },
+        {
+         "number": "8",
+         "Text": " 20.30{White}Kunnes ruoste meidät erottaa{White}(S) "
+        },
+        {
+         "number": "9",
+         "Text": "      {Magenta}T{Green}A                              "
+        },
+        {
+         "number": "10",
+         "Text": " 21.00{White}Hormonit!{White}(12){Magenta}T{Green}A               "
+        },
+        {
+         "number": "11",
+         "Text": " 21.50{White}Belzebubs{White}(7){Magenta}T{Green}A                "
+        },
+        {
+         "number": "12",
+         "Text": " 22.15{White}Monissa häissä{White}(S){Magenta}T{Green}A           "
+        },
+        {
+         "number": "13",
+         "Text": " 22.40{White}Millainen Hampus on sängyssä?    "
+        },
+        {
+         "number": "14",
+         "Text": "      {White}(12){Green}A                           "
+        },
+        {
+         "number": "15",
+         "Text": " 23.16{White}Kovin kuski haussa{Green}A             "
+        },
+        {
+         "number": "16",
+         "Text": " 00.10{White}Pentulive 2026 TV2 yöstriimi     "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}    TV-ohjelmien hakemisto s.{White}300    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "24"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "4",
+           "Text": "3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "9",
+           "Text": "TV2      "
+          },
+          {
+           "bg": "white",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "white",
+           "fg": "blue",
+           "length": "22",
+           "Text": "Torstai 22.10.        "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "11",
+           "Text": "#########  "
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "28",
+           "Text": "############################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": " 18.00 SuomiLOVE "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " 19.00 Soramonttuprinsessat "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "A         "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " 19.30 Erätulilla "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "A                   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": " 20.00 Fokus (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 20.30 Kunnes ruoste meidät erottaa (S) "
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "31",
+           "Text": "A                              "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " 21.00 Hormonit! (12) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "A               "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " 21.50 Belzebubs (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "A                "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " 22.15 Monissa häissä (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "A           "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 22.40 Millainen Hampus on sängyssä?    "
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "       (12) "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "28",
+           "Text": "A                           "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " 23.16 Kovin kuski haussa "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "14",
+           "Text": "A             "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 00.10 Pentulive 2026 TV2 yöstriimi     "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "6"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "26",
+           "Text": "TV-ohjelmien hakemisto s. "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,3573 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "176",
+   "name": "",
+   "subpagecount": "5",
+   "prevpg": "175",
+   "nextpg": "177",
+   "toptype": "normal",
+   "time": "2026-10-23T19:20:02",
+   "utctime": "2026-10-23T16:20:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "   OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "   OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Elisa Class A    19:00   23,41M   -5,89"
+        },
+        {
+         "number": "5",
+         "Text": "  32,64   32,68   32,52    34,00   32,58"
+        },
+        {
+         "number": "6",
+         "Text": " Fiskars Class A  19:00   458060   -1,97"
+        },
+        {
+         "number": "7",
+         "Text": "  13,92   13,98   13,74    14,32   13,92"
+        },
+        {
+         "number": "8",
+         "Text": " Fortum           19:00   12,41M   +0,52"
+        },
+        {
+         "number": "9",
+         "Text": "  23,02   23,04   22,74    23,13   23,09"
+        },
+        {
+         "number": "10",
+         "Text": " Hiab CL. B       19:00   15,62M  -11,70"
+        },
+        {
+         "number": "11",
+         "Text": "  46,02   46,14   45,46    49,56   46,40"
+        },
+        {
+         "number": "12",
+         "Text": " Huhtamäki        19:00    3,68M   -0,81"
+        },
+        {
+         "number": "13",
+         "Text": "  26,76   26,80   26,60    27,00   26,82"
+        },
+        {
+         "number": "14",
+         "Text": " IQM Quantum Comp 19:00   475618   -1,16"
+        },
+        {
+         "number": "15",
+         "Text": "   8,03   8,125    8,00     8,35    8,06"
+        },
+        {
+         "number": "16",
+         "Text": " Kalmar B         19:00    1,16M   -1,42"
+        },
+        {
+         "number": "17",
+         "Text": "  36,26   36,28   36,06    36,72   36,12"
+        },
+        {
+         "number": "18",
+         "Text": " Kemira           19:00    5,11M   -6,05"
+        },
+        {
+         "number": "19",
+         "Text": "  15,25   15,29   15,20    16,11   15,22"
+        },
+        {
+         "number": "20",
+         "Text": " Kesko A          19:00   864190   +1,07"
+        },
+        {
+         "number": "21",
+         "Text": "  23,70   23,75   23,35    23,80   23,55"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 12 904,31  ( -0,34 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Elisa Class A   {Green}19:00{White}  23,41M  {Cyan}-5,89"
+        },
+        {
+         "number": "5",
+         "Text": "  32,64   32,68   32,52    34,00   32,58"
+        },
+        {
+         "number": "6",
+         "Text": " Fiskars Class A {Green}19:00{White}  458060  {Cyan}-1,97"
+        },
+        {
+         "number": "7",
+         "Text": "  13,92   13,98   13,74    14,32   13,92"
+        },
+        {
+         "number": "8",
+         "Text": " Fortum          {Green}19:00{White}  12,41M  {Yellow}+0,52"
+        },
+        {
+         "number": "9",
+         "Text": "  23,02   23,04   22,74    23,13   23,09"
+        },
+        {
+         "number": "10",
+         "Text": " Hiab CL. B      {Green}19:00{White}  15,62M {Cyan}-11,70"
+        },
+        {
+         "number": "11",
+         "Text": "  46,02   46,14   45,46    49,56   46,40"
+        },
+        {
+         "number": "12",
+         "Text": " Huhtamäki       {Green}19:00{White}   3,68M  {Cyan}-0,81"
+        },
+        {
+         "number": "13",
+         "Text": "  26,76   26,80   26,60    27,00   26,82"
+        },
+        {
+         "number": "14",
+         "Text": " IQM Quantum Comp{Green}19:00{White}  475618  {Cyan}-1,16"
+        },
+        {
+         "number": "15",
+         "Text": "   8,03   8,125    8,00     8,35    8,06"
+        },
+        {
+         "number": "16",
+         "Text": " Kalmar B        {Green}19:00{White}   1,16M  {Cyan}-1,42"
+        },
+        {
+         "number": "17",
+         "Text": "  36,26   36,28   36,06    36,72   36,12"
+        },
+        {
+         "number": "18",
+         "Text": " Kemira          {Green}19:00{White}   5,11M  {Cyan}-6,05"
+        },
+        {
+         "number": "19",
+         "Text": "  15,25   15,29   15,20    16,11   15,22"
+        },
+        {
+         "number": "20",
+         "Text": " Kesko A         {Green}19:00{White}  864190  {Yellow}+1,07"
+        },
+        {
+         "number": "21",
+         "Text": "  23,70   23,75   23,35    23,80   23,55"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 12 904,31  ({Cyan}-0,34{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 23.10. 18:35        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OSTO  MYYNTI    ALIN     YLIN    VIIM"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Elisa Class A    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "23,41M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-5,89"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  32,64   32,68   32,52    34,00   32,58"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Fiskars Class A  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "458060   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,97"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  13,92   13,98   13,74    14,32   13,92"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Fortum           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "12,41M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,52"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  23,02   23,04   22,74    23,13   23,09"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Hiab CL. B       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "15,62M  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "-11,70"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  46,02   46,14   45,46    49,56   46,40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Huhtamäki        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "3,68M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,81"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  26,76   26,80   26,60    27,00   26,82"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " IQM Quantum Comp "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "475618   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,16"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "   8,03   8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "125",
+           "length": "3",
+           "Text": "125"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": "    8,00     8,35    8,06"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Kalmar B         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "1,16M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,42"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  36,26   36,28   36,06    36,72   36,12"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Kemira           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "5,11M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-6,05"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  15,25   15,29   15,20    16,11   15,22"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Kesko A          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "864190   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+1,07"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  23,70   23,75   23,35    23,80   23,55"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "OMXH 12 904,31  ( -0,34 )      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "   OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "   OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Kesko B          19:00    9,34M   +0,08"
+        },
+        {
+         "number": "5",
+         "Text": "  25,14   25,18   24,88    25,24   25,12"
+        },
+        {
+         "number": "6",
+         "Text": " Kone             19:00   58,31M   +0,50"
+        },
+        {
+         "number": "7",
+         "Text": "  56,38   56,44   55,56    56,74   56,32"
+        },
+        {
+         "number": "8",
+         "Text": " Konecranes       19:00   24,13M   -7,75"
+        },
+        {
+         "number": "9",
+         "Text": "  26,42   26,48   26,16    28,90   26,44"
+        },
+        {
+         "number": "10",
+         "Text": " Lumo Kodit       19:00    2,59M   +2,94"
+        },
+        {
+         "number": "11",
+         "Text": "   7,16   7,165    6,97     7,18    7,18"
+        },
+        {
+         "number": "12",
+         "Text": " Mandatum         19:00    5,47M   -0,95"
+        },
+        {
+         "number": "13",
+         "Text": "  5,785   5,795    5,76     5,87    5,76"
+        },
+        {
+         "number": "14",
+         "Text": " Metsä Board B    19:00    1,33M   -3,35"
+        },
+        {
+         "number": "15",
+         "Text": "  2,984    3,00   2,918    3,124   2,996"
+        },
+        {
+         "number": "16",
+         "Text": " Metso Corp.      19:00   26,69M   +2,12"
+        },
+        {
+         "number": "17",
+         "Text": "  16,24   16,27   15,90    16,41   16,41"
+        },
+        {
+         "number": "18",
+         "Text": " Metsä Board A    19:00     7619   -1,62"
+        },
+        {
+         "number": "19",
+         "Text": "   3,60    3,70    3,65     3,80    3,65"
+        },
+        {
+         "number": "20",
+         "Text": " Neste            19:00   23,96M   +1,13"
+        },
+        {
+         "number": "21",
+         "Text": "  31,24   31,27   30,97    31,53   31,28"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 12 904,31  ( -0,34 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Kesko B         {Green}19:00{White}   9,34M  {Yellow}+0,08"
+        },
+        {
+         "number": "5",
+         "Text": "  25,14   25,18   24,88    25,24   25,12"
+        },
+        {
+         "number": "6",
+         "Text": " Kone            {Green}19:00{White}  58,31M  {Yellow}+0,50"
+        },
+        {
+         "number": "7",
+         "Text": "  56,38   56,44   55,56    56,74   56,32"
+        },
+        {
+         "number": "8",
+         "Text": " Konecranes      {Green}19:00{White}  24,13M  {Cyan}-7,75"
+        },
+        {
+         "number": "9",
+         "Text": "  26,42   26,48   26,16    28,90   26,44"
+        },
+        {
+         "number": "10",
+         "Text": " Lumo Kodit      {Green}19:00{White}   2,59M  {Yellow}+2,94"
+        },
+        {
+         "number": "11",
+         "Text": "   7,16   7,165    6,97     7,18    7,18"
+        },
+        {
+         "number": "12",
+         "Text": " Mandatum        {Green}19:00{White}   5,47M  {Cyan}-0,95"
+        },
+        {
+         "number": "13",
+         "Text": "  5,785   5,795    5,76     5,87    5,76"
+        },
+        {
+         "number": "14",
+         "Text": " Metsä Board B   {Green}19:00{White}   1,33M  {Cyan}-3,35"
+        },
+        {
+         "number": "15",
+         "Text": "  2,984    3,00   2,918    3,124   2,996"
+        },
+        {
+         "number": "16",
+         "Text": " Metso Corp.     {Green}19:00{White}  26,69M  {Yellow}+2,12"
+        },
+        {
+         "number": "17",
+         "Text": "  16,24   16,27   15,90    16,41   16,41"
+        },
+        {
+         "number": "18",
+         "Text": " Metsä Board A   {Green}19:00{White}    7619  {Cyan}-1,62"
+        },
+        {
+         "number": "19",
+         "Text": "   3,60    3,70    3,65     3,80    3,65"
+        },
+        {
+         "number": "20",
+         "Text": " Neste           {Green}19:00{White}  23,96M  {Yellow}+1,13"
+        },
+        {
+         "number": "21",
+         "Text": "  31,24   31,27   30,97    31,53   31,28"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 12 904,31  ({Cyan}-0,34{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 23.10. 18:35        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OSTO  MYYNTI    ALIN     YLIN    VIIM"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Kesko B          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "9,34M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,08"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  25,14   25,18   24,88    25,24   25,12"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Kone             "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "58,31M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,50"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  56,38   56,44   55,56    56,74   56,32"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Konecranes       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "24,13M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-7,75"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  26,42   26,48   26,16    28,90   26,44"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Lumo Kodit       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "2,59M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,94"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "   7,16   7,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "165",
+           "length": "3",
+           "Text": "165"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": "    6,97     7,18    7,18"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Mandatum         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "5,47M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,95"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "  5,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "785",
+           "length": "3",
+           "Text": "785"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   5,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "795",
+           "length": "3",
+           "Text": "795"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": "    5,76     5,87    5,76"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Metsä Board B    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "1,33M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-3,35"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "  2,984    3,00   2,918    3,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "124",
+           "length": "3",
+           "Text": "124"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "   2,996"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Metso Corp.      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "26,69M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+2,12"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  16,24   16,27   15,90    16,41   16,41"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Metsä Board A    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "19:00     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "7619   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,62"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   3,60    3,70    3,65     3,80    3,65"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Neste            "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "23,96M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+1,13"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  31,24   31,27   30,97    31,53   31,28"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "OMXH 12 904,31  ( -0,34 )      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "   OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "   OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Nokia            19:00   162,8M   -0,83"
+        },
+        {
+         "number": "5",
+         "Text": "   7,35    7,36   7,232    7,612    7,37"
+        },
+        {
+         "number": "6",
+         "Text": " Nokian Renkaat   19:00    5,43M   -0,45"
+        },
+        {
+         "number": "7",
+         "Text": "  13,34   13,37   13,14    13,42   13,33"
+        },
+        {
+         "number": "8",
+         "Text": " Nordea Bank      19:00   93,89M   -0,03"
+        },
+        {
+         "number": "9",
+         "Text": "  15,26   15,27  15,105    15,33   15,27"
+        },
+        {
+         "number": "10",
+         "Text": " Orion A          19:00   981508   +0,33"
+        },
+        {
+         "number": "11",
+         "Text": "  92,00   92,20   90,20    92,30   91,80"
+        },
+        {
+         "number": "12",
+         "Text": " Orion Ser. B     19:00   15,76M   +0,33"
+        },
+        {
+         "number": "13",
+         "Text": "  92,25   92,35   90,15    92,50   92,30"
+        },
+        {
+         "number": "14",
+         "Text": " Outokumpu        19:00    4,93M   +0,35"
+        },
+        {
+         "number": "15",
+         "Text": "  4,626   4,634   4,578     4,64   4,638"
+        },
+        {
+         "number": "16",
+         "Text": " QT Group         19:00    1,08M   -1,00"
+        },
+        {
+         "number": "17",
+         "Text": "  33,64   33,70   33,24    33,90   33,66"
+        },
+        {
+         "number": "18",
+         "Text": " Sampo 'A'        19:00   29,99M   -0,09"
+        },
+        {
+         "number": "19",
+         "Text": "   9,19   9,194   9,126    9,222   9,214"
+        },
+        {
+         "number": "20",
+         "Text": " Sanoma           19:00   667633   -0,57"
+        },
+        {
+         "number": "21",
+         "Text": "  10,52   10,56   10,50    10,66   10,54"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 12 904,31  ( -0,34 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Nokia           {Green}19:00{White}  162,8M  {Cyan}-0,83"
+        },
+        {
+         "number": "5",
+         "Text": "   7,35    7,36   7,232    7,612    7,37"
+        },
+        {
+         "number": "6",
+         "Text": " Nokian Renkaat  {Green}19:00{White}   5,43M  {Cyan}-0,45"
+        },
+        {
+         "number": "7",
+         "Text": "  13,34   13,37   13,14    13,42   13,33"
+        },
+        {
+         "number": "8",
+         "Text": " Nordea Bank     {Green}19:00{White}  93,89M  {Cyan}-0,03"
+        },
+        {
+         "number": "9",
+         "Text": "  15,26   15,27  15,105    15,33   15,27"
+        },
+        {
+         "number": "10",
+         "Text": " Orion A         {Green}19:00{White}  981508  {Yellow}+0,33"
+        },
+        {
+         "number": "11",
+         "Text": "  92,00   92,20   90,20    92,30   91,80"
+        },
+        {
+         "number": "12",
+         "Text": " Orion Ser. B    {Green}19:00{White}  15,76M  {Yellow}+0,33"
+        },
+        {
+         "number": "13",
+         "Text": "  92,25   92,35   90,15    92,50   92,30"
+        },
+        {
+         "number": "14",
+         "Text": " Outokumpu       {Green}19:00{White}   4,93M  {Yellow}+0,35"
+        },
+        {
+         "number": "15",
+         "Text": "  4,626   4,634   4,578     4,64   4,638"
+        },
+        {
+         "number": "16",
+         "Text": " QT Group        {Green}19:00{White}   1,08M  {Cyan}-1,00"
+        },
+        {
+         "number": "17",
+         "Text": "  33,64   33,70   33,24    33,90   33,66"
+        },
+        {
+         "number": "18",
+         "Text": " Sampo 'A'       {Green}19:00{White}  29,99M  {Cyan}-0,09"
+        },
+        {
+         "number": "19",
+         "Text": "   9,19   9,194   9,126    9,222   9,214"
+        },
+        {
+         "number": "20",
+         "Text": " Sanoma          {Green}19:00{White}  667633  {Cyan}-0,57"
+        },
+        {
+         "number": "21",
+         "Text": "  10,52   10,56   10,50    10,66   10,54"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 12 904,31  ({Cyan}-0,34{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 23.10. 18:35        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OSTO  MYYNTI    ALIN     YLIN    VIIM"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Nokia            "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "162",
+           "length": "3",
+           "Text": "162"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": ",8M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,83"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "   7,35    7,36   7,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "232",
+           "length": "3",
+           "Text": "232"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "    7,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "612",
+           "length": "3",
+           "Text": "612"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "    7,37"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Nokian Renkaat   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "5,43M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,45"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  13,34   13,37   13,14    13,42   13,33"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Nordea Bank      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "93,89M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,03"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "  15,26   15,27  15,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "105",
+           "length": "3",
+           "Text": "105"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": "    15,33   15,27"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Orion A          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "981508   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,33"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  92,00   92,20   90,20    92,30   91,80"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Orion Ser. B     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "15,76M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,33"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  92,25   92,35   90,15    92,50   92,30"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Outokumpu        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "4,93M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,35"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "  4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "626",
+           "length": "3",
+           "Text": "626"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "634",
+           "length": "3",
+           "Text": "634"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "578",
+           "length": "3",
+           "Text": "578"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "     4,64   4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "638",
+           "length": "3",
+           "Text": "638"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " QT Group         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "1,08M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-1,00"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  33,64   33,70   33,24    33,90   33,66"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Sampo 'A'        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "29,99M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,09"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "   9,19   9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "194",
+           "length": "3",
+           "Text": "194"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "126",
+           "length": "3",
+           "Text": "126"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "    9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "222",
+           "length": "3",
+           "Text": "222"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "214",
+           "length": "3",
+           "Text": "214"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Sanoma           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "667633   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,57"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  10,52   10,56   10,50    10,66   10,54"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "OMXH 12 904,31  ( -0,34 )      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "   OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "   OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Sensofusion      19:00    1,86M   +5,60"
+        },
+        {
+         "number": "5",
+         "Text": "  17,60   17,81  16,755    17,99  17,805"
+        },
+        {
+         "number": "6",
+         "Text": " Ssab AB Ser. A   19:00    90433   +0,25"
+        },
+        {
+         "number": "7",
+         "Text": "  8,736   8,774    8,66    8,786   8,782"
+        },
+        {
+         "number": "8",
+         "Text": " Ssab AB Ser. B   19:00   706300   -0,07"
+        },
+        {
+         "number": "9",
+         "Text": "  8,834    8,87   8,722    8,876   8,856"
+        },
+        {
+         "number": "10",
+         "Text": " Stora Enso Class 19:00    29154   +0,21"
+        },
+        {
+         "number": "11",
+         "Text": "   9,66    9,70    9,60     9,74    9,62"
+        },
+        {
+         "number": "12",
+         "Text": " Stora Enso R     19:00   12,08M   +0,48"
+        },
+        {
+         "number": "13",
+         "Text": "  9,698   9,708   9,514    9,722    9,69"
+        },
+        {
+         "number": "14",
+         "Text": " Telia CO. AB     19:00     1,8M   -0,39"
+        },
+        {
+         "number": "15",
+         "Text": "  4,326   4,332    4,25    4,337   4,323"
+        },
+        {
+         "number": "16",
+         "Text": " Terveystalo      19:00    3,54M   -4,94"
+        },
+        {
+         "number": "17",
+         "Text": "   5,94    5,95    5,93     6,22    5,96"
+        },
+        {
+         "number": "18",
+         "Text": " TietoEVRY        19:00    6,99M   +1,95"
+        },
+        {
+         "number": "19",
+         "Text": "  19,75   19,78   19,33    19,85   19,85"
+        },
+        {
+         "number": "20",
+         "Text": " Upm-Kymmene Corp 19:00   18,36M   +0,16"
+        },
+        {
+         "number": "21",
+         "Text": "  24,45   24,46   24,31    24,65   24,44"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 12 904,31  ( -0,34 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Sensofusion     {Green}19:00{White}   1,86M  {Yellow}+5,60"
+        },
+        {
+         "number": "5",
+         "Text": "  17,60   17,81  16,755    17,99  17,805"
+        },
+        {
+         "number": "6",
+         "Text": " Ssab AB Ser. A  {Green}19:00{White}   90433  {Yellow}+0,25"
+        },
+        {
+         "number": "7",
+         "Text": "  8,736   8,774    8,66    8,786   8,782"
+        },
+        {
+         "number": "8",
+         "Text": " Ssab AB Ser. B  {Green}19:00{White}  706300  {Cyan}-0,07"
+        },
+        {
+         "number": "9",
+         "Text": "  8,834    8,87   8,722    8,876   8,856"
+        },
+        {
+         "number": "10",
+         "Text": " Stora Enso Class{Green}19:00{White}   29154  {Yellow}+0,21"
+        },
+        {
+         "number": "11",
+         "Text": "   9,66    9,70    9,60     9,74    9,62"
+        },
+        {
+         "number": "12",
+         "Text": " Stora Enso R    {Green}19:00{White}  12,08M  {Yellow}+0,48"
+        },
+        {
+         "number": "13",
+         "Text": "  9,698   9,708   9,514    9,722    9,69"
+        },
+        {
+         "number": "14",
+         "Text": " Telia CO. AB    {Green}19:00{White}    1,8M  {Cyan}-0,39"
+        },
+        {
+         "number": "15",
+         "Text": "  4,326   4,332    4,25    4,337   4,323"
+        },
+        {
+         "number": "16",
+         "Text": " Terveystalo     {Green}19:00{White}   3,54M  {Cyan}-4,94"
+        },
+        {
+         "number": "17",
+         "Text": "   5,94    5,95    5,93     6,22    5,96"
+        },
+        {
+         "number": "18",
+         "Text": " TietoEVRY       {Green}19:00{White}   6,99M  {Yellow}+1,95"
+        },
+        {
+         "number": "19",
+         "Text": "  19,75   19,78   19,33    19,85   19,85"
+        },
+        {
+         "number": "20",
+         "Text": " Upm-Kymmene Corp{Green}19:00{White}  18,36M  {Yellow}+0,16"
+        },
+        {
+         "number": "21",
+         "Text": "  24,45   24,46   24,31    24,65   24,44"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 12 904,31  ({Cyan}-0,34{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 23.10. 18:35        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OSTO  MYYNTI    ALIN     YLIN    VIIM"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Sensofusion      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "1,86M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+5,60"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "  17,60   17,81  16,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "755",
+           "length": "3",
+           "Text": "755"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "    17,99  17,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "805",
+           "length": "3",
+           "Text": "805"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Ssab AB Ser. A   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "90433   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,25"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "  8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "736",
+           "length": "3",
+           "Text": "736"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "774",
+           "length": "3",
+           "Text": "774"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "    8,66    8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "786",
+           "length": "3",
+           "Text": "786"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "782",
+           "length": "3",
+           "Text": "782"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Ssab AB Ser. B   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "706300   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,07"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "  8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "834",
+           "length": "3",
+           "Text": "834"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13",
+           "Text": "    8,87   8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "722",
+           "length": "3",
+           "Text": "722"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "    8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "876",
+           "length": "3",
+           "Text": "876"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   8,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "856",
+           "length": "3",
+           "Text": "856"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Stora Enso Class "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "29154   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,21"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   9,66    9,70    9,60     9,74    9,62"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Stora Enso R     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "12,08M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,48"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "  9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "698",
+           "length": "3",
+           "Text": "698"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "708",
+           "length": "3",
+           "Text": "708"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "514",
+           "length": "3",
+           "Text": "514"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "    9,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "722",
+           "length": "3",
+           "Text": "722"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "    9,69"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Telia CO. AB     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "19:00     "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7",
+           "Text": "1,8M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,39"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "  4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "326",
+           "length": "3",
+           "Text": "326"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "332",
+           "length": "3",
+           "Text": "332"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "    4,25    4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "337",
+           "length": "3",
+           "Text": "337"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5",
+           "Text": "   4,"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "323",
+           "length": "3",
+           "Text": "323"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Terveystalo      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "3,54M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-4,94"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   5,94    5,95    5,93     6,22    5,96"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " TietoEVRY        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "6,99M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+1,95"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  19,75   19,78   19,33    19,85   19,85"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Upm-Kymmene Corp "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "18,36M   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,16"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  24,45   24,46   24,31    24,65   24,44"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "OMXH 12 904,31  ( -0,34 )      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "   OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "   OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Vaisala          19:00   868779   +0,32"
+        },
+        {
+         "number": "5",
+         "Text": "  62,70   62,90   62,40    63,00   62,90"
+        },
+        {
+         "number": "6",
+         "Text": " Valmet           19:00    6,69M   -0,60"
+        },
+        {
+         "number": "7",
+         "Text": "  26,56   26,60   26,40    26,76   26,54"
+        },
+        {
+         "number": "8",
+         "Text": " Wärtsilä         19:00   23,22M   -0,11"
+        },
+        {
+         "number": "9",
+         "Text": "  27,17   27,20   26,88    27,65   27,23"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 12 904,31  ( -0,34 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 23.10. 18:35        "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{Cyan}OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{Cyan}OSTO  MYYNTI    ALIN     YLIN    VIIM"
+        },
+        {
+         "number": "4",
+         "Text": " Vaisala         {Green}19:00{White}  868779  {Yellow}+0,32"
+        },
+        {
+         "number": "5",
+         "Text": "  62,70   62,90   62,40    63,00   62,90"
+        },
+        {
+         "number": "6",
+         "Text": " Valmet          {Green}19:00{White}   6,69M  {Cyan}-0,60"
+        },
+        {
+         "number": "7",
+         "Text": "  26,56   26,60   26,40    26,76   26,54"
+        },
+        {
+         "number": "8",
+         "Text": " Wärtsilä        {Green}19:00{White}  23,22M  {Cyan}-0,11"
+        },
+        {
+         "number": "9",
+         "Text": "  27,17   27,20   26,88    27,65   27,23"
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 12 904,31  ({Cyan}-0,34{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 23.10. 18:35        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OMXH Large Cap  AIKA VAIHTO/e MUUTOS%"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "37",
+           "Text": "OSTO  MYYNTI    ALIN     YLIN    VIIM"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Vaisala          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "868779   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "+0,32"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  62,70   62,90   62,40    63,00   62,90"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Valmet           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "19:00    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "6,69M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,60"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  26,56   26,60   26,40    26,76   26,54"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": " Wärtsilä         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "8",
+           "Text": "19:00   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "23,22M   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5",
+           "Text": "-0,11"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  27,17   27,20   26,88    27,65   27,23"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "OMXH 12 904,31  ( -0,34 )      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

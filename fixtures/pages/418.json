@@ -1,0 +1,1725 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "418",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "417",
+   "nextpg": "419",
+   "toptype": "normal",
+   "time": "2026-10-22T00:07:11",
+   "utctime": "2026-10-21T21:07:11",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "       SIITEPÖLYTILANNE                 "
+        },
+        {
+         "number": "3",
+         "Text": "       19.10.                           "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Siitepölykausi on                      "
+        },
+        {
+         "number": "6",
+         "Text": " päättynyt.                             "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " Cladosporium- ja Alternaria-           "
+        },
+        {
+         "number": "9",
+         "Text": " homesienen itiömäärä vähäi-            "
+        },
+        {
+         "number": "10",
+         "Text": " nen, lämpiminä päivinä voi             "
+        },
+        {
+         "number": "11",
+         "Text": " hetkellisesti nousta kohta-            "
+        },
+        {
+         "number": "12",
+         "Text": " laiseksi. Pitoisuudet laske-           "
+        },
+        {
+         "number": "13",
+         "Text": " vat nollaan vasta yöpakkas-            "
+        },
+        {
+         "number": "14",
+         "Text": " ten yleistyttyä ja lumi-               "
+        },
+        {
+         "number": "15",
+         "Text": " peitteen tultua maahan.                "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Uusi siitepölykausi                    "
+        },
+        {
+         "number": "18",
+         "Text": " alkaa tavallisesti                     "
+        },
+        {
+         "number": "19",
+         "Text": " tammi-helmikuussa päh-                 "
+        },
+        {
+         "number": "20",
+         "Text": " kinäpensaan ja lepän                   "
+        },
+        {
+         "number": "21",
+         "Text": " siitepölyn kulkeutumil-                "
+        },
+        {
+         "number": "22",
+         "Text": "                    la.                 "
+        },
+        {
+         "number": "23",
+         "Text": "   Aerobiologian yksikkö,Turun yliopisto"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4 ,,,,,,,,,,,,,,,,,$,,($,((  {White}   1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Blue}{NB}{Yellow}SIITEPÖLYTILANNE        {GGreen}~}{White}    "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%  {Yellow}19.10.            {GGreen}`t   j%{White}   "
+        },
+        {
+         "number": "4",
+         "Text": "{White}                         {GGreen}+}xx     "
+        },
+        {
+         "number": "5",
+         "Text": "{Yellow}Siitepölykausi on          {GGreen}ku    "
+        },
+        {
+         "number": "6",
+         "Text": "{Yellow}päättynyt.                  {GGreen}u   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}                            {GGreen}%  "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}Cladosporium-{White}ja{Green}Alternaria-{GGreen}j   "
+        },
+        {
+         "number": "9",
+         "Text": "{White}homesienen itiömäärä vähäi-  {GGreen}0  "
+        },
+        {
+         "number": "10",
+         "Text": "{White}nen, lämpiminä päivinä voi   {GGreen}+!  "
+        },
+        {
+         "number": "11",
+         "Text": "{White}hetkellisesti nousta kohta-   {GGreen}   "
+        },
+        {
+         "number": "12",
+         "Text": "{White}laiseksi. Pitoisuudet laske- {GGreen}~5  "
+        },
+        {
+         "number": "13",
+         "Text": "{White}vat nollaan vasta yöpakkas- {GGreen}~}  "
+        },
+        {
+         "number": "14",
+         "Text": "{White}ten yleistyttyä ja lumi-  {GGreen}xu "
+        },
+        {
+         "number": "15",
+         "Text": "{White}peitteen tultua maahan.  {GGreen}z4"
+        },
+        {
+         "number": "16",
+         "Text": "{White}                        {GGreen}~}"
+        },
+        {
+         "number": "17",
+         "Text": "{White}Uusi siitepölykausi     {GGreen}"
+        },
+        {
+         "number": "18",
+         "Text": "{White}alkaa tavallisesti      {GGreen}!"
+        },
+        {
+         "number": "19",
+         "Text": "{White}tammi-helmikuussa päh- {GGreen}h?! "
+        },
+        {
+         "number": "20",
+         "Text": "{White}kinäpensaan ja lepän   {GGreen}j?!  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}siitepölyn kulkeutumil-{GGreen}j'    "
+        },
+        {
+         "number": "22",
+         "Text": "{GBlue},,,,,,,,,,,,,,,,,,{White}la.{GGreen}g +//'!     "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Yellow}Aerobiologian yksikkö,Turun yliopisto"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "17",
+           "Text": ",,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "1/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "25",
+           "Text": "SIITEPÖLYTILANNE         "
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "ggreen",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "length": "5"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": "19.10.             "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "74h",
+           "length": "1",
+           "Text": "t"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "3",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "78h",
+           "length": "2",
+           "Text": "xx"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "4",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "28",
+           "Text": "Siitepölykausi on           "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "5",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "29",
+           "Text": "päättynyt.                   "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "6",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "7",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "14",
+           "Text": "Cladosporium- "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3",
+           "Text": "ja "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "Alternaria- "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "6",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " homesienen itiömäärä vähäi-   "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "6",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " nen, lämpiminä päivinä voi    "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "5",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": " hetkellisesti nousta kohta-    "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "5",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " laiseksi. Pitoisuudet laske-  "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "5",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " vat nollaan vasta yöpakkas-  "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "6",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " ten yleistyttyä ja lumi-   "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "9",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " peitteen tultua maahan.   "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Ah",
+           "length": "1",
+           "Text": "z"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "11",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "12",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " Uusi siitepölykausi      "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "14",
+           "Text": ""
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": " alkaa tavallisesti       "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "13",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " tammi-helmikuussa päh-  "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "11",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "3Fh",
+           "length": "1",
+           "Text": "?"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " kinäpensaan ja lepän    "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "10",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "3Fh",
+           "length": "1",
+           "Text": "?"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " siitepölyn kulkeutumil- "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "9",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "27h",
+           "length": "1",
+           "Text": "'"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "18",
+           "Text": ",,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "la. "
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "67h",
+           "length": "1",
+           "Text": "g"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Fh",
+           "length": "4",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Fh",
+           "length": "2",
+           "Text": "//"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "27h",
+           "length": "1",
+           "Text": "'"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "5"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "37",
+           "Text": "Aerobiologian yksikkö,Turun yliopisto"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "       Ilmatieteen laitos 22.10.        "
+        },
+        {
+         "number": "3",
+         "Text": "       UV-indeksi ja jalankulkusää      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " UV-kausi on loppunut.                  "
+        },
+        {
+         "number": "7",
+         "Text": " Jalankulkusäätiedotteet alkavat tällä  "
+        },
+        {
+         "number": "8",
+         "Text": " sivulla marraskuussa.                  "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{GBlue},,,,,,,,,,,,,,,,,,,,,,,,,,,,,{White}     "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Cyan}{NB}{Blue}Ilmatieteen laitos 22.10.        "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{Blue}{NB}{Yellow}UV-indeksi ja jalankulkusää      "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}UV-kausi on loppunut.                  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Jalankulkusäätiedotteet alkavat tällä  "
+        },
+        {
+         "number": "8",
+         "Text": "{White}sivulla marraskuussa.                  "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "29",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "6"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Ilmatieteen laitos 22.10.        "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "UV-indeksi ja jalankulkusää      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " UV-kausi on loppunut.                  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jalankulkusäätiedotteet alkavat tällä  "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sivulla marraskuussa.                  "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

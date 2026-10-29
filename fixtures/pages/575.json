@@ -1,0 +1,990 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "575",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "574",
+   "nextpg": "576",
+   "toptype": "normal",
+   "time": "2026-07-21T17:41:48",
+   "utctime": "2026-07-21T14:41:48",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/1 "
+        },
+        {
+         "number": "2",
+         "Text": "     DIGI-TV- JA TEKSTI-TV-TIETOA       "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 569 Kanavahaun uusimisen perusohje     "
+        },
+        {
+         "number": "5",
+         "Text": " 570 Radiokeli-säätila katkoo lähetystä "
+        },
+        {
+         "number": "6",
+         "Text": " 574 Kellosivu (näkyy vain tv:ssä)      "
+        },
+        {
+         "number": "7",
+         "Text": " 576 Teksti-TV:n käyttöohjeita          "
+        },
+        {
+         "number": "8",
+         "Text": " 577 Digitan puhelinpalvelut, s-posti   "
+        },
+        {
+         "number": "9",
+         "Text": " 578 Yle uusi teksti-tv-järjestelmänsä  "
+        },
+        {
+         "number": "10",
+         "Text": " 579 Valkoinen sivu   572 Keltainen sivu"
+        },
+        {
+         "number": "11",
+         "Text": " 580 Tekniikan testisivu  584 Yle-vero  "
+        },
+        {
+         "number": "12",
+         "Text": " 582 Digita: radio- ja tv-taajuudet     "
+        },
+        {
+         "number": "13",
+         "Text": " 583 Radio- ja tv-museo; Tekniikan museo"
+        },
+        {
+         "number": "14",
+         "Text": " 585,586 Siirtymä pelkästään HD-kanaviin"
+        },
+        {
+         "number": "15",
+         "Text": " 587 Radiolähetys lakkaa kaapeliverkossa"
+        },
+        {
+         "number": "16",
+         "Text": " 588 Digita: kanavaniput, maksuttoman   "
+        },
+        {
+         "number": "17",
+         "Text": "     antennilähetysverkon näkyvyys 99,9%"
+        },
+        {
+         "number": "18",
+         "Text": " 589 Digisovittimen hankinta, teksti-tv,"
+        },
+        {
+         "number": "19",
+         "Text": "     kieliasetukset ym. * Laitekohtainen"
+        },
+        {
+         "number": "20",
+         "Text": "     Digi/HD-neuvonta laitevalmistajilta"
+        },
+        {
+         "number": "21",
+         "Text": " 599 Yhteystiedot     199 Hakemistot    "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "                  Yle                   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GGreen}~}4{GMagenta},,,,,,,,,,,,,,,,,,,,$,,$,$,(({White} 1/1 "
+        },
+        {
+         "number": "2",
+         "Text": "{GGreen}j5${Yellow}DIGI-TV- JA TEKSTI-TV-TIETOA       "
+        },
+        {
+         "number": "3",
+         "Text": "{GGreen}*/%{GMagenta}###################################"
+        },
+        {
+         "number": "4",
+         "Text": "{Green}569{White}Kanavahaun uusimisen perusohje     "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}570{White}Radiokeli-säätila katkoo lähetystä "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}574{White}Kellosivu (näkyy vain tv:ssä){Green}   {White} "
+        },
+        {
+         "number": "7",
+         "Text": "{Green}576{White}Teksti-TV:n käyttöohjeita          "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}577{White}Digitan puhelinpalvelut, s-posti   "
+        },
+        {
+         "number": "9",
+         "Text": "{Green}578{White}Yle uusi teksti-tv-järjestelmänsä  "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}579{White}Valkoinen sivu  {Green}572{White}Keltainen sivu"
+        },
+        {
+         "number": "11",
+         "Text": "{Green}580{White}Tekniikan testisivu {Green}584{White}Yle-vero  "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}582{White}Digita: radio- ja tv-taajuudet     "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}583{White}Radio- ja tv-museo; Tekniikan museo"
+        },
+        {
+         "number": "14",
+         "Text": "{Green}585,586{Cyan}Siirtymä pelkästään HD-kanaviin"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}587{White}Radiolähetys lakkaa kaapeliverkossa"
+        },
+        {
+         "number": "16",
+         "Text": "{Green}588{White}Digita: kanavaniput, maksuttoman   "
+        },
+        {
+         "number": "17",
+         "Text": "{White}    antennilähetysverkon näkyvyys 99,9%"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}589{White}Digisovittimen hankinta, teksti-tv,"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}   {White}kieliasetukset ym.{Cyan}* Laitekohtainen"
+        },
+        {
+         "number": "20",
+         "Text": "{Green}   {Cyan}Digi/HD-neuvonta laitevalmistajilta"
+        },
+        {
+         "number": "21",
+         "Text": "{Green}599{Yellow}Yhteystiedot    {Green}199{Yellow}Hakemistot    "
+        },
+        {
+         "number": "22",
+         "Text": "{GCyan},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Magenta}              {Blue}Yle                   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "2Ch",
+           "length": "20",
+           "Text": ",,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "1/1 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "35",
+           "Text": "DIGI-TV- JA TEKSTI-TV-TIETOA       "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "ggreen",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "23h",
+           "length": "35",
+           "Text": "###################################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "569",
+           "length": "3",
+           "Text": "569"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Kanavahaun uusimisen perusohje     "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "570",
+           "length": "3",
+           "Text": "570"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Radiokeli-säätila katkoo lähetystä "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "574",
+           "length": "3",
+           "Text": "574"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Kellosivu (näkyy vain tv:ssä)      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "576",
+           "length": "3",
+           "Text": "576"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Teksti-TV:n käyttöohjeita          "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "577",
+           "length": "3",
+           "Text": "577"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Digitan puhelinpalvelut, s-posti   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "578",
+           "length": "3",
+           "Text": "578"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Yle uusi teksti-tv-järjestelmänsä  "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "579",
+           "length": "3",
+           "Text": "579"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": "Valkoinen sivu   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "572",
+           "length": "3",
+           "Text": "572"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "Keltainen sivu"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "580",
+           "length": "3",
+           "Text": "580"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": "Tekniikan testisivu  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "584",
+           "length": "3",
+           "Text": "584"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10",
+           "Text": "Yle-vero  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "582",
+           "length": "3",
+           "Text": "582"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Digita: radio- ja tv-taajuudet     "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "583",
+           "length": "3",
+           "Text": "583"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Radio- ja tv-museo; Tekniikan museo"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "585",
+           "length": "3",
+           "Text": "585"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "586",
+           "length": "3",
+           "Text": "586"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "Siirtymä pelkästään HD-kanaviin"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "587",
+           "length": "3",
+           "Text": "587"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Radiolähetys lakkaa kaapeliverkossa"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "588",
+           "length": "3",
+           "Text": "588"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Digita: kanavaniput, maksuttoman   "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     antennilähetysverkon näkyvyys 99,9%"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "589",
+           "length": "3",
+           "Text": "589"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Digisovittimen hankinta, teksti-tv,"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": "     kieliasetukset ym. "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "* Laitekohtainen"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Digi/HD-neuvonta laitevalmistajilta"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "599",
+           "length": "3",
+           "Text": "599"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "17",
+           "Text": "Yhteystiedot     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "Hakemistot    "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "39",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "17"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "22",
+           "Text": "Yle                   "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

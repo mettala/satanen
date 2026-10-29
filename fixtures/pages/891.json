@@ -1,0 +1,1459 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "891",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "890",
+   "nextpg": "892",
+   "toptype": "normal",
+   "time": "2026-10-25T00:13:28",
+   "utctime": "2026-10-24T21:13:28",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "      VIIKKOMAKASIINI             vko 43"
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": "              ON SUNNUNTAI 25.10.2026   "
+        },
+        {
+         "number": "7",
+         "Text": "              KESÄAIKA PÄÄTTYY          "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": "              AURINKO   NOUSEE LASKEE   "
+        },
+        {
+         "number": "10",
+         "Text": "              Helsinki   7.25   16.43   "
+        },
+        {
+         "number": "11",
+         "Text": "              Jyväskylä  7.29   16.32   "
+        },
+        {
+         "number": "12",
+         "Text": "              Oulu       7.43   16.20   "
+        },
+        {
+         "number": "13",
+         "Text": "              Sodankylä  7.52   16.02   "
+        },
+        {
+         "number": "14",
+         "Text": "              Utsjoki    8.07   15.43   "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": "              ONNITTELUT SYNTYMÄ- JA    "
+        },
+        {
+         "number": "17",
+         "Text": "              NIMIPÄIVÄSANKAREILLE!     "
+        },
+        {
+         "number": "18",
+         "Text": "              Sointu,                   "
+        },
+        {
+         "number": "19",
+         "Text": "              Yvonne                    "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "              Ajatus päivälle s. 895    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "    {GCyan}{Cyan}VIIKKOMAKASIINI{GCyan},,,,,$,$,(({White}vko 43"
+        },
+        {
+         "number": "2",
+         "Text": "{GRed}~}4{SG}{GBlue}{GYellow}o07y0 {GYellow}   ((    (( ((            "
+        },
+        {
+         "number": "3",
+         "Text": "{GRed}j5${SG}{GYellow}9g h${CG}{GYellow}\"k#6#4=056#46#4=05        "
+        },
+        {
+         "number": "4",
+         "Text": "{GRed}*/%{SG}{GYellow}>&*{GYellow}4z4{GYellow}{CG}j =,55i5=,5=,55i5        "
+        },
+        {
+         "number": "5",
+         "Text": "{GYellow}{SG}  82 w {{GYellow}80{GYellow}{CG}* % %% %% %% %% %        "
+        },
+        {
+         "number": "6",
+         "Text": "{GYellow}{SG} h 5wp#,!{Green}ON SUNNUNTAI 25.10.2026   "
+        },
+        {
+         "number": "7",
+         "Text": "{GYellow}{SG} 07 bz{GYellow} uj4{Cyan}KESÄAIKA PÄÄTTYY          "
+        },
+        {
+         "number": "8",
+         "Text": "{GRed}{SG}{GYellow}(h+ q %w 0                           "
+        },
+        {
+         "number": "9",
+         "Text": "{GRed}{SG}{GYellow}+ bs,bupuu{Yellow}AURINKO   NOUSEE LASKEE   "
+        },
+        {
+         "number": "10",
+         "Text": "{GRed}{SG}{GYellow}*!} tw d24{White}Helsinki   7.25   16.43   "
+        },
+        {
+         "number": "11",
+         "Text": "{GRed}{SG}{GYellow} k 1*p ${White}Jyväskylä  7.29   16.32   "
+        },
+        {
+         "number": "12",
+         "Text": "{GRed}{SG}{GYellow}b'z `q:y {White}Oulu       7.43   16.20   "
+        },
+        {
+         "number": "13",
+         "Text": "{SG}{GRed}{GYellow}b7 {GYellow} x 8 {White}Sodankylä  7.52   16.02   "
+        },
+        {
+         "number": "14",
+         "Text": "{SG}{GRed}{GYellow}\"= `.%2( {White}Utsjoki    8.07   15.43   "
+        },
+        {
+         "number": "15",
+         "Text": "{GRed}   {GWhite}i }`&   {White}                          "
+        },
+        {
+         "number": "16",
+         "Text": "{GRed}   {GWhite} )?5    {Yellow}ONNITTELUT SYNTYMÄ- JA    "
+        },
+        {
+         "number": "17",
+         "Text": "{GRed}   {GWhite}  u5    {Yellow}NIMIPÄIVÄSANKAREILLE!     "
+        },
+        {
+         "number": "18",
+         "Text": "{GRed}   {GWhite}  u5    {White}Sointu,                   "
+        },
+        {
+         "number": "19",
+         "Text": "{GRed}   {GWhite}       {White}Yvonne                    "
+        },
+        {
+         "number": "20",
+         "Text": "{GRed}    {GWhite}jj5                               "
+        },
+        {
+         "number": "21",
+         "Text": "{GYellow}`  {GWhite}`:~}8,p {Cyan}                          "
+        },
+        {
+         "number": "22",
+         "Text": "{GYellow}  ( ({GWhite}\"e{GYellow}`{GYellow}& ,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{GRed}$ (0 \"{GYellow}$2x|{NB}{Blue}Ajatus päivälle s. 895    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "VIIKKOMAKASIINI "
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "5",
+           "Text": ",,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6",
+           "Text": "vko 43"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "o07y0     ((    (( ((            "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "9g h$  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "36h",
+           "length": "1",
+           "Text": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "36h",
+           "length": "1",
+           "Text": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "36h",
+           "length": "1",
+           "Text": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "9",
+           "Text": ">&* 4z4  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "69h",
+           "length": "1",
+           "Text": "i"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "69h",
+           "length": "1",
+           "Text": "i"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "   82 w { 80  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "2",
+           "Text": "%%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "2",
+           "Text": "%%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "2",
+           "Text": "%%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "2",
+           "Text": "%%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "  h 5wp#,! "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "26",
+           "Text": "ON SUNNUNTAI 25.10.2026   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "  07 bz  uj4 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "26",
+           "Text": "KESÄAIKA PÄÄTTYY          "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "37",
+           "Text": "(h+ q %w 0                           "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "37",
+           "Text": "+ bs,bupuu AURINKO   NOUSEE LASKEE   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "*!} tw d24 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "Helsinki   7.25   16.43   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": " k 1*p $ "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "Jyväskylä  7.29   16.32   "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "b'z `q:y  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "Oulu       7.43   16.20   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "b7   x 8  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "Sodankylä  7.52   16.02   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "\"= `.%2(  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "Utsjoki    8.07   15.43   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "69h",
+           "length": "1",
+           "Text": "i"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Fh",
+           "length": "1",
+           "Text": "?"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "26",
+           "Text": "ONNITTELUT SYNTYMÄ- JA    "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "26",
+           "Text": "NIMIPÄIVÄSANKAREILLE!     "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "75h",
+           "length": "1",
+           "Text": "u"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "     Sointu,                   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "32",
+           "Text": "      Yvonne                    "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Ah",
+           "length": "1",
+           "Text": ":"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "65h",
+           "length": "1",
+           "Text": "e"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "26",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "32h",
+           "length": "1",
+           "Text": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "yellow",
+           "fg": "blue",
+           "length": "19",
+           "Text": "Ajatus päivälle s. "
+          },
+          {
+           "bg": "yellow",
+           "fg": "blue",
+           "link": "895",
+           "length": "3",
+           "Text": "895"
+          },
+          {
+           "bg": "yellow",
+           "fg": "blue",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

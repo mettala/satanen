@@ -1,0 +1,7 @@
+# Copy to .dev.vars (gitignored) for `npm --prefix proxy run dev`.
+# Same values as YLE_APP_ID / YLE_APP_KEY in the repo's .env.fixtures.
+YLE_APP_ID=
+YLE_APP_KEY=
+# Any long random text. Only used to make the daily visitor hash unguessable (D32).
+# Without it nothing is counted, which is fine for local work.
+ANALYTICS_SALT=

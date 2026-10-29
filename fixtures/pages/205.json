@@ -1,0 +1,481 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "205",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "204",
+   "nextpg": "206",
+   "toptype": "normal",
+   "time": "2026-10-21T14:49:14",
+   "utctime": "2026-10-21T11:49:14",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JÄÄKIEKKO          KESKIVIIKKO       "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Olli Jokinen sai lähteä HIFK:sta      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Miesten jääkiekkoliigajoukkue HIFK on  "
+        },
+        {
+         "number": "7",
+         "Text": " antanut potkut päävalmentajalleen Olli "
+        },
+        {
+         "number": "8",
+         "Text": " Jokiselle. Jokinen oli valmentanut     "
+        },
+        {
+         "number": "9",
+         "Text": " joukkuetta kaudesta 2025-26 lähtien.   "
+        },
+        {
+         "number": "10",
+         "Text": " HIFK on tällä hetkellä liigassa        "
+        },
+        {
+         "number": "11",
+         "Text": " kolmanneksi viimeisellä sijalla.       "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Jokisen korvaa Tommi Miettinen, 50. Hän"
+        },
+        {
+         "number": "14",
+         "Text": " on aiemmin toiminut KalPan ja TPS:n    "
+        },
+        {
+         "number": "15",
+         "Text": " liigajoukkueiden valmentajana. Muu     "
+        },
+        {
+         "number": "16",
+         "Text": " valmennusryhmä julkaistaan myöhemmin.  "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " - Päätös valmennuksen vaihtamiseen     "
+        },
+        {
+         "number": "19",
+         "Text": " perustuu täysin urheilullisuuteen.     "
+        },
+        {
+         "number": "20",
+         "Text": " Minun tuli tehdä ratkaisu ennen kuin   "
+        },
+        {
+         "number": "21",
+         "Text": " erot muihin joukkueisiin kasvavat      "
+        },
+        {
+         "number": "22",
+         "Text": " liian suuriksi, urheilujohtaja Janne   "
+        },
+        {
+         "number": "23",
+         "Text": " Laukkanen sanoi seuran tiedotteessa.   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JÄÄKIEKKO       {Blue}{NB}{White}KESKIVIIKKO       "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}{DH}Olli Jokinen sai lähteä HIFK:sta      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Miesten jääkiekkoliigajoukkue HIFK on  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}antanut potkut päävalmentajalleen Olli "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Jokiselle. Jokinen oli valmentanut     "
+        },
+        {
+         "number": "9",
+         "Text": "{White}joukkuetta kaudesta 2025-26 lähtien.   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}HIFK on tällä hetkellä liigassa        "
+        },
+        {
+         "number": "11",
+         "Text": "{White}kolmanneksi viimeisellä sijalla.       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Jokisen korvaa Tommi Miettinen, 50. Hän"
+        },
+        {
+         "number": "14",
+         "Text": "{White}on aiemmin toiminut KalPan ja TPS:n    "
+        },
+        {
+         "number": "15",
+         "Text": "{White}liigajoukkueiden valmentajana. Muu     "
+        },
+        {
+         "number": "16",
+         "Text": "{White}valmennusryhmä julkaistaan myöhemmin.  "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}- Päätös valmennuksen vaihtamiseen     "
+        },
+        {
+         "number": "19",
+         "Text": "{White}perustuu täysin urheilullisuuteen.     "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Minun tuli tehdä ratkaisu ennen kuin   "
+        },
+        {
+         "number": "21",
+         "Text": "{White}erot muihin joukkueisiin kasvavat      "
+        },
+        {
+         "number": "22",
+         "Text": "{White}liian suuriksi, urheilujohtaja Janne   "
+        },
+        {
+         "number": "23",
+         "Text": "{White}Laukkanen sanoi seuran tiedotteessa.   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "JÄÄKIEKKO        "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "KESKIVIIKKO       "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "size": "double height",
+           "length": "38",
+           "Text": "Olli Jokinen sai lähteä HIFK:sta      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Miesten jääkiekkoliigajoukkue HIFK on  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " antanut potkut päävalmentajalleen Olli "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jokiselle. Jokinen oli valmentanut     "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " joukkuetta kaudesta 2025-26 lähtien.   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " HIFK on tällä hetkellä liigassa        "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kolmanneksi viimeisellä sijalla.       "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jokisen korvaa Tommi Miettinen, 50. Hän"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " on aiemmin toiminut KalPan ja TPS:n    "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " liigajoukkueiden valmentajana. Muu     "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " valmennusryhmä julkaistaan myöhemmin.  "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " - Päätös valmennuksen vaihtamiseen     "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " perustuu täysin urheilullisuuteen.     "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Minun tuli tehdä ratkaisu ennen kuin   "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " erot muihin joukkueisiin kasvavat      "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " liian suuriksi, urheilujohtaja Janne   "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Laukkanen sanoi seuran tiedotteessa.   "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,624 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "460",
+   "name": "Ravit",
+   "subpagecount": "1",
+   "prevpg": "450",
+   "nextpg": "461",
+   "toptype": "block",
+   "time": "2026-10-21T19:12:43",
+   "utctime": "2026-10-21T16:12:43",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "          Ravit ja Toto-pelit           "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 461 Vermon, Solvallan, Åbyn, Toulousen,"
+        },
+        {
+         "number": "5",
+         "Text": "     Frankriken, Deauvillen, Kempton    "
+        },
+        {
+         "number": "6",
+         "Text": "     Parkin, Charlottenlundin, Paun ja  "
+        },
+        {
+         "number": "7",
+         "Text": "     ravien tulokset                    "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " 462 Vermon Toto75-peli                 "
+        },
+        {
+         "number": "10",
+         "Text": " 463 Toto75-pelin lähtölistat           "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " 464 Vermon Toto4-peli                  "
+        },
+        {
+         "number": "13",
+         "Text": " 465 Vermon Troikka-peli                "
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " 466 Vermon Päivän Duo                  "
+        },
+        {
+         "number": "16",
+         "Text": " 467 Vermon totokertoimet               "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " 468 Poisjäännit                        "
+        },
+        {
+         "number": "19",
+         "Text": " 469 Tulevat tapahtumat                 "
+        },
+        {
+         "number": "20",
+         "Text": "     Vermo: välistartit                 "
+        },
+        {
+         "number": "21",
+         "Text": "     Toto4-pelin lähtölistat            "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{DH}{Green}      Ravit ja Toto-pelit     {NH}{White}    "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}461{White}Vermon, Solvallan, Åbyn, Toulousen,"
+        },
+        {
+         "number": "5",
+         "Text": "    {White}Frankriken, Deauvillen, Kempton    "
+        },
+        {
+         "number": "6",
+         "Text": "    {White}Parkin, Charlottenlundin, Paun ja  "
+        },
+        {
+         "number": "7",
+         "Text": "    {White}ravien tulokset                    "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{Green}462{White}Vermon Toto75-peli                 "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}463{White}Toto75-pelin lähtölistat           "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}464{White}Vermon Toto4-peli                  "
+        },
+        {
+         "number": "13",
+         "Text": "{Green}465{White}Vermon Troikka-peli                "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}466{White}Vermon Päivän Duo                  "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}467{White}Vermon totokertoimet               "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}468{White}Poisjäännit                        "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}469{White}Tulevat tapahtumat                 "
+        },
+        {
+         "number": "20",
+         "Text": "    {White}Vermo: välistartit                 "
+        },
+        {
+         "number": "21",
+         "Text": "    {White}Toto4-pelin lähtölistat            "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "size": "double height",
+           "length": "30",
+           "Text": "Ravit ja Toto-pelit           "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "green",
+           "size": "double height",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "461",
+           "length": "3",
+           "Text": "461"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Vermon, Solvallan, Åbyn, Toulousen,"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     Frankriken, Deauvillen, Kempton    "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     Parkin, Charlottenlundin, Paun ja  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     ravien tulokset                    "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "462",
+           "length": "3",
+           "Text": "462"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Vermon Toto75-peli                 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "463",
+           "length": "3",
+           "Text": "463"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Toto75-pelin lähtölistat           "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "464",
+           "length": "3",
+           "Text": "464"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Vermon Toto4-peli                  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "465",
+           "length": "3",
+           "Text": "465"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Vermon Troikka-peli                "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "466",
+           "length": "3",
+           "Text": "466"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Vermon Päivän Duo                  "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "467",
+           "length": "3",
+           "Text": "467"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Vermon totokertoimet               "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "468",
+           "length": "3",
+           "Text": "468"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Poisjäännit                        "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "469",
+           "length": "3",
+           "Text": "469"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Tulevat tapahtumat                 "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     Vermo: välistartit                 "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     Toto4-pelin lähtölistat            "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

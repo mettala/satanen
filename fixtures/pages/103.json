@@ -1,0 +1,461 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "103",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "102",
+   "nextpg": "104",
+   "toptype": "normal",
+   "time": "2026-10-21T05:26:37",
+   "utctime": "2026-10-21T02:26:37",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Etelässä odotetaan lämpenemistä       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Keskiviikkona aamulla liikenteessä     "
+        },
+        {
+         "number": "7",
+         "Text": " kannattaa olla tarkkana: huonosta      "
+        },
+        {
+         "number": "8",
+         "Text": " ajokelistä varoitetaan maan itäosassa  "
+        },
+        {
+         "number": "9",
+         "Text": " sekä Uudenmaan, Päijät-Hämeen ja       "
+        },
+        {
+         "number": "10",
+         "Text": " Keski-Suomen maakunnissa kuuraisten    "
+        },
+        {
+         "number": "11",
+         "Text": " teiden vuoksi.                         "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Iltapäivä tarjoaa monin paikoin        "
+        },
+        {
+         "number": "14",
+         "Text": " aurinkoa, mutta lännessä ja Lapissa    "
+        },
+        {
+         "number": "15",
+         "Text": " pilvisyys on runsaampaa. Lämpötilat    "
+        },
+        {
+         "number": "16",
+         "Text": " jäävät koko maassa aivan etelää lukuun "
+        },
+        {
+         "number": "17",
+         "Text": " ottamatta alle 10 asteeseen. Lähestyvä "
+        },
+        {
+         "number": "18",
+         "Text": " matalapaine alkaa voimistaa tuulia     "
+        },
+        {
+         "number": "19",
+         "Text": " Pohjois-Lapissa ja merialueilla.       "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": " Illalla sää selkenee lähes koko        "
+        },
+        {
+         "number": "22",
+         "Text": " maassa, ja lämpötilat laskevat niin    "
+        },
+        {
+         "number": "23",
+         "Text": " ikään laajalti alle viiden asteen.     "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}KOTIMAA         YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Etelässä odotetaan lämpenemistä       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Keskiviikkona aamulla liikenteessä     "
+        },
+        {
+         "number": "7",
+         "Text": "{White}kannattaa olla tarkkana: huonosta      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}ajokelistä varoitetaan maan itäosassa  "
+        },
+        {
+         "number": "9",
+         "Text": "{White}sekä Uudenmaan, Päijät-Hämeen ja       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Keski-Suomen maakunnissa kuuraisten    "
+        },
+        {
+         "number": "11",
+         "Text": "{White}teiden vuoksi.                         "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Iltapäivä tarjoaa monin paikoin        "
+        },
+        {
+         "number": "14",
+         "Text": "{White}aurinkoa, mutta lännessä ja Lapissa    "
+        },
+        {
+         "number": "15",
+         "Text": "{White}pilvisyys on runsaampaa. Lämpötilat    "
+        },
+        {
+         "number": "16",
+         "Text": "{White}jäävät koko maassa aivan etelää lukuun "
+        },
+        {
+         "number": "17",
+         "Text": "{White}ottamatta alle 10 asteeseen. Lähestyvä "
+        },
+        {
+         "number": "18",
+         "Text": "{White}matalapaine alkaa voimistaa tuulia     "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Pohjois-Lapissa ja merialueilla.       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Illalla sää selkenee lähes koko        "
+        },
+        {
+         "number": "22",
+         "Text": "{White}maassa, ja lämpötilat laskevat niin    "
+        },
+        {
+         "number": "23",
+         "Text": "{White}ikään laajalti alle viiden asteen.     "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "KOTIMAA         YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Etelässä odotetaan lämpenemistä       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Keskiviikkona aamulla liikenteessä     "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kannattaa olla tarkkana: huonosta      "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ajokelistä varoitetaan maan itäosassa  "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sekä Uudenmaan, Päijät-Hämeen ja       "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Keski-Suomen maakunnissa kuuraisten    "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " teiden vuoksi.                         "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Iltapäivä tarjoaa monin paikoin        "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " aurinkoa, mutta lännessä ja Lapissa    "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pilvisyys on runsaampaa. Lämpötilat    "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " jäävät koko maassa aivan etelää lukuun "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ottamatta alle 10 asteeseen. Lähestyvä "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " matalapaine alkaa voimistaa tuulia     "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pohjois-Lapissa ja merialueilla.       "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Illalla sää selkenee lähes koko        "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " maassa, ja lämpötilat laskevat niin    "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ikään laajalti alle viiden asteen.     "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

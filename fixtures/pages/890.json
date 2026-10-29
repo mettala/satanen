@@ -1,0 +1,1525 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "890",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "889",
+   "nextpg": "891",
+   "toptype": "normal",
+   "time": "2026-10-15T20:14:33",
+   "utctime": "2026-10-15T17:14:33",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "                                      . "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "       KALENTERI                        "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7",
+         "Text": "   889 Koko vuoden kalenteri 2026       "
+        },
+        {
+         "number": "8",
+         "Text": "   891 Tänään                           "
+        },
+        {
+         "number": "9",
+         "Text": "   892 Lokakuun kalenteri               "
+        },
+        {
+         "number": "10",
+         "Text": "   893 Marraskuun kalenteri             "
+        },
+        {
+         "number": "11",
+         "Text": "   894 Päivän sana                      "
+        },
+        {
+         "number": "12",
+         "Text": "   895 Ajatus päivälle                  "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": "   897 Teksti-tv-arkisto vuodesta 2009  "
+        },
+        {
+         "number": "15",
+         "Text": "   898 Yle Teksti-TV:n 44 vuotta        "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": "            599 Teksti-TV:n yhteystiedot"
+        },
+        {
+         "number": "18",
+         "Text": "            802 Vapaa-aika              "
+        },
+        {
+         "number": "19",
+         "Text": "            860 Kansalaistaito          "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "                 Hakemistojen kooste 199"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4|4|(,,,,,,,,,,,,,,,,,,,,,,,,$,,$,((("
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5$o5jjj6j6j757&5kj6j75w155=zj   {Flash}{Yellow}.{Steady}"
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%\"/!*******-%% %/+***'%,%%%%**       "
+        },
+        {
+         "number": "4",
+         "Text": "{White}                                {SG}{GYellow}`~s+t"
+        },
+        {
+         "number": "5",
+         "Text": "{GBlue}{Yellow}  {Yellow} KALENTERI                 {SG}{GYellow}j}|ij"
+        },
+        {
+         "number": "6",
+         "Text": "{GBlue}   {GBlue} #########                 {SG}{GYellow}\"o~'"
+        },
+        {
+         "number": "7",
+         "Text": "{GBlue}{Yellow}889{White}Koko vuoden kalenteri 2026       "
+        },
+        {
+         "number": "8",
+         "Text": "{GBlue}{Yellow}891{Cyan}Tänään                           "
+        },
+        {
+         "number": "9",
+         "Text": "{GBlue}{Yellow}892{White}Lokakuun kalenteri               "
+        },
+        {
+         "number": "10",
+         "Text": "{GBlue}{Yellow}893{White}Marraskuun kalenteri             "
+        },
+        {
+         "number": "11",
+         "Text": "{GBlue}{Yellow}894{White}Päivän sana                      "
+        },
+        {
+         "number": "12",
+         "Text": "{GBlue}{Yellow}895{Cyan}Ajatus päivälle                  "
+        },
+        {
+         "number": "13",
+         "Text": "{GBlue}{Yellow}                                     "
+        },
+        {
+         "number": "14",
+         "Text": "{GBlue}{Yellow}897{White}Teksti-tv-arkisto vuodesta 2009  "
+        },
+        {
+         "number": "15",
+         "Text": "{GBlue}{Yellow}898{White}Yle Teksti-TV:n 44 vuotta        "
+        },
+        {
+         "number": "16",
+         "Text": "{GBlue}{Yellow}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{GBlue} {GMagenta}`&##)0 {Yellow}599{White}Teksti-TV:n yhteystiedot"
+        },
+        {
+         "number": "18",
+         "Text": "{GBlue} {GMagenta}5{GYellow}j {GMagenta}j {Yellow}802{Green}Vapaa-aika              "
+        },
+        {
+         "number": "19",
+         "Text": "{GBlue} {GMagenta}5{GYellow} #{GMagenta}j {Yellow}860{Green}Kansalaistaito          "
+        },
+        {
+         "number": "20",
+         "Text": "{GBlue} {GMagenta}\"dpp8!                              "
+        },
+        {
+         "number": "21",
+         "Text": "{GBlue}{Yellow}                                   {Cyan} "
+        },
+        {
+         "number": "22",
+         "Text": "{GBlue}        {Cyan}{GCyan} ,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}              Hakemistojen kooste 199"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "24",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "3",
+           "Text": "((("
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Fh",
+           "length": "1",
+           "Text": "o"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "3",
+           "Text": "jjj"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "36h",
+           "length": "1",
+           "Text": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "36h",
+           "length": "1",
+           "Text": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "37h",
+           "link": "757",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "link": "757",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "37h",
+           "link": "757",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "36h",
+           "length": "1",
+           "Text": "6"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "77h",
+           "length": "1",
+           "Text": "w"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "31h",
+           "link": "155",
+           "length": "1",
+           "Text": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "link": "155",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Ah",
+           "length": "1",
+           "Text": "z"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2",
+           "Text": ". "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "7",
+           "Text": "*******"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Dh",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "2",
+           "Text": "%%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "3",
+           "Text": "***"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "27h",
+           "length": "1",
+           "Text": "'"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "4",
+           "Text": "%%%%"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "2",
+           "Text": "**"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "`~s+t"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "KALENTERI                   j}|ij"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "9",
+           "Text": "#########"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "19"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "5",
+           "Text": "\"o~'"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "889",
+           "length": "3",
+           "Text": "889"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "Koko vuoden kalenteri 2026       "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "891",
+           "length": "3",
+           "Text": "891"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "33",
+           "Text": "Tänään                           "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "892",
+           "length": "3",
+           "Text": "892"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "Lokakuun kalenteri               "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "893",
+           "length": "3",
+           "Text": "893"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "Marraskuun kalenteri             "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "894",
+           "length": "3",
+           "Text": "894"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "Päivän sana                      "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "895",
+           "length": "3",
+           "Text": "895"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "33",
+           "Text": "Ajatus päivälle                  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "897",
+           "length": "3",
+           "Text": "897"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "Teksti-tv-arkisto vuodesta 2009  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "898",
+           "length": "3",
+           "Text": "898"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": "Yle Teksti-TV:n 44 vuotta        "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "26h",
+           "length": "1",
+           "Text": "&"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "599",
+           "length": "3",
+           "Text": "599"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": "Teksti-TV:n yhteystiedot"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "802",
+           "length": "3",
+           "Text": "802"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "24",
+           "Text": "Vapaa-aika              "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "860",
+           "length": "3",
+           "Text": "860"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "24",
+           "Text": "Kansalaistaito          "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "70h",
+           "length": "2",
+           "Text": "pp"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gmagenta",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "30"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "27",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "16"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "20",
+           "Text": "Hakemistojen kooste "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "199",
+           "length": "3",
+           "Text": "199"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

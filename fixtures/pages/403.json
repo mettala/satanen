@@ -1,0 +1,2909 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "403",
+   "name": "",
+   "subpagecount": "5",
+   "prevpg": "402",
+   "nextpg": "404",
+   "toptype": "normal",
+   "time": "2026-10-21T21:26:03",
+   "utctime": "2026-10-21T18:26:03",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/5 "
+        },
+        {
+         "number": "2",
+         "Text": "         Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "         Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Varoitukset merialueilla               "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " Huomautus veneilijöille: Suomenlahden  "
+        },
+        {
+         "number": "9",
+         "Text": " länsiosa, Pohjois-Itämeri, Ahvenanmeri,"
+        },
+        {
+         "number": "10",
+         "Text": " Saaristomeri ja Selkämeren eteläosa:   "
+        },
+        {
+         "number": "11",
+         "Text": " Kaakkoistuulta 13 m/s.                 "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Selkämeren pohjoisosa: Kaakkoistuulta  "
+        },
+        {
+         "number": "14",
+         "Text": " aluksi 11 m/s.                         "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Sääennuste seuraavalle 24 tunnille     "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Heikko matalapaine muodostuu Etelä-    "
+        },
+        {
+         "number": "19",
+         "Text": " Skandinaviaan. Venäjällä on            "
+        },
+        {
+         "number": "20",
+         "Text": " korkeapaine.                           "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Cyan}{GYellow}{Flash} ` {Steady}{White}                            1/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB} {GRed}~4 {Blue} Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB} {GWhite}5 {White} Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4",
+         "Text": "{GRed}  \"##                                  "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Varoitukset merialueilla               "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}Huomautus veneilijöille:{White}Suomenlahden  "
+        },
+        {
+         "number": "9",
+         "Text": "{White}länsiosa, Pohjois-Itämeri, Ahvenanmeri,"
+        },
+        {
+         "number": "10",
+         "Text": "{White}Saaristomeri ja Selkämeren eteläosa:   "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Kaakkoistuulta{Yellow}13 m/s.                 "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Selkämeren pohjoisosa:{White}Kaakkoistuulta  "
+        },
+        {
+         "number": "14",
+         "Text": "{White}aluksi{Yellow}11 m/s.                         "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Sääennuste seuraavalle 24 tunnille     "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Heikko matalapaine muodostuu Etelä-    "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Skandinaviaan. Venäjällä on            "
+        },
+        {
+         "number": "20",
+         "Text": "{White}korkeapaine.                           "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "31"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "1/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "red",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "31",
+           "Text": "Ilmatieteen laitos 21.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "   Merisääennuste klo 21.00       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "34"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Varoitukset merialueilla               "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "Huomautus veneilijöille: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "Suomenlahden  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " länsiosa, Pohjois-Itämeri, Ahvenanmeri,"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Saaristomeri ja Selkämeren eteläosa:   "
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kaakkoistuulta "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "24",
+           "Text": "13 m/s.                 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "23",
+           "Text": "Selkämeren pohjoisosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Kaakkoistuulta  "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": " aluksi "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "32",
+           "Text": "11 m/s.                         "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sääennuste seuraavalle 24 tunnille     "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Heikko matalapaine muodostuu Etelä-    "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Skandinaviaan. Venäjällä on            "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " korkeapaine.                           "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    2/5 "
+        },
+        {
+         "number": "2",
+         "Text": "         Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "         Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Suomenlahden itäosa: Kaakkoistuulta 6-9"
+        },
+        {
+         "number": "7",
+         "Text": " m/s. Aamuyöstä alkaen voimistuvaa      "
+        },
+        {
+         "number": "8",
+         "Text": " tuulta, illalla 9-12 m/s. Hyvä         "
+        },
+        {
+         "number": "9",
+         "Text": " näkyvyys.                              "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Suomenlahden länsiosa: Kaakkoistuulta  "
+        },
+        {
+         "number": "12",
+         "Text": " 8-13 m/s. Hyvä näkyvyys.               "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Pohjois-Itämeren itäosa: Kaakkoistuulta"
+        },
+        {
+         "number": "15",
+         "Text": " 10-14 m/s. Hyvä näkyvyys.              "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Pohjois-Itämeren länsiosa:             "
+        },
+        {
+         "number": "18",
+         "Text": " Kaakkoistuulta 7-12 m/s. Aamuyöstä     "
+        },
+        {
+         "number": "19",
+         "Text": " alkaen voimistuvaa tuulta, iltapäivällä"
+        },
+        {
+         "number": "20",
+         "Text": " 7-12 m/s, ylimmillään 14 m/s. Hyvä     "
+        },
+        {
+         "number": "21",
+         "Text": " näkyvyys.                              "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Cyan}{GYellow}{Flash} ` {Steady}{White}                            2/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB} {GRed}~4 {Blue} Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB} {GWhite}5 {White} Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4",
+         "Text": "{GRed}  \"##                                  "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Suomenlahden itäosa:{White}Kaakkoistuulta 6-9"
+        },
+        {
+         "number": "7",
+         "Text": "{White}m/s. Aamuyöstä alkaen voimistuvaa      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}tuulta, illalla{Yellow}9-12 m/s.{White}Hyvä         "
+        },
+        {
+         "number": "9",
+         "Text": "{White}näkyvyys.                              "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Suomenlahden länsiosa:{White}Kaakkoistuulta  "
+        },
+        {
+         "number": "12",
+         "Text": "{Yellow}8-13 m/s.{White}Hyvä näkyvyys.               "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Pohjois-Itämeren itäosa:{White}Kaakkoistuulta"
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}10-14 m/s.{White}Hyvä näkyvyys.              "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Pohjois-Itämeren länsiosa:             "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Kaakkoistuulta{Yellow}7-12 m/s.{White}Aamuyöstä     "
+        },
+        {
+         "number": "19",
+         "Text": "{White}alkaen voimistuvaa tuulta, iltapäivällä"
+        },
+        {
+         "number": "20",
+         "Text": "{Yellow}7-12 m/s,{White}ylimmillään{Yellow}14 m/s.{White}Hyvä     "
+        },
+        {
+         "number": "21",
+         "Text": "{White}näkyvyys.                              "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "31"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "2/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "red",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "31",
+           "Text": "Ilmatieteen laitos 21.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "   Merisääennuste klo 21.00       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "34"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Suomenlahden itäosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Kaakkoistuulta 6-9"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " m/s. Aamuyöstä alkaen voimistuvaa      "
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": " tuulta, illalla "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "9-12 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13",
+           "Text": "Hyvä         "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " näkyvyys.                              "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "23",
+           "Text": "Suomenlahden länsiosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Kaakkoistuulta  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "8-13 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "Hyvä näkyvyys.               "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "Pohjois-Itämeren itäosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "Kaakkoistuulta"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "10-14 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": "Hyvä näkyvyys.              "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Pohjois-Itämeren länsiosa:             "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kaakkoistuulta "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "7-12 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": "Aamuyöstä     "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " alkaen voimistuvaa tuulta, iltapäivällä"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "7-12 m/s, "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "ylimmillään "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "14 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "Hyvä     "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " näkyvyys.                              "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    3/5 "
+        },
+        {
+         "number": "2",
+         "Text": "         Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "         Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Ahvenanmeri: Kaakkoistuulta 7-12 m/s.  "
+        },
+        {
+         "number": "7",
+         "Text": " Hyvä näkyvyys.                         "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " Saaristomeri: Voimistuvaa              "
+        },
+        {
+         "number": "10",
+         "Text": " kaakkoistuulta, aluksi 5-9 m/s,        "
+        },
+        {
+         "number": "11",
+         "Text": " iltapäivästä alkaen 8-13 m/s. Hyvä     "
+        },
+        {
+         "number": "12",
+         "Text": " näkyvyys.                              "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Selkämeren eteläosa: Kaakkoistuulta 8- "
+        },
+        {
+         "number": "15",
+         "Text": " 12 m/s. Hyvä näkyvyys.                 "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Selkämeren pohjoisosa: Kaakkoistuulta  "
+        },
+        {
+         "number": "18",
+         "Text": " 8-12 m/s. Hyvä näkyvyys.               "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " Merenkurkku: Kaakkoistuulta 6-10 m/s.  "
+        },
+        {
+         "number": "21",
+         "Text": " Hyvä näkyvyys.                         "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Cyan}{GYellow}{Flash} ` {Steady}{White}                            3/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB} {GRed}~4 {Blue} Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB} {GWhite}5 {White} Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4",
+         "Text": "{GRed}  \"##                                  "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Ahvenanmeri:{White}Kaakkoistuulta{Yellow}7-12 m/s.  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Hyvä näkyvyys.                         "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Saaristomeri:{White}Voimistuvaa              "
+        },
+        {
+         "number": "10",
+         "Text": "{White}kaakkoistuulta, aluksi 5-9 m/s,        "
+        },
+        {
+         "number": "11",
+         "Text": "{White}iltapäivästä alkaen{Yellow}8-13 m/s.{White}Hyvä     "
+        },
+        {
+         "number": "12",
+         "Text": "{White}näkyvyys.                              "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Selkämeren eteläosa:{White}Kaakkoistuulta{Yellow}8- "
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}12 m/s.{White}Hyvä näkyvyys.                 "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Selkämeren pohjoisosa:{White}Kaakkoistuulta  "
+        },
+        {
+         "number": "18",
+         "Text": "{Yellow}8-12 m/s.{White}Hyvä näkyvyys.               "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}Merenkurkku:{White}Kaakkoistuulta 6-10 m/s.  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Hyvä näkyvyys.                         "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "31"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "3/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "red",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "31",
+           "Text": "Ilmatieteen laitos 21.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "   Merisääennuste klo 21.00       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "34"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "Ahvenanmeri: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Kaakkoistuulta "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "7-12 m/s.  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hyvä näkyvyys.                         "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "14",
+           "Text": "Saaristomeri: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": "Voimistuvaa              "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kaakkoistuulta, aluksi 5-9 m/s,        "
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " iltapäivästä alkaen "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "8-13 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "Hyvä     "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " näkyvyys.                              "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Selkämeren eteläosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Kaakkoistuulta "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3",
+           "Text": "8- "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "12 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Hyvä näkyvyys.                 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "23",
+           "Text": "Selkämeren pohjoisosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Kaakkoistuulta  "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "10",
+           "Text": "8-12 m/s. "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "Hyvä näkyvyys.               "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "Merenkurkku: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26",
+           "Text": "Kaakkoistuulta 6-10 m/s.  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hyvä näkyvyys.                         "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    4/5 "
+        },
+        {
+         "number": "2",
+         "Text": "         Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "         Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Perämeren eteläosa: Etelän ja kaakon   "
+        },
+        {
+         "number": "7",
+         "Text": " välistä tuulta 6-10 m/s. Aamulla       "
+        },
+        {
+         "number": "8",
+         "Text": " paikoin sumua.                         "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " Perämeren pohjoisosa: Etelän ja kaakon "
+        },
+        {
+         "number": "11",
+         "Text": " välistä tuulta 6-10 m/s. Aamupäivällä  "
+        },
+        {
+         "number": "12",
+         "Text": " paikoin sumua.                         "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Saimaa: Idän ja kaakon välistä tuulta  "
+        },
+        {
+         "number": "15",
+         "Text": " 3-7 m/s. Hyvä näkyvyys.                "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Säätiedotus 2 vrk merenkulkijoille     "
+        },
+        {
+         "number": "18",
+         "Text": " 21.10.2026 klo 19                      "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " Odotettavissa torstai-illasta          "
+        },
+        {
+         "number": "21",
+         "Text": " perjantai-iltaan:  Suomenlahti:        "
+        },
+        {
+         "number": "22",
+         "Text": " Kaakonpuoleista tuulta alle 14 m/s,    "
+        },
+        {
+         "number": "23",
+         "Text": " aamusta alkaen alle 10 m/s.            "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Cyan}{GYellow}{Flash} ` {Steady}{White}                            4/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB} {GRed}~4 {Blue} Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB} {GWhite}5 {White} Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4",
+         "Text": "{GRed}  \"##                                  "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Perämeren eteläosa:{White}Etelän ja kaakon   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}välistä tuulta 6-10 m/s. Aamulla       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}paikoin sumua.                         "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}Perämeren pohjoisosa:{White}Etelän ja kaakon "
+        },
+        {
+         "number": "11",
+         "Text": "{White}välistä tuulta 6-10 m/s. Aamupäivällä  "
+        },
+        {
+         "number": "12",
+         "Text": "{White}paikoin sumua.                         "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Saimaa:{White}Idän ja kaakon välistä tuulta  "
+        },
+        {
+         "number": "15",
+         "Text": "{White}3-7 m/s. Hyvä näkyvyys.                "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Säätiedotus 2 vrk merenkulkijoille     "
+        },
+        {
+         "number": "18",
+         "Text": "{White}21.10.2026 klo 19                      "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Odotettavissa torstai-illasta          "
+        },
+        {
+         "number": "21",
+         "Text": "{White}perjantai-iltaan:  Suomenlahti:        "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Kaakonpuoleista tuulta alle{Yellow}14 m/s,    "
+        },
+        {
+         "number": "23",
+         "Text": "{White}aamusta alkaen alle 10 m/s.            "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "31"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "4/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "red",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "31",
+           "Text": "Ilmatieteen laitos 21.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "   Merisääennuste klo 21.00       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "34"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "20",
+           "Text": "Perämeren eteläosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "Etelän ja kaakon   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " välistä tuulta 6-10 m/s. Aamulla       "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " paikoin sumua.                         "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "Perämeren pohjoisosa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": "Etelän ja kaakon "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " välistä tuulta 6-10 m/s. Aamupäivällä  "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " paikoin sumua.                         "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "Saimaa: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Idän ja kaakon välistä tuulta  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 3-7 m/s. Hyvä näkyvyys.                "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Säätiedotus 2 vrk merenkulkijoille     "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 21.10.2026 klo 19                      "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Odotettavissa torstai-illasta          "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " perjantai-iltaan:  Suomenlahti:        "
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Kaakonpuoleista tuulta alle "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "14 m/s,    "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " aamusta alkaen alle 10 m/s.            "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    5/5 "
+        },
+        {
+         "number": "2",
+         "Text": "         Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "         Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Pohjois-Itämeri, Ahvenanmeri,          "
+        },
+        {
+         "number": "7",
+         "Text": " Saaristomeri ja Selkämeri:             "
+        },
+        {
+         "number": "8",
+         "Text": " Kaakonpuoleista tuulta alle 14 m/s.    "
+        },
+        {
+         "number": "9",
+         "Text": " Iltapäivästä alkaen Pohjois-itämeren   "
+        },
+        {
+         "number": "10",
+         "Text": " länsiosassa ja Ahvenanmerellä          "
+        },
+        {
+         "number": "11",
+         "Text": " länsituulta, enimmäkseen alle 10 m/s.  "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Merenkurkku ja Perämeri:               "
+        },
+        {
+         "number": "14",
+         "Text": " Kaakonpuoleista tuulta alle 10 m/s.    "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Cyan}{GYellow}{Flash} ` {Steady}{White}                            5/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB} {GRed}~4 {Blue} Ilmatieteen laitos 21.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB} {GWhite}5 {White} Merisääennuste klo 21.00       "
+        },
+        {
+         "number": "4",
+         "Text": "{GRed}  \"##                                  "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}Pohjois-Itämeri, Ahvenanmeri,          "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Saaristomeri ja Selkämeri:             "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Kaakonpuoleista tuulta alle{Yellow}14 m/s.    "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Iltapäivästä alkaen Pohjois-itämeren   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}länsiosassa ja Ahvenanmerellä          "
+        },
+        {
+         "number": "11",
+         "Text": "{White}länsituulta, enimmäkseen alle 10 m/s.  "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Merenkurkku ja Perämeri:               "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Kaakonpuoleista tuulta alle 10 m/s.    "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "31"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": "5/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "cyan",
+           "fg": "gred",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "cyan",
+           "fg": "red",
+           "length": "3"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "31",
+           "Text": "Ilmatieteen laitos 21.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "   Merisääennuste klo 21.00       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "black",
+           "fg": "red",
+           "length": "34"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Pohjois-Itämeri, Ahvenanmeri,          "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Saaristomeri ja Selkämeri:             "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " Kaakonpuoleista tuulta alle "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11",
+           "Text": "14 m/s.    "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Iltapäivästä alkaen Pohjois-itämeren   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " länsiosassa ja Ahvenanmerellä          "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " länsituulta, enimmäkseen alle 10 m/s.  "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Merenkurkku ja Perämeri:               "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kaakonpuoleista tuulta alle 10 m/s.    "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

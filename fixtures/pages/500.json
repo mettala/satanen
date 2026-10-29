@@ -1,0 +1,1723 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "500",
+   "name": "Alueuutiset",
+   "subpagecount": "1",
+   "prevpg": "494",
+   "nextpg": "501",
+   "toptype": "block",
+   "time": "2026-07-01T00:12:38",
+   "utctime": "2026-06-30T21:12:38",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 501 Etelä-Karjala  511 Pohjanmaa       "
+        },
+        {
+         "number": "5",
+         "Text": " 502 Etelä-Savo     512 Pohjois-Karjala "
+        },
+        {
+         "number": "6",
+         "Text": " 503 Häme           513 Pohj.-Pohjanmaa "
+        },
+        {
+         "number": "7",
+         "Text": " 504 Kainuu         514 Pohjois-Savo    "
+        },
+        {
+         "number": "8",
+         "Text": " 505 Keski-Pohjanm. 515 Päijät-Häme     "
+        },
+        {
+         "number": "9",
+         "Text": " 506 Keski-Suomi    516 Helsinki/Uusimaa"
+        },
+        {
+         "number": "10",
+         "Text": " 507 Kymenlaakso    517 Satakunta       "
+        },
+        {
+         "number": "11",
+         "Text": " 508 Lappi          518 Varsinais-Suomi "
+        },
+        {
+         "number": "12",
+         "Text": " 509 Meri-Lappi     519 Etelä-Pohjanmaa "
+        },
+        {
+         "number": "13",
+         "Text": " 510 Pirkanmaa    Uutiset saameksi:     "
+        },
+        {
+         "number": "14",
+         "Text": " ---------------- 520 Sapmi,pohjoissaami"
+        },
+        {
+         "number": "15",
+         "Text": " 550 Kuulosivut   521 Säämi,inarinsaami "
+        },
+        {
+         "number": "16",
+         "Text": " 526 Tv-ikärajat  ----------------------"
+        },
+        {
+         "number": "17",
+         "Text": " 575 Teksti-TV-tieto; tekninen tieto    "
+        },
+        {
+         "number": "18",
+         "Text": " 581-582 Lähetykset, radio- ja tv-asemat"
+        },
+        {
+         "number": "19",
+         "Text": " 580 Testisivu 583 Tv-museo 584 Yle-vero"
+        },
+        {
+         "number": "20",
+         "Text": " 595-596 Radioamatöörit  591 DX-kuuntelu"
+        },
+        {
+         "number": "21",
+         "Text": " 592 Puolustusvoimien ampumatiedotteet  "
+        },
+        {
+         "number": "22",
+         "Text": " 599 Teksti-TV:n yhteystiedot           "
+        },
+        {
+         "number": "23",
+         "Text": "     101 Uutiset      579 Valkoinen sivu"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4{Blue}{GCyan}{GWhite}<,`,08d{White} {GCyan}{GWhite}`0` ` 0p00`` 0p00`0ppp"
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${Blue}{NB}{GWhite}3ij 55j{Cyan} {GCyan}{GWhite}=nj j 5= 5jj 5j 5)0= 5"
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%{GYellow} {GWhite}\"! # \"!   {GWhite}!\"\"# # #!\"! # \" !# #!!"
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}501{White}Etelä-Karjala {Cyan}511{White}Pohjanmaa       "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}502{White}Etelä-Savo    {Cyan}512{White}Pohjois-Karjala "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}503{White}Häme          {Cyan}513{White}Pohj.-Pohjanmaa "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}504{White}Kainuu        {Cyan}514{White}Pohjois-Savo    "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}505{White}Keski-Pohjanm.{Cyan}515{White}Päijät-Häme     "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}506{White}Keski-Suomi   {Cyan}516{White}Helsinki/Uusimaa"
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}507{White}Kymenlaakso   {Cyan}517{White}Satakunta       "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}508{White}Lappi         {Cyan}518{White}Varsinais-Suomi "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}509{White}Meri-Lappi    {Cyan}519{White}Etelä-Pohjanmaa "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}510{White}Pirkanmaa   {Green}Uutiset saameksi:     "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}----------------{Cyan}520{White}Sapmi,pohjoissaami"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}550{Yellow}Kuulosivut {Cyan} 521{White}Säämi,inarinsaami "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}526{White}Tv-ikärajat{Cyan} ----------------------"
+        },
+        {
+         "number": "17",
+         "Text": "{Green}575{White}Teksti-TV-tieto; tekninen tieto    "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}581-582{White}Lähetykset, radio- ja tv-asemat"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}580{White}Testisivu{Green}583{White}Tv-museo{Green}584{White}Yle-vero"
+        },
+        {
+         "number": "20",
+         "Text": "{Green}595-596{White}Radioamatöörit {Green}591{White}DX-kuuntelu"
+        },
+        {
+         "number": "21",
+         "Text": "{Green}592{White}Puolustusvoimien ampumatiedotteet  "
+        },
+        {
+         "number": "22",
+         "Text": "{Green}599{Yellow}Teksti-TV:n yhteystiedot           "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}  {White}101 Uutiset      579 Valkoinen sivu"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "2",
+           "Text": "00"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "2",
+           "Text": "``"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "2",
+           "Text": "00"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "70h",
+           "length": "3",
+           "Text": "ppp"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "33h",
+           "length": "1",
+           "Text": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "69h",
+           "length": "1",
+           "Text": "i"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Eh",
+           "length": "1",
+           "Text": "n"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gwhite",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gwhite",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "501",
+           "length": "3",
+           "Text": "501"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Etelä-Karjala  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "511",
+           "length": "3",
+           "Text": "511"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Pohjanmaa       "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "502",
+           "length": "3",
+           "Text": "502"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Etelä-Savo     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "512",
+           "length": "3",
+           "Text": "512"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Pohjois-Karjala "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "503",
+           "length": "3",
+           "Text": "503"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Häme           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "513",
+           "length": "3",
+           "Text": "513"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Pohj.-Pohjanmaa "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "504",
+           "length": "3",
+           "Text": "504"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Kainuu         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "514",
+           "length": "3",
+           "Text": "514"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Pohjois-Savo    "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "505",
+           "length": "3",
+           "Text": "505"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Keski-Pohjanm. "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "515",
+           "length": "3",
+           "Text": "515"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Päijät-Häme     "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "506",
+           "length": "3",
+           "Text": "506"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Keski-Suomi    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "516",
+           "length": "3",
+           "Text": "516"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Helsinki/Uusimaa"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "507",
+           "length": "3",
+           "Text": "507"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Kymenlaakso    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "517",
+           "length": "3",
+           "Text": "517"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Satakunta       "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "508",
+           "length": "3",
+           "Text": "508"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Lappi          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "518",
+           "length": "3",
+           "Text": "518"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Varsinais-Suomi "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "509",
+           "length": "3",
+           "Text": "509"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "Meri-Lappi     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "519",
+           "length": "3",
+           "Text": "519"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Etelä-Pohjanmaa "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "510",
+           "length": "3",
+           "Text": "510"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13",
+           "Text": "Pirkanmaa    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "22",
+           "Text": "Uutiset saameksi:     "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "17",
+           "Text": "---------------- "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "520",
+           "length": "3",
+           "Text": "520"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Sapmi,pohjoissaami"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "550",
+           "length": "3",
+           "Text": "550"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "13",
+           "Text": "Kuulosivut   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "521",
+           "length": "3",
+           "Text": "521"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Säämi,inarinsaami "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "526",
+           "length": "3",
+           "Text": "526"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "13",
+           "Text": "Tv-ikärajat  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "22",
+           "Text": "----------------------"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "575",
+           "length": "3",
+           "Text": "575"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Teksti-TV-tieto; tekninen tieto    "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "581",
+           "length": "3",
+           "Text": "581"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "582",
+           "length": "3",
+           "Text": "582"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Lähetykset, radio- ja tv-asemat"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "580",
+           "length": "3",
+           "Text": "580"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10",
+           "Text": "Testisivu "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "583",
+           "length": "3",
+           "Text": "583"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "9",
+           "Text": "Tv-museo "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "584",
+           "length": "3",
+           "Text": "584"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": "Yle-vero"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "595",
+           "length": "3",
+           "Text": "595"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "596",
+           "length": "3",
+           "Text": "596"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": "Radioamatöörit  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "591",
+           "length": "3",
+           "Text": "591"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "DX-kuuntelu"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "592",
+           "length": "3",
+           "Text": "592"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Puolustusvoimien ampumatiedotteet  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "599",
+           "length": "3",
+           "Text": "599"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "35",
+           "Text": "Teksti-TV:n yhteystiedot           "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "101",
+           "length": "3",
+           "Text": "101"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": " Uutiset      "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "579",
+           "length": "3",
+           "Text": "579"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15",
+           "Text": " Valkoinen sivu"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

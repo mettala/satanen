@@ -1,0 +1,1922 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "310",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "309",
+   "nextpg": "311",
+   "toptype": "normal",
+   "time": "2026-10-22T00:00:02",
+   "utctime": "2026-10-21T21:00:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "   TV1            Perjantai 23.10.      "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 06.25 Ylen aamu A                      "
+        },
+        {
+         "number": "5",
+         "Text": " 09.30 Puoli seitsemän A                "
+        },
+        {
+         "number": "6",
+         "Text": " 10.00 La Promesa - Salaisuuksien       "
+        },
+        {
+         "number": "7",
+         "Text": "       kartano (7) A                    "
+        },
+        {
+         "number": "8",
+         "Text": " 11.00 Yle Uutiset Uusimaa A            "
+        },
+        {
+         "number": "9",
+         "Text": " 11.05 Yle Uutiset Kaakkois-Suomi A     "
+        },
+        {
+         "number": "10",
+         "Text": " 11.10 Yle Uutiset Lounais-Suomi A      "
+        },
+        {
+         "number": "11",
+         "Text": " 11.15 Yle Uutiset Häme A               "
+        },
+        {
+         "number": "12",
+         "Text": " 11.20 Yle Uutiset Pirkanmaa A          "
+        },
+        {
+         "number": "13",
+         "Text": " 11.25 Yle Uutiset Keski-Suomi ja Etelä-"
+        },
+        {
+         "number": "14",
+         "Text": "       Savo A                           "
+        },
+        {
+         "number": "15",
+         "Text": " 11.30 Yle Uutiset Itä-Suomi A          "
+        },
+        {
+         "number": "16",
+         "Text": " 11.35 Yle Uutiset Pohjanmaa A          "
+        },
+        {
+         "number": "17",
+         "Text": " 11.40 Yle Uutiset Pohjois-Suomi A      "
+        },
+        {
+         "number": "18",
+         "Text": " 11.45 Yle Uutiset Lappi A              "
+        },
+        {
+         "number": "19",
+         "Text": " 11.50 Yle Oddasat A                    "
+        },
+        {
+         "number": "20",
+         "Text": " 11.54 Oddasat A                        "
+        },
+        {
+         "number": "21",
+         "Text": " 12.05 Kuin kaikki muut A               "
+        },
+        {
+         "number": "22",
+         "Text": " T = Tekstitys                          "
+        },
+        {
+         "number": "23",
+         "Text": " A = Jo Areenassa    A = Tulee Areenaan "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Red}{NB}         {Yellow}{NB}                   {Red}   1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Red}{NB}{Yellow}TV1     {Yellow}{NB}{Red}    Perjantai 23.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{GRed}#########{Hold}{GYellow}############################"
+        },
+        {
+         "number": "4",
+         "Text": " 06.25{White}Ylen aamu{Cyan}A                      "
+        },
+        {
+         "number": "5",
+         "Text": " 09.30{White}Puoli seitsemän{Cyan}A                "
+        },
+        {
+         "number": "6",
+         "Text": " 10.00{White}La Promesa - Salaisuuksien       "
+        },
+        {
+         "number": "7",
+         "Text": "      {White}kartano{White}(7){Green}A                    "
+        },
+        {
+         "number": "8",
+         "Text": " 11.00{White}Yle Uutiset Uusimaa{Cyan}A            "
+        },
+        {
+         "number": "9",
+         "Text": " 11.05{White}Yle Uutiset Kaakkois-Suomi{Cyan}A     "
+        },
+        {
+         "number": "10",
+         "Text": " 11.10{White}Yle Uutiset Lounais-Suomi{Cyan}A      "
+        },
+        {
+         "number": "11",
+         "Text": " 11.15{White}Yle Uutiset Häme{Cyan}A               "
+        },
+        {
+         "number": "12",
+         "Text": " 11.20{White}Yle Uutiset Pirkanmaa{Cyan}A          "
+        },
+        {
+         "number": "13",
+         "Text": " 11.25{White}Yle Uutiset Keski-Suomi ja Etelä-"
+        },
+        {
+         "number": "14",
+         "Text": "      {White}Savo{Cyan}A                           "
+        },
+        {
+         "number": "15",
+         "Text": " 11.30{White}Yle Uutiset Itä-Suomi{Cyan}A          "
+        },
+        {
+         "number": "16",
+         "Text": " 11.35{White}Yle Uutiset Pohjanmaa{Cyan}A          "
+        },
+        {
+         "number": "17",
+         "Text": " 11.40{White}Yle Uutiset Pohjois-Suomi{Cyan}A      "
+        },
+        {
+         "number": "18",
+         "Text": " 11.45{White}Yle Uutiset Lappi{Cyan}A              "
+        },
+        {
+         "number": "19",
+         "Text": " 11.50{White}Yle Oddasat{Cyan}A                    "
+        },
+        {
+         "number": "20",
+         "Text": " 11.54{White}Oddasat{Cyan}A                        "
+        },
+        {
+         "number": "21",
+         "Text": " 12.05{White}Kuin kaikki muut{Green}A               "
+        },
+        {
+         "number": "22",
+         "Text": "{Magenta}T = Tekstitys                          "
+        },
+        {
+         "number": "23",
+         "Text": "{Green}A = Jo Areenassa   {Cyan}A = Tulee Areenaan "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "11"
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "24"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "4",
+           "Text": "1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "TV1      "
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "6"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "22",
+           "Text": "Perjantai 23.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "11",
+           "Text": "#########  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "28",
+           "Text": "############################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "17",
+           "Text": " 06.25 Ylen aamu "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "23",
+           "Text": "A                      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " 09.30 Puoli seitsemän "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "17",
+           "Text": "A                "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 10.00 La Promesa - Salaisuuksien       "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "       kartano (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 11.00 Yle Uutiset Uusimaa "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "13",
+           "Text": "A            "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 11.05 Yle Uutiset Kaakkois-Suomi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": "A     "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " 11.10 Yle Uutiset Lounais-Suomi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "A      "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": " 11.15 Yle Uutiset Häme "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "A               "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 11.20 Yle Uutiset Pirkanmaa "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "A          "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 11.25 Yle Uutiset Keski-Suomi ja Etelä-"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "12",
+           "Text": "       Savo "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "28",
+           "Text": "A                           "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 11.30 Yle Uutiset Itä-Suomi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "A          "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 11.35 Yle Uutiset Pohjanmaa "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "A          "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " 11.40 Yle Uutiset Pohjois-Suomi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "A      "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " 11.45 Yle Uutiset Lappi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "A              "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 11.50 Yle Oddasat "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": " 11.54 Oddasat "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "A                        "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": " 12.05 Kuin kaikki muut "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "16",
+           "Text": "A               "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "39",
+           "Text": "T = Tekstitys                          "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "A = Jo Areenassa    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "19",
+           "Text": "A = Tulee Areenaan "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "   TV1            Perjantai 23.10.      "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 12.35 Mahdoton tapaus (7) A            "
+        },
+        {
+         "number": "5",
+         "Text": " 13.05 Hei, rillumarei! (S) >358        "
+        },
+        {
+         "number": "6",
+         "Text": " 14.25 Kauppasotaa pinnan alla T A      "
+        },
+        {
+         "number": "7",
+         "Text": " 15.10 Silkkitie 30 päivässä T A        "
+        },
+        {
+         "number": "8",
+         "Text": " 15.55 A-Talk A                         "
+        },
+        {
+         "number": "9",
+         "Text": " 16.35 Yle Uutiset selkosuomeksi A      "
+        },
+        {
+         "number": "10",
+         "Text": " 16.40 Yle Oddasat A                    "
+        },
+        {
+         "number": "11",
+         "Text": " 16.45 Novosti Yle A                    "
+        },
+        {
+         "number": "12",
+         "Text": " 16.50 Yle Uutiset viittomakielellä A   "
+        },
+        {
+         "number": "13",
+         "Text": " 16.55 Yle Uutiset alueeltasi           "
+        },
+        {
+         "number": "14",
+         "Text": " 17.00 Yle Uutiset 17.00 A              "
+        },
+        {
+         "number": "15",
+         "Text": " 17.10 Mahdoton tapaus (7) A            "
+        },
+        {
+         "number": "16",
+         "Text": " 17.42 Leikin loppu A                   "
+        },
+        {
+         "number": "17",
+         "Text": " 18.00 Yle Uutiset 18.00 A              "
+        },
+        {
+         "number": "18",
+         "Text": " 18.21 Yle Uutiset alueeltasi           "
+        },
+        {
+         "number": "19",
+         "Text": " 18.30 Puoli seitsemän irti A           "
+        },
+        {
+         "number": "20",
+         "Text": " 19.00 Forsyten suku (7) A              "
+        },
+        {
+         "number": "21",
+         "Text": " 19.52 Yle 100 -kunniavieras T          "
+        },
+        {
+         "number": "22",
+         "Text": " 20.00 Pirjon rumempi Suomi T A         "
+        },
+        {
+         "number": "23",
+         "Text": "   TV1 tänään 301  ylihuomenna 315      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Red}{NB}         {Yellow}{NB}                   {Red}   2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Red}{NB}{Yellow}TV1     {Yellow}{NB}{Red}    Perjantai 23.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{GRed}#########{Hold}{GYellow}############################"
+        },
+        {
+         "number": "4",
+         "Text": " 12.35{White}Mahdoton tapaus{White}(7){Green}A            "
+        },
+        {
+         "number": "5",
+         "Text": " 13.05{White}Hei, rillumarei!{White}(S){Yellow}>358        "
+        },
+        {
+         "number": "6",
+         "Text": " 14.25{White}Kauppasotaa pinnan alla{Magenta}T{Green}A      "
+        },
+        {
+         "number": "7",
+         "Text": " 15.10{White}Silkkitie 30 päivässä{Magenta}T{Green}A        "
+        },
+        {
+         "number": "8",
+         "Text": " 15.55{White}A-Talk{Cyan}A                         "
+        },
+        {
+         "number": "9",
+         "Text": " 16.35{White}Yle Uutiset selkosuomeksi{Cyan}A      "
+        },
+        {
+         "number": "10",
+         "Text": " 16.40{White}Yle Oddasat{Cyan}A                    "
+        },
+        {
+         "number": "11",
+         "Text": " 16.45{White}Novosti Yle{Cyan}A                    "
+        },
+        {
+         "number": "12",
+         "Text": " 16.50{White}Yle Uutiset viittomakielellä{Cyan}A   "
+        },
+        {
+         "number": "13",
+         "Text": " 16.55{White}Yle Uutiset alueeltasi           "
+        },
+        {
+         "number": "14",
+         "Text": " 17.00{White}Yle Uutiset 17.00{Cyan}A              "
+        },
+        {
+         "number": "15",
+         "Text": " 17.10{White}Mahdoton tapaus{White}(7){Green}A            "
+        },
+        {
+         "number": "16",
+         "Text": " 17.42{White}Leikin loppu{Green}A                   "
+        },
+        {
+         "number": "17",
+         "Text": " 18.00{White}Yle Uutiset 18.00{Cyan}A              "
+        },
+        {
+         "number": "18",
+         "Text": " 18.21{White}Yle Uutiset alueeltasi           "
+        },
+        {
+         "number": "19",
+         "Text": " 18.30{White}Puoli seitsemän irti{Cyan}A           "
+        },
+        {
+         "number": "20",
+         "Text": " 19.00{White}Forsyten suku{White}(7){Green}A              "
+        },
+        {
+         "number": "21",
+         "Text": " 19.52{White}Yle 100 -kunniavieras{Magenta}T          "
+        },
+        {
+         "number": "22",
+         "Text": " 20.00{White}Pirjon rumempi Suomi{Magenta}T{Green}A         "
+        },
+        {
+         "number": "23",
+         "Text": "{Yellow}{NB}{Red}TV1 tänään{Red}301  ylihuomenna{Red}315      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "11"
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "24"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "4",
+           "Text": "2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "TV1      "
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "6"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "22",
+           "Text": "Perjantai 23.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "11",
+           "Text": "#########  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "28",
+           "Text": "############################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 12.35 Mahdoton tapaus (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "13",
+           "Text": "A            "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " 13.05 Hei, rillumarei! (S) "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": ">"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "358",
+           "length": "3",
+           "Text": "358"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " 14.25 Kauppasotaa pinnan alla "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "A      "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 15.10 Silkkitie 30 päivässä "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "A        "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": " 15.55 A-Talk "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "26",
+           "Text": "A                         "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "33",
+           "Text": " 16.35 Yle Uutiset selkosuomeksi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "7",
+           "Text": "A      "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 16.40 Yle Oddasat "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 16.45 Novosti Yle "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": " 16.50 Yle Uutiset viittomakielellä "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4",
+           "Text": "A   "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 16.55 Yle Uutiset alueeltasi           "
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " 17.00 Yle Uutiset 17.00 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "A              "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": " 17.10 Mahdoton tapaus (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "13",
+           "Text": "A            "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " 17.42 Leikin loppu "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "A                   "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " 18.00 Yle Uutiset 18.00 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "A              "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 18.21 Yle Uutiset alueeltasi           "
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " 18.30 Puoli seitsemän irti "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "A           "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " 19.00 Forsyten suku (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "15",
+           "Text": "A              "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": " 19.52 Yle "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "100",
+           "length": "3",
+           "Text": "100"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": " -kunniavieras "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "11",
+           "Text": "T          "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " 20.00 Pirjon rumempi Suomi "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "A         "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "11",
+           "Text": "TV1 tänään "
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "link": "301",
+           "length": "3",
+           "Text": "301"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "14",
+           "Text": "  ylihuomenna "
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "link": "315",
+           "length": "3",
+           "Text": "315"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "6"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "                                    3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "   TV1            Perjantai 23.10.      "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 20.29 Yle Uutiset 20.30 A              "
+        },
+        {
+         "number": "5",
+         "Text": " 20.55 Urheiluruutu A                   "
+        },
+        {
+         "number": "6",
+         "Text": " 21.05 Sohvaperunat A                   "
+        },
+        {
+         "number": "7",
+         "Text": " 21.55 Yle Uutiset A                    "
+        },
+        {
+         "number": "8",
+         "Text": " 21.59 Urheiluruutu A                   "
+        },
+        {
+         "number": "9",
+         "Text": " 22.03 Yle Uutiset Uutis-Suomi A        "
+        },
+        {
+         "number": "10",
+         "Text": " 22.11 Perjantai-dokkari (7) T A        "
+        },
+        {
+         "number": "11",
+         "Text": " 22.21 Taru Sormusten herrasta:         "
+        },
+        {
+         "number": "12",
+         "Text": "       Mahtisormukset (12) A            "
+        },
+        {
+         "number": "13",
+         "Text": " 23.27 Oddasat A                        "
+        },
+        {
+         "number": "14",
+         "Text": " 23.40 Sami Yaffa - Sound Tracker T A   "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "       TV-ohjelmien hakemisto s. 300    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Red}{NB}         {Yellow}{NB}                   {Red}   3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{Red}{NB}{Yellow}TV1     {Yellow}{NB}{Red}    Perjantai 23.10.      "
+        },
+        {
+         "number": "3",
+         "Text": "{GRed}#########{Hold}{GYellow}############################"
+        },
+        {
+         "number": "4",
+         "Text": " 20.29{White}Yle Uutiset 20.30{Cyan}A              "
+        },
+        {
+         "number": "5",
+         "Text": " 20.55{White}Urheiluruutu{Cyan}A                   "
+        },
+        {
+         "number": "6",
+         "Text": " 21.05{White}Sohvaperunat{Cyan}A                   "
+        },
+        {
+         "number": "7",
+         "Text": " 21.55{White}Yle Uutiset{Cyan}A                    "
+        },
+        {
+         "number": "8",
+         "Text": " 21.59{White}Urheiluruutu{Cyan}A                   "
+        },
+        {
+         "number": "9",
+         "Text": " 22.03{White}Yle Uutiset Uutis-Suomi{Cyan}A        "
+        },
+        {
+         "number": "10",
+         "Text": " 22.11{White}Perjantai-dokkari{White}(7){Magenta}T{Green}A        "
+        },
+        {
+         "number": "11",
+         "Text": " 22.21{White}Taru Sormusten herrasta:         "
+        },
+        {
+         "number": "12",
+         "Text": "      {White}Mahtisormukset{White}(12){Green}A            "
+        },
+        {
+         "number": "13",
+         "Text": " 23.27{White}Oddasat{Cyan}A                        "
+        },
+        {
+         "number": "14",
+         "Text": " 23.40{White}Sami Yaffa - Sound Tracker{Magenta}T{Green}A   "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Red}{NB}{Yellow}    TV-ohjelmien hakemisto s.{Yellow}300    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "11"
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "24"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "4",
+           "Text": "3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "9",
+           "Text": "TV1      "
+          },
+          {
+           "bg": "yellow",
+           "fg": "yellow",
+           "length": "6"
+          },
+          {
+           "bg": "yellow",
+           "fg": "red",
+           "length": "22",
+           "Text": "Perjantai 23.10.      "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "11",
+           "Text": "#########  "
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "28",
+           "Text": "############################"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "25",
+           "Text": " 20.29 Yle Uutiset 20.30 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "A              "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " 20.55 Urheiluruutu "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "20",
+           "Text": "A                   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " 21.05 Sohvaperunat "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "20",
+           "Text": "A                   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": " 21.55 Yle Uutiset "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "A                    "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " 21.59 Urheiluruutu "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "20",
+           "Text": "A                   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " 22.03 Yle Uutiset Uutis-Suomi "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "A        "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 22.11 Perjantai-dokkari (7) "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "A        "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 22.21 Taru Sormusten herrasta:         "
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": "       Mahtisormukset (12) "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "13",
+           "Text": "A            "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": " 23.27 Oddasat "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "25",
+           "Text": "A                        "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "34",
+           "Text": " 23.40 Sami Yaffa - Sound Tracker "
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "2",
+           "Text": "T "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "A   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "6"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "26",
+           "Text": "TV-ohjelmien hakemisto s. "
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

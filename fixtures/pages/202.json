@@ -1,0 +1,976 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "202",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "201",
+   "nextpg": "203",
+   "toptype": "normal",
+   "time": "2026-10-24T20:15:43",
+   "utctime": "2026-10-24T17:15:43",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   URHEILUSÄHKEET       LAUANTAI        "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " PESÄPALLO: Naisten Superpesiksen       "
+        },
+        {
+         "number": "4",
+         "Text": " kaikkien aikojen lyöjäkuningatar       "
+        },
+        {
+         "number": "5",
+         "Text": " Janette Lepistö jatkaa Lapuan Virkiässä"
+        },
+        {
+         "number": "6",
+         "Text": " ensi kaudella. Manse PP:n Virpi Hukka  "
+        },
+        {
+         "number": "7",
+         "Text": " siirtyy MTV:n tietojen mukaan Porin    "
+        },
+        {
+         "number": "8",
+         "Text": " Pesäkarhuihin.                         "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " AM.JALKAPALLO: Suomi voitti Vantaalla  "
+        },
+        {
+         "number": "11",
+         "Text": " Ison-Britannian 21-0 EM-lohkopelissään "
+        },
+        {
+         "number": "12",
+         "Text": " ja varmisti paikan vuonna 2027         "
+        },
+        {
+         "number": "13",
+         "Text": " pelattaviin neljän maan mitalipeleihin."
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " JALKAPALLO: Hyökkääjä David Ezeh on    "
+        },
+        {
+         "number": "16",
+         "Text": " tehnyt kolmivuotisen sopimuksen Kuopion"
+        },
+        {
+         "number": "17",
+         "Text": " Palloseuran kanssa. Ezeh siirtyy       "
+        },
+        {
+         "number": "18",
+         "Text": " Kuopioon kauden 2026 jälkeen. Ezeh, 20,"
+        },
+        {
+         "number": "19",
+         "Text": " on pelannut HJK:ssa 13-vuotiaasta.     "
+        },
+        {
+         "number": "20",
+         "Text": " Hänen kautensa 2026 päättyi kesäkuussa "
+        },
+        {
+         "number": "21",
+         "Text": " lonkkamurtumaan ja leikkaukseen.       "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}URHEILUSÄHKEET  {Blue}{NB}  {White}LAUANTAI        "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{Green}PESÄPALLO:{White}Naisten Superpesiksen       "
+        },
+        {
+         "number": "4",
+         "Text": "{White}kaikkien aikojen lyöjäkuningatar       "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}Janette Lepistö jatkaa Lapuan Virkiässä"
+        },
+        {
+         "number": "6",
+         "Text": "{SB}ensi kaudella. Manse PP:n Virpi Hukka  "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}siirtyy MTV:n tietojen mukaan Porin    "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}Pesäkarhuihin.                         "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{Green}AM.JALKAPALLO:{White}Suomi voitti Vantaalla  "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Ison-Britannian 21-0 EM-lohkopelissään "
+        },
+        {
+         "number": "12",
+         "Text": "{White}ja varmisti paikan vuonna 2027         "
+        },
+        {
+         "number": "13",
+         "Text": "{White}pelattaviin neljän maan mitalipeleihin."
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}JALKAPALLO:{White}Hyökkääjä David Ezeh on    "
+        },
+        {
+         "number": "16",
+         "Text": "{White}tehnyt kolmivuotisen sopimuksen Kuopion"
+        },
+        {
+         "number": "17",
+         "Text": "{White}Palloseuran kanssa. Ezeh siirtyy       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Kuopioon kauden 2026 jälkeen. Ezeh, 20,"
+        },
+        {
+         "number": "19",
+         "Text": "{White}on pelannut HJK:ssa 13-vuotiaasta.     "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Hänen kautensa 2026 päättyi kesäkuussa "
+        },
+        {
+         "number": "21",
+         "Text": "{White}lonkkamurtumaan ja leikkaukseen.       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "URHEILUSÄHKEET   "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "16",
+           "Text": "LAUANTAI        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "PESÄPALLO: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": "Naisten Superpesiksen       "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kaikkien aikojen lyöjäkuningatar       "
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Janette Lepistö jatkaa Lapuan Virkiässä"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ensi kaudella. Manse PP:n Virpi Hukka  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " siirtyy MTV:n tietojen mukaan Porin    "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pesäkarhuihin.                         "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "15",
+           "Text": "AM.JALKAPALLO: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": "Suomi voitti Vantaalla  "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ison-Britannian 21-0 EM-lohkopelissään "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ja varmisti paikan vuonna 2027         "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pelattaviin neljän maan mitalipeleihin."
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "JALKAPALLO: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "27",
+           "Text": "Hyökkääjä David Ezeh on    "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tehnyt kolmivuotisen sopimuksen Kuopion"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Palloseuran kanssa. Ezeh siirtyy       "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kuopioon kauden 2026 jälkeen. Ezeh, 20,"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " on pelannut HJK:ssa 13-vuotiaasta.     "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hänen kautensa 2026 päättyi kesäkuussa "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " lonkkamurtumaan ja leikkaukseen.       "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   URHEILUSÄHKEET       LAUANTAI        "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " JÄÄKIEKKO: SM-liigan HPK tiedotti      "
+        },
+        {
+         "number": "5",
+         "Text": " tehneensä loppukauden sopimuksen 36-   "
+        },
+        {
+         "number": "6",
+         "Text": " vuotiaan hyökkääjän Mattias Tedenbyn   "
+        },
+        {
+         "number": "7",
+         "Text": " kanssa. Ruotsalaishyökkääjä on pelannut"
+        },
+        {
+         "number": "8",
+         "Text": " urallaan 120 NHL-ottelua ja 126 AHL-   "
+        },
+        {
+         "number": "9",
+         "Text": " ottelua sekä voittanut kolme Ruotsin   "
+        },
+        {
+         "number": "10",
+         "Text": " mestaruutta. Edelliset neljä kautta    "
+        },
+        {
+         "number": "11",
+         "Text": " hän pelasi SHL:ssä HV71:ssä.           "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}URHEILUSÄHKEET  {Blue}{NB}  {White}LAUANTAI        "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "4",
+         "Text": "{Green}JÄÄKIEKKO:{White}SM-liigan HPK tiedotti      "
+        },
+        {
+         "number": "5",
+         "Text": "{White}tehneensä loppukauden sopimuksen 36-   "
+        },
+        {
+         "number": "6",
+         "Text": "{White}vuotiaan hyökkääjän Mattias Tedenbyn   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}kanssa. Ruotsalaishyökkääjä on pelannut"
+        },
+        {
+         "number": "8",
+         "Text": "{White}urallaan 120 NHL-ottelua ja 126 AHL-   "
+        },
+        {
+         "number": "9",
+         "Text": "{White}ottelua sekä voittanut kolme Ruotsin   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}mestaruutta. Edelliset neljä kautta    "
+        },
+        {
+         "number": "11",
+         "Text": "{White}hän pelasi SHL:ssä HV71:ssä.           "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "URHEILUSÄHKEET   "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "16",
+           "Text": "LAUANTAI        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "JÄÄKIEKKO: "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": "SM-liigan HPK tiedotti      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tehneensä loppukauden sopimuksen 36-   "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " vuotiaan hyökkääjän Mattias Tedenbyn   "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kanssa. Ruotsalaishyökkääjä on pelannut"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10",
+           "Text": " urallaan "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "120",
+           "length": "3",
+           "Text": "120"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " NHL-ottelua ja "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "126",
+           "length": "3",
+           "Text": "126"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "8",
+           "Text": " AHL-   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ottelua sekä voittanut kolme Ruotsin   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " mestaruutta. Edelliset neljä kautta    "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " hän pelasi SHL:ssä HV71:ssä.           "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

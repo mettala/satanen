@@ -1,0 +1,45 @@
+version: 2
+updates:
+  # Major npm upgrades are done by hand (PUB.29): they can break native modules and CI.
+  # Expo-managed packages are ignored entirely (PUB.30, D49): each Expo SDK expects exact
+  # versions of them (for example react), so they change only through `npx expo install`.
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 3
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-major']
+      - dependency-name: 'expo'
+      - dependency-name: 'expo-*'
+      - dependency-name: '@expo/*'
+      - dependency-name: 'react'
+      - dependency-name: 'react-dom'
+      - dependency-name: 'react-native'
+      - dependency-name: 'react-native-*'
+      - dependency-name: '@react-native-async-storage/async-storage'
+      - dependency-name: '@types/react'
+    groups:
+      npm-root:
+        patterns: ['*']
+  # Major npm upgrades are done by hand (PUB.29): they can break native modules and CI.
+  - package-ecosystem: npm
+    directory: /proxy
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 3
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-major']
+    groups:
+      npm-proxy:
+        patterns: ['*']
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 3
+    groups:
+      github-actions:
+        patterns: ['*']

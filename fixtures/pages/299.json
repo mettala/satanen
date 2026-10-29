@@ -1,0 +1,1162 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "299",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "298",
+   "nextpg": "300",
+   "toptype": "normal",
+   "time": "2026-10-05T18:20:46",
+   "utctime": "2026-10-05T15:20:46",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     MM-RALLI          KAUSI 2026   1/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "     MM-SARJAN LOPPUTILANNE             "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "  1. Elfyn Evans      GBR Toyota    243 "
+        },
+        {
+         "number": "6",
+         "Text": "  2. Oliver Solberg   SWE Toyota    238 "
+        },
+        {
+         "number": "7",
+         "Text": "  3. Sami Pajari      FIN Toyota    237 "
+        },
+        {
+         "number": "8",
+         "Text": "  4. Sebastien Ogier  FRA Toyota    189 "
+        },
+        {
+         "number": "9",
+         "Text": "  5. Adrien Fourmaux  FRA Hyundai   183 "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": "  6. Takamoto Katsuta JPN Toyota    175 "
+        },
+        {
+         "number": "12",
+         "Text": "  7. Thierry Neuville BEL Hyundai   134 "
+        },
+        {
+         "number": "13",
+         "Text": "  8. Hayden Paddon    NZL Hyundai    38 "
+        },
+        {
+         "number": "14",
+         "Text": "  9. Josh McErlean    IRL Ford       35 "
+        },
+        {
+         "number": "15",
+         "Text": " 10. Esapekka Lappi   FIN Hyundai    33 "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": "     VALMISTAJIEN TILANNE               "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": "  1. Toyota    662                      "
+        },
+        {
+         "number": "20",
+         "Text": "  2. Hyundai   440                      "
+        },
+        {
+         "number": "21",
+         "Text": "  3. Toyota    251                      "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  MM-RALLI     {Green}{NB}{Blue}  KAUSI 2026   1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{White}   {Green}MM-SARJAN LOPPUTILANNE             "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}{White}1. Elfyn Evans      GBR Toyota    243 "
+        },
+        {
+         "number": "6",
+         "Text": "{White}{White}2. Oliver Solberg   SWE Toyota    238 "
+        },
+        {
+         "number": "7",
+         "Text": "{White}{Cyan}3. Sami Pajari      FIN Toyota    237 "
+        },
+        {
+         "number": "8",
+         "Text": "{White}{White}4. Sebastien Ogier  FRA Toyota    189 "
+        },
+        {
+         "number": "9",
+         "Text": "{White}{White}5. Adrien Fourmaux  FRA Hyundai   183 "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}{White}6. Takamoto Katsuta JPN Toyota    175 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}{White}7. Thierry Neuville BEL Hyundai   134 "
+        },
+        {
+         "number": "13",
+         "Text": "{White}{White}8. Hayden Paddon    NZL Hyundai    38 "
+        },
+        {
+         "number": "14",
+         "Text": "{White}{White}9. Josh McErlean    IRL Ford       35 "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}10. Esapekka Lappi   FIN Hyundai    33 "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{White}   {Green}VALMISTAJIEN TILANNE               "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{White}{White}1. Toyota    662                      "
+        },
+        {
+         "number": "20",
+         "Text": "{White}{White}2. Hyundai   440                      "
+        },
+        {
+         "number": "21",
+         "Text": "{White}{White}3. Toyota    251                      "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": "MM-RALLI      "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "KAUSI 2026   1/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "MM-SARJAN LOPPUTILANNE             "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  1. Elfyn Evans      GBR Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "243",
+           "length": "3",
+           "Text": "243"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  2. Oliver Solberg   SWE Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "238",
+           "length": "3",
+           "Text": "238"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "34",
+           "Text": "3. Sami Pajari      FIN Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "237",
+           "length": "3",
+           "Text": "237"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  4. Sebastien Ogier  FRA Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "189",
+           "length": "3",
+           "Text": "189"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  5. Adrien Fourmaux  FRA Hyundai   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "183",
+           "length": "3",
+           "Text": "183"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  6. Takamoto Katsuta JPN Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "175",
+           "length": "3",
+           "Text": "175"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  7. Thierry Neuville BEL Hyundai   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "134",
+           "length": "3",
+           "Text": "134"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  8. Hayden Paddon    NZL Hyundai    38 "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  9. Josh McErlean    IRL Ford       35 "
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "10. Esapekka Lappi   FIN Hyundai    33 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "VALMISTAJIEN TILANNE               "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "  1. Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "662",
+           "length": "3",
+           "Text": "662"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "  2. Hyundai   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "440",
+           "length": "3",
+           "Text": "440"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "  3. Toyota    "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "251",
+           "length": "3",
+           "Text": "251"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     MM-RALLI          KAUSI 2026   2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "                Voittaja                "
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " Monte Carlo    Solberg                 "
+        },
+        {
+         "number": "5",
+         "Text": " Ruotsi         Evans                   "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7",
+         "Text": " Kenia          Katsuta                 "
+        },
+        {
+         "number": "8",
+         "Text": " Kroatia        Katsuta                 "
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10",
+         "Text": " Kanaria        Ogier                   "
+        },
+        {
+         "number": "11",
+         "Text": " Portugali      Neuville                "
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Japani         Evans                   "
+        },
+        {
+         "number": "14",
+         "Text": " Kreikka        Ogier                   "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Viro           Pajari                  "
+        },
+        {
+         "number": "17",
+         "Text": " Jyväskylä      Pajari                  "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": " Paraguay       Pajari                  "
+        },
+        {
+         "number": "20",
+         "Text": " Chile          Solberg                 "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": " Italia         Solberg                 "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  MM-RALLI     {Green}{NB}{Blue}  KAUSI 2026   2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{White}              {Green}Voittaja                "
+        },
+        {
+         "number": "3",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Monte Carlo   {Cyan}Solberg                 "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Ruotsi        {Cyan}Evans                   "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Kenia         {Cyan}Katsuta                 "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Kroatia       {Cyan}Katsuta                 "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Kanaria       {Cyan}Ogier                   "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Portugali     {Cyan}Neuville                "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Japani        {Cyan}Evans                   "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Kreikka       {Cyan}Ogier                   "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Viro          {Green}Pajari                  "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}Jyväskylä     {Cyan}Pajari                  "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Paraguay      {Green}Pajari                  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Chile         {Cyan}Solberg                 "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Italia        {Cyan}Solberg                 "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": "MM-RALLI      "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "KAUSI 2026   2/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "24",
+           "Text": "Voittaja                "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Monte Carlo    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Solberg                 "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Ruotsi         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Evans                   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kenia          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Katsuta                 "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kroatia        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Katsuta                 "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kanaria        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Ogier                   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Portugali      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Neuville                "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Japani         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Evans                   "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kreikka        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Ogier                   "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Viro           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "24",
+           "Text": "Pajari                  "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Jyväskylä      Pajari                  "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Paraguay       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "24",
+           "Text": "Pajari                  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Chile          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Solberg                 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Italia         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Solberg                 "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

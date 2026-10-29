@@ -1,0 +1,62 @@
+name: Refresh section map
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  # actions: write is needed for the `gh workflow run` call below: PRs opened
+  # with the Actions token do not start CI on their own.
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      BRANCH: chore/refresh-section-map
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      # The section-map script is plain Node + TypeScript sources and needs no install script.
+      - run: npm ci --ignore-scripts
+      # The fetched Yle pages stay in memory, never on disk or in git: the only
+      # file this job commits is the generated map.
+      - name: Fetch live index pages and rebuild the map
+        run: npm run section-map -- --live
+      - name: Open or update the PR when the map changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          if git diff --quiet -- src/sections/sectionMap.generated.ts; then
+            echo "Section map unchanged."
+            exit 0
+          fi
+          # Nothing but the generated map may have changed or appeared in the job.
+          if [ -n "$(git status --porcelain | grep -v ' src/sections/sectionMap.generated.ts$' || true)" ]; then
+            echo "Unexpected changes besides the section map:" >&2
+            git status --porcelain >&2
+            exit 1
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH"
+          git add src/sections/sectionMap.generated.ts
+          git commit -m "chore: refresh section map"
+          # Checkout did not persist credentials; the token is passed only for this push.
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" "$BRANCH"
+          if [ -z "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')" ]; then
+            gh pr create --base main --head "$BRANCH" \
+              --title "chore: refresh section map" \
+              --body "Weekly refresh of the jump-sheet suggestions from the live Yle index pages. Opened automatically by the Refresh section map workflow."
+          fi
+          # PRs opened with the Actions token do not trigger CI, so start it by hand.
+          gh workflow run ci.yml --ref "$BRANCH"

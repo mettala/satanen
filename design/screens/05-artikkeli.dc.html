@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>Artikkeli</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&amp;display=swap">
+<style>
+body{margin:0;font-family:'Schibsted Grotesk',system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+p{margin:0}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; background: {{t.bg}}; color: {{t.ink}}; display: flex; flex-direction: column; font-family: 'Schibsted Grotesk', system-ui, sans-serif;">
+
+<div style="padding: 44px 8px 4px; display: flex; align-items: center; justify-content: space-between;">
+<a href="01-etusivu.dc.html" aria-label="Takaisin" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg></a>
+<div style="font-size: 15px; font-weight: 600; font-variant-numeric: tabular-nums;">105</div>
+<button aria-label="Lisää suosikkeihin" style="width: 44px; height: 44px; border: 0; background: transparent; color: {{t.ink}}; display: flex; align-items: center; justify-content: center;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 4l2.5 5 5.5.8-4 3.9.9 5.5-4.9-2.6-4.9 2.6.9-5.5-4-3.9 5.5-.8z"></path></svg></button>
+</div>
+
+<div style="flex-grow: 1; overflow: hidden; padding: 4px 24px 0; display: flex; flex-direction: column; gap: 14px;">
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; color: {{t.news}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{t.news}};"></span>KOTIMAA · 21.10. KLO 14:32</div>
+<h1 style="margin: 0; font-size: 30px; font-weight: 800; line-height: 1.1; letter-spacing: -0.02em;">Hallitus esittää uutta energiatukea pienituloisille</h1>
+<p style="font-size: 18px; line-height: 1.55;">Hallitus esittää tukea kotitalouksille, joiden sähkölasku on noussut talven aikana. Tuki maksettaisiin kahdessa erässä.</p>
+<div style="display: flex; align-items: center; gap: 10px;"><div style="flex-grow: 1; height: 1px; background: {{t.line}};"></div><span style="font-size: 12px; color: {{t.muted}};">2/2</span><div style="flex-grow: 1; height: 1px; background: {{t.line}};"></div></div>
+<p style="font-size: 18px; line-height: 1.55;">Oppositio pitää tukea riittämättömänä. Taustaa <a href="#" style="color: {{t.link}}; text-decoration: underline; text-underline-offset: 3px;">sähkön hinnasta (160)</a>.</p>
+<div style="display: flex; flex-direction: column;">
+<div style="font-size: 12px; font-weight: 700; letter-spacing: 0.08em; color: {{t.muted}}; padding-bottom: 2px;">AIHEESTA</div>
+<a href="#" style="display: flex; justify-content: space-between; align-items: center; min-height: 44px; border-top: 1px solid {{t.line}}; font-size: 16px; font-weight: 500;"><span>Sähkön hinta</span><span style="color: {{t.link}};">160 ›</span></a>
+<a href="#" style="display: flex; justify-content: space-between; align-items: center; min-height: 44px; border-top: 1px solid {{t.line}}; font-size: 16px; font-weight: 500;"><span>Kotimaan uutiset</span><span style="color: {{t.link}};">102 ›</span></a>
+</div>
+<div style="font-size: 13px; color: {{t.muted}};">Sisältö: Yle Teksti-TV</div>
+</div>
+
+<div style="display: flex; justify-content: space-between; padding: 10px 24px; border-top: 1px solid {{t.line}}; font-size: 15px;">
+<a href="#" style="color: {{t.muted}}; padding: 8px 0;">‹ 104</a>
+<a href="#" style="color: {{t.news}}; font-weight: 700; padding: 8px 0;">Seuraava juttu 106 ›</a>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"mode":{"editor":"enum","options":["light","dark"],"default":"light"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+renderVals() {
+const themes = {
+light: { bg: '#F6F7F9', ink: '#15181D', muted: '#5D636E', line: '#E1E4E9', link: '#1D47B8', news: '#2357D9' },
+dark: { bg: '#15181D', ink: '#ECEEF1', muted: '#A0A7B2', line: '#2E333B', link: '#9DB6FF', news: '#86A6FF' }
+};
+return { t: themes[this.props.mode] || themes.light };
+}
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,1346 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "175",
+   "name": "Pörssisivut",
+   "subpagecount": "2",
+   "prevpg": "174",
+   "nextpg": "176",
+   "toptype": "group",
+   "time": "2026-10-21T18:50:03",
+   "utctime": "2026-10-21T15:50:03",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 21.10. 18:34        "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "         P Ö R S S I S I V U T          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " 175 Sisällysluettelo ja ohjeet         "
+        },
+        {
+         "number": "7",
+         "Text": " 176 OMX Helsinki Large Cap             "
+        },
+        {
+         "number": "8",
+         "Text": " 177 OMX Helsinki Mid Cap               "
+        },
+        {
+         "number": "9",
+         "Text": " 178 OMX Helsinki Small Cap             "
+        },
+        {
+         "number": "10",
+         "Text": " 180 Yhteenveto                         "
+        },
+        {
+         "number": "11",
+         "Text": " 181 Osakerahastot A-E                  "
+        },
+        {
+         "number": "12",
+         "Text": " 182 Osakerahastot F-H                  "
+        },
+        {
+         "number": "13",
+         "Text": " 183 Osakerahastot I-N                  "
+        },
+        {
+         "number": "14",
+         "Text": " 184 Osakerahastot O-Z                  "
+        },
+        {
+         "number": "15",
+         "Text": " 185 Yhdistelmärahastot                 "
+        },
+        {
+         "number": "16",
+         "Text": " 186 Korkorahastot                      "
+        },
+        {
+         "number": "17",
+         "Text": " 187 Vaihtoehtoiset ja                  "
+        },
+        {
+         "number": "18",
+         "Text": "     kiinteistörahastot                 "
+        },
+        {
+         "number": "19",
+         "Text": " 172 Prime-korot                        "
+        },
+        {
+         "number": "20",
+         "Text": " 188-189 Nord Pool: pörssisähkö         "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 13 206,91  ( +0,64 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 21.10. 18:34        "
+        },
+        {
+         "number": "2",
+         "Text": "{CG}{GCyan}  ~}4                                 "
+        },
+        {
+         "number": "3",
+         "Text": "{CG}{Blue}{NB}{GCyan}j5${SG}{White}P Ö R S S I S I V U T          "
+        },
+        {
+         "number": "4",
+         "Text": "{CG}{GCyan}  */%                                 "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": " 175{Cyan}Sisällysluettelo ja ohjeet         "
+        },
+        {
+         "number": "7",
+         "Text": " 176{Cyan}OMX Helsinki Large Cap             "
+        },
+        {
+         "number": "8",
+         "Text": " 177{Cyan}OMX Helsinki Mid Cap               "
+        },
+        {
+         "number": "9",
+         "Text": " 178{Cyan}OMX Helsinki Small Cap             "
+        },
+        {
+         "number": "10",
+         "Text": " 180{Cyan}Yhteenveto                         "
+        },
+        {
+         "number": "11",
+         "Text": " 181{Cyan}Osakerahastot A-E                  "
+        },
+        {
+         "number": "12",
+         "Text": " 182{Cyan}Osakerahastot F-H                  "
+        },
+        {
+         "number": "13",
+         "Text": " 183{Cyan}Osakerahastot I-N                  "
+        },
+        {
+         "number": "14",
+         "Text": " 184{Cyan}Osakerahastot O-Z                  "
+        },
+        {
+         "number": "15",
+         "Text": " 185{Cyan}Yhdistelmärahastot                 "
+        },
+        {
+         "number": "16",
+         "Text": " 186{Cyan}Korkorahastot                      "
+        },
+        {
+         "number": "17",
+         "Text": "{White}187{Cyan}Vaihtoehtoiset ja                  "
+        },
+        {
+         "number": "18",
+         "Text": "    {Cyan}kiinteistörahastot                 "
+        },
+        {
+         "number": "19",
+         "Text": "{Yellow}172{Cyan}Prime-korot                        "
+        },
+        {
+         "number": "20",
+         "Text": "{Yellow}188-189{Cyan}Nord Pool: pörssisähkö         "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 13 206,91  ({Yellow}+0,64{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 21.10. 18:34        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "33"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "31",
+           "Text": "P Ö R S S I S I V U T          "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "33"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "175",
+           "length": "3",
+           "Text": "175"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Sisällysluettelo ja ohjeet         "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "176",
+           "length": "3",
+           "Text": "176"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "OMX Helsinki Large Cap             "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "177",
+           "length": "3",
+           "Text": "177"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "OMX Helsinki Mid Cap               "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "178",
+           "length": "3",
+           "Text": "178"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "OMX Helsinki Small Cap             "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "180",
+           "length": "3",
+           "Text": "180"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Yhteenveto                         "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "181",
+           "length": "3",
+           "Text": "181"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Osakerahastot A-E                  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "182",
+           "length": "3",
+           "Text": "182"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Osakerahastot F-H                  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "183",
+           "length": "3",
+           "Text": "183"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Osakerahastot I-N                  "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "184",
+           "length": "3",
+           "Text": "184"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Osakerahastot O-Z                  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "185",
+           "length": "3",
+           "Text": "185"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Yhdistelmärahastot                 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "186",
+           "length": "3",
+           "Text": "186"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Korkorahastot                      "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "187",
+           "length": "3",
+           "Text": "187"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Vaihtoehtoiset ja                  "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "kiinteistörahastot                 "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "172",
+           "length": "3",
+           "Text": "172"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "35",
+           "Text": "Prime-korot                        "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "188",
+           "length": "3",
+           "Text": "188"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "189",
+           "length": "3",
+           "Text": "189"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "31",
+           "Text": "Nord Pool: pörssisähkö         "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "OMXH 13 "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "link": "206",
+           "length": "3",
+           "Text": "206"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "7",
+           "Text": ",91  ( "
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "6",
+           "Text": "+0,64 "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "7",
+           "Text": ")      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Helsingin Pörssi 21.10. 18:34        "
+        },
+        {
+         "number": "2",
+         "Text": " Pörssisivuilla nousevien kurssien      "
+        },
+        {
+         "number": "3",
+         "Text": " muutosprosenttia merkitään keltaisella "
+        },
+        {
+         "number": "4",
+         "Text": " ja laskevien sinisellä.                "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Sivuilla käytetään seuraavia lyhenteitä"
+        },
+        {
+         "number": "7",
+         "Text": "   T  - tuhat                           "
+        },
+        {
+         "number": "8",
+         "Text": "   M  - miljoona                        "
+        },
+        {
+         "number": "9",
+         "Text": "   KK - tuotteen päättymiskuukausi      "
+        },
+        {
+         "number": "10",
+         "Text": "   TH - tuotteen toteutushinta          "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " (T) nimen perässä merkitsee osakkeen   "
+        },
+        {
+         "number": "13",
+         "Text": " olevan tarkkailulistalla.              "
+        },
+        {
+         "number": "14",
+         "Text": " (S) nimen perässä merkitsee osakkeen   "
+        },
+        {
+         "number": "15",
+         "Text": " olevan senttiosake.                    "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Rahastosivuilla PV-sarake kertoo       "
+        },
+        {
+         "number": "18",
+         "Text": " tietojen päivityspäivän. Muut tiedot   "
+        },
+        {
+         "number": "19",
+         "Text": " ovat n. 20 min viivästettyjä. Sivujen  "
+        },
+        {
+         "number": "20",
+         "Text": " päivitysväli riippuu kaupankäynnin     "
+        },
+        {
+         "number": "21",
+         "Text": " aktiivisuudesta.                       "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         OMXH 13 206,91  ( +0,64 )      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Helsingin Pörssi 21.10. 18:34        "
+        },
+        {
+         "number": "2",
+         "Text": " Pörssisivuilla nousevien kurssien      "
+        },
+        {
+         "number": "3",
+         "Text": " muutosprosenttia merkitään{Yellow}keltaisella "
+        },
+        {
+         "number": "4",
+         "Text": " ja laskevien{Cyan}sinisellä.                "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": " Sivuilla käytetään seuraavia lyhenteitä"
+        },
+        {
+         "number": "7",
+         "Text": "   T  - tuhat                           "
+        },
+        {
+         "number": "8",
+         "Text": "   M  - miljoona                        "
+        },
+        {
+         "number": "9",
+         "Text": "   KK - tuotteen päättymiskuukausi      "
+        },
+        {
+         "number": "10",
+         "Text": "   TH - tuotteen toteutushinta          "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": " (T) nimen perässä merkitsee osakkeen   "
+        },
+        {
+         "number": "13",
+         "Text": " olevan tarkkailulistalla.              "
+        },
+        {
+         "number": "14",
+         "Text": " (S) nimen perässä merkitsee osakkeen   "
+        },
+        {
+         "number": "15",
+         "Text": " olevan senttiosake.                    "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": " Rahastosivuilla PV-sarake kertoo       "
+        },
+        {
+         "number": "18",
+         "Text": " tietojen päivityspäivän. Muut tiedot   "
+        },
+        {
+         "number": "19",
+         "Text": " ovat n. 20 min viivästettyjä. Sivujen  "
+        },
+        {
+         "number": "20",
+         "Text": " päivitysväli riippuu kaupankäynnin     "
+        },
+        {
+         "number": "21",
+         "Text": " aktiivisuudesta.                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Cyan}      OMXH 13 206,91  ({Yellow}+0,64{Cyan})      "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Helsingin Pörssi 21.10. 18:34        "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pörssisivuilla nousevien kurssien      "
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "28",
+           "Text": " muutosprosenttia merkitään "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "12",
+           "Text": "keltaisella "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "14",
+           "Text": " ja laskevien "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "26",
+           "Text": "sinisellä.                "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Sivuilla käytetään seuraavia lyhenteitä"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   T  - tuhat                           "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   M  - miljoona                        "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   KK - tuotteen päättymiskuukausi      "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "   TH - tuotteen toteutushinta          "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " (T) nimen perässä merkitsee osakkeen   "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " olevan tarkkailulistalla.              "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " (S) nimen perässä merkitsee osakkeen   "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " olevan senttiosake.                    "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Rahastosivuilla PV-sarake kertoo       "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tietojen päivityspäivän. Muut tiedot   "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ovat n. 20 min viivästettyjä. Sivujen  "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " päivitysväli riippuu kaupankäynnin     "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " aktiivisuudesta.                       "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "8"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "8",
+           "Text": "OMXH 13 "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "link": "206",
+           "length": "3",
+           "Text": "206"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "7",
+           "Text": ",91  ( "
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "6",
+           "Text": "+0,64 "
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "7",
+           "Text": ")      "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,981 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "254",
+   "name": "",
+   "subpagecount": "2",
+   "prevpg": "253",
+   "nextpg": "256",
+   "toptype": "normal",
+   "time": "2026-10-22T00:00:34",
+   "utctime": "2026-10-21T21:00:34",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   LENTOPALLO   NAISET/LIIGA        1/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " LP-Vampula    5  2  3  0  0 15-8  12   "
+        },
+        {
+         "number": "4",
+         "Text": " Kuusamo       5  4  0  0  1 13-5  12   "
+        },
+        {
+         "number": "5",
+         "Text": " Puijo Wolley  5  3  1  0  1 13-6  11   "
+        },
+        {
+         "number": "6",
+         "Text": " ArVo          6  2  1  1  2 12-13  9   "
+        },
+        {
+         "number": "7",
+         "Text": " Pihtipudas    4  2  0  1  1  9-7   7   "
+        },
+        {
+         "number": "8",
+         "Text": " Kangasala     4  1  0  2  1  8-9   5   "
+        },
+        {
+         "number": "9",
+         "Text": " LP Viesti     3  1  0  1  1  5-7   4   "
+        },
+        {
+         "number": "10",
+         "Text": " JymyVolley    5  1  0  1  3  7-12  4   "
+        },
+        {
+         "number": "11",
+         "Text": " PuMa          4  1  0  0  3  4-10  3   "
+        },
+        {
+         "number": "12",
+         "Text": " OrPo          5  0  1  0  4  5-14  2   "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Runkosarjassa pelataan 27 kierrosta    "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}LENTOPALLO {NB}{White}NAISET/LIIGA        1/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{White}LP-Vampula    5  2  3  0  0 15-8  12   "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Kuusamo       5  4  0  0  1 13-5  12   "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Puijo Wolley  5  3  1  0  1 13-6  11   "
+        },
+        {
+         "number": "6",
+         "Text": "{White}ArVo          6  2  1  1  2 12-13  9   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Pihtipudas    4  2  0  1  1  9-7   7   "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Kangasala     4  1  0  2  1  8-9   5   "
+        },
+        {
+         "number": "9",
+         "Text": "{White}LP Viesti     3  1  0  1  1  5-7   4   "
+        },
+        {
+         "number": "10",
+         "Text": "{White}JymyVolley    5  1  0  1  3  7-12  4   "
+        },
+        {
+         "number": "11",
+         "Text": "{White}PuMa          4  1  0  0  3  4-10  3   "
+        },
+        {
+         "number": "12",
+         "Text": "{White}OrPo          5  0  1  0  4  5-14  2   "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}Runkosarjassa pelataan 27 kierrosta    "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "LENTOPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "NAISET/LIIGA        1/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " LP-Vampula    5  2  3  0  0 15-8  12   "
+         }
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kuusamo       5  4  0  0  1 13-5  12   "
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Puijo Wolley  5  3  1  0  1 13-6  11   "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ArVo          6  2  1  1  2 12-13  9   "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pihtipudas    4  2  0  1  1  9-7   7   "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kangasala     4  1  0  2  1  8-9   5   "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " LP Viesti     3  1  0  1  1  5-7   4   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " JymyVolley    5  1  0  1  3  7-12  4   "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " PuMa          4  1  0  0  3  4-10  3   "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " OrPo          5  0  1  0  4  5-14  2   "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Runkosarjassa pelataan 27 kierrosta    "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   LENTOPALLO   NAISET/LIIGA        2/2 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " pe 23.10.                              "
+        },
+        {
+         "number": "4",
+         "Text": " PuMa         - Puijo Wolley  klo 18.30 "
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " su 25.10.                              "
+        },
+        {
+         "number": "7",
+         "Text": " OrPo         - Kangasala     klo 17.00 "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " ti 27.10.                              "
+        },
+        {
+         "number": "10",
+         "Text": " Pihtipudas   - JymyVolley    klo 18.30 "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " ke 28.10.                              "
+        },
+        {
+         "number": "13",
+         "Text": " LP Viesti    - Puijo Wolley  klo 18.30 "
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15",
+         "Text": " to 29.10.                              "
+        },
+        {
+         "number": "16",
+         "Text": " ArVo         - PuMa          klo 18.30 "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " la 31.10.                              "
+        },
+        {
+         "number": "19",
+         "Text": " OrPo         - LP Viesti     klo 17.00 "
+        },
+        {
+         "number": "20",
+         "Text": " Pihtipudas   - LP-Vampula    klo 17.00 "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}LENTOPALLO {NB}{White}NAISET/LIIGA        2/2 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}pe 23.10.                              "
+        },
+        {
+         "number": "4",
+         "Text": "{White}PuMa         - Puijo Wolley {Cyan}klo 18.30 "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}su 25.10.                              "
+        },
+        {
+         "number": "7",
+         "Text": "{White}OrPo         - Kangasala    {Cyan}klo 17.00 "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{Green}ti 27.10.                              "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Pihtipudas   - JymyVolley   {Cyan}klo 18.30 "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}ke 28.10.                              "
+        },
+        {
+         "number": "13",
+         "Text": "{White}LP Viesti    - Puijo Wolley {Cyan}klo 18.30 "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}to 29.10.                              "
+        },
+        {
+         "number": "16",
+         "Text": "{White}ArVo         - PuMa         {Cyan}klo 18.30 "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}la 31.10.                              "
+        },
+        {
+         "number": "19",
+         "Text": "{White}OrPo         - LP Viesti    {Cyan}klo 17.00 "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Pihtipudas   - LP-Vampula   {Cyan}klo 17.00 "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "LENTOPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "NAISET/LIIGA        2/2 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "pe 23.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " PuMa         - Puijo Wolley  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "su 25.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " OrPo         - Kangasala     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 17.00 "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ti 27.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Pihtipudas   - JymyVolley    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ke 28.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " LP Viesti    - Puijo Wolley  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "to 29.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " ArVo         - PuMa          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "la 31.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " OrPo         - LP Viesti     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 17.00 "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Pihtipudas   - LP-Vampula    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 17.00 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

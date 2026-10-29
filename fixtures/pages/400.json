@@ -1,0 +1,1588 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "400",
+   "name": "Sää liikenne",
+   "subpagecount": "1",
+   "prevpg": "399",
+   "nextpg": "401",
+   "toptype": "block",
+   "time": "2026-04-21T19:48:51",
+   "utctime": "2026-04-21T16:48:51",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4",
+         "Text": " 401 Säätiedotus                        "
+        },
+        {
+         "number": "5",
+         "Text": " 402 Sää maa-asemilla                   "
+        },
+        {
+         "number": "6",
+         "Text": "     ja lämpötiloja ulkomailla          "
+        },
+        {
+         "number": "7",
+         "Text": " 403 Sää merellä                        "
+        },
+        {
+         "number": "8",
+         "Text": " 404 Rannikkoasemat, meriveden korkeus  "
+        },
+        {
+         "number": "9",
+         "Text": " 405 Viiden vuorokauden sää             "
+        },
+        {
+         "number": "10",
+         "Text": " 406-407 Sää paikkakunnittain:          "
+        },
+        {
+         "number": "11",
+         "Text": "     tänään & 3 vrk (selitteet 419)     "
+        },
+        {
+         "number": "12",
+         "Text": " 408 Sää:ennusteet Eurooppa; muu maailma"
+        },
+        {
+         "number": "13",
+         "Text": " 409 Sää: ennakkovaroitukset            "
+        },
+        {
+         "number": "14",
+         "Text": " 410-417 Tiesää ja tietyöt              "
+        },
+        {
+         "number": "15",
+         "Text": " 418 Siitepölytilanne, UV-indeksi       "
+        },
+        {
+         "number": "16",
+         "Text": " 420 Rinne- & latutiedot, bikeparkit    "
+        },
+        {
+         "number": "17",
+         "Text": " 424 Ilmanlaatu                         "
+        },
+        {
+         "number": "18",
+         "Text": " 425 Tampereen, Turun ja Oulun lennot   "
+        },
+        {
+         "number": "19",
+         "Text": " 426-427 Helsinki-Vantaan lennot        "
+        },
+        {
+         "number": "20",
+         "Text": " 428-429 Lentosää                       "
+        },
+        {
+         "number": "21",
+         "Text": " 460 RAVIT      470 VEIKKAUSSIVUT       "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "   592 Puolustusvoimien ampumatiedotteet"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GCyan}~}4{Blue}{GCyan} `l`,08d    `0\"p!a2   ` p   {White}     "
+        },
+        {
+         "number": "2",
+         "Text": "{GCyan}j5${GBlue}{NB}{GCyan}-nj 55j (, )dj,5=n  0jj,5        "
+        },
+        {
+         "number": "3",
+         "Text": "{GCyan}*/%   {GCyan}\" # \"!    #!\" !!b `ba\"0q00`` 0p0"
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}401{White}Säätiedotus       {GCyan}j jjjf = 7nj)5= "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}402{White}Sää maa-asemilla{GCyan}  \"#\"\"\" !#!!\"\" !#!"
+        },
+        {
+         "number": "6",
+         "Text": "{White}    ja lämpötiloja ulkomailla          "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}403{White}Sää merellä                        "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}404{White}Rannikkoasemat, meriveden korkeus  "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}405{White}Viiden vuorokauden sää             "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}406-407{White}Sää paikkakunnittain:          "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}   {Green}tänään{White}&{Green}3 vrk{White}(selitteet{Cyan}419)     "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}408{White}Sää:ennusteet Eurooppa; muu maailma"
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}409{White}Sää: ennakkovaroitukset            "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}410-417{White}Tiesää ja tietyöt              "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}418{White}Siitepölytilanne, UV-indeksi       "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}420{White}Rinne- & latutiedot, bikeparkit    "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}424{White}Ilmanlaatu                         "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}425{White}Tampereen, Turun ja Oulun lennot   "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}426-427{White}Helsinki-Vantaan lennot        "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}428-429{White}Lentosää                       "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}460{White}RAVIT     {Cyan}470{White}VEIKKAUSSIVUT       "
+        },
+        {
+         "number": "22",
+         "Text": "{GCyan},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}592 Puolustusvoimien ampumatiedotteet"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ch",
+           "length": "1",
+           "Text": "l"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "61h",
+           "length": "1",
+           "Text": "a"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "32h",
+           "length": "1",
+           "Text": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Dh",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Eh",
+           "length": "1",
+           "Text": "n"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "2",
+           "Text": "55"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Eh",
+           "length": "1",
+           "Text": "n"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "2",
+           "Text": "jj"
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "blue",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "blue",
+           "fg": "cyan",
+           "length": "8"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "62h",
+           "length": "1",
+           "Text": "b"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "62h",
+           "length": "1",
+           "Text": "b"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "61h",
+           "length": "1",
+           "Text": "a"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "71h",
+           "length": "1",
+           "Text": "q"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "2",
+           "Text": "00"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "60h",
+           "length": "2",
+           "Text": "``"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "401",
+           "length": "3",
+           "Text": "401"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "Säätiedotus        "
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "3",
+           "Text": "jjj"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "66h",
+           "length": "1",
+           "Text": "f"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Eh",
+           "length": "1",
+           "Text": "n"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "29h",
+           "length": "1",
+           "Text": ")"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "3Dh",
+           "length": "1",
+           "Text": "="
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "402",
+           "length": "3",
+           "Text": "402"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "19",
+           "Text": "Sää maa-asemilla   "
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "3",
+           "Text": "\"\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "2",
+           "Text": "!!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "     ja lämpötiloja ulkomailla          "
+         }
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "403",
+           "length": "3",
+           "Text": "403"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Sää merellä                        "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "404",
+           "length": "3",
+           "Text": "404"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Rannikkoasemat, meriveden korkeus  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "405",
+           "length": "3",
+           "Text": "405"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Viiden vuorokauden sää             "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "406",
+           "length": "3",
+           "Text": "406"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "407",
+           "length": "3",
+           "Text": "407"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Sää paikkakunnittain:          "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "tänään "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2",
+           "Text": "& "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "6",
+           "Text": "3 vrk "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "(selitteet "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "419",
+           "length": "3",
+           "Text": "419"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "6",
+           "Text": ")     "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "408",
+           "length": "3",
+           "Text": "408"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Sää:ennusteet Eurooppa; muu maailma"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "409",
+           "length": "3",
+           "Text": "409"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Sää: ennakkovaroitukset            "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "410",
+           "length": "3",
+           "Text": "410"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "417",
+           "length": "3",
+           "Text": "417"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Tiesää ja tietyöt              "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "418",
+           "length": "3",
+           "Text": "418"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Siitepölytilanne, UV-indeksi       "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "420",
+           "length": "3",
+           "Text": "420"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Rinne- & latutiedot, bikeparkit    "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "424",
+           "length": "3",
+           "Text": "424"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Ilmanlaatu                         "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "425",
+           "length": "3",
+           "Text": "425"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Tampereen, Turun ja Oulun lennot   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "426",
+           "length": "3",
+           "Text": "426"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "427",
+           "length": "3",
+           "Text": "427"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Helsinki-Vantaan lennot        "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "428",
+           "length": "3",
+           "Text": "428"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "429",
+           "length": "3",
+           "Text": "429"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": "Lentosää                       "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "460",
+           "length": "3",
+           "Text": "460"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "11",
+           "Text": "RAVIT      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "470",
+           "length": "3",
+           "Text": "470"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": "VEIKKAUSSIVUT       "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gcyan",
+           "charcode": "2Ch",
+           "length": "39",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "592",
+           "length": "3",
+           "Text": "592"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": " Puolustusvoimien ampumatiedotteet"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

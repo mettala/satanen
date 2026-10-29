@@ -1,0 +1,3816 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "426",
+   "name": "",
+   "subpagecount": "4",
+   "prevpg": "425",
+   "nextpg": "427",
+   "toptype": "normal",
+   "time": "2026-10-25T17:32:13",
+   "utctime": "2026-10-25T15:32:13",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            HELSINKI-VANTAA         1/4 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "   16:10 Mancheste AY1365 Sulj       200"
+        },
+        {
+         "number": "4",
+         "Text": "   16:50 New York  AY015  Läht 17:04 200"
+        },
+        {
+         "number": "5",
+         "Text": "   17:00 Osaka     AY067  Läht 17:03 200"
+        },
+        {
+         "number": "6",
+         "Text": "   17:00 Frankfurt AY1415 Läht 17:06 200"
+        },
+        {
+         "number": "7",
+         "Text": "   17:05 Krakova   AY1165 Läht 17:05 200"
+        },
+        {
+         "number": "8",
+         "Text": "   17:10 Budapest  AY1255 Läht 17:28 200"
+        },
+        {
+         "number": "9",
+         "Text": "   17:10 Hampuri   AY1425 Läht 17:07 200"
+        },
+        {
+         "number": "10",
+         "Text": "   17:20 Tukholma  SK709  Läht 17:24 400"
+        },
+        {
+         "number": "11",
+         "Text": "   17:25 Bangkok   AY143  Sulj       200"
+        },
+        {
+         "number": "12",
+         "Text": "   17:30 Tokio     JL048  Sulj       100"
+        },
+        {
+         "number": "13",
+         "Text": "   17:30 Tromsö    AY945  Läht 17:24 200"
+        },
+        {
+         "number": "14",
+         "Text": "   17:35 Pariisi C AF1071 Läht 17:30 300"
+        },
+        {
+         "number": "15",
+         "Text": "   17:35 Frankfurt VL851  Sulj       400"
+        },
+        {
+         "number": "16",
+         "Text": "   17:35 Praha     AY1223 Sulj       200"
+        },
+        {
+         "number": "17",
+         "Text": "   17:35 Ivalo     AY607  Port       200"
+        },
+        {
+         "number": "18",
+         "Text": "   17:35 Soul      AY041  Sulj       200"
+        },
+        {
+         "number": "19",
+         "Text": "   17:40 Kajaani   AY415  Sulj       200"
+        },
+        {
+         "number": "20",
+         "Text": "   17:50 Berliini  AY1435 Sulj       200"
+        },
+        {
+         "number": "21",
+         "Text": "   17:50 Varsova C AY1145 Port       200"
+        },
+        {
+         "number": "22",
+         "Text": "   17:55 Kööpenham AY961  Lähd       200"
+        },
+        {
+         "number": "23",
+         "Text": "   18:00 Delhi     AY121  Lähd       200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         HELSINKI-VANTAA         1/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}16:10 Mancheste AY1365 Sulj       200"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}16:50 New York  AY015  Läht 17:04 200"
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}17:00 Osaka     AY067  Läht 17:03 200"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}17:00 Frankfurt AY1415 Läht 17:06 200"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}17:05 Krakova   AY1165 Läht 17:05 200"
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}17:10 Budapest  AY1255 Läht 17:28 200"
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}17:10 Hampuri   AY1425 Läht 17:07 200"
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}17:20 Tukholma  SK709  Läht 17:24 400"
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}17:25 Bangkok   AY143  Sulj       200"
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}17:30 Tokio     JL048  Sulj       100"
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}17:30 Tromsö    AY945  Läht 17:24 200"
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}17:35 Pariisi C AF1071 Läht 17:30 300"
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}17:35 Frankfurt VL851  Sulj       400"
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}17:35 Praha     AY1223 Sulj       200"
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}17:35 Ivalo     AY607  Port       200"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}17:35 Soul      AY041  Sulj       200"
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}17:40 Kajaani   AY415  Sulj       200"
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}17:50 Berliini  AY1435 Sulj       200"
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}17:50 Varsova C AY1145 Port       200"
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}{NB}{Blue}17:55 Kööpenham AY961  Lähd       200"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}18:00 Delhi     AY121  Lähd       200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "HELSINKI-VANTAA         1/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures        C  "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "16:10 Mancheste AY1365 Sulj       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "16:50 New York  AY015  Läht 17:04 "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:00 Osaka     AY067  Läht 17:03 "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "17:00 Frankfurt AY1415 Läht 17:06 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "17:05 Krakova   AY1165 Läht 17:05 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:10 Budapest  AY1255 Läht 17:28 "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:10 Hampuri   AY1425 Läht 17:07 "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "17:20 Tukholma  SK"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "709",
+           "length": "3",
+           "Text": "709"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13",
+           "Text": "  Läht 17:24 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "17:25 Bangkok   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "143",
+           "length": "3",
+           "Text": "143"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13",
+           "Text": "  Sulj       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:30 Tokio     JL048  Sulj       "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "100",
+           "length": "3",
+           "Text": "100"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:30 Tromsö    AY945  Läht 17:24 "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "17:35 Pariisi C AF1071 Läht 17:30 "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "17:35 Frankfurt VL"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "851",
+           "length": "3",
+           "Text": "851"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13",
+           "Text": "  Sulj       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:35 Praha     AY1223 Sulj       "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "17:35 Ivalo     AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "607",
+           "length": "3",
+           "Text": "607"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13",
+           "Text": "  Port       "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "17:35 Soul      AY041  Sulj       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "17:40 Kajaani   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "415",
+           "length": "3",
+           "Text": "415"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13",
+           "Text": "  Sulj       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:50 Berliini  AY1435 Sulj       "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "17:50 Varsova C AY1145 Port       "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "17:55 Kööpenham AY961  Lähd       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "18:00 Delhi     AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "121",
+           "length": "3",
+           "Text": "121"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13",
+           "Text": "  Lähd       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            HELSINKI-VANTAA         2/4 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "   18:00 Tokio     AY061  Viim       200"
+        },
+        {
+         "number": "4",
+         "Text": "   18:00 Tukholma  D82614 Lähd       400"
+        },
+        {
+         "number": "5",
+         "Text": "   18:10 Kuusamo   AY487             200"
+        },
+        {
+         "number": "6",
+         "Text": "   18:20 Amsterdam KL1254 Peru       300"
+        },
+        {
+         "number": "7",
+         "Text": "   18:30 Vaasa     AY317             200"
+        },
+        {
+         "number": "8",
+         "Text": "   18:35 Göteborg  AY867             200"
+        },
+        {
+         "number": "9",
+         "Text": "   18:45 Alicante  FR2617            400"
+        },
+        {
+         "number": "10",
+         "Text": "   19:00 Kalamata  A3413             300"
+        },
+        {
+         "number": "11",
+         "Text": "   19:05 Istanbul  TK1764            100"
+        },
+        {
+         "number": "12",
+         "Text": "   19:15 Vilna     AY1107            200"
+        },
+        {
+         "number": "13",
+         "Text": "   19:25 Oslo      D82085            400"
+        },
+        {
+         "number": "14",
+         "Text": "   19:30 Oslo      AY917             200"
+        },
+        {
+         "number": "15",
+         "Text": "   19:30 Wien      FR9856            400"
+        },
+        {
+         "number": "16",
+         "Text": "   19:30 München   LH2463 Arvi 19:40 400"
+        },
+        {
+         "number": "17",
+         "Text": "   19:35 Lontoo He AY1339            200"
+        },
+        {
+         "number": "18",
+         "Text": "   19:35 Beijing D CZ8172            300"
+        },
+        {
+         "number": "19",
+         "Text": "   19:50 Malaga    AY1673            200"
+        },
+        {
+         "number": "20",
+         "Text": "   20:30 Pariisi C AY1581            200"
+        },
+        {
+         "number": "21",
+         "Text": "   20:30 Rovaniemi AY543             200"
+        },
+        {
+         "number": "22",
+         "Text": "   20:30 Tukholma  AY819             200"
+        },
+        {
+         "number": "23",
+         "Text": "   20:40 Riika     AY1077            200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         HELSINKI-VANTAA         2/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}18:00 Tokio     AY061  Viim       200"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}18:00 Tukholma  D82614 Lähd       400"
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}18:10 Kuusamo   AY487             200"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}18:20 Amsterdam KL1254 Peru       300"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}18:30 Vaasa     AY317             200"
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}18:35 Göteborg  AY867             200"
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}18:45 Alicante  FR2617            400"
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}19:00 Kalamata  A3413             300"
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}19:05 Istanbul  TK1764            100"
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}19:15 Vilna     AY1107            200"
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}19:25 Oslo      D82085            400"
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}19:30 Oslo      AY917             200"
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}19:30 Wien      FR9856            400"
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}19:30 München   LH2463 Arvi 19:40 400"
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}19:35 Lontoo He AY1339            200"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}19:35 Beijing D CZ8172            300"
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}19:50 Malaga    AY1673            200"
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}20:30 Pariisi C AY1581            200"
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}20:30 Rovaniemi AY543             200"
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}{NB}{Blue}20:30 Tukholma  AY819             200"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}20:40 Riika     AY1077            200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "HELSINKI-VANTAA         2/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures        C  "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "18:00 Tokio     AY061  Viim       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "18:00 Tukholma  D82614 Lähd       "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "18:10 Kuusamo   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "487",
+           "length": "3",
+           "Text": "487"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "18:20 Amsterdam KL1254 Peru       "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "18:30 Vaasa     AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "317",
+           "length": "3",
+           "Text": "317"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "18:35 Göteborg  AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "867",
+           "length": "3",
+           "Text": "867"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "18:45 Alicante  FR2617            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "19:00 Kalamata  A3413             "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "19:05 Istanbul  TK1764            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "100",
+           "length": "3",
+           "Text": "100"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "19:15 Vilna     AY1107            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "19:25 Oslo      D82085            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "19:30 Oslo      AY917             "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "19:30 Wien      FR9856            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "19:30 München   LH2463 Arvi 19:40 "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "19:35 Lontoo He AY1339            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "19:35 Beijing D CZ8172            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "19:50 Malaga    AY1673            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "20:30 Pariisi C AY1581            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "20:30 Rovaniemi AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "543",
+           "length": "3",
+           "Text": "543"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "20:30 Tukholma  AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "819",
+           "length": "3",
+           "Text": "819"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "20:40 Riika     AY1077            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            HELSINKI-VANTAA         3/4 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "   20:45 Berliini  EW8231            400"
+        },
+        {
+         "number": "4",
+         "Text": "   20:45 Tallinna  AY1027            200"
+        },
+        {
+         "number": "5",
+         "Text": "   20:50 Oulu      AY445             200"
+        },
+        {
+         "number": "6",
+         "Text": "   20:50 Bryssel   AY1549            200"
+        },
+        {
+         "number": "7",
+         "Text": "   20:55 Ivalo     AY611             200"
+        },
+        {
+         "number": "8",
+         "Text": "   21:00 Kööpenham SK1717            400"
+        },
+        {
+         "number": "9",
+         "Text": "   21:05 Maarianha AY213             200"
+        },
+        {
+         "number": "10",
+         "Text": "   21:05 Tukholma  D82616            400"
+        },
+        {
+         "number": "11",
+         "Text": "   21:10 Lontoo St FR9144            400"
+        },
+        {
+         "number": "12",
+         "Text": "   21:35 Riika     BT308             400"
+        },
+        {
+         "number": "13",
+         "Text": "   21:40 Tallinna  AY1031            200"
+        },
+        {
+         "number": "14",
+         "Text": "   22:45 Bergamo   FR3393            400"
+        },
+        {
+         "number": "15",
+         "Text": "   23:00 Kemi      AY511             200"
+        },
+        {
+         "number": "16",
+         "Text": "   23:15 Kööpenham AY963             200"
+        },
+        {
+         "number": "17",
+         "Text": "   23:35 Rovaniemi AY539             200"
+        },
+        {
+         "number": "18",
+         "Text": "   23:40 Kajaani   AY419             200"
+        },
+        {
+         "number": "19",
+         "Text": "   23:40 Jyväskylä AY289             200"
+        },
+        {
+         "number": "20",
+         "Text": "   23:40 Joensuu   AY349             200"
+        },
+        {
+         "number": "21",
+         "Text": "   23:45 Nagoya    AY079             200"
+        },
+        {
+         "number": "22",
+         "Text": "   23:50 Tampere   AY269             200"
+        },
+        {
+         "number": "23",
+         "Text": "   23:50 Tallinna  AY7153            200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         HELSINKI-VANTAA         3/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}20:45 Berliini  EW8231            400"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}20:45 Tallinna  AY1027            200"
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}20:50 Oulu      AY445             200"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}20:50 Bryssel   AY1549            200"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}20:55 Ivalo     AY611             200"
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}21:00 Kööpenham SK1717            400"
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}21:05 Maarianha AY213             200"
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}21:05 Tukholma  D82616            400"
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}21:10 Lontoo St FR9144            400"
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}21:35 Riika     BT308             400"
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}21:40 Tallinna  AY1031            200"
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}22:45 Bergamo   FR3393            400"
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}23:00 Kemi      AY511             200"
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}23:15 Kööpenham AY963             200"
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}23:35 Rovaniemi AY539             200"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}23:40 Kajaani   AY419             200"
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}23:40 Jyväskylä AY289             200"
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}23:40 Joensuu   AY349             200"
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}23:45 Nagoya    AY079             200"
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}{NB}{Blue}23:50 Tampere   AY269             200"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}23:50 Tallinna  AY7153            200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "HELSINKI-VANTAA         3/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures        C  "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "20:45 Berliini  EW8231            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "20:45 Tallinna  AY1027            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "20:50 Oulu      AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "445",
+           "length": "3",
+           "Text": "445"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "20:50 Bryssel   AY1549            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "20:55 Ivalo     AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "611",
+           "length": "3",
+           "Text": "611"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "21:00 Kööpenham SK1717            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "21:05 Maarianha AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "213",
+           "length": "3",
+           "Text": "213"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "21:05 Tukholma  D82616            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "21:10 Lontoo St FR9144            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "21:35 Riika     BT"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "308",
+           "length": "3",
+           "Text": "308"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "21:40 Tallinna  AY1031            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "22:45 Bergamo   FR3393            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "23:00 Kemi      AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "511",
+           "length": "3",
+           "Text": "511"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "23:15 Kööpenham AY963             "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "23:35 Rovaniemi AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "539",
+           "length": "3",
+           "Text": "539"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "23:40 Kajaani   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "419",
+           "length": "3",
+           "Text": "419"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "23:40 Jyväskylä AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "289",
+           "length": "3",
+           "Text": "289"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "23:40 Joensuu   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "349",
+           "length": "3",
+           "Text": "349"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "23:45 Nagoya    AY079             "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "23:50 Tampere   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "269",
+           "length": "3",
+           "Text": "269"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "23:50 Tallinna  AY7153            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            HELSINKI-VANTAA         4/4 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "   23:50 Kuopio    AY375             200"
+        },
+        {
+         "number": "4",
+         "Text": "   23:50 Turku     AY229             200"
+        },
+        {
+         "number": "5",
+         "Text": "   23:55 Oulu      AY449             200"
+        },
+        {
+         "number": "6",
+         "Text": "   23:55 Kokkola/P AY395             200"
+        },
+        {
+         "number": "7",
+         "Text": "   00:05 Singapore AY131             200"
+        },
+        {
+         "number": "8",
+         "Text": "   00:15 Bangkok   AY145             200"
+        },
+        {
+         "number": "9",
+         "Text": "   00:20 Tartto    AY1045            200"
+        },
+        {
+         "number": "10",
+         "Text": "   00:40 Shanghai  AY087             200"
+        },
+        {
+         "number": "11",
+         "Text": "   00:50 Hong Kong AY099             200"
+        },
+        {
+         "number": "12",
+         "Text": "   05:30 Riika     BT326             400"
+        },
+        {
+         "number": "13",
+         "Text": "   05:45 Oulu      AY431             200"
+        },
+        {
+         "number": "14",
+         "Text": "   06:15 Rhodos    AY1861            200"
+        },
+        {
+         "number": "15",
+         "Text": "   06:15 Kööpenham SK1705            400"
+        },
+        {
+         "number": "16",
+         "Text": "   06:25 Malaga    AY1671            200"
+        },
+        {
+         "number": "17",
+         "Text": "   06:40 Amsterdam KL1248            300"
+        },
+        {
+         "number": "18",
+         "Text": "   06:40 Hampuri   AY1421            200"
+        },
+        {
+         "number": "19",
+         "Text": "   07:00 Tukholma  SK701             400"
+        },
+        {
+         "number": "20",
+         "Text": "   07:00 Tukholma  AY801             200"
+        },
+        {
+         "number": "21",
+         "Text": "   07:00 Berliini  AY1431            200"
+        },
+        {
+         "number": "22",
+         "Text": "   07:05 Frankfurt VL853             400"
+        },
+        {
+         "number": "23",
+         "Text": "   07:05 Rovaniemi AY531             200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         HELSINKI-VANTAA         4/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures        C  "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}23:50 Kuopio    AY375             200"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}23:50 Turku     AY229             200"
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}23:55 Oulu      AY449             200"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}23:55 Kokkola/P AY395             200"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}00:05 Singapore AY131             200"
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}00:15 Bangkok   AY145             200"
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}00:20 Tartto    AY1045            200"
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}00:40 Shanghai  AY087             200"
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}00:50 Hong Kong AY099             200"
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}05:30 Riika     BT326             400"
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}05:45 Oulu      AY431             200"
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}06:15 Rhodos    AY1861            200"
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}06:15 Kööpenham SK1705            400"
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}06:25 Malaga    AY1671            200"
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}06:40 Amsterdam KL1248            300"
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}06:40 Hampuri   AY1421            200"
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}07:00 Tukholma  SK701             400"
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}07:00 Tukholma  AY801             200"
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}07:00 Berliini  AY1431            200"
+        },
+        {
+         "number": "22",
+         "Text": "{Cyan}{NB}{Blue}07:05 Frankfurt VL853             400"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}{NB}{Blue}07:05 Rovaniemi AY531             200"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "HELSINKI-VANTAA         4/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures        C  "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "23:50 Kuopio    AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "375",
+           "length": "3",
+           "Text": "375"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "23:50 Turku     AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "229",
+           "length": "3",
+           "Text": "229"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "23:55 Oulu      AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "449",
+           "length": "3",
+           "Text": "449"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "23:55 Kokkola/P AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "395",
+           "length": "3",
+           "Text": "395"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "00:05 Singapore AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "131",
+           "length": "3",
+           "Text": "131"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "00:15 Bangkok   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "145",
+           "length": "3",
+           "Text": "145"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "00:20 Tartto    AY1045            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "00:40 Shanghai  AY087             "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "00:50 Hong Kong AY099             "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "05:30 Riika     BT"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "326",
+           "length": "3",
+           "Text": "326"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "05:45 Oulu      AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "431",
+           "length": "3",
+           "Text": "431"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "06:15 Rhodos    AY1861            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "06:15 Kööpenham SK1705            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "06:25 Malaga    AY1671            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "06:40 Amsterdam KL1248            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "300",
+           "length": "3",
+           "Text": "300"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "34",
+           "Text": "06:40 Hampuri   AY1421            "
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "07:00 Tukholma  SK"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "701",
+           "length": "3",
+           "Text": "701"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "18",
+           "Text": "07:00 Tukholma  AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "801",
+           "length": "3",
+           "Text": "801"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "13"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "34",
+           "Text": "07:00 Berliini  AY1431            "
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "07:05 Frankfurt VL"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "853",
+           "length": "3",
+           "Text": "853"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "400",
+           "length": "3",
+           "Text": "400"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "18",
+           "Text": "07:05 Rovaniemi AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "531",
+           "length": "3",
+           "Text": "531"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "13"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "200",
+           "length": "3",
+           "Text": "200"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

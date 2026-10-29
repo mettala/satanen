@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>Talous</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&amp;display=swap">
+<style>
+body{margin:0;font-family:'Schibsted Grotesk',system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+.clamp3{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; background: {{t.bg}}; color: {{t.ink}}; display: flex; flex-direction: column; font-family: 'Schibsted Grotesk', system-ui, sans-serif;">
+
+<div style="padding: 44px 8px 0; display: flex; align-items: center; gap: 4px;">
+<a href="03-valikko.dc.html" aria-label="Kaikki osastot" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; color: {{t.ink}};"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg></a>
+<div style="flex-grow: 1; font-size: 24px; line-height: 28px; font-weight: 800; letter-spacing: -0.02em;">Talous</div>
+<button aria-label="Päivitä Talous" style="width: 44px; height: 44px; border: 0; background: transparent; color: {{t.ink}}; display: flex; align-items: center; justify-content: center;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12a7 7 0 1 1-2.05-4.95"></path><path d="M19 4v4h-4"></path></svg></button>
+</div>
+
+
+<div style="flex-grow: 1; overflow: hidden; padding: 12px 20px 0; display: flex; flex-direction: column;">
+<div style="font-size: 13px; line-height: 18px; color: {{t.muted}}; font-variant-numeric: tabular-nums; padding-bottom: 4px;">Päivitetty 14:32</div>
+<sc-for list="{{items}}" as="it" hint-placeholder-count="3">
+<a href="09-artikkeli-virrasta.dc.html" style="display: flex; flex-direction: column; gap: 8px; padding: 16px 0; border-top: 1px solid {{t.line}};">
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; line-height: 16px; font-weight: 700; letter-spacing: 0.08em; color: {{it.c}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{it.c}};"></span>{{it.label}}</div>
+<div style="font-size: 24px; line-height: 28px; font-weight: 800; letter-spacing: -0.02em;">{{it.h}}</div>
+<div class="clamp3" style="font-size: 16px; line-height: 23px; color: {{t.muted}};">{{it.p}}</div>
+</a>
+</sc-for>
+<div aria-label="Ladataan" style="display: flex; flex-direction: column; gap: 8px; padding: 16px 0; border-top: 1px solid {{t.line}};">
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; line-height: 16px; font-weight: 700; letter-spacing: 0.08em; color: {{t.biz}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{t.biz}};"></span>TALOUS · 164</div>
+<div style="font-size: 24px; line-height: 28px; font-weight: 800; letter-spacing: -0.02em;">Elisa panostaa asiakaskokemukseen</div>
+<div style="height: 14px; border-radius: 6px; background: {{t.skeleton}}; margin-top: 4px;"></div>
+<div style="height: 14px; width: 70%; border-radius: 6px; background: {{t.skeleton}};"></div>
+</div>
+</div>
+
+<nav style="display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-top: 1px solid {{t.line}}; background: {{t.bg}}; padding: 8px 4px 26px;">
+<a href="01-etusivu.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11l8-7 8 7v8a1 1 0 0 1-1 1h-4v-6h-6v6H5a1 1 0 0 1-1-1z"></path></svg>Etusivu</a>
+<a href="08-uutisvirta.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"></rect><path d="M8 9h8M8 13h8M8 17h5"></path></svg>Uutiset</a>
+<a href="#" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="8"></circle><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"></path></svg>Urheilu</a>
+<a href="10-talous.dc.html" aria-current="page" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.biz}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17l5-5 4 3 7-7"></path><path d="M15 8h5v5"></path></svg>Talous</a>
+<a href="#" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18h10a4 4 0 0 0 0-8 6 6 0 0 0-11.5 1.5A3.3 3.3 0 0 0 7 18z"></path></svg>Sää</a>
+</nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"mode":{"editor":"enum","options":["light","dark"],"default":"light"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+renderVals() {
+const themes = {
+light: { bg: '#F6F7F9', surface: '#FFFFFF', ink: '#15181D', muted: '#5D636E', line: '#E1E4E9', field: '#ECEEF2', skeleton: '#E4E7EB', news: '#2357D9', world: '#0E7C86', biz: '#A84A08' },
+dark: { bg: '#15181D', surface: '#1F232A', ink: '#ECEEF1', muted: '#A0A7B2', line: '#2E333B', field: '#262B33', skeleton: '#2A2F37', news: '#86A6FF', world: '#4FC3CC', biz: '#F2A35E' }
+};
+const t = themes[this.props.mode] || themes.light;
+return {
+t,
+// Real headlines from page 160 and first paragraphs from 161-163 (fixtures, 21.10.2026), unchanged.
+items: [
+{ c: t.biz, label: 'TALOUS · 161', h: 'Netflixin osake laskussa', p: 'Suoratoistopalvelu Netflixin osakkeen arvo lähti usean prosentin laskuun sen jälkeen, kun yhtiö julkisti heinä-syyskuun tuloksensa.' },
+{ c: t.biz, label: 'TALOUS · 162', h: 'Musk: Tesla ja SpaceX ehkä yhteen', p: 'Miljardööri Elon Musk sanoo, että avaruusyhtiö SpaceX:n ja autovalmistaja Teslan yhdistyminen olisi hyvä idea. Samalla hän paljastaa, että yhtiöissä on perustettu erityiskomiteat, joiden tehtävä on selvittää yritysten mahdollista yhdistämistä.' },
+{ c: t.biz, label: 'TALOUS · 163', h: 'Nordea: Käänne asuntomarkkinoille', p: 'Asuntojen hintojen odotetaan nousevan Suomessa prosentilla ensi vuonna, Nordea ennustaa asuntomarkkinakatsauksessaan.' }
+]
+};
+}
+}
+</script>
+</body>
+</html>

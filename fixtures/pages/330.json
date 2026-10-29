@@ -1,0 +1,1942 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "330",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "326",
+   "nextpg": "331",
+   "toptype": "normal",
+   "time": "2024-07-15T07:13:20",
+   "utctime": "2024-07-15T04:13:20",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3"
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " 331 Suomenkielinen ohjelmatekstitys    "
+        },
+        {
+         "number": "9",
+         "Text": " 333 Tekstitys TV1                      "
+        },
+        {
+         "number": "10",
+         "Text": " 334 Tekstitys TV2                      "
+        },
+        {
+         "number": "11",
+         "Text": " 335 Uutistekstitys sivuilla 333 ja 334 "
+        },
+        {
+         "number": "12",
+         "Text": " 336 Tekstitys Yle Teema & Fem          "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " 337 Äänitekstitys, kuvailutulkkaus     "
+        },
+        {
+         "number": "15",
+         "Text": " 338 Tekstinpeittosivu                  "
+        },
+        {
+         "number": "16",
+         "Text": " 786 Textning på svenska                "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Sivuilla 301,302,305,310-317 ja 321-322"
+        },
+        {
+         "number": "19",
+         "Text": " T-symboli kertoo, missä ohjelmissa on  "
+        },
+        {
+         "number": "20",
+         "Text": " ohjelmatekstitys (på svenska 774,775 ) "
+        },
+        {
+         "number": "21",
+         "Text": " 450 Käännöstekstitys teksti-tv:ssä     "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "         Teksti-TV:n ohjelmaopas s. 350 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{White} {GYellow}~}4,,,,,,,,,,,,,,,,,,,,,,, ,,$,$,((  "
+        },
+        {
+         "number": "2",
+         "Text": "{Red}{NB}{GYellow}j5$  l<h<$|`$x,(|$|(|$d 8h48`<$|,h0h4"
+        },
+        {
+         "number": "3",
+         "Text": "{Red}{NB}{GYellow}*/%  j5j7 i +}      j74\"o4!j7n5"
+        },
+        {
+         "number": "4",
+         "Text": "{Red}{NB}  {GYellow}   \"!\"#!# !#! # # #  # \"!\"\"# ##\"! !"
+        },
+        {
+         "number": "5",
+         "Text": "{Red}{NB}{GYellow} {GYellow}     {GYellow}z5~{48!3jt`~j5~3\"!~k4    "
+        },
+        {
+         "number": "6",
+         "Text": "{Red}{NB}{GYellow}       {GYellow}j5j5*0pj5!j5r?  oz%    "
+        },
+        {
+         "number": "7",
+         "Text": "{GRed}#######################################"
+        },
+        {
+         "number": "8",
+         "Text": "{Yellow}331{White}Suomenkielinen ohjelmatekstitys    "
+        },
+        {
+         "number": "9",
+         "Text": "{Yellow}333{White}Tekstitys TV1                   {White}  "
+        },
+        {
+         "number": "10",
+         "Text": "{Yellow}334{White}Tekstitys TV2                   {White}  "
+        },
+        {
+         "number": "11",
+         "Text": "{Yellow}335{White}Uutistekstitys sivuilla 333 ja 334 "
+        },
+        {
+         "number": "12",
+         "Text": "{Yellow}336{White}Tekstitys Yle Teema & Fem          "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{Yellow}337{White}Äänitekstitys, kuvailutulkkaus  {White}  "
+        },
+        {
+         "number": "15",
+         "Text": "{Yellow}338{White}Tekstinpeittosivu                  "
+        },
+        {
+         "number": "16",
+         "Text": "{Yellow}786{White}Textning på svenska    {White}           "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Green}Sivuilla 301,302,305,310-317{White}ja{Green}321-322"
+        },
+        {
+         "number": "19",
+         "Text": "{Magenta}T-symboli{White}kertoo, missä ohjelmissa on  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}ohjelmatekstitys (på svenska{Green}774,775{White}) "
+        },
+        {
+         "number": "21",
+         "Text": "{Yellow}450{White}Käännöstekstitys teksti-tv:ssä     "
+        },
+        {
+         "number": "22",
+         "Text": "{GRed},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "23",
+         "Text": "{Red}{NB}{Yellow}      Teksti-TV:n ohjelmaopas s. 350 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "23",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "2",
+           "Text": ",,"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "2",
+           "Text": "(("
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "2"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ch",
+           "length": "1",
+           "Text": "l"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "78h",
+           "length": "1",
+           "Text": "x"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "28h",
+           "length": "1",
+           "Text": "("
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "64h",
+           "length": "1",
+           "Text": "d"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "3Ch",
+           "length": "1",
+           "Text": "<"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ch",
+           "length": "1",
+           "Text": "|"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ch",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "68h",
+           "length": "1",
+           "Text": "h"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "69h",
+           "length": "1",
+           "Text": "i"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Bh",
+           "length": "1",
+           "Text": "+"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Fh",
+           "length": "1",
+           "Text": "o"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "37h",
+           "length": "1",
+           "Text": "7"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Eh",
+           "length": "1",
+           "Text": "n"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "7"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "2"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "2",
+           "Text": "\"\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "1",
+           "Text": "#"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "23h",
+           "length": "2",
+           "Text": "##"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "10"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ah",
+           "length": "1",
+           "Text": "z"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Bh",
+           "length": "1",
+           "Text": "{"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "38h",
+           "length": "1",
+           "Text": "8"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "33h",
+           "length": "1",
+           "Text": "3"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "74h",
+           "length": "1",
+           "Text": "t"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "60h",
+           "length": "1",
+           "Text": "`"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "33h",
+           "length": "1",
+           "Text": "3"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "22h",
+           "length": "1",
+           "Text": "\""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Bh",
+           "length": "1",
+           "Text": "k"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "10"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "30h",
+           "length": "1",
+           "Text": "0"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "70h",
+           "length": "1",
+           "Text": "p"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "21h",
+           "length": "1",
+           "Text": "!"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "72h",
+           "length": "1",
+           "Text": "r"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "3Fh",
+           "length": "1",
+           "Text": "?"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Fh",
+           "length": "1",
+           "Text": ""
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "6Fh",
+           "length": "1",
+           "Text": "o"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "7Ah",
+           "length": "1",
+           "Text": "z"
+          },
+          {
+           "bg": "red",
+           "fg": "gyellow",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "4"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "331",
+           "length": "3",
+           "Text": "331"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Suomenkielinen ohjelmatekstitys    "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "333",
+           "length": "3",
+           "Text": "333"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Tekstitys TV1                      "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "334",
+           "length": "3",
+           "Text": "334"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Tekstitys TV2                      "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "335",
+           "length": "3",
+           "Text": "335"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "24",
+           "Text": "Uutistekstitys sivuilla "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "333",
+           "length": "3",
+           "Text": "333"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "4",
+           "Text": " ja "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "334",
+           "length": "3",
+           "Text": "334"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "336",
+           "length": "3",
+           "Text": "336"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Tekstitys Yle Teema & Fem          "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "337",
+           "length": "3",
+           "Text": "337"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Äänitekstitys, kuvailutulkkaus     "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "338",
+           "length": "3",
+           "Text": "338"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Tekstinpeittosivu                  "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "786",
+           "length": "3",
+           "Text": "786"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Textning på svenska                "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9",
+           "Text": "Sivuilla "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "301",
+           "length": "3",
+           "Text": "301"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "302",
+           "length": "3",
+           "Text": "302"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "305",
+           "length": "3",
+           "Text": "305"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "310",
+           "length": "3",
+           "Text": "310"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "317",
+           "length": "3",
+           "Text": "317"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3",
+           "Text": "ja "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "321",
+           "length": "3",
+           "Text": "321"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "322",
+           "length": "3",
+           "Text": "322"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "10",
+           "Text": "T-symboli "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": "kertoo, missä ohjelmissa on  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " ohjelmatekstitys (på svenska "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "774",
+           "length": "3",
+           "Text": "774"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1",
+           "Text": ","
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "775",
+           "length": "3",
+           "Text": "775"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2",
+           "Text": ") "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "450",
+           "length": "3",
+           "Text": "450"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "35",
+           "Text": "Käännöstekstitys teksti-tv:ssä     "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gred",
+           "charcode": "2Ch",
+           "length": "39",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "red",
+           "fg": "red",
+           "length": "8"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "27",
+           "Text": "Teksti-TV:n ohjelmaopas s. "
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "link": "350",
+           "length": "3",
+           "Text": "350"
+          },
+          {
+           "bg": "red",
+           "fg": "yellow",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

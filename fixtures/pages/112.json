@@ -1,0 +1,6 @@
+{
+ "_fixture": "not-found",
+ "status": 404,
+ "contentType": "application/xml",
+ "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>json/112.json</Key><RequestId>XXGQP4166KSWVWZH</RequestId><HostId>0hvUw5HxiPQsE7bTWFecJxI64IpYGw0DNMs7E15UtVmRvI6+5ZryopnibI7b5uU+IaOnyBe5UndUopri40wjVudvXhP6bP+a</HostId></Error>"
+}

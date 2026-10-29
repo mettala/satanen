@@ -1,0 +1,4297 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "425",
+   "name": "",
+   "subpagecount": "6",
+   "prevpg": "424",
+   "nextpg": "426",
+   "toptype": "normal",
+   "time": "2026-10-25T17:32:13",
+   "utctime": "2026-10-25T15:32:13",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            TAMPERE-PIRKKALA        1/6 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures           "
+        },
+        {
+         "number": "3",
+         "Text": "   05:25 Riika      BT358               "
+        },
+        {
+         "number": "4",
+         "Text": "   06:00 Helsinki   AY270               "
+        },
+        {
+         "number": "5",
+         "Text": "   12:20 Helsinki   AY644               "
+        },
+        {
+         "number": "6",
+         "Text": "   15:30 Riika      BT356               "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "                          Turku   >>>   "
+        },
+        {
+         "number": "19",
+         "Text": "                          Oulu    >>>   "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": "   HELSINKI-VANTAA s. 426-427           "
+        },
+        {
+         "number": "23",
+         "Text": "   Lisää: www.finavia.fi                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         TAMPERE-PIRKKALA        1/6 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures           "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}05:25 Riika      BT358               "
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}06:00 Helsinki   AY270               "
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}12:20 Helsinki   AY644               "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}15:30 Riika      BT356               "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "18",
+         "Text": "                         {Yellow}Turku   >>>   "
+        },
+        {
+         "number": "19",
+         "Text": "                         {Yellow}Oulu    >>>   "
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "22",
+         "Text": "{Yellow}  HELSINKI-VANTAA s. 426-427           "
+        },
+        {
+         "number": "23",
+         "Text": "{Green}  Lisää:{Cyan}www.finavia.fi                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "TAMPERE-PIRKKALA        1/6 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures           "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "05:25 Riika      BT"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "358",
+           "length": "3",
+           "Text": "358"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "06:00 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "270",
+           "length": "3",
+           "Text": "270"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "12:20 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "644",
+           "length": "3",
+           "Text": "644"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "15:30 Riika      BT"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "356",
+           "length": "3",
+           "Text": "356"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "Turku   >>>   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "Oulu    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": ">>>",
+           "length": "3",
+           "Text": ">>>"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": "HELSINKI-VANTAA s. "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "426",
+           "length": "3",
+           "Text": "426"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "427",
+           "length": "3",
+           "Text": "427"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "Lisää: "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "https://www.finavia.fi",
+           "length": "14",
+           "Text": "www.finavia.fi"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            TAMPERE-PIRKKALA        2/6 "
+        },
+        {
+         "number": "2",
+         "Text": "           Saapuvat/Arrivals            "
+        },
+        {
+         "number": "3",
+         "Text": "   00:20 Helsinki   AY269               "
+        },
+        {
+         "number": "4",
+         "Text": "   00:55 Riika      BT357               "
+        },
+        {
+         "number": "5",
+         "Text": "   11:55 Oulu       AY644               "
+        },
+        {
+         "number": "6",
+         "Text": "   14:50 Riika      BT355               "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": "                          Turku   >>>   "
+        },
+        {
+         "number": "19",
+         "Text": "                          Oulu    >>>   "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         TAMPERE-PIRKKALA        2/6 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB}{Blue}        Saapuvat/Arrivals            "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{White}00:20 Helsinki   AY269               "
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB}{Blue}00:55 Riika      BT357               "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}{NB}{Blue}11:55 Oulu       AY644               "
+        },
+        {
+         "number": "6",
+         "Text": "{Blue}{NB}{White}14:50 Riika      BT355               "
+        },
+        {
+         "number": "7",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "10",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "11",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "14",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "15",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "18",
+         "Text": "                         {Yellow}Turku   >>>   "
+        },
+        {
+         "number": "19",
+         "Text": "                         {Yellow}Oulu    >>>   "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "TAMPERE-PIRKKALA        2/6 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "10"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "29",
+           "Text": "Saapuvat/Arrivals            "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "00:20 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "269",
+           "length": "3",
+           "Text": "269"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "00:55 Riika      BT"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "357",
+           "length": "3",
+           "Text": "357"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "11:55 Oulu       AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "644",
+           "length": "3",
+           "Text": "644"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "14:50 Riika      BT"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "355",
+           "length": "3",
+           "Text": "355"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "14",
+           "Text": "Turku   >>>   "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "26"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "8",
+           "Text": "Oulu    "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": ">>>",
+           "length": "3",
+           "Text": ">>>"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "3"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            TURKU                   3/6 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures           "
+        },
+        {
+         "number": "3",
+         "Text": "   17:20 Gdansk     W61752 Lähteny 17:12"
+        },
+        {
+         "number": "4",
+         "Text": "   17:45 Tukholma   SK2727 Suljett      "
+        },
+        {
+         "number": "5",
+         "Text": "   05:25 Riika      BT360               "
+        },
+        {
+         "number": "6",
+         "Text": "   06:00 Helsinki   AY230               "
+        },
+        {
+         "number": "7",
+         "Text": "   06:20 Tukholma   SK4231              "
+        },
+        {
+         "number": "8",
+         "Text": "   11:55 Helsinki   AY654               "
+        },
+        {
+         "number": "9",
+         "Text": "   16:15 Maarianham HP286               "
+        },
+        {
+         "number": "10",
+         "Text": "   16:55 Tukholma   SK2727              "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": "   HELSINKI-VANTAA s. 426-427           "
+        },
+        {
+         "number": "23",
+         "Text": "   Lisää: www.finavia.fi                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         TURKU                   3/6 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures           "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}17:20 Gdansk     W61752 Lähteny 17:12"
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}17:45 Tukholma   SK2727 Suljett      "
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}05:25 Riika      BT360               "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}06:00 Helsinki   AY230               "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}06:20 Tukholma   SK4231              "
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}11:55 Helsinki   AY654               "
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}16:15 Maarianham HP286               "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}16:55 Tukholma   SK2727              "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "22",
+         "Text": "{Yellow}  HELSINKI-VANTAA s. 426-427           "
+        },
+        {
+         "number": "23",
+         "Text": "{Green}  Lisää:{Cyan}www.finavia.fi                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "TURKU                   3/6 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures           "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "17:20 Gdansk     W61752 Lähteny 17:12"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "17:45 Tukholma   SK2727 Suljett      "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "05:25 Riika      BT"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "360",
+           "length": "3",
+           "Text": "360"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "06:00 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "230",
+           "length": "3",
+           "Text": "230"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "06:20 Tukholma   SK4231              "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "11:55 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "654",
+           "length": "3",
+           "Text": "654"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "16:15 Maarianham HP"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "286",
+           "length": "3",
+           "Text": "286"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "16:55 Tukholma   SK2727              "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": "HELSINKI-VANTAA s. "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "426",
+           "length": "3",
+           "Text": "426"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "427",
+           "length": "3",
+           "Text": "427"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "Lisää: "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "https://www.finavia.fi",
+           "length": "14",
+           "Text": "www.finavia.fi"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            TURKU                   4/6 "
+        },
+        {
+         "number": "2",
+         "Text": "           Saapuvat/Arrivals            "
+        },
+        {
+         "number": "3",
+         "Text": "   17:15 Tukholma   SK2728 Laskeut 17:03"
+        },
+        {
+         "number": "4",
+         "Text": "   23:55 Tukholma   SK2720              "
+        },
+        {
+         "number": "5",
+         "Text": "   00:20 Helsinki   AY229               "
+        },
+        {
+         "number": "6",
+         "Text": "   00:50 Riika      BT359               "
+        },
+        {
+         "number": "7",
+         "Text": "   11:30 Tukholma   AY654               "
+        },
+        {
+         "number": "8",
+         "Text": "   11:30 Maarianham HP285               "
+        },
+        {
+         "number": "9",
+         "Text": "   16:25 Tukholma   SK2728              "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         TURKU                   4/6 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB}{Blue}        Saapuvat/Arrivals            "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{White}17:15 Tukholma   SK2728 Laskeut{Magenta}17:03"
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB}{Blue}23:55 Tukholma   SK2720              "
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}{NB}{Blue}00:20 Helsinki   AY229               "
+        },
+        {
+         "number": "6",
+         "Text": "{Blue}{NB}{White}00:50 Riika      BT359               "
+        },
+        {
+         "number": "7",
+         "Text": "{Blue}{NB}{White}11:30 Tukholma   AY654               "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}{NB}{Blue}11:30 Maarianham HP285               "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}{NB}{Blue}16:25 Tukholma   SK2728              "
+        },
+        {
+         "number": "10",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "11",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "14",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "15",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "18",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "19",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "TURKU                   4/6 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "10"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "29",
+           "Text": "Saapuvat/Arrivals            "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "32",
+           "Text": "17:15 Tukholma   SK2728 Laskeut "
+          },
+          {
+           "bg": "blue",
+           "fg": "magenta",
+           "length": "5",
+           "Text": "17:03"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "23:55 Tukholma   SK2720              "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "00:20 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "229",
+           "length": "3",
+           "Text": "229"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "00:50 Riika      BT"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "359",
+           "length": "3",
+           "Text": "359"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "11:30 Tukholma   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "654",
+           "length": "3",
+           "Text": "654"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "11:30 Maarianham HP"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "285",
+           "length": "3",
+           "Text": "285"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "16:25 Tukholma   SK2728              "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            OULU                    5/6 "
+        },
+        {
+         "number": "2",
+         "Text": "          Lähtevät/Departures           "
+        },
+        {
+         "number": "3",
+         "Text": "   17:45 Helsinki   AY444  Suljett      "
+        },
+        {
+         "number": "4",
+         "Text": "   19:05 Visby      A36129              "
+        },
+        {
+         "number": "5",
+         "Text": "   20:10 Tukholma   A36181              "
+        },
+        {
+         "number": "6",
+         "Text": "   22:40 Helsinki   AY446               "
+        },
+        {
+         "number": "7",
+         "Text": "   05:00 Riika      BT384               "
+        },
+        {
+         "number": "8",
+         "Text": "   05:35 Helsinki   AY450               "
+        },
+        {
+         "number": "9",
+         "Text": "   07:35 Helsinki   AY432               "
+        },
+        {
+         "number": "10",
+         "Text": "   08:55 Helsinki   AY434               "
+        },
+        {
+         "number": "11",
+         "Text": "   10:55 Tampere    AY644               "
+        },
+        {
+         "number": "12",
+         "Text": "   14:20 Helsinki   AY438               "
+        },
+        {
+         "number": "13",
+         "Text": "   15:25 Helsinki   AY440               "
+        },
+        {
+         "number": "14",
+         "Text": "   16:45 Helsinki   AY442               "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": "   HELSINKI-VANTAA s. 426-427           "
+        },
+        {
+         "number": "23",
+         "Text": "   Lisää: www.finavia.fi                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         OULU                    5/6 "
+        },
+        {
+         "number": "2",
+         "Text": "{Blue}{NB}{White}       Lähtevät/Departures           "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}{NB}{Blue}17:45 Helsinki   AY444  Suljett      "
+        },
+        {
+         "number": "4",
+         "Text": "{Blue}{NB}{White}19:05 Visby      A36129              "
+        },
+        {
+         "number": "5",
+         "Text": "{Blue}{NB}{White}20:10 Tukholma   A36181              "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}{NB}{Blue}22:40 Helsinki   AY446               "
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}{NB}{Blue}05:00 Riika      BT384               "
+        },
+        {
+         "number": "8",
+         "Text": "{Blue}{NB}{White}05:35 Helsinki   AY450               "
+        },
+        {
+         "number": "9",
+         "Text": "{Blue}{NB}{White}07:35 Helsinki   AY432               "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}{NB}{Blue}08:55 Helsinki   AY434               "
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}{NB}{Blue}10:55 Tampere    AY644               "
+        },
+        {
+         "number": "12",
+         "Text": "{Blue}{NB}{White}14:20 Helsinki   AY438               "
+        },
+        {
+         "number": "13",
+         "Text": "{Blue}{NB}{White}15:25 Helsinki   AY440               "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}{NB}{Blue}16:45 Helsinki   AY442               "
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "16",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "20",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "21",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "22",
+         "Text": "{Yellow}  HELSINKI-VANTAA s. 426-427           "
+        },
+        {
+         "number": "23",
+         "Text": "{Green}  Lisää:{Cyan}www.finavia.fi                "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "OULU                    5/6 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "9"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "Lähtevät/Departures           "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "17:45 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "444",
+           "length": "3",
+           "Text": "444"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15",
+           "Text": "  Suljett      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "19:05 Visby      A36129              "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "20:10 Tukholma   A36181              "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "22:40 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "446",
+           "length": "3",
+           "Text": "446"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "05:00 Riika      BT"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "384",
+           "length": "3",
+           "Text": "384"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "05:35 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "450",
+           "length": "3",
+           "Text": "450"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "07:35 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "432",
+           "length": "3",
+           "Text": "432"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "08:55 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "434",
+           "length": "3",
+           "Text": "434"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "10:55 Tampere    AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "644",
+           "length": "3",
+           "Text": "644"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "14:20 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "438",
+           "length": "3",
+           "Text": "438"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "15:25 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "440",
+           "length": "3",
+           "Text": "440"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "16:45 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "442",
+           "length": "3",
+           "Text": "442"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "19",
+           "Text": "HELSINKI-VANTAA s. "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "426",
+           "length": "3",
+           "Text": "426"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "1",
+           "Text": "-"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "link": "427",
+           "length": "3",
+           "Text": "427"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "11"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "3"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "7",
+           "Text": "Lisää: "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "link": "https://www.finavia.fi",
+           "length": "14",
+           "Text": "www.finavia.fi"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "6",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "            OULU                    6/6 "
+        },
+        {
+         "number": "2",
+         "Text": "           Saapuvat/Arrivals            "
+        },
+        {
+         "number": "3",
+         "Text": "   17:05 Helsinki   AY443  Laskeut 16:51"
+        },
+        {
+         "number": "4",
+         "Text": "   18:35 Rhodos     A34328 Arvioit 18:12"
+        },
+        {
+         "number": "5",
+         "Text": "   19:40 Chania     A34580 Arvioit 19:00"
+        },
+        {
+         "number": "6",
+         "Text": "   22:00 Helsinki   AY445               "
+        },
+        {
+         "number": "7",
+         "Text": "   01:05 Helsinki   AY449               "
+        },
+        {
+         "number": "8",
+         "Text": "   01:25 Riika      BT383               "
+        },
+        {
+         "number": "9",
+         "Text": "   06:55 Helsinki   AY431               "
+        },
+        {
+         "number": "10",
+         "Text": "   08:15 Helsinki   AY433               "
+        },
+        {
+         "number": "11",
+         "Text": "   10:30 Helsinki   AY435               "
+        },
+        {
+         "number": "12",
+         "Text": "   13:40 Helsinki   AY437               "
+        },
+        {
+         "number": "13",
+         "Text": "   15:00 Helsinki   AY439               "
+        },
+        {
+         "number": "14",
+         "Text": "   16:05 Helsinki   AY441               "
+        },
+        {
+         "number": "15",
+         "Text": "   17:05 Helsinki   AY443               "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}         OULU                    6/6 "
+        },
+        {
+         "number": "2",
+         "Text": "{Cyan}{NB}{Blue}        Saapuvat/Arrivals            "
+        },
+        {
+         "number": "3",
+         "Text": "{Blue}{NB}{White}17:05 Helsinki   AY443  Laskeut{Magenta}16:51"
+        },
+        {
+         "number": "4",
+         "Text": "{Cyan}{NB}{Blue}18:35 Rhodos     A34328 Arvioit 18:12"
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}{NB}{Blue}19:40 Chania     A34580 Arvioit 19:00"
+        },
+        {
+         "number": "6",
+         "Text": "{Blue}{NB}{White}22:00 Helsinki   AY445               "
+        },
+        {
+         "number": "7",
+         "Text": "{Blue}{NB}{White}01:05 Helsinki   AY449               "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}{NB}{Blue}01:25 Riika      BT383               "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}{NB}{Blue}06:55 Helsinki   AY431               "
+        },
+        {
+         "number": "10",
+         "Text": "{Blue}{NB}{White}08:15 Helsinki   AY433               "
+        },
+        {
+         "number": "11",
+         "Text": "{Blue}{NB}{White}10:30 Helsinki   AY435               "
+        },
+        {
+         "number": "12",
+         "Text": "{Cyan}{NB}{Blue}13:40 Helsinki   AY437               "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}{NB}{Blue}15:00 Helsinki   AY439               "
+        },
+        {
+         "number": "14",
+         "Text": "{Blue}{NB}{White}16:05 Helsinki   AY441               "
+        },
+        {
+         "number": "15",
+         "Text": "{Blue}{NB}{White}17:05 Helsinki   AY443               "
+        },
+        {
+         "number": "16",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "18",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "19",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "20",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}{NB}{Blue}                                     "
+        },
+        {
+         "number": "22",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{White}                                     "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "11"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "28",
+           "Text": "OULU                    6/6 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "10"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "29",
+           "Text": "Saapuvat/Arrivals            "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "17:05 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "443",
+           "length": "3",
+           "Text": "443"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "10",
+           "Text": "  Laskeut "
+          },
+          {
+           "bg": "blue",
+           "fg": "magenta",
+           "length": "5",
+           "Text": "16:51"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "18:35 Rhodos     A34328 Arvioit 18:12"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "37",
+           "Text": "19:40 Chania     A34580 Arvioit 19:00"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "22:00 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "445",
+           "length": "3",
+           "Text": "445"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "01:05 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "449",
+           "length": "3",
+           "Text": "449"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "01:25 Riika      BT"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "383",
+           "length": "3",
+           "Text": "383"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "06:55 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "431",
+           "length": "3",
+           "Text": "431"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "08:15 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "433",
+           "length": "3",
+           "Text": "433"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "10:30 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "435",
+           "length": "3",
+           "Text": "435"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "13:40 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "437",
+           "length": "3",
+           "Text": "437"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "19",
+           "Text": "15:00 Helsinki   AY"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "link": "439",
+           "length": "3",
+           "Text": "439"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "16:05 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "441",
+           "length": "3",
+           "Text": "441"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "19",
+           "Text": "17:05 Helsinki   AY"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "443",
+           "length": "3",
+           "Text": "443"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "15"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "39"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

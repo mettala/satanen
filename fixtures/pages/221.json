@@ -1,0 +1,635 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "221",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "220",
+   "nextpg": "222",
+   "toptype": "normal",
+   "time": "2026-10-24T20:35:01",
+   "utctime": "2026-10-24T17:35:01",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JÄÄKIEKKO      SM-LIIGA 24.10.       "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Ilves   - Jukurit  vl 1-2 (0-0,0-0,1-1)"
+        },
+        {
+         "number": "4",
+         "Text": " 65.00 1-2 Lintuniemi vl                "
+        },
+        {
+         "number": "5",
+         "Text": " HPK     - HIFK        3-6 (1-2,2-1,0-3)"
+        },
+        {
+         "number": "6",
+         "Text": " 56.02 3-6 Mäkiaho (Puutio,Pakarinen) tm"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " JYP     - Ässät       4-1 (2-1,1-0,1-0)"
+        },
+        {
+         "number": "9",
+         "Text": " 57.38 4-1 Tukiainen (Mäkinen,Lassil) tm"
+        },
+        {
+         "number": "10",
+         "Text": " KooKoo  - Jokerit     3-6 (1-1,1-2,1-3)"
+        },
+        {
+         "number": "11",
+         "Text": " 58.10 3-6 Virta (Hännikäinen,Tuulol) tm"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13",
+         "Text": " Kärpät  - KalPa       1-5 (1-0,0-3,0-2)"
+        },
+        {
+         "number": "14",
+         "Text": " 57.16 1-5 Saarelainen (Könönen,Gall) tm"
+        },
+        {
+         "number": "15",
+         "Text": " Pelicans- Tappara  vl 5-4 (2-1,1-2,1-1)"
+        },
+        {
+         "number": "16",
+         "Text": " 65.00 5-4 Hämäläinen vl                "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " TPS     - Lukko       1-3 (0-1,0-1,1-1)"
+        },
+        {
+         "number": "19",
+         "Text": " 58.17 1-3 Määttä (Binner,Paajanen) im  "
+        },
+        {
+         "number": "20",
+         "Text": " Sport   - SaiPa       1-3 (0-1,0-1,1-1)"
+        },
+        {
+         "number": "21",
+         "Text": " 58.20 1-3 Heikkinen (Palve,Harrison)   "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23",
+         "Text": "     Maalit 222 Taulukko 223            "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JÄÄKIEKKO   {NB}{White} SM-LIIGA 24.10.       "
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}#######################################"
+        },
+        {
+         "number": "3",
+         "Text": "{White}Ilves   - Jukurit {Green}vl 1-2 (0-0,0-0,1-1)"
+        },
+        {
+         "number": "4",
+         "Text": "{Magenta}65.00{Cyan}1-2 Lintuniemi vl                "
+        },
+        {
+         "number": "5",
+         "Text": "{White}HPK     - HIFK    {Green}   3-6 (1-2,2-1,0-3)"
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}56.02{Cyan}3-6 Mäkiaho (Puutio,Pakarinen) tm"
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}JYP     - Ässät   {Green}   4-1 (2-1,1-0,1-0)"
+        },
+        {
+         "number": "9",
+         "Text": "{Green}57.38{Green}4-1 Tukiainen (Mäkinen,Lassil) tm"
+        },
+        {
+         "number": "10",
+         "Text": "{White}KooKoo  - Jokerit {Green}   3-6 (1-1,1-2,1-3)"
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}58.10{Cyan}3-6 Virta (Hännikäinen,Tuulol) tm"
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Kärpät  - KalPa   {Green}   1-5 (1-0,0-3,0-2)"
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}57.16{Cyan}1-5 Saarelainen (Könönen,Gall) tm"
+        },
+        {
+         "number": "15",
+         "Text": "{White}Pelicans- Tappara {Green}vl 5-4 (2-1,1-2,1-1)"
+        },
+        {
+         "number": "16",
+         "Text": "{Magenta}65.00{Green}5-4 Hämäläinen vl                "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}TPS     - Lukko   {Green}   1-3 (0-1,0-1,1-1)"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}58.17{Green}1-3 Määttä (Binner,Paajanen) im  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Sport   - SaiPa   {Green}   1-3 (0-1,0-1,1-1)"
+        },
+        {
+         "number": "21",
+         "Text": "{Green}58.20{Green}1-3 Heikkinen (Palve,Harrison)   "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{Blue}{NB}{Yellow}  Maalit 222 Taulukko 223            "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "12",
+           "Text": "JÄÄKIEKKO   "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "3"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "22",
+           "Text": "SM-LIIGA 24.10.       "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "23h",
+           "length": "39",
+           "Text": "#######################################"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Ilves   - Jukurit  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "vl 1-2 (0-0,0-0,1-1)"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "6",
+           "Text": "65.00 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "33",
+           "Text": "1-2 Lintuniemi vl                "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " HPK     - HIFK        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "3-6 (1-2,2-1,0-3)"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "56.02 3-6 Mäkiaho (Puutio,Pakarinen) tm"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " JYP     - Ässät       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "4-1 (2-1,1-0,1-0)"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "57.38 4-1 Tukiainen (Mäkinen,Lassil) tm"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " KooKoo  - Jokerit     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "3-6 (1-1,1-2,1-3)"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "58.10 3-6 Virta (Hännikäinen,Tuulol) tm"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Kärpät  - KalPa       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "1-5 (1-0,0-3,0-2)"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "57.16 1-5 Saarelainen (Könönen,Gall) tm"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Pelicans- Tappara  "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "20",
+           "Text": "vl 5-4 (2-1,1-2,1-1)"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "magenta",
+           "length": "6",
+           "Text": "65.00 "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "33",
+           "Text": "5-4 Hämäläinen vl                "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " TPS     - Lukko       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "1-3 (0-1,0-1,1-1)"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "58.17 1-3 Määttä (Binner,Paajanen) im  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "23",
+           "Text": " Sport   - SaiPa       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "17",
+           "Text": "1-3 (0-1,0-1,1-1)"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "58.20 1-3 Heikkinen (Palve,Harrison)   "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "7",
+           "Text": "Maalit "
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "link": "222",
+           "length": "3",
+           "Text": "222"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "10",
+           "Text": " Taulukko "
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "link": "223",
+           "length": "3",
+           "Text": "223"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "12"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

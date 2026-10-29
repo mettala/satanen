@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>Artikkeli uutisvirrasta</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&amp;display=swap">
+<style>
+body{margin:0;font-family:'Schibsted Grotesk',system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+p{margin:0}
+.clamp2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; background: {{t.bg}}; color: {{t.ink}}; display: flex; flex-direction: column; font-family: 'Schibsted Grotesk', system-ui, sans-serif;">
+
+<div style="padding: 44px 8px 4px; display: flex; align-items: center;">
+<a href="03-valikko.dc.html" aria-label="Kaikki osastot" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; color: {{t.ink}};"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg></a>
+<a href="08-uutisvirta.dc.html" style="height: 44px; display: flex; align-items: center; gap: 2px; padding-right: 8px; font-size: 16px; line-height: 23px;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg>Takaisin</a>
+<div style="flex-grow: 1;"></div>
+<div style="font-size: 15px; font-weight: 600; font-variant-numeric: tabular-nums; padding: 0 4px;">105</div>
+<button aria-label="Lisää suosikkeihin" style="width: 44px; height: 44px; border: 0; background: transparent; color: {{t.ink}}; display: flex; align-items: center; justify-content: center;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 4l2.5 5 5.5.8-4 3.9.9 5.5-4.9-2.6-4.9 2.6.9-5.5-4-3.9 5.5-.8z"></path></svg></button>
+</div>
+
+<!-- Shown scrolled to the end of the article, where the next-story button sits. -->
+<div style="flex-grow: 1; overflow: hidden; padding: 4px 24px 16px; display: flex; flex-direction: column; justify-content: flex-end; gap: 14px;">
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; color: {{t.news}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{t.news}};"></span>KOTIMAA · 21.10. KLO 6.08</div>
+<h1 style="margin: 0; font-size: 30px; font-weight: 800; line-height: 1.1; letter-spacing: -0.02em;">Yksi kuoli Jyväskylän palossa</h1>
+<p style="font-size: 18px; line-height: 28px;">Jyväskylässä Hämeenkadulla tapahtuneessa kerrostalopalossa on kuollut yksi mies. Neljä ihmistä on toimitettu sairaalaan, kertoo Keski-Suomen pelastuslaitos.</p>
+<p style="font-size: 18px; line-height: 28px;">Ensihoito tarkasti paikan päällä 16 ihmistä, joista neljä lähti jatkotutkimuksiin.</p>
+<p style="font-size: 18px; line-height: 28px;">Palo sattui yhdessä huoneistossa, ja savu levisi porraskäytävään ja muihin asuntoihin. Päivystävän palomestarin mukaan vaaraan joutuivat erityisesti porraskäytävään paenneet.</p>
+<p style="font-size: 18px; line-height: 28px;">Pelastuslaitos sai hälytyksen hieman ennen iltaseitsemää kerrostaloon.</p>
+
+<div style="display: flex; align-items: stretch; gap: 8px; padding-top: 6px; border-top: 1px solid {{t.line}}; margin-top: 4px;">
+<a href="#" aria-label="Edellinen juttu: Auto törmäsi tolppaan Limingassa" style="flex: 0 0 44px; min-height: 44px; display: flex; align-items: center; justify-content: center; color: {{t.muted}};"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"></path></svg></a>
+<a href="#" aria-label="Seuraava juttu: HS-gallup: PS kirii kokoomusta" style="flex-grow: 1; min-height: 44px; background: {{t.surface}}; border-radius: 16px; padding: 12px 12px 12px 16px; display: flex; align-items: center; gap: 12px;">
+<div style="flex-grow: 1; display: flex; flex-direction: column; gap: 4px;">
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; line-height: 16px; font-weight: 700; letter-spacing: 0.08em; color: {{t.news}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{t.news}};"></span>KOTIMAA · 106</div>
+<div class="clamp2" style="font-size: 17px; line-height: 22px; font-weight: 500;">HS-gallup: PS kirii kokoomusta</div>
+</div>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex: 0 0 auto;"><path d="M9 5l7 7-7 7"></path></svg>
+</a>
+</div>
+</div>
+
+<nav style="display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-top: 1px solid {{t.line}}; background: {{t.bg}}; padding: 8px 4px 26px;">
+<a href="01-etusivu.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11l8-7 8 7v8a1 1 0 0 1-1 1h-4v-6h-6v6H5a1 1 0 0 1-1-1z"></path></svg>Etusivu</a>
+<a href="08-uutisvirta.dc.html" aria-current="page" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.news}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"></rect><path d="M8 9h8M8 13h8M8 17h5"></path></svg>Uutiset</a>
+<a href="#" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="8"></circle><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"></path></svg>Urheilu</a>
+<a href="10-talous.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17l5-5 4 3 7-7"></path><path d="M15 8h5v5"></path></svg>Talous</a>
+<a href="#" style="display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: {{t.muted}}; padding: 4px 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18h10a4 4 0 0 0 0-8 6 6 0 0 0-11.5 1.5A3.3 3.3 0 0 0 7 18z"></path></svg>Sää</a>
+</nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"mode":{"editor":"enum","options":["light","dark"],"default":"light"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+renderVals() {
+const themes = {
+light: { bg: '#F6F7F9', surface: '#FFFFFF', ink: '#15181D', muted: '#5D636E', line: '#E1E4E9', link: '#1D47B8', news: '#2357D9' },
+dark: { bg: '#15181D', surface: '#1F232A', ink: '#ECEEF1', muted: '#A0A7B2', line: '#2E333B', link: '#9DB6FF', news: '#86A6FF' }
+};
+return { t: themes[this.props.mode] || themes.light };
+}
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,630 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "407",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "406",
+   "nextpg": "408",
+   "toptype": "normal",
+   "time": "2026-10-21T15:30:03",
+   "utctime": "2026-10-21T12:30:03",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "       Ilmatieteen laitos: 3 vrk ennuste"
+        },
+        {
+         "number": "2",
+         "Text": "       21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "     klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": " Helsinki  +12se SE6 +11pp SE5 +12pp  S5"
+        },
+        {
+         "number": "5",
+         "Text": " Hki-Vanta +12se SE5 +11pp SE4 +12pp  S4"
+        },
+        {
+         "number": "6",
+         "Text": " Joensuu    +8se SE3  +6pi SE3  +9vs  S5"
+        },
+        {
+         "number": "7",
+         "Text": " Jyväskylä  +7se SE3  +6pi SE3  +8pi SW4"
+        },
+        {
+         "number": "8",
+         "Text": " Kajaani    +6se  E3  +6pp  E3  +7vs SE4"
+        },
+        {
+         "number": "9",
+         "Text": " Kokkola    +7pp SE5  +8se SE4  +9pp  S4"
+        },
+        {
+         "number": "10",
+         "Text": " Kuopio     +8se SE3  +7pi SE3  +8vs  S5"
+        },
+        {
+         "number": "11",
+         "Text": " Kuusamo    +4pp SE3  +4se SE2  +5pi SE4"
+        },
+        {
+         "number": "12",
+         "Text": " Lahti     +10se SE5  +9pp SE4 +10pp  S4"
+        },
+        {
+         "number": "13",
+         "Text": " Lappeenra  +9se SE3  +6se  E3  +9pp SW4"
+        },
+        {
+         "number": "14",
+         "Text": " Mikkeli   +10se SE3  +6pp SE2 +10vs SW4"
+        },
+        {
+         "number": "15",
+         "Text": " Oulu       +5pp SE4  +7se SE4  +8pi  S4"
+        },
+        {
+         "number": "16",
+         "Text": " Pori      +10pi SE5 +10pp  E4 +11se  S4"
+        },
+        {
+         "number": "17",
+         "Text": " Rovaniemi  +4pi SE2  +6se  E2  +6vs SE4"
+        },
+        {
+         "number": "18",
+         "Text": " Seinäjoki  +8pi SE4  +8pp SE3 +10pi  S4"
+        },
+        {
+         "number": "19",
+         "Text": " Sodankylä  +4pi  S3  +5pi SE3  +4vs SE4"
+        },
+        {
+         "number": "20",
+         "Text": " Tampere   +10pi SE5  +9pi SE4 +10pp  S4"
+        },
+        {
+         "number": "21",
+         "Text": " Turku     +13pp SE5 +11pi SE4 +11vk  S4"
+        },
+        {
+         "number": "22",
+         "Text": " Utsjoki    +4pi  S5  +5pi  S6  +3pi  S4"
+        },
+        {
+         "number": "23",
+         "Text": " Vaasa      +8pi SE5  +9pi SE4 +10pi  S5"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{Cyan}{NB}{Blue}Ilmatieteen laitos: 3 vrk ennuste"
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Blue}{NB}{White}21.10. klo 15.30  selitteet s.419"
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{Yellow}klo 15    TO        PE        LA   "
+        },
+        {
+         "number": "4",
+         "Text": "{White}Helsinki  +12se SE6 +11pp SE5 +12pp  S5"
+        },
+        {
+         "number": "5",
+         "Text": "{White}Hki-Vanta +12se SE5 +11pp SE4 +12pp  S4"
+        },
+        {
+         "number": "6",
+         "Text": "{Green}Joensuu    +8se SE3  +6pi SE3  +9vs  S5"
+        },
+        {
+         "number": "7",
+         "Text": "{Green}Jyväskylä  +7se SE3  +6pi SE3  +8pi SW4"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Kajaani    +6se  E3  +6pp  E3  +7vs SE4"
+        },
+        {
+         "number": "9",
+         "Text": "{White}Kokkola    +7pp SE5  +8se SE4  +9pp  S4"
+        },
+        {
+         "number": "10",
+         "Text": "{Green}Kuopio     +8se SE3  +7pi SE3  +8vs  S5"
+        },
+        {
+         "number": "11",
+         "Text": "{Green}Kuusamo    +4pp SE3  +4se SE2  +5pi SE4"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Lahti     +10se SE5  +9pp SE4 +10pp  S4"
+        },
+        {
+         "number": "13",
+         "Text": "{White}Lappeenra  +9se SE3  +6se  E3  +9pp SW4"
+        },
+        {
+         "number": "14",
+         "Text": "{Green}Mikkeli   +10se SE3  +6pp SE2 +10vs SW4"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Oulu       +5pp SE4  +7se SE4  +8pi  S4"
+        },
+        {
+         "number": "16",
+         "Text": "{White}Pori      +10pi SE5 +10pp  E4 +11se  S4"
+        },
+        {
+         "number": "17",
+         "Text": "{White}Rovaniemi  +4pi SE2  +6se  E2  +6vs SE4"
+        },
+        {
+         "number": "18",
+         "Text": "{Green}Seinäjoki  +8pi SE4  +8pp SE3 +10pi  S4"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}Sodankylä  +4pi  S3  +5pi SE3  +4vs SE4"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Tampere   +10pi SE5  +9pi SE4 +10pp  S4"
+        },
+        {
+         "number": "21",
+         "Text": "{White}Turku     +13pp SE5 +11pi SE4 +11vk  S4"
+        },
+        {
+         "number": "22",
+         "Text": "{Green}Utsjoki    +4pi  S5  +5pi  S6  +3pi  S4"
+        },
+        {
+         "number": "23",
+         "Text": "{Green}Vaasa      +8pi SE5  +9pi SE4 +10pi  S5"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Ilmatieteen laitos: 3 vrk ennuste"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "30",
+           "Text": "21.10. klo 15.30  selitteet s."
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "link": "419",
+           "length": "3",
+           "Text": "419"
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "35",
+           "Text": "klo 15    TO        PE        LA   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Helsinki  +12se SE6 +11pp SE5 +12pp  S5"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hki-Vanta +12se SE5 +11pp SE4 +12pp  S4"
+         }
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Joensuu    +8se SE3  +6pi SE3  +9vs  S5"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Jyväskylä  +7se SE3  +6pi SE3  +8pi SW4"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kajaani    +6se  E3  +6pp  E3  +7vs SE4"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kokkola    +7pp SE5  +8se SE4  +9pp  S4"
+         }
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Kuopio     +8se SE3  +7pi SE3  +8vs  S5"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Kuusamo    +4pp SE3  +4se SE2  +5pi SE4"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lahti     +10se SE5  +9pp SE4 +10pp  S4"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Lappeenra  +9se SE3  +6se  E3  +9pp SW4"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Mikkeli   +10se SE3  +6pp SE2 +10vs SW4"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Oulu       +5pp SE4  +7se SE4  +8pi  S4"
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pori      +10pi SE5 +10pp  E4 +11se  S4"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Rovaniemi  +4pi SE2  +6se  E2  +6vs SE4"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Seinäjoki  +8pi SE4  +8pp SE3 +10pi  S4"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Sodankylä  +4pi  S3  +5pi SE3  +4vs SE4"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tampere   +10pi SE5  +9pi SE4 +10pp  S4"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Turku     +13pp SE5 +11pi SE4 +11vk  S4"
+         }
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Utsjoki    +4pi  S5  +5pi  S6  +3pi  S4"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Vaasa      +8pi SE5  +9pi SE4 +10pi  S5"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

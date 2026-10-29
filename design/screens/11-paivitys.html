@@ -1,0 +1,54 @@
+<!doctype html><html lang="fi"><head><meta charset="utf-8"><title>Päivitys: Päivitä lista ja Sivu päivitetty</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap">
+<style>
+/* Mock-up for D39 / FR.1. Colours from design-system/tokens.json. Plain HTML, not a .dc component. */
+body{margin:0;padding:24px;background:#d9dce1;font-family:'Schibsted Grotesk',system-ui,sans-serif;color:#333}
+.wrap{display:flex;flex-wrap:wrap;gap:28px;justify-content:center}
+.col{display:flex;flex-direction:column;gap:10px;width:390px}
+.cap{font-size:14px;font-weight:600;min-height:38px}
+.phone{position:relative;width:390px;height:844px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column;border-radius:28px;background:var(--bg);color:var(--ink)}
+.light{--bg:#F6F7F9;--surface:#FFFFFF;--field:#ECEEF2;--ink:#15181D;--muted:#5D636E;--line:#E1E4E9;--news:#2357D9}
+.dark{--bg:#15181D;--surface:#1F232A;--field:#262B33;--ink:#ECEEF1;--muted:#A0A7B2;--line:#2E333B;--news:#86A6FF}
+.hd{padding:44px 8px 0;display:flex;align-items:center;gap:4px}
+.ic{width:44px;height:44px;display:flex;align-items:center;justify-content:center}
+.ttl{font-size:24px;line-height:28px;font-weight:800;letter-spacing:-.02em}
+.hd.art{padding-bottom:4px;justify-content:space-between}.num{font-size:15px;font-weight:600;font-variant-numeric:tabular-nums}
+.chips{display:flex;gap:8px;padding:4px 20px 0;height:44px;align-items:center}
+.chip{height:36px;display:flex;align-items:center;padding:0 12px;border-radius:6px;font-size:16px;background:var(--field)}
+.chip.on{background:var(--ink);color:var(--bg)}
+.list{flex:1;overflow:hidden;padding:8px 20px 0}
+.meta{font-size:13px;color:var(--muted);padding-bottom:4px}
+.row{display:flex;flex-direction:column;gap:8px;padding:16px 0;border-top:1px solid var(--line)}
+.lab{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:700;letter-spacing:.08em;color:var(--news)}
+.lab i{width:8px;height:8px;border-radius:4px;background:var(--news)}
+.h{font-size:24px;line-height:28px;font-weight:800;letter-spacing:-.02em}
+.p{font-size:16px;line-height:23px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tabs{display:grid;grid-template-columns:repeat(5,1fr);border-top:1px solid var(--line);background:var(--bg);padding:14px 4px 30px;font-size:12px;font-weight:600;color:var(--muted);text-align:center}
+.tabs .act{color:var(--news)}
+/* The button: look of the active chip, over the list, centred below the chips. */
+.pill{position:absolute;top:172px;left:50%;transform:translateX(-50%);min-height:44px;padding:0 18px;border:0;border-radius:12px;background:var(--ink);color:var(--bg);display:flex;align-items:center;gap:8px;font:700 16px 'Schibsted Grotesk',system-ui,sans-serif;white-space:nowrap}
+/* The message: over the article text, not tappable, bar runs down over 5 s. */
+.toast{position:absolute;top:100px;left:20px;right:20px;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;pointer-events:none}
+.tt{padding:12px 16px;font-size:16px;font-weight:600}
+.bar{height:3px;background:var(--line)}
+.fill{height:3px;background:var(--ink);transform-origin:left;animation:run 5s linear infinite}
+.toast{animation:life 6.5s linear infinite}
+@keyframes run{from{transform:scaleX(1)}to{transform:scaleX(0)}}
+@keyframes life{0%,76.9%{opacity:1}84%,96%{opacity:0}100%{opacity:1}}
+.art-body{padding:4px 24px 0;display:flex;flex-direction:column;gap:14px}
+.art-body h1{margin:0;font-size:30px;font-weight:800;line-height:1.1;letter-spacing:-.02em}
+.art-body p{margin:0;font-size:18px;line-height:1.55}
+.src{font-size:13px;color:var(--muted)}
+.note{max-width:1700px;margin:0 auto 20px;font-size:14px;line-height:1.5}
+@media (prefers-reduced-motion:reduce){.fill,.toast{animation:none}}
+</style></head><body>
+<div class="note"><b>Päivitä lista</b> floats over the top of every feed list (and Etusivu) only when the new list differs. Pressing it scrolls to the top and swaps the list. <b>Sivu päivitetty</b> appears over an article when its text was replaced with a changed copy; it can't be tapped. In the article mock-ups the message loops: the bar runs down over 5 s, then the message is gone for a moment and returns, only so you can watch it.</div>
+<div class="wrap">
+<div class="col"><div class="cap">Feed, Vaalea: "Päivitä lista" (shown only when the new list differs)</div>
+<div class="phone light"><div class="hd"><span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><div class="ttl">Uutiset</div></div><div class="chips"><span class="chip on">Kaikki</span><span class="chip">Kotimaa</span><span class="chip">Ulkomaat</span></div><div class="list"><div class="meta">Päivitetty 14:32</div><div class="row"><div class="lab"><i></i>KOTIMAA · 103</div><div class="h">Etelässä odotetaan lämpenemistä</div><div class="p">Keskiviikkona aamulla liikenteessä kannattaa olla tarkkana: huonosta ajokelistä varoitetaan maan itäosassa sekä Uudenmaan, Päijät-…</div></div><div class="row"><div class="lab"><i></i>KOTIMAA · 104</div><div class="h">Auto törmäsi tolppaan Limingassa</div><div class="p">Limingassa neljä ihmistä loukkaantui vakavasti, kun henkilöauto törmäsi liikenneopasteen tolppaan myöhään tiistaina. Asiasta kertoo…</div></div><div class="row"><div class="lab"><i></i>KOTIMAA · 105</div><div class="h">Yksi kuoli Jyväskylän palossa</div><div class="p">Jyväskylässä Hämeenkadulla tapahtuneessa kerrostalopalossa on kuollut yksi mies. Neljä ihmistä on toimitettu sairaalaan…</div></div></div><button class="pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>Päivitä lista</button><nav class="tabs"><span>Etusivu</span><span class="act">Uutiset</span><span>Urheilu</span><span>Talous</span><span>Sää</span></nav></div></div>
+<div class="col"><div class="cap">Feed, Tumma: "Päivitä lista" (shown only when the new list differs)</div>
+<div class="phone dark"><div class="hd"><span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><div class="ttl">Uutiset</div></div><div class="chips"><span class="chip on">Kaikki</span><span class="chip">Kotimaa</span><span class="chip">Ulkomaat</span></div><div class="list"><div class="meta">Päivitetty 14:32</div><div class="row"><div class="lab"><i></i>KOTIMAA · 103</div><div class="h">Etelässä odotetaan lämpenemistä</div><div class="p">Keskiviikkona aamulla liikenteessä kannattaa olla tarkkana: huonosta ajokelistä varoitetaan maan itäosassa sekä Uudenmaan, Päijät-…</div></div><div class="row"><div class="lab"><i></i>KOTIMAA · 104</div><div class="h">Auto törmäsi tolppaan Limingassa</div><div class="p">Limingassa neljä ihmistä loukkaantui vakavasti, kun henkilöauto törmäsi liikenneopasteen tolppaan myöhään tiistaina. Asiasta kertoo…</div></div><div class="row"><div class="lab"><i></i>KOTIMAA · 105</div><div class="h">Yksi kuoli Jyväskylän palossa</div><div class="p">Jyväskylässä Hämeenkadulla tapahtuneessa kerrostalopalossa on kuollut yksi mies. Neljä ihmistä on toimitettu sairaalaan…</div></div></div><button class="pill"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>Päivitä lista</button><nav class="tabs"><span>Etusivu</span><span class="act">Uutiset</span><span>Urheilu</span><span>Talous</span><span>Sää</span></nav></div></div>
+<div class="col"><div class="cap">Article, Vaalea: "Sivu päivitetty" (5 s, the bar runs down, then it is gone)</div>
+<div class="phone light"><div class="hd art"><span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></span><div class="num">105</div><span class="ic"></span></div><div class="toast" role="status"><div class="tt">Sivu päivitetty</div><div class="bar"><div class="fill"></div></div></div><div class="art-body"><div class="lab"><i></i>KOTIMAA · 25.10. KLO 14:32</div><h1>Yksi kuoli Jyväskylän palossa</h1><p>Jyväskylässä Hämeenkadulla tapahtuneessa kerrostalopalossa on kuollut yksi mies. Neljä ihmistä on toimitettu sairaalaan, kertoo Keski-Suomen pelastuslaitos.</p><p>Palo sammutettiin tiistai-iltana. Poliisi tutkii palon syttymissyytä.</p><div class="src">Sisältö: Yle Teksti-TV</div></div></div></div>
+<div class="col"><div class="cap">Article, Tumma: "Sivu päivitetty" (5 s, the bar runs down, then it is gone)</div>
+<div class="phone dark"><div class="hd art"><span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></span><div class="num">105</div><span class="ic"></span></div><div class="toast" role="status"><div class="tt">Sivu päivitetty</div><div class="bar"><div class="fill"></div></div></div><div class="art-body"><div class="lab"><i></i>KOTIMAA · 25.10. KLO 14:32</div><h1>Yksi kuoli Jyväskylän palossa</h1><p>Jyväskylässä Hämeenkadulla tapahtuneessa kerrostalopalossa on kuollut yksi mies. Neljä ihmistä on toimitettu sairaalaan, kertoo Keski-Suomen pelastuslaitos.</p><p>Palo sammutettiin tiistai-iltana. Poliisi tutkii palon syttymissyytä.</p><div class="src">Sisältö: Yle Teksti-TV</div></div></div></div></div></body></html>

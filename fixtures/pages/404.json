@@ -1,0 +1,606 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "404",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "403",
+   "nextpg": "405",
+   "toptype": "normal",
+   "time": "2026-10-21T18:45:02",
+   "utctime": "2026-10-21T15:45:02",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   Sää rannikkoasemilla  21.10. klo 18  "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Haapas.     12 SE  7 Isokari   12 SE  9"
+        },
+        {
+         "number": "4",
+         "Text": " Kotka       11 SE  5 Kylmäpih  11  E  9"
+        },
+        {
+         "number": "5",
+         "Text": " Orrengr.    11 SE  5 Tahkol.   10 SE  6"
+        },
+        {
+         "number": "6",
+         "Text": " Emäsalo     11  E  9 Sälgrund   9  E  7"
+        },
+        {
+         "number": "7",
+         "Text": " Kalbådagr.  12  E 10 Bredskär   7  E  6"
+        },
+        {
+         "number": "8",
+         "Text": " Harmaja     11  E  7 Valass.    6 SE  5"
+        },
+        {
+         "number": "9",
+         "Text": " Bågaskär    11  E  9 Tankar     7 SE  5"
+        },
+        {
+         "number": "10",
+         "Text": " Russarö     11  E 12 Ulkokall   6 SE  9"
+        },
+        {
+         "number": "11",
+         "Text": " Utö         12 SE  9 Vihreäs.   2 SE  6"
+        },
+        {
+         "number": "12",
+         "Text": " Vilsandi    12 SE  7 Marjan.    2 SE  5"
+        },
+        {
+         "number": "13",
+         "Text": " Gotska S    12 SE  5 Kemi I     5 SE  9"
+        },
+        {
+         "number": "14",
+         "Text": " Kumlinge    11 SE  7 Ajos       4 SE  6"
+        },
+        {
+         "number": "15",
+         "Text": " Nyhamn      12 SE 11                   "
+        },
+        {
+         "number": "16",
+         "Text": " Märket      11 SE 11                   "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " MERIVEDEN KORKEUS (teoreett. keskivesi)"
+        },
+        {
+         "number": "19",
+         "Text": " Kemi       6 Kaskin.   10 Hanko       1"
+        },
+        {
+         "number": "20",
+         "Text": " Oulu      -2 Mäntyl.    8 Helsinki   -5"
+        },
+        {
+         "number": "21",
+         "Text": " Raahe      0 Rauma      8 Porvoo     -7"
+        },
+        {
+         "number": "22",
+         "Text": " Pietars    7 Turku      5 Hamina    -10"
+        },
+        {
+         "number": "23",
+         "Text": " Vaasa      7 Föglö      8              "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}Sää rannikkoasemilla  21.10. klo 18  "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Cyan}Haapas.   {Cyan} 12{Cyan}SE{Cyan} 7{White}Isokari {White} 12{White}SE{White} 9"
+        },
+        {
+         "number": "4",
+         "Text": "{White}Kotka     {White} 11{White}SE{White} 5{Cyan}Kylmäpih{Cyan} 11{Cyan} E{Cyan} 9"
+        },
+        {
+         "number": "5",
+         "Text": "{Cyan}Orrengr.  {Cyan} 11{Cyan}SE{Cyan} 5{White}Tahkol. {White} 10{White}SE{White} 6"
+        },
+        {
+         "number": "6",
+         "Text": "{White}Emäsalo   {White} 11{White} E{White} 9{Cyan}Sälgrund{Cyan}  9{Cyan} E{Cyan} 7"
+        },
+        {
+         "number": "7",
+         "Text": "{Cyan}Kalbådagr.{Cyan} 12{Cyan} E{Cyan}10{White}Bredskär{White}  7{White} E{White} 6"
+        },
+        {
+         "number": "8",
+         "Text": "{White}Harmaja   {White} 11{White} E{White} 7{Cyan}Valass. {Cyan}  6{Cyan}SE{Cyan} 5"
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}Bågaskär  {Cyan} 11{Cyan} E{Cyan} 9{White}Tankar  {White}  7{White}SE{White} 5"
+        },
+        {
+         "number": "10",
+         "Text": "{White}Russarö   {White} 11{White} E{White}12{Cyan}Ulkokall{Cyan}  6{Cyan}SE{Cyan} 9"
+        },
+        {
+         "number": "11",
+         "Text": "{Cyan}Utö       {Cyan} 12{Cyan}SE{Cyan} 9{White}Vihreäs.{White}  2{White}SE{White} 6"
+        },
+        {
+         "number": "12",
+         "Text": "{White}Vilsandi  {White} 12{White}SE{White} 7{Cyan}Marjan. {Cyan}  2{Cyan}SE{Cyan} 5"
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}Gotska S  {Cyan} 12{Cyan}SE{Cyan} 5{White}Kemi I  {White}  5{White}SE{White} 9"
+        },
+        {
+         "number": "14",
+         "Text": "{White}Kumlinge  {White} 11{White}SE{White} 7{Cyan}Ajos    {Cyan}  4{Cyan}SE{Cyan} 6"
+        },
+        {
+         "number": "15",
+         "Text": "{Cyan}Nyhamn    {Cyan} 12{Cyan}SE{Cyan}11{White}        {White}   {White}  {White}  "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Märket    {White} 11{White}SE{White}11{Cyan}        {Cyan}   {Cyan}  {Cyan}  "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}MERIVEDEN KORKEUS (teoreett. keskivesi)"
+        },
+        {
+         "number": "19",
+         "Text": "{Cyan}Kemi   {Cyan}   6{Cyan}Kaskin.{Cyan}  10{Cyan}Hanko   {Cyan}   1"
+        },
+        {
+         "number": "20",
+         "Text": "{White}Oulu   {White}  -2{White}Mäntyl.{White}   8{White}Helsinki{White}  -5"
+        },
+        {
+         "number": "21",
+         "Text": "{Cyan}Raahe  {Cyan}   0{Cyan}Rauma  {Cyan}   8{Cyan}Porvoo  {Cyan}  -7"
+        },
+        {
+         "number": "22",
+         "Text": "{White}Pietars{White}   7{White}Turku  {White}   5{White}Hamina  {White} -10"
+        },
+        {
+         "number": "23",
+         "Text": "{Cyan}Vaasa  {Cyan}   7{Cyan}Föglö  {Cyan}   8{Cyan}        {Cyan}    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "Sää rannikkoasemilla  21.10. klo 18  "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Haapas.     12 SE  7 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Isokari   12 SE  9"
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Kotka       11 SE  5 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "Kylmäpih  11  E  9"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Orrengr.    11 SE  5 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Tahkol.   10 SE  6"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Emäsalo     11  E  9 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "Sälgrund   9  E  7"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Kalbådagr.  12  E 10 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Bredskär   7  E  6"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Harmaja     11  E  7 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "Valass.    6 SE  5"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Bågaskär    11  E  9 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Tankar     7 SE  5"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Russarö     11  E 12 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "Ulkokall   6 SE  9"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Utö         12 SE  9 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Vihreäs.   2 SE  6"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Vilsandi    12 SE  7 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "Marjan.    2 SE  5"
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "21",
+           "Text": "Gotska S    12 SE  5 "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "Kemi I     5 SE  9"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": " Kumlinge    11 SE  7 "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "18",
+           "Text": "Ajos       4 SE  6"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Nyhamn      12 SE 11                   "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Märket      11 SE 11                   "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " MERIVEDEN KORKEUS (teoreett. keskivesi)"
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Kemi       6 Kaskin.   10 Hanko       1"
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Oulu      -2 Mäntyl.    8 Helsinki   -5"
+         }
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Raahe      0 Rauma      8 Porvoo     -7"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Pietars    7 Turku      5 Hamina    -10"
+         }
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Vaasa      7 Föglö      8              "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

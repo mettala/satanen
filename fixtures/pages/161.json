@@ -1,0 +1,461 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "161",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "160",
+   "nextpg": "162",
+   "toptype": "normal",
+   "time": "2026-10-21T11:40:10",
+   "utctime": "2026-10-21T08:40:10",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   TALOUS          YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Netflixin osake laskussa              "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Suoratoistopalvelu Netflixin osakkeen  "
+        },
+        {
+         "number": "7",
+         "Text": " arvo lähti usean prosentin laskuun     "
+        },
+        {
+         "number": "8",
+         "Text": " sen jälkeen, kun yhtiö julkisti        "
+        },
+        {
+         "number": "9",
+         "Text": " heinä-syyskuun tuloksensa.             "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Yhtiön liikevaihto oli noin 12,9       "
+        },
+        {
+         "number": "12",
+         "Text": " miljardia dollaria. Nousua oli noin    "
+        },
+        {
+         "number": "13",
+         "Text": " 12 prosenttia verrattuna vastaavaan    "
+        },
+        {
+         "number": "14",
+         "Text": " ajanjaksoon vuotta aiemmin. Yhtiön     "
+        },
+        {
+         "number": "15",
+         "Text": " kokonaistulos oli noin 3,7 miljardia   "
+        },
+        {
+         "number": "16",
+         "Text": " dollaria. Tulos kasvoi vuoden          "
+        },
+        {
+         "number": "17",
+         "Text": " takaisesta noin 44 prosenttia.         "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": " Kasvusta huolimatta tuore neljännes-   "
+        },
+        {
+         "number": "20",
+         "Text": " vuosikatsaus ei hälventänyt            "
+        },
+        {
+         "number": "21",
+         "Text": " sijoittajien huolia katsojien          "
+        },
+        {
+         "number": "22",
+         "Text": " aktiivisuuden vähentymisestä ja        "
+        },
+        {
+         "number": "23",
+         "Text": " liikevaihdon kasvun hidastumisesta.    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}TALOUS          YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Netflixin osake laskussa              "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Suoratoistopalvelu Netflixin osakkeen  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}arvo lähti usean prosentin laskuun     "
+        },
+        {
+         "number": "8",
+         "Text": "{White}sen jälkeen, kun yhtiö julkisti        "
+        },
+        {
+         "number": "9",
+         "Text": "{White}heinä-syyskuun tuloksensa.             "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Yhtiön liikevaihto oli noin 12,9       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}miljardia dollaria. Nousua oli noin    "
+        },
+        {
+         "number": "13",
+         "Text": "{White}12 prosenttia verrattuna vastaavaan    "
+        },
+        {
+         "number": "14",
+         "Text": "{White}ajanjaksoon vuotta aiemmin. Yhtiön     "
+        },
+        {
+         "number": "15",
+         "Text": "{White}kokonaistulos oli noin 3,7 miljardia   "
+        },
+        {
+         "number": "16",
+         "Text": "{White}dollaria. Tulos kasvoi vuoden          "
+        },
+        {
+         "number": "17",
+         "Text": "{White}takaisesta noin 44 prosenttia.         "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Kasvusta huolimatta tuore neljännes-   "
+        },
+        {
+         "number": "20",
+         "Text": "{White}vuosikatsaus ei hälventänyt            "
+        },
+        {
+         "number": "21",
+         "Text": "{White}sijoittajien huolia katsojien          "
+        },
+        {
+         "number": "22",
+         "Text": "{White}aktiivisuuden vähentymisestä ja        "
+        },
+        {
+         "number": "23",
+         "Text": "{White}liikevaihdon kasvun hidastumisesta.    "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "TALOUS          YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Netflixin osake laskussa              "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Suoratoistopalvelu Netflixin osakkeen  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " arvo lähti usean prosentin laskuun     "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sen jälkeen, kun yhtiö julkisti        "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " heinä-syyskuun tuloksensa.             "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Yhtiön liikevaihto oli noin 12,9       "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " miljardia dollaria. Nousua oli noin    "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 12 prosenttia verrattuna vastaavaan    "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ajanjaksoon vuotta aiemmin. Yhtiön     "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " kokonaistulos oli noin 3,7 miljardia   "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " dollaria. Tulos kasvoi vuoden          "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " takaisesta noin 44 prosenttia.         "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kasvusta huolimatta tuore neljännes-   "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " vuosikatsaus ei hälventänyt            "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sijoittajien huolia katsojien          "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " aktiivisuuden vähentymisestä ja        "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " liikevaihdon kasvun hidastumisesta.    "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

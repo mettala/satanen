@@ -1,0 +1,21 @@
+{
+  "name": "satanen-proxy",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --port 8787 --var ALLOWED_ORIGINS:https://satanen.io,http://localhost:8081",
+    "deploy": "node ../scripts/assert-release.mjs && node ../scripts/deploy.mjs proxy",
+    "smoke": "node scripts/smoke.mjs",
+    "stats": "node scripts/stats.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261022.1",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5",
+    "wrangler": "^4.152.0"
+  }
+}

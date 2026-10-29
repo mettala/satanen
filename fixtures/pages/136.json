@@ -1,0 +1,457 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "136",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "135",
+   "nextpg": "137",
+   "toptype": "normal",
+   "time": "2026-10-21T16:59:51",
+   "utctime": "2026-10-21T13:59:51",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   ULKOMAAT        YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Putin valmis neuvotteluihin           "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Venäjän presidentti Vladimir Putin     "
+        },
+        {
+         "number": "7",
+         "Text": " sanoo olevansa periaatteessa valmis    "
+        },
+        {
+         "number": "8",
+         "Text": " aloittamaan uudelleen Ukrainan         "
+        },
+        {
+         "number": "9",
+         "Text": " rauhanneuvottelut marraskuun           "
+        },
+        {
+         "number": "10",
+         "Text": " puolessavälissä.                       "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " Asiasta kertoi Kremlin tiedottaja Juri "
+        },
+        {
+         "number": "13",
+         "Text": " Ushakov. Ushakovin mukaan neuvotteluiss"
+        },
+        {
+         "number": "14",
+         "Text": " pitäisi keskustella Ukrainan ja        "
+        },
+        {
+         "number": "15",
+         "Text": " Venäjän sodan jälkeisistä              "
+        },
+        {
+         "number": "16",
+         "Text": " turvatakuista.                         "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Neuvotteluissa olisivat mukana         "
+        },
+        {
+         "number": "19",
+         "Text": " Ukraina, Venäjä ja Yhdysvallat.        "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": " Tällaisia neuvotteluja ei ole käyty    "
+        },
+        {
+         "number": "22",
+         "Text": " sitten helmikuun.                      "
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}ULKOMAAT        YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Putin valmis neuvotteluihin           "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Venäjän presidentti Vladimir Putin     "
+        },
+        {
+         "number": "7",
+         "Text": "{White}sanoo olevansa periaatteessa valmis    "
+        },
+        {
+         "number": "8",
+         "Text": "{White}aloittamaan uudelleen Ukrainan         "
+        },
+        {
+         "number": "9",
+         "Text": "{White}rauhanneuvottelut marraskuun           "
+        },
+        {
+         "number": "10",
+         "Text": "{White}puolessavälissä.                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Asiasta kertoi Kremlin tiedottaja Juri "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Ushakov. Ushakovin mukaan neuvotteluiss"
+        },
+        {
+         "number": "14",
+         "Text": "{White}pitäisi keskustella Ukrainan ja        "
+        },
+        {
+         "number": "15",
+         "Text": "{White}Venäjän sodan jälkeisistä              "
+        },
+        {
+         "number": "16",
+         "Text": "{White}turvatakuista.                         "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Neuvotteluissa olisivat mukana         "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Ukraina, Venäjä ja Yhdysvallat.        "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Tällaisia neuvotteluja ei ole käyty    "
+        },
+        {
+         "number": "22",
+         "Text": "{White}sitten helmikuun.                      "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "ULKOMAAT        YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Putin valmis neuvotteluihin           "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Venäjän presidentti Vladimir Putin     "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sanoo olevansa periaatteessa valmis    "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " aloittamaan uudelleen Ukrainan         "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " rauhanneuvottelut marraskuun           "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " puolessavälissä.                       "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Asiasta kertoi Kremlin tiedottaja Juri "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ushakov. Ushakovin mukaan neuvotteluiss"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pitäisi keskustella Ukrainan ja        "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Venäjän sodan jälkeisistä              "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " turvatakuista.                         "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Neuvotteluissa olisivat mukana         "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Ukraina, Venäjä ja Yhdysvallat.        "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tällaisia neuvotteluja ei ole käyty    "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " sitten helmikuun.                      "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

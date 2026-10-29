@@ -1,0 +1,2648 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "242",
+   "name": "",
+   "subpagecount": "5",
+   "prevpg": "241",
+   "nextpg": "244",
+   "toptype": "normal",
+   "time": "2026-10-21T20:28:05",
+   "utctime": "2026-10-21T17:28:05",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   VEIKKAUSLIIGA       1/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " MESTARUUSSARJA                         "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " FC Inter      28 14 10  4  34-20  52   "
+        },
+        {
+         "number": "6",
+         "Text": " HJK           28 15  6  7  53-32  51   "
+        },
+        {
+         "number": "7",
+         "Text": " KuPS          28 14  9  5  43-26  51   "
+        },
+        {
+         "number": "8",
+         "Text": " IF Gnistan    28 11  9  8  40-37  42   "
+        },
+        {
+         "number": "9",
+         "Text": " AC Oulu       28 12  4 12  32-34  40   "
+        },
+        {
+         "number": "10",
+         "Text": " VPS           28 11  6 11  31-33  39   "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12",
+         "Text": " la 24.10.                              "
+        },
+        {
+         "number": "13",
+         "Text": " VPS        - FC Inter         klo 14.00"
+        },
+        {
+         "number": "14",
+         "Text": " IF Gnistan - AC Oulu          klo 17.00"
+        },
+        {
+         "number": "15",
+         "Text": " su 25.10.                              "
+        },
+        {
+         "number": "16",
+         "Text": " HJK        - KuPS             klo 15.00"
+        },
+        {
+         "number": "17",
+         "Text": " ke 28.10.                              "
+        },
+        {
+         "number": "18",
+         "Text": " AC Oulu    - VPS              klo 18.00"
+        },
+        {
+         "number": "19",
+         "Text": " to 29.10.                              "
+        },
+        {
+         "number": "20",
+         "Text": " FC Inter   - HJK              klo 18.00"
+        },
+        {
+         "number": "21",
+         "Text": " KuPS       - IF Gnistan       klo 19.00"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}VEIKKAUSLIIGA       1/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}MESTARUUSSARJA                         "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}FC Inter      28 14 10  4  34-20  52   "
+        },
+        {
+         "number": "6",
+         "Text": "{Cyan}HJK           28 15  6  7  53-32  51   "
+        },
+        {
+         "number": "7",
+         "Text": "{White}KuPS          28 14  9  5  43-26  51   "
+        },
+        {
+         "number": "8",
+         "Text": "{Cyan}IF Gnistan    28 11  9  8  40-37  42   "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}AC Oulu       28 12  4 12  32-34  40   "
+        },
+        {
+         "number": "10",
+         "Text": "{Cyan}VPS           28 11  6 11  31-33  39   "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{Green}la 24.10.                              "
+        },
+        {
+         "number": "13",
+         "Text": "{White}VPS        - FC Inter        {Cyan}klo 14.00"
+        },
+        {
+         "number": "14",
+         "Text": "{White}IF Gnistan - AC Oulu         {Cyan}klo 17.00"
+        },
+        {
+         "number": "15",
+         "Text": "{Green}su 25.10.                              "
+        },
+        {
+         "number": "16",
+         "Text": "{White}HJK        - KuPS            {Cyan}klo 15.00"
+        },
+        {
+         "number": "17",
+         "Text": "{Green}ke 28.10.                              "
+        },
+        {
+         "number": "18",
+         "Text": "{White}AC Oulu    - VPS             {Cyan}klo 18.00"
+        },
+        {
+         "number": "19",
+         "Text": "{Green}to 29.10.                              "
+        },
+        {
+         "number": "20",
+         "Text": "{White}FC Inter   - HJK             {Cyan}klo 18.00"
+        },
+        {
+         "number": "21",
+         "Text": "{White}KuPS       - IF Gnistan      {Cyan}klo 19.00"
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "VEIKKAUSLIIGA       1/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "MESTARUUSSARJA                         "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "FC Inter      28 14 10  4  34-20  52   "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "HJK           28 15  6  7  53-32  51   "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " KuPS          28 14  9  5  43-26  51   "
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "IF Gnistan    28 11  9  8  40-37  42   "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "AC Oulu       28 12  4 12  32-34  40   "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "VPS           28 11  6 11  31-33  39   "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "la 24.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " VPS        - FC Inter         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "klo 14.00"
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " IF Gnistan - AC Oulu          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "klo 17.00"
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "su 25.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " HJK        - KuPS             "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "klo 15.00"
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "ke 28.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " AC Oulu    - VPS              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "klo 18.00"
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "to 29.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " FC Inter   - HJK              "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "klo 18.00"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "31",
+           "Text": " KuPS       - IF Gnistan       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "klo 19.00"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   VEIKKAUSLIIGA       2/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " KARSINTASARJA                          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " FC Lahti       27 11  6 10  35-26  39  "
+        },
+        {
+         "number": "6",
+         "Text": " Ilves          27 11  5 11  45-39  38  "
+        },
+        {
+         "number": "7",
+         "Text": " TPS            27  8  8 11  29-33  32  "
+        },
+        {
+         "number": "8",
+         "Text": " SJK            27  6  9 12  29-37  27  "
+        },
+        {
+         "number": "9",
+         "Text": " FF Jaro        27  4  9 14  22-49  21  "
+        },
+        {
+         "number": "10",
+         "Text": " IFK Mariehamn  27  4  7 16  22-49  19  "
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}VEIKKAUSLIIGA       2/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}KARSINTASARJA                          "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}FC Lahti       27 11  6 10  35-26  39  "
+        },
+        {
+         "number": "6",
+         "Text": "{Green}Ilves          27 11  5 11  45-39  38  "
+        },
+        {
+         "number": "7",
+         "Text": "{Green}TPS            27  8  8 11  29-33  32  "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}SJK            27  6  9 12  29-37  27  "
+        },
+        {
+         "number": "9",
+         "Text": "{Cyan}FF Jaro        27  4  9 14  22-49  21  "
+        },
+        {
+         "number": "10",
+         "Text": "{White}IFK Mariehamn  27  4  7 16  22-49  19  "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "VEIKKAUSLIIGA       2/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "KARSINTASARJA                          "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "FC Lahti       27 11  6 10  35-26  39  "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Ilves          27 11  5 11  45-39  38  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "TPS            27  8  8 11  29-33  32  "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "SJK            27  6  9 12  29-37  27  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "FF Jaro        27  4  9 14  22-49  21  "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " IFK Mariehamn  27  4  7 16  22-49  19  "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   VEIKKAUSLIIGA       3/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " MAALIPÖRSSI 18.10.                     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Borchers Mads       HJK            18  "
+        },
+        {
+         "number": "6",
+         "Text": " Hytönen Teemu       Ilves          16  "
+        },
+        {
+         "number": "7",
+         "Text": " Adeleke             IF Gnistan     13  "
+        },
+        {
+         "number": "8",
+         "Text": " Karjalainen Rasmus  AC Oulu        11  "
+        },
+        {
+         "number": "9",
+         "Text": " Moreno Ciorciari Ja KuPS           11  "
+        },
+        {
+         "number": "10",
+         "Text": " Kanga Jardell       Ilves          10  "
+        },
+        {
+         "number": "11",
+         "Text": " Conteh Alie         FC Inter       10  "
+        },
+        {
+         "number": "12",
+         "Text": " Sjögrell Herman     FC Inter        9  "
+        },
+        {
+         "number": "13",
+         "Text": " Muzaci Albijon      TPS             9  "
+        },
+        {
+         "number": "14",
+         "Text": " Smyth Luka          VPS             7  "
+        },
+        {
+         "number": "15",
+         "Text": " Lindholm Simon      VPS             7  "
+        },
+        {
+         "number": "16",
+         "Text": " Latonen Joakim      IF Gnistan      6  "
+        },
+        {
+         "number": "17",
+         "Text": " Pukki Teemu         HJK             6  "
+        },
+        {
+         "number": "18",
+         "Text": " Armah Bob Nii       KuPS            6  "
+        },
+        {
+         "number": "19",
+         "Text": " Koskinen Otso       FC Lahti        6  "
+        },
+        {
+         "number": "20",
+         "Text": " Luyeye-Lutumba Josl KuPS            6  "
+        },
+        {
+         "number": "21",
+         "Text": " Augusto Ferreira Ma FC Lahti        5  "
+        },
+        {
+         "number": "22",
+         "Text": " Körkkö Julius       AC Oulu         5  "
+        },
+        {
+         "number": "23",
+         "Text": " Lindholm Aaron      FC Lahti        5  "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}VEIKKAUSLIIGA       3/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}MAALIPÖRSSI 18.10.                     "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Borchers Mads      {Cyan}HJK          {Green} 18  "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Hytönen Teemu      {Cyan}Ilves        {Green} 16  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Adeleke            {Cyan}IF Gnistan   {Green} 13  "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Karjalainen Rasmus {Cyan}AC Oulu      {Green} 11  "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Moreno Ciorciari Ja{Cyan}KuPS         {Green} 11  "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Kanga Jardell      {Cyan}Ilves        {Green} 10  "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Conteh Alie        {Cyan}FC Inter     {Green} 10  "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Sjögrell Herman    {Cyan}FC Inter     {Green}  9  "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Muzaci Albijon     {Cyan}TPS          {Green}  9  "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Smyth Luka         {Cyan}VPS          {Green}  7  "
+        },
+        {
+         "number": "15",
+         "Text": "{White}Lindholm Simon     {Cyan}VPS          {Green}  7  "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Latonen Joakim     {Cyan}IF Gnistan   {Green}  6  "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Pukki Teemu        {Cyan}HJK          {Green}  6  "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Armah Bob Nii      {Cyan}KuPS         {Green}  6  "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Koskinen Otso      {Cyan}FC Lahti     {Green}  6  "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Luyeye-Lutumba Josl{Cyan}KuPS         {Green}  6  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Augusto Ferreira Ma{Cyan}FC Lahti     {Green}  5  "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Körkkö Julius      {Cyan}AC Oulu      {Green}  5  "
+        },
+        {
+         "number": "23",
+         "Text": "{White}Lindholm Aaron     {Cyan}FC Lahti     {Green}  5  "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "VEIKKAUSLIIGA       3/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "MAALIPÖRSSI 18.10.                     "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Borchers Mads       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "HJK            "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "18  "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Hytönen Teemu       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "Ilves          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "16  "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Adeleke             "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "IF Gnistan     "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "13  "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Karjalainen Rasmus  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "AC Oulu        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "11  "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Moreno Ciorciari Ja "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "KuPS           "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "11  "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Kanga Jardell       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "Ilves          "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "10  "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Conteh Alie         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "15",
+           "Text": "FC Inter       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "4",
+           "Text": "10  "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Sjögrell Herman     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "FC Inter        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "9  "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Muzaci Albijon      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "TPS             "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "9  "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Smyth Luka          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "VPS             "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "7  "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Lindholm Simon      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "VPS             "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "7  "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Latonen Joakim      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "IF Gnistan      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "6  "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Pukki Teemu         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "HJK             "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "6  "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Armah Bob Nii       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "KuPS            "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "6  "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Koskinen Otso       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "FC Lahti        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "6  "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Luyeye-Lutumba Josl "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "KuPS            "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "6  "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Augusto Ferreira Ma "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "FC Lahti        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "5  "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Körkkö Julius       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "AC Oulu         "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "5  "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "21",
+           "Text": " Lindholm Aaron      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "16",
+           "Text": "FC Lahti        "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "3",
+           "Text": "5  "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   LIIGAKARSINTA/M     4/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " PK-35 - FF Jaro YT  1-1                "
+        },
+        {
+         "number": "4",
+         "Text": " 21.10. PK-35 - FF Jaro      1-1        "
+        },
+        {
+         "number": "5",
+         "Text": " 25.10. FF Jaro - PK-35      14.00      "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": "          Otteluseuranta s. 241         "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}LIIGAKARSINTA/M     4/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}PK-35 - FF Jaro YT {Cyan}1-1                "
+        },
+        {
+         "number": "4",
+         "Text": "{White}21.10. PK-35 - FF Jaro     {Green}1-1        "
+        },
+        {
+         "number": "5",
+         "Text": "{White}25.10. FF Jaro - PK-35     {Cyan}14.00      "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{Green}         Otteluseuranta s. 241         "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "LIIGAKARSINTA/M     4/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "20",
+           "Text": "PK-35 - FF Jaro YT  "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "19",
+           "Text": "1-1                "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 21.10. PK-35 - FF Jaro      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "1-1        "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "29",
+           "Text": " 25.10. FF Jaro - PK-35      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "11",
+           "Text": "14.00      "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "18",
+           "Text": "Otteluseuranta s. "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "241",
+           "length": "3",
+           "Text": "241"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9"
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   JALKAPALLO   MIESTEN SUOMEN CUP  5/5 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Finaali                                "
+        },
+        {
+         "number": "4",
+         "Text": "  La 5.9.                               "
+        },
+        {
+         "number": "5",
+         "Text": " FC Inter - HJK 1-0                     "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}JALKAPALLO {NB}{White}MIESTEN SUOMEN CUP  5/5 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Finaali                                "
+        },
+        {
+         "number": "4",
+         "Text": "{White}{Green}La 5.9.                               "
+        },
+        {
+         "number": "5",
+         "Text": "{White}FC Inter - HJK{Green}1-0                     "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "11",
+           "Text": "JALKAPALLO "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "24",
+           "Text": "MIESTEN SUOMEN CUP  5/5 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Finaali                                "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "38",
+           "Text": "La 5.9.                               "
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " FC Inter - HJK "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "24",
+           "Text": "1-0                     "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

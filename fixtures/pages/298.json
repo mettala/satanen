@@ -1,0 +1,2109 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "298",
+   "name": "",
+   "subpagecount": "4",
+   "prevpg": "297",
+   "nextpg": "299",
+   "toptype": "normal",
+   "time": "2026-10-11T17:17:55",
+   "utctime": "2026-10-11T14:17:55",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     FORMULA 1         KAUSI 2026   1/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "     MM-SARJAN TILANNE (17/23)          "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "  1. Kimi Antonelli   ITA Mercedes  340 "
+        },
+        {
+         "number": "6",
+         "Text": "  2. George Russell   GBR Mercedes  238 "
+        },
+        {
+         "number": "7",
+         "Text": "  3. Lewis Hamilton   GBR Ferrari   229 "
+        },
+        {
+         "number": "8",
+         "Text": "  4. Max Verstappen   NED Red Bull  221 "
+        },
+        {
+         "number": "9",
+         "Text": "  5. Charles Leclerc  MON Ferrari   215 "
+        },
+        {
+         "number": "10",
+         "Text": "  6. Lando Norris     GBR McLaren   201 "
+        },
+        {
+         "number": "11",
+         "Text": "  7. Oscar Piastri    AUS McLaren   138 "
+        },
+        {
+         "number": "12",
+         "Text": "  8. Isack Hadjar     FRA Red Bull   97 "
+        },
+        {
+         "number": "13",
+         "Text": "  9. Liam Lawson      NZL Racing B   75 "
+        },
+        {
+         "number": "14",
+         "Text": " 10. Pierre Gasly     FRA Alpine     41 "
+        },
+        {
+         "number": "15",
+         "Text": " 11. Arvid Lindblad   GBR Racing B   38 "
+        },
+        {
+         "number": "16",
+         "Text": " 12. Franco Colapinto ARG Alpine     27 "
+        },
+        {
+         "number": "17",
+         "Text": " 22. Valtteri Bottas  FIN Cadillac    0 "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": "     VALMISTAJIEN TILANNE               "
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": "  1. Mercedes  578     4. Red Bull  332 "
+        },
+        {
+         "number": "22",
+         "Text": "  2. Ferrari   444     5. Racing B  100 "
+        },
+        {
+         "number": "23",
+         "Text": "  3. McLaren   339     6. Alpine     68 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  FORMULA 1    {Green}{NB}{Blue}  KAUSI 2026   1/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "    {Green}MM-SARJAN TILANNE (17/23)          "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": " {White}1.{White}Kimi Antonelli   ITA Mercedes  340 "
+        },
+        {
+         "number": "6",
+         "Text": " {White}2.{White}George Russell   GBR Mercedes  238 "
+        },
+        {
+         "number": "7",
+         "Text": " {White}3.{White}Lewis Hamilton   GBR Ferrari   229 "
+        },
+        {
+         "number": "8",
+         "Text": " {White}4.{White}Max Verstappen   NED Red Bull  221 "
+        },
+        {
+         "number": "9",
+         "Text": " {White}5.{White}Charles Leclerc  MON Ferrari   215 "
+        },
+        {
+         "number": "10",
+         "Text": " {White}6.{White}Lando Norris     GBR McLaren   201 "
+        },
+        {
+         "number": "11",
+         "Text": " {White}7.{White}Oscar Piastri    AUS McLaren   138 "
+        },
+        {
+         "number": "12",
+         "Text": " {White}8.{White}Isack Hadjar     FRA Red Bull   97 "
+        },
+        {
+         "number": "13",
+         "Text": " {White}9.{White}Liam Lawson      NZL Racing B   75 "
+        },
+        {
+         "number": "14",
+         "Text": "{White}10.{White}Pierre Gasly     FRA Alpine     41 "
+        },
+        {
+         "number": "15",
+         "Text": "{White}11.{White}Arvid Lindblad   GBR Racing B   38 "
+        },
+        {
+         "number": "16",
+         "Text": "{White}12.{White}Franco Colapinto ARG Alpine     27 "
+        },
+        {
+         "number": "17",
+         "Text": "{Cyan}22.{Cyan}Valtteri Bottas  FIN Cadillac    0 "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "    {Green}VALMISTAJIEN TILANNE               "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": " {White}1. Mercedes  578    {White}4. Red Bull  332 "
+        },
+        {
+         "number": "22",
+         "Text": " {White}2. Ferrari   444    {White}5. Racing B  100 "
+        },
+        {
+         "number": "23",
+         "Text": " {White}3. McLaren   339    {White}6. Alpine     68 "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": "FORMULA 1     "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "KAUSI 2026   1/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "MM-SARJAN TILANNE (17/23)          "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  1. Kimi Antonelli   ITA Mercedes  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "340",
+           "length": "3",
+           "Text": "340"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  2. George Russell   GBR Mercedes  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "238",
+           "length": "3",
+           "Text": "238"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  3. Lewis Hamilton   GBR Ferrari   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "229",
+           "length": "3",
+           "Text": "229"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  4. Max Verstappen   NED Red Bull  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "221",
+           "length": "3",
+           "Text": "221"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  5. Charles Leclerc  MON Ferrari   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "215",
+           "length": "3",
+           "Text": "215"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  6. Lando Norris     GBR McLaren   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "201",
+           "length": "3",
+           "Text": "201"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "36",
+           "Text": "  7. Oscar Piastri    AUS McLaren   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "138",
+           "length": "3",
+           "Text": "138"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  8. Isack Hadjar     FRA Red Bull   97 "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  9. Liam Lawson      NZL Racing B   75 "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 10. Pierre Gasly     FRA Alpine     41 "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 11. Arvid Lindblad   GBR Racing B   38 "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 12. Franco Colapinto ARG Alpine     27 "
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "22. Valtteri Bottas  FIN Cadillac    0 "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "VALMISTAJIEN TILANNE               "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "  1. Mercedes  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "578",
+           "length": "3",
+           "Text": "578"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "     4. Red Bull  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "332",
+           "length": "3",
+           "Text": "332"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "  2. Ferrari   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "444",
+           "length": "3",
+           "Text": "444"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "18",
+           "Text": "     5. Racing B  "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "100",
+           "length": "3",
+           "Text": "100"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "15",
+           "Text": "  3. McLaren   "
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "link": "339",
+           "length": "3",
+           "Text": "339"
+          },
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "22",
+           "Text": "     6. Alpine     68 "
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     FORMULA 1         KAUSI 2026   2/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "                Voittaja    Bottas      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Australia      Russell     kesk.       "
+        },
+        {
+         "number": "6",
+         "Text": " Kiina          Antonelli   13.         "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " Japani         Antonelli   19.         "
+        },
+        {
+         "number": "9",
+         "Text": " Bahrain        peruttu                 "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Saudi-Arabia   peruttu                 "
+        },
+        {
+         "number": "12",
+         "Text": " Miami          Antonelli   18.         "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Kanada         Antonelli   16.         "
+        },
+        {
+         "number": "15",
+         "Text": " Monaco         Antonelli   kesk.       "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Katalonia      Hamilton    kesk.       "
+        },
+        {
+         "number": "18",
+         "Text": " Itävalta       Russell     kesk.       "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " Britannia      Leclerc     16.         "
+        },
+        {
+         "number": "21",
+         "Text": " Belgia         Antonelli   18.         "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  FORMULA 1    {Green}{NB}{Blue}  KAUSI 2026   2/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "               {Green}Voittaja   {Cyan}Bottas      "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Australia     {Cyan}Russell    {Cyan}kesk.       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Kiina         {Cyan}Antonelli  {Cyan}13.         "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Japani        {Cyan}Antonelli  {Cyan}19.         "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Bahrain       {Yellow}peruttu                 "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Saudi-Arabia  {Yellow}peruttu                 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Miami         {Cyan}Antonelli  {Cyan}18.         "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Kanada        {Cyan}Antonelli  {Cyan}16.         "
+        },
+        {
+         "number": "15",
+         "Text": "{White}Monaco        {Cyan}Antonelli  {Cyan}kesk.       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Katalonia     {Cyan}Hamilton   {Cyan}kesk.       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Itävalta      {Cyan}Russell    {Cyan}kesk.       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Britannia     {Cyan}Leclerc    {Cyan}16.         "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Belgia        {Cyan}Antonelli  {Cyan}18.         "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": "FORMULA 1     "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "KAUSI 2026   2/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "Voittaja    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Bottas      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Australia      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Russell     kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kiina          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   13.         "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Japani         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   19.         "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Bahrain        "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "24",
+           "Text": "peruttu                 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Saudi-Arabia   "
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "length": "24",
+           "Text": "peruttu                 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Miami          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   18.         "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Kanada         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   16.         "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Monaco         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Katalonia      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Hamilton    kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Itävalta       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Russell     kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Britannia      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Leclerc     16.         "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Belgia         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   18.         "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     FORMULA 1         KAUSI 2026   3/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "                Voittaja    Bottas      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Unkari         Norris      kesk.       "
+        },
+        {
+         "number": "6",
+         "Text": " Hollanti       Norris      kesk.       "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " Italia         Antonelli   19.         "
+        },
+        {
+         "number": "9",
+         "Text": " Espanja        Antonelli   18.         "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Azerbaidzhan   Russell     kesk.       "
+        },
+        {
+         "number": "12",
+         "Text": " Malesia        Verstappen  kesk.       "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Singapore      Verstappen  19.         "
+        },
+        {
+         "number": "15",
+         "Text": " USA            25.10.                  "
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17",
+         "Text": " Meksiko        01.11.                  "
+        },
+        {
+         "number": "18",
+         "Text": " Brasilia       08.11.                  "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20",
+         "Text": " Las Vegas      22.11.                  "
+        },
+        {
+         "number": "21",
+         "Text": " Qatar          29.11.                  "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  FORMULA 1    {Green}{NB}{Blue}  KAUSI 2026   3/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "               {Green}Voittaja   {Cyan}Bottas      "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Unkari        {Cyan}Norris     {Cyan}kesk.       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Hollanti      {Cyan}Norris     {Cyan}kesk.       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Italia        {Cyan}Antonelli  {Cyan}19.         "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Espanja       {Cyan}Antonelli  {Cyan}18.         "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Azerbaidzhan  {Cyan}Russell    {Cyan}kesk.       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Malesia       {Cyan}Verstappen {Cyan}kesk.       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Singapore     {Cyan}Verstappen {Cyan}19.         "
+        },
+        {
+         "number": "15",
+         "Text": "{White}USA           {White}25.10.                  "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Meksiko       {White}01.11.                  "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Brasilia      {White}08.11.                  "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Las Vegas     {White}22.11.                  "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Qatar         {White}29.11.                  "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": "FORMULA 1     "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "KAUSI 2026   3/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "Voittaja    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Bottas      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Unkari         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Norris      kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Hollanti       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Norris      kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Italia         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   19.         "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Espanja        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Antonelli   18.         "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Azerbaidzhan   "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Russell     kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Malesia        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Verstappen  kesk.       "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16",
+           "Text": " Singapore      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "24",
+           "Text": "Verstappen  19.         "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " USA            25.10.                  "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Meksiko        01.11.                  "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Brasilia       08.11.                  "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Las Vegas      22.11.                  "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Qatar          29.11.                  "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "4",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     FORMULA 1         KAUSI 2026   4/4 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "                Voittaja    Bottas      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Abu Dhabi      06.12.                  "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9"
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11"
+        },
+        {
+         "number": "12"
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14"
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16"
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}  FORMULA 1    {Green}{NB}{Blue}  KAUSI 2026   4/4 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "               {Green}Voittaja   {Cyan}Bottas      "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Abu Dhabi     {White}06.12.                  "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "12",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "4"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "14",
+           "Text": "FORMULA 1     "
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "17",
+           "Text": "KAUSI 2026   4/4 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "16"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "12",
+           "Text": "Voittaja    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "12",
+           "Text": "Bottas      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Abu Dhabi      06.12.                  "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

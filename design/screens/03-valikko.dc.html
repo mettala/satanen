@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<title>Kaikki osastot</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&amp;display=swap">
+<style>
+body{margin:0;font-family:'Schibsted Grotesk',system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; background: {{t.scrimBase}}; color: {{t.ink}}; display: flex; font-family: 'Schibsted Grotesk', system-ui, sans-serif;">
+<nav aria-label="Kaikki osastot" style="width: 312px; flex-shrink: 0; background: {{t.surface}}; padding: 44px 20px 28px; box-sizing: border-box; display: flex; flex-direction: column;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding-bottom: 12px;">
+<div style="display: flex; align-items: center; gap: 10px;"><svg width="28" height="28" viewBox="0 0 120 120" role="img" aria-label="Satanen"><rect x="0.5" y="0.5" width="119" height="119" rx="27" fill="#15181D" stroke="{{ms}}"></rect><sc-for list="{{logo}}" as="c" hint-placeholder-count="30"><rect x="{{c.x}}" y="{{c.y}}" width="7.6" height="7.6" rx="2.1" fill="{{c.f}}"></rect></sc-for></svg><span style="font-size: 24px; font-weight: 800; letter-spacing: -0.02em;">Satanen</span></div>
+<a href="01-etusivu.dc.html" aria-label="Sulje valikko" style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"></path></svg></a>
+</div>
+<sc-for list="{{secs}}" as="s" hint-placeholder-count="10">
+<a href="01-etusivu.dc.html" style="display: flex; align-items: center; gap: 12px; min-height: 46px; border-top: 1px solid {{t.line}};"><span style="width: 8px; height: 8px; border-radius: 4px; background: {{s.c}};"></span><span style="flex-grow: 1; font-size: 16px; font-weight: 500;">{{s.name}}</span><span style="font-size: 13px; color: {{t.muted}}; font-variant-numeric: tabular-nums;">{{s.n}}</span></a>
+</sc-for>
+<div style="margin-top: auto; display: flex; flex-direction: column; gap: 6px; border-top: 1px solid {{t.line}}; padding-top: 14px;">
+<a href="#" style="font-size: 16px; font-weight: 500; min-height: 36px; display: flex; align-items: center;">Asetukset</a>
+<div style="font-size: 13px; color: {{t.muted}};">Sisältö: Yle Teksti-TV</div>
+</div>
+</nav>
+<div style="flex-grow: 1;"></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"mode":{"editor":"enum","options":["light","dark"],"default":"light"},"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+renderVals() {
+const themes = {
+light: { scrimBase: '#8A8D93', surface: '#FFFFFF', ink: '#15181D', muted: '#5D636E', line: '#E1E4E9', news: '#2357D9', world: '#0E7C86', biz: '#A84A08', sport: '#2B7A35', weather: '#6B45C6' },
+dark: { scrimBase: '#0A0B0D', surface: '#1F232A', ink: '#ECEEF1', muted: '#A0A7B2', line: '#2E333B', news: '#86A6FF', world: '#4FC3CC', biz: '#F2A35E', sport: '#6DD27C', weather: '#B69CFF' }
+};
+const t = themes[this.props.mode] || themes.light;
+const one = ['.X.', 'XX.', '.X.', '.X.', 'XXX'], zero = ['XXX', 'X.X', 'X.X', 'X.X', 'XXX'], cols = ['#86A6FF', '#6DD27C', '#F2A35E'], logo = [];
+[one, zero, zero].forEach((d, i) => d.forEach((row, r) => row.split('').forEach((ch, c) => { if (ch === 'X') logo.push({ x: 15.6 + i * 31.6 + c * 9, y: 38.2 + r * 9, f: cols[i] }); })));
+return {
+t,
+logo,
+ms: this.props.mode === 'dark' ? '#2E333B' : '#15181D',
+secs: [
+{ name: 'Etusivu', n: '100', c: t.news }, { name: 'Kotimaa', n: '102', c: t.news },
+{ name: 'Ulkomaat', n: '130', c: t.world }, { name: 'Talous', n: '160', c: t.biz },
+{ name: 'Urheilu', n: '201', c: t.sport }, { name: 'Sää', n: '400', c: t.weather },
+{ name: 'Alueet', n: '500', c: t.muted }, { name: 'Ohjelmat', n: '300', c: t.muted },
+{ name: 'In English', n: '190', c: t.muted }, { name: 'Svenska', n: '799', c: t.muted }
+]
+};
+}
+}
+</script>
+</body>
+</html>

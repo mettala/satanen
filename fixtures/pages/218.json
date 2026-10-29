@@ -1,0 +1,461 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "218",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "207",
+   "nextpg": "220",
+   "toptype": "normal",
+   "time": "2026-10-24T15:27:12",
+   "utctime": "2026-10-24T12:27:12",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "     ALPPIHIIHTO       MAAILMANCUP  1/1 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "     Sölden, Itävalta                   "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "     Suurpujottelu / Lopputulokset      "
+        },
+        {
+         "number": "6"
+        },
+        {
+         "number": "7",
+         "Text": "  1. Paula Moltzan        USA 2.14,82   "
+        },
+        {
+         "number": "8",
+         "Text": "  2. Lara Colturi         ALB +  0,01   "
+        },
+        {
+         "number": "9",
+         "Text": "  3. Emma Aicher          GER +  0,52   "
+        },
+        {
+         "number": "10",
+         "Text": "  4. Sara Hector          SWE +  0,63   "
+        },
+        {
+         "number": "11",
+         "Text": "  5. Asja Zenere          ITA +  0,72   "
+        },
+        {
+         "number": "12",
+         "Text": "  6. Camille Rast         SUI +  0,81   "
+        },
+        {
+         "number": "13",
+         "Text": "  7. Mikaela Shiffrin     USA +  0,83   "
+        },
+        {
+         "number": "14",
+         "Text": "  8. Alice Robinson       NZL +  1,01   "
+        },
+        {
+         "number": "15",
+         "Text": "  9. Maryna Gasienica-Dan POL +  1,12   "
+        },
+        {
+         "number": "16",
+         "Text": "  9. Franziska Gritsch    AUT +  1,12   "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}  ALPPIHIIHTO    {Blue}{NB}{White}MAAILMANCUP  1/1 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "    {Green}Sölden, Itävalta                   "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "    {Green}Suurpujottelu / Lopputulokset      "
+        },
+        {
+         "number": "6",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "7",
+         "Text": "  1.{White}Paula Moltzan        USA 2.14,82   "
+        },
+        {
+         "number": "8",
+         "Text": "  2.{White}Lara Colturi         ALB +  0,01   "
+        },
+        {
+         "number": "9",
+         "Text": "  3.{White}Emma Aicher          GER +  0,52   "
+        },
+        {
+         "number": "10",
+         "Text": "  4.{White}Sara Hector          SWE +  0,63   "
+        },
+        {
+         "number": "11",
+         "Text": "  5.{White}Asja Zenere          ITA +  0,72   "
+        },
+        {
+         "number": "12",
+         "Text": "  6.{White}Camille Rast         SUI +  0,81   "
+        },
+        {
+         "number": "13",
+         "Text": "  7.{White}Mikaela Shiffrin     USA +  0,83   "
+        },
+        {
+         "number": "14",
+         "Text": "  8.{White}Alice Robinson       NZL +  1,01   "
+        },
+        {
+         "number": "15",
+         "Text": "  9.{White}Maryna Gasienica-Dan POL +  1,12   "
+        },
+        {
+         "number": "16",
+         "Text": "  9.{White}Franziska Gritsch    AUT +  1,12   "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "4"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "16",
+           "Text": "ALPPIHIIHTO     "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "17",
+           "Text": "MAAILMANCUP  1/1 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "Sölden, Itävalta                   "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "35",
+           "Text": "Suurpujottelu / Lopputulokset      "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  1. Paula Moltzan        USA 2.14,82   "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  2. Lara Colturi         ALB +  0,01   "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  3. Emma Aicher          GER +  0,52   "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  4. Sara Hector          SWE +  0,63   "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  5. Asja Zenere          ITA +  0,72   "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  6. Camille Rast         SUI +  0,81   "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  7. Mikaela Shiffrin     USA +  0,83   "
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  8. Alice Robinson       NZL +  1,01   "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  9. Maryna Gasienica-Dan POL +  1,12   "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": "  9. Franziska Gritsch    AUT +  1,12   "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

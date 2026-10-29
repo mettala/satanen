@@ -1,0 +1,459 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "163",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "162",
+   "nextpg": "164",
+   "toptype": "normal",
+   "time": "2026-10-21T07:13:57",
+   "utctime": "2026-10-21T04:13:57",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   TALOUS          YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": "  Nordea: Käänne asuntomarkkinoille     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Asuntojen hintojen odotetaan nousevan  "
+        },
+        {
+         "number": "7",
+         "Text": " Suomessa prosentilla ensi vuonna,      "
+        },
+        {
+         "number": "8",
+         "Text": " Nordea ennustaa                        "
+        },
+        {
+         "number": "9",
+         "Text": " asuntomarkkinakatsauksessaan.          "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " Kasvun ennustetaan kiihtyvän 2,5       "
+        },
+        {
+         "number": "12",
+         "Text": " prosenttiin vuonna 2028.               "
+        },
+        {
+         "number": "13"
+        },
+        {
+         "number": "14",
+         "Text": " Asuntomarkkinoiden käänteen taustalla  "
+        },
+        {
+         "number": "15",
+         "Text": " ovat Nordean mukaan hyvät talouskasvu- "
+        },
+        {
+         "number": "16",
+         "Text": " ja työllisyyslukemat sekä korkotason   "
+        },
+        {
+         "number": "17",
+         "Text": " vakiintuminen.                         "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": " Tänä vuonna asuntojen hintojen         "
+        },
+        {
+         "number": "20",
+         "Text": " ennustetaan laskevan kolme prosenttia. "
+        },
+        {
+         "number": "21",
+         "Text": " Asuntokauppojen määrä on ollut         "
+        },
+        {
+         "number": "22",
+         "Text": " tammi-syyskuussa 13 prosenttia         "
+        },
+        {
+         "number": "23",
+         "Text": " pienempi vuotta aiempaan verrattuna.   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Blue}{NB}{White}TALOUS          YLE  KESKIVIIKKO     "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Yellow}{DH}Nordea: Käänne asuntomarkkinoille     "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Asuntojen hintojen odotetaan nousevan  "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Suomessa prosentilla ensi vuonna,      "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Nordea ennustaa                        "
+        },
+        {
+         "number": "9",
+         "Text": "{White}asuntomarkkinakatsauksessaan.          "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Kasvun ennustetaan kiihtyvän 2,5       "
+        },
+        {
+         "number": "12",
+         "Text": "{White}prosenttiin vuonna 2028.               "
+        },
+        {
+         "number": "13",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Asuntomarkkinoiden käänteen taustalla  "
+        },
+        {
+         "number": "15",
+         "Text": "{White}ovat Nordean mukaan hyvät talouskasvu- "
+        },
+        {
+         "number": "16",
+         "Text": "{White}ja työllisyyslukemat sekä korkotason   "
+        },
+        {
+         "number": "17",
+         "Text": "{White}vakiintuminen.                         "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Tänä vuonna asuntojen hintojen         "
+        },
+        {
+         "number": "20",
+         "Text": "{White}ennustetaan laskevan kolme prosenttia. "
+        },
+        {
+         "number": "21",
+         "Text": "{White}Asuntokauppojen määrä on ollut         "
+        },
+        {
+         "number": "22",
+         "Text": "{White}tammi-syyskuussa 13 prosenttia         "
+        },
+        {
+         "number": "23",
+         "Text": "{White}pienempi vuotta aiempaan verrattuna.   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "37",
+           "Text": "TALOUS          YLE  KESKIVIIKKO     "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38",
+           "Text": "Nordea: Käänne asuntomarkkinoille     "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "2"
+          },
+          {
+           "bg": "black",
+           "fg": "yellow",
+           "size": "double height",
+           "length": "38"
+          }
+         ]
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Asuntojen hintojen odotetaan nousevan  "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Suomessa prosentilla ensi vuonna,      "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Nordea ennustaa                        "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " asuntomarkkinakatsauksessaan.          "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Kasvun ennustetaan kiihtyvän 2,5       "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " prosenttiin vuonna 2028.               "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Asuntomarkkinoiden käänteen taustalla  "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ovat Nordean mukaan hyvät talouskasvu- "
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ja työllisyyslukemat sekä korkotason   "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " vakiintuminen.                         "
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Tänä vuonna asuntojen hintojen         "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ennustetaan laskevan kolme prosenttia. "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Asuntokauppojen määrä on ollut         "
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " tammi-syyskuussa 13 prosenttia         "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " pienempi vuotta aiempaan verrattuna.   "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1666 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "263",
+   "name": "",
+   "subpagecount": "3",
+   "prevpg": "260",
+   "nextpg": "264",
+   "toptype": "normal",
+   "time": "2026-10-22T00:00:28",
+   "utctime": "2026-10-21T21:00:28",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   SALIBANDY   F-LIIGA MIEHET       1/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " RUNKOSARJA                             "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " SPV           7  6  1  0  0  59-23  20 "
+        },
+        {
+         "number": "6",
+         "Text": " Oilers        6  6  0  0  0  66-18  18 "
+        },
+        {
+         "number": "7",
+         "Text": " Nokian KrP    7  5  1  0  1  61-29  17 "
+        },
+        {
+         "number": "8",
+         "Text": " Classic       6  4  1  0  1  48-21  14 "
+        },
+        {
+         "number": "9",
+         "Text": " Indians       4  3  0  1  0  23-15  10 "
+        },
+        {
+         "number": "10",
+         "Text": " EräViikingit  8  3  0  0  5  35-54   9 "
+        },
+        {
+         "number": "11",
+         "Text": " TPS           7  2  0  0  5  29-47   6 "
+        },
+        {
+         "number": "12",
+         "Text": " Hawks         7  2  0  0  5  19-42   6 "
+        },
+        {
+         "number": "13",
+         "Text": " O2-Jyväskylä  6  1  1  1  3  28-45   6 "
+        },
+        {
+         "number": "14",
+         "Text": " OLS           6  1  0  2  3  25-41   5 "
+        },
+        {
+         "number": "15",
+         "Text": " Jymy          6  1  0  0  5  23-54   3 "
+        },
+        {
+         "number": "16",
+         "Text": " LASB          6  0  0  0  6  14-41   0 "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Runkosarjassa pelataan 28 kierrosta    "
+        },
+        {
+         "number": "19"
+        },
+        {
+         "number": "20"
+        },
+        {
+         "number": "21",
+         "Text": "          Otteluseuranta s. 261         "
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}SALIBANDY {NB}{White}F-LIIGA MIEHET       1/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}RUNKOSARJA                             "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}SPV           7  6  1  0  0  59-23  20 "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Oilers        6  6  0  0  0  66-18  18 "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Nokian KrP    7  5  1  0  1  61-29  17 "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Classic       6  4  1  0  1  48-21  14 "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Indians       4  3  0  1  0  23-15  10 "
+        },
+        {
+         "number": "10",
+         "Text": "{White}EräViikingit  8  3  0  0  5  35-54   9 "
+        },
+        {
+         "number": "11",
+         "Text": "{White}TPS           7  2  0  0  5  29-47   6 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Hawks         7  2  0  0  5  19-42   6 "
+        },
+        {
+         "number": "13",
+         "Text": "{Cyan}O2-Jyväskylä  6  1  1  1  3  28-45   6 "
+        },
+        {
+         "number": "14",
+         "Text": "{Cyan}OLS           6  1  0  2  3  25-41   5 "
+        },
+        {
+         "number": "15",
+         "Text": "{Green}Jymy          6  1  0  0  5  23-54   3 "
+        },
+        {
+         "number": "16",
+         "Text": "{White}LASB          6  0  0  0  6  14-41   0 "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{Cyan}Runkosarjassa pelataan 28 kierrosta    "
+        },
+        {
+         "number": "19",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "20",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "21",
+         "Text": "{Green}         Otteluseuranta s. 261         "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "SALIBANDY "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "F-LIIGA MIEHET       1/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "RUNKOSARJA                             "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " SPV           7  6  1  0  0  59-23  20 "
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Oilers        6  6  0  0  0  66-18  18 "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Nokian KrP    7  5  1  0  1  61-29  17 "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Classic       6  4  1  0  1  48-21  14 "
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Indians       4  3  0  1  0  23-15  10 "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " EräViikingit  8  3  0  0  5  35-54   9 "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " TPS           7  2  0  0  5  29-47   6 "
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hawks         7  2  0  0  5  19-42   6 "
+         }
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "O2-Jyväskylä  6  1  1  1  3  28-45   6 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "OLS           6  1  0  2  3  25-41   5 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Jymy          6  1  0  0  5  23-54   3 "
+          }
+         ]
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " LASB          6  0  0  0  6  14-41   0 "
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "39",
+           "Text": "Runkosarjassa pelataan 28 kierrosta    "
+          }
+         ]
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "18",
+           "Text": "Otteluseuranta s. "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "261",
+           "length": "3",
+           "Text": "261"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9"
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   SALIBANDY   F-LIIGA MIEHET       2/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " RUNKOSARJA                             "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " to 22.10.                              "
+        },
+        {
+         "number": "6",
+         "Text": " Classic      - KrP           klo 18.30 "
+        },
+        {
+         "number": "7"
+        },
+        {
+         "number": "8",
+         "Text": " pe 23.10.                              "
+        },
+        {
+         "number": "9",
+         "Text": " TPS          - Oilers        klo 18.30 "
+        },
+        {
+         "number": "10"
+        },
+        {
+         "number": "11",
+         "Text": " la 24.10.                              "
+        },
+        {
+         "number": "12",
+         "Text": " O2-JKL       - Indians       klo 14.30 "
+        },
+        {
+         "number": "13",
+         "Text": " SPV          - LASB          klo 17.00 "
+        },
+        {
+         "number": "14",
+         "Text": " OLS          - Hawks         klo 18.00 "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " su 25.10.                              "
+        },
+        {
+         "number": "17",
+         "Text": " Jymy         - LASB          klo 16.00 "
+        },
+        {
+         "number": "18"
+        },
+        {
+         "number": "19",
+         "Text": " pe 30.10.                              "
+        },
+        {
+         "number": "20",
+         "Text": " Indians      - ErVi          klo 18.30 "
+        },
+        {
+         "number": "21",
+         "Text": " OLS          - SPV           klo 18.30 "
+        },
+        {
+         "number": "22",
+         "Text": " Oilers       - Hawks         klo 19.00 "
+        },
+        {
+         "number": "23",
+         "Text": "          Otteluseuranta s. 261         "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}SALIBANDY {NB}{White}F-LIIGA MIEHET       2/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}RUNKOSARJA                             "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{Green}to 22.10.                              "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Classic      - KrP          {Cyan}klo 18.30 "
+        },
+        {
+         "number": "7",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "8",
+         "Text": "{Green}pe 23.10.                              "
+        },
+        {
+         "number": "9",
+         "Text": "{White}TPS          - Oilers       {Cyan}klo 18.30 "
+        },
+        {
+         "number": "10",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "11",
+         "Text": "{Green}la 24.10.                              "
+        },
+        {
+         "number": "12",
+         "Text": "{White}O2-JKL       - Indians      {Cyan}klo 14.30 "
+        },
+        {
+         "number": "13",
+         "Text": "{White}SPV          - LASB         {Cyan}klo 17.00 "
+        },
+        {
+         "number": "14",
+         "Text": "{White}OLS          - Hawks        {Cyan}klo 18.00 "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}su 25.10.                              "
+        },
+        {
+         "number": "17",
+         "Text": "{White}Jymy         - LASB         {Cyan}klo 16.00 "
+        },
+        {
+         "number": "18",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "19",
+         "Text": "{Green}pe 30.10.                              "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Indians      - ErVi         {Cyan}klo 18.30 "
+        },
+        {
+         "number": "21",
+         "Text": "{White}OLS          - SPV          {Cyan}klo 18.30 "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Oilers       - Hawks        {Cyan}klo 19.00 "
+        },
+        {
+         "number": "23",
+         "Text": "{Green}         Otteluseuranta s. 261         "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "SALIBANDY "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "F-LIIGA MIEHET       2/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "RUNKOSARJA                             "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "to 22.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Classic      - KrP           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "pe 23.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " TPS          - Oilers        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "la 24.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " O2-JKL       - Indians       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 14.30 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " SPV          - LASB          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 17.00 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " OLS          - Hawks         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.00 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "su 25.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Jymy         - LASB          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 16.00 "
+          }
+         ]
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "19",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "pe 30.10.                              "
+          }
+         ]
+        },
+        {
+         "number": "20",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Indians      - ErVi          "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "21",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " OLS          - SPV           "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 18.30 "
+          }
+         ]
+        },
+        {
+         "number": "22",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "30",
+           "Text": " Oilers       - Hawks         "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "klo 19.00 "
+          }
+         ]
+        },
+        {
+         "number": "23",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "10"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "18",
+           "Text": "Otteluseuranta s. "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "link": "261",
+           "length": "3",
+           "Text": "261"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "9"
+          }
+         ]
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1",
+         "Text": "   SALIBANDY   F-LIIGA MIEHET       3/3 "
+        },
+        {
+         "number": "2"
+        },
+        {
+         "number": "3",
+         "Text": " Pistepörssi                            "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5",
+         "Text": " Ahola Juuso        KrP       9+  8= 17 "
+        },
+        {
+         "number": "6",
+         "Text": " Hakanen Riku       SPV      10+  6= 16 "
+        },
+        {
+         "number": "7",
+         "Text": " Eklund Alex        TPS       9+  7= 16 "
+        },
+        {
+         "number": "8",
+         "Text": " Auvinen Jasper     Oilers    8+  6= 14 "
+        },
+        {
+         "number": "9",
+         "Text": " Laakso Mikko       KrP       8+  6= 14 "
+        },
+        {
+         "number": "10",
+         "Text": " Viitakoski Valtter KrP       6+  8= 14 "
+        },
+        {
+         "number": "11",
+         "Text": " Keskinen Juuso     SPV       6+  7= 13 "
+        },
+        {
+         "number": "12",
+         "Text": " Astala Aaro        Oilers    8+  4= 12 "
+        },
+        {
+         "number": "13",
+         "Text": " Rantala Joona      Classic   7+  5= 12 "
+        },
+        {
+         "number": "14",
+         "Text": " Haukkala Konsta    SPV       6+  6= 12 "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Maalivahdit                            "
+        },
+        {
+         "number": "17"
+        },
+        {
+         "number": "18",
+         "Text": " Hasu Rasmus                  87,50%    "
+        },
+        {
+         "number": "19",
+         "Text": " Karjalainen Aki              85,23%    "
+        },
+        {
+         "number": "20",
+         "Text": " Laakso Markus                84,69%    "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22"
+        },
+        {
+         "number": "23"
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{Green}{NB}{Blue}SALIBANDY {NB}{White}F-LIIGA MIEHET       3/3 "
+        },
+        {
+         "number": "2",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "3",
+         "Text": "{Green}Pistepörssi                            "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{White}Ahola Juuso       {Cyan}KrP    {Green}  9+  8= 17 "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Hakanen Riku      {Cyan}SPV    {Green} 10+  6= 16 "
+        },
+        {
+         "number": "7",
+         "Text": "{White}Eklund Alex       {Cyan}TPS    {Green}  9+  7= 16 "
+        },
+        {
+         "number": "8",
+         "Text": "{White}Auvinen Jasper    {Cyan}Oilers {Green}  8+  6= 14 "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Laakso Mikko      {Cyan}KrP    {Green}  8+  6= 14 "
+        },
+        {
+         "number": "10",
+         "Text": "{White}Viitakoski Valtter{Cyan}KrP    {Green}  6+  8= 14 "
+        },
+        {
+         "number": "11",
+         "Text": "{White}Keskinen Juuso    {Cyan}SPV    {Green}  6+  7= 13 "
+        },
+        {
+         "number": "12",
+         "Text": "{White}Astala Aaro       {Cyan}Oilers {Green}  8+  4= 12 "
+        },
+        {
+         "number": "13",
+         "Text": "{White}Rantala Joona     {Cyan}Classic{Green}  7+  5= 12 "
+        },
+        {
+         "number": "14",
+         "Text": "{White}Haukkala Konsta   {Cyan}SPV    {Green}  6+  6= 12 "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{Green}Maalivahdit                            "
+        },
+        {
+         "number": "17",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "18",
+         "Text": "{White}Hasu Rasmus                  87,50%    "
+        },
+        {
+         "number": "19",
+         "Text": "{White}Karjalainen Aki              85,23%    "
+        },
+        {
+         "number": "20",
+         "Text": "{White}Laakso Markus                84,69%    "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "23",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "green",
+           "fg": "green",
+           "length": "2"
+          },
+          {
+           "bg": "green",
+           "fg": "blue",
+           "length": "10",
+           "Text": "SALIBANDY "
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "white",
+           "length": "25",
+           "Text": "F-LIIGA MIEHET       3/3 "
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Pistepörssi                            "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Ahola Juuso        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "KrP       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "9+  8= 17 "
+          }
+         ]
+        },
+        {
+         "number": "6",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Hakanen Riku       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "9",
+           "Text": "SPV      "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "11",
+           "Text": "10+  6= 16 "
+          }
+         ]
+        },
+        {
+         "number": "7",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Eklund Alex        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "TPS       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "9+  7= 16 "
+          }
+         ]
+        },
+        {
+         "number": "8",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Auvinen Jasper     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "Oilers    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "8+  6= 14 "
+          }
+         ]
+        },
+        {
+         "number": "9",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Laakso Mikko       "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "KrP       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "8+  6= 14 "
+          }
+         ]
+        },
+        {
+         "number": "10",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Viitakoski Valtter "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "KrP       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "6+  8= 14 "
+          }
+         ]
+        },
+        {
+         "number": "11",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Keskinen Juuso     "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "SPV       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "6+  7= 13 "
+          }
+         ]
+        },
+        {
+         "number": "12",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Astala Aaro        "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "Oilers    "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "8+  4= 12 "
+          }
+         ]
+        },
+        {
+         "number": "13",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Rantala Joona      "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "Classic   "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "7+  5= 12 "
+          }
+         ]
+        },
+        {
+         "number": "14",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "20",
+           "Text": " Haukkala Konsta    "
+          },
+          {
+           "bg": "black",
+           "fg": "cyan",
+           "length": "10",
+           "Text": "SPV       "
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "10",
+           "Text": "6+  6= 12 "
+          }
+         ]
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "green",
+           "length": "39",
+           "Text": "Maalivahdit                            "
+          }
+         ]
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Hasu Rasmus                  87,50%    "
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Karjalainen Aki              85,23%    "
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Laakso Markus                84,69%    "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

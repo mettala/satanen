@@ -1,0 +1,543 @@
+{
+ "teletext": {
+  "network": "YLE",
+  "xml": "preserve",
+  "page": {
+   "number": "405",
+   "name": "",
+   "subpagecount": "1",
+   "prevpg": "404",
+   "nextpg": "406",
+   "toptype": "normal",
+   "time": "2026-10-21T12:09:38",
+   "utctime": "2026-10-21T09:09:38",
+   "subpage": [
+    {
+     "number": "1",
+     "time": "15",
+     "content": [
+      {
+       "type": "text",
+       "line": [
+        {
+         "number": "1"
+        },
+        {
+         "number": "2",
+         "Text": "       Ilmatieteen laitos               "
+        },
+        {
+         "number": "3",
+         "Text": "       Viiden vrk:n sää 22.-26.10.      "
+        },
+        {
+         "number": "4"
+        },
+        {
+         "number": "5"
+        },
+        {
+         "number": "6",
+         "Text": " Viiden vuorokauden ennuste ajalle 22.- "
+        },
+        {
+         "number": "7",
+         "Text": " 26.10.2026:                            "
+        },
+        {
+         "number": "8"
+        },
+        {
+         "number": "9",
+         "Text": " Poutasää jatkuu vielä aluksi. Etenkin  "
+        },
+        {
+         "number": "10",
+         "Text": " idässä ja etelässä myös pilvisyys on   "
+        },
+        {
+         "number": "11",
+         "Text": " enimmäkseen vähäistä. Paikoin on sumua."
+        },
+        {
+         "number": "12",
+         "Text": " Viikonlopun aikana pilvisyys lisääntyy "
+        },
+        {
+         "number": "13",
+         "Text": " ja vesi- ja tihkusade yleistyy lännestä"
+        },
+        {
+         "number": "14",
+         "Text": " alkaen.                                "
+        },
+        {
+         "number": "15"
+        },
+        {
+         "number": "16",
+         "Text": " Päivän ylin lämpötila on maan etelä- ja"
+        },
+        {
+         "number": "17",
+         "Text": " keskiosassa 6 ja 12, pohjoisosassa 3 ja"
+        },
+        {
+         "number": "18",
+         "Text": " 9 asteen välillä. Yön alin lämpötila on"
+        },
+        {
+         "number": "19",
+         "Text": " parina lähiyönä -3 ja +6, viikonloppuna"
+        },
+        {
+         "number": "20",
+         "Text": " enimmäkseen +2 ja +9 asteen välillä.   "
+        },
+        {
+         "number": "21"
+        },
+        {
+         "number": "22",
+         "Text": " Jakson ennustettu sademäärä on         "
+        },
+        {
+         "number": "23",
+         "Text": " enimmäkseen 2-10 mm.                   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "all",
+       "line": [
+        {
+         "number": "1",
+         "Text": "{GBlue}~}4{GBlue},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        },
+        {
+         "number": "2",
+         "Text": "{GBlue}j5${Cyan}{NB}{Blue}Ilmatieteen laitos               "
+        },
+        {
+         "number": "3",
+         "Text": "{GBlue}*/%{Blue}{NB}{Yellow}Viiden vrk:n sää 22.-26.10.      "
+        },
+        {
+         "number": "4",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "5",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "6",
+         "Text": "{White}Viiden vuorokauden ennuste ajalle 22.- "
+        },
+        {
+         "number": "7",
+         "Text": "{White}26.10.2026:                            "
+        },
+        {
+         "number": "8",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "9",
+         "Text": "{White}Poutasää jatkuu vielä aluksi. Etenkin  "
+        },
+        {
+         "number": "10",
+         "Text": "{White}idässä ja etelässä myös pilvisyys on   "
+        },
+        {
+         "number": "11",
+         "Text": "{White}enimmäkseen vähäistä. Paikoin on sumua."
+        },
+        {
+         "number": "12",
+         "Text": "{White}Viikonlopun aikana pilvisyys lisääntyy "
+        },
+        {
+         "number": "13",
+         "Text": "{White}ja vesi- ja tihkusade yleistyy lännestä"
+        },
+        {
+         "number": "14",
+         "Text": "{White}alkaen.                                "
+        },
+        {
+         "number": "15",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "16",
+         "Text": "{White}Päivän ylin lämpötila on maan etelä- ja"
+        },
+        {
+         "number": "17",
+         "Text": "{White}keskiosassa 6 ja 12, pohjoisosassa 3 ja"
+        },
+        {
+         "number": "18",
+         "Text": "{White}9 asteen välillä. Yön alin lämpötila on"
+        },
+        {
+         "number": "19",
+         "Text": "{White}parina lähiyönä -3 ja +6, viikonloppuna"
+        },
+        {
+         "number": "20",
+         "Text": "{White}enimmäkseen +2 ja +9 asteen välillä.   "
+        },
+        {
+         "number": "21",
+         "Text": "{SB}                                       "
+        },
+        {
+         "number": "22",
+         "Text": "{White}Jakson ennustettu sademäärä on         "
+        },
+        {
+         "number": "23",
+         "Text": "{White}enimmäkseen 2-10 mm.                   "
+        },
+        {
+         "number": "24"
+        }
+       ]
+      },
+      {
+       "type": "structured",
+       "line": [
+        {
+         "number": "1",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Eh",
+           "length": "1",
+           "Text": "~"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "7Dh",
+           "length": "1",
+           "Text": "}"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "34h",
+           "length": "1",
+           "Text": "4"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ch",
+           "length": "35",
+           "Text": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+          }
+         ]
+        },
+        {
+         "number": "2",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "6Ah",
+           "length": "1",
+           "Text": "j"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "35h",
+           "length": "1",
+           "Text": "5"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "24h",
+           "length": "1",
+           "Text": "$"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "cyan",
+           "fg": "cyan",
+           "length": "2"
+          },
+          {
+           "bg": "cyan",
+           "fg": "blue",
+           "length": "33",
+           "Text": "Ilmatieteen laitos               "
+          }
+         ]
+        },
+        {
+         "number": "3",
+         "run": [
+          {
+           "bg": "black",
+           "fg": "white",
+           "length": "1"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Ah",
+           "length": "1",
+           "Text": "*"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "2Fh",
+           "length": "1",
+           "Text": "/"
+          },
+          {
+           "bg": "black",
+           "fg": "gblue",
+           "charcode": "25h",
+           "length": "1",
+           "Text": "%"
+          },
+          {
+           "bg": "black",
+           "fg": "blue",
+           "length": "1"
+          },
+          {
+           "bg": "blue",
+           "fg": "blue",
+           "length": "2"
+          },
+          {
+           "bg": "blue",
+           "fg": "yellow",
+           "length": "33",
+           "Text": "Viiden vrk:n sää 22.-26.10.      "
+          }
+         ]
+        },
+        {
+         "number": "4",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "5",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "6",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Viiden vuorokauden ennuste ajalle 22.- "
+         }
+        },
+        {
+         "number": "7",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 26.10.2026:                            "
+         }
+        },
+        {
+         "number": "8",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "9",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Poutasää jatkuu vielä aluksi. Etenkin  "
+         }
+        },
+        {
+         "number": "10",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " idässä ja etelässä myös pilvisyys on   "
+         }
+        },
+        {
+         "number": "11",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " enimmäkseen vähäistä. Paikoin on sumua."
+         }
+        },
+        {
+         "number": "12",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Viikonlopun aikana pilvisyys lisääntyy "
+         }
+        },
+        {
+         "number": "13",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " ja vesi- ja tihkusade yleistyy lännestä"
+         }
+        },
+        {
+         "number": "14",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " alkaen.                                "
+         }
+        },
+        {
+         "number": "15",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "16",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Päivän ylin lämpötila on maan etelä- ja"
+         }
+        },
+        {
+         "number": "17",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " keskiosassa 6 ja 12, pohjoisosassa 3 ja"
+         }
+        },
+        {
+         "number": "18",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " 9 asteen välillä. Yön alin lämpötila on"
+         }
+        },
+        {
+         "number": "19",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " parina lähiyönä -3 ja +6, viikonloppuna"
+         }
+        },
+        {
+         "number": "20",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " enimmäkseen +2 ja +9 asteen välillä.   "
+         }
+        },
+        {
+         "number": "21",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        },
+        {
+         "number": "22",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " Jakson ennustettu sademäärä on         "
+         }
+        },
+        {
+         "number": "23",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40",
+          "Text": " enimmäkseen 2-10 mm.                   "
+         }
+        },
+        {
+         "number": "24",
+         "run": {
+          "bg": "black",
+          "fg": "white",
+          "length": "40"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
