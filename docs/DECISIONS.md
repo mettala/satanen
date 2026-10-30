@@ -244,3 +244,10 @@ D41 planned a key rotation once Yle had answered. Yle answered on 2026-10-29 (D5
 **Decided:** the owner skips the rotation. `docs/maintainer/PUBLISH.md` step 0 no longer asks for it. **If it is ever needed** (a leak, or Yle asks): `docs/maintainer/EMERGENCY.md` Part 5, run by the owner in their own terminal (D43).
 
 **Considered:** rotating anyway for peace of mind (five minutes once the Yle portal step works; the owner chose not to block the release on it).
+
+### D55 · 2026-10-30 · `zod` is forced to 4.6.7 with an npm override, because Expo's tooling pins the vulnerable 3.x
+GitHub's Dependabot flagged `zod` below 4.6.6 (GHSA-mrhx-c7xc-m3w5: a memory-exhaustion flaw when validating oversized collections). Satanen's own code never imports `zod`; it arrives only through Expo's build tooling (`@expo/cli`, `eslint-config-expo`), which runs on developer machines and in CI, not in the app or the Worker. Expo 58 asks for `zod@^3.25.76`, and the newest Expo releases (58.0.11 and 58.1.9 of the CLI) still do, so a plain update is impossible and Dependabot's security job fails (it would have to downgrade `expo` to 54).
+
+**Decided:** `package.json` has `"overrides": { "zod": "^4.6.7" }`. **Tested before merging:** typecheck, lint, all tests and `expo export --platform web` pass with it; `npm audit` no longer lists `zod`. Not tested: the dev server and phone builds. **Remove the override** when Expo itself moves to `zod` 4, or if anything in `expo start` or a native build breaks because of it.
+
+**Considered:** dismissing the alert and leaving `zod` 3.x (honest, as the code is unreachable, but the warning stays hidden instead of fixed); waiting for Expo (no newer release uses `zod` 4). The related alerts for `node-forge` and `deepmerge` have no patched version at all and were dismissed as "not used" (Expo tooling only).
