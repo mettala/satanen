@@ -252,5 +252,6 @@ Work that had no backlog task. Since PUB.23 every PR title (maintainer and agent
 | #151 | Asetukset no longer shows "Versio X" on the web (the apps still do); the web build now always clears the Metro cache (`expo export --clear`), because the 1.0.0 deploy had reused a cached app config and the live site still said 0.1.0 | Owner report | 2026-10-29 | |
 | #152 | Docs only: the Yle key is not rotated before the repository goes public (owner decision); the publish guide no longer asks for it | Owner decision | 2026-10-29 | D54 |
 | #153 | Config only: `gitleaks dir` flagged the dummy value `abcd1234secret` in `scripts/check-dist.test.ts` while preparing the public export; allowlisted that one value in `.gitleaks.toml` | Found by the PUB.5 export check | 2026-10-29 | |
+| #3 (public repo) | Dependencies only: `zod` is forced to 4.6.7 with an npm `overrides` entry, which clears Dependabot alert #2; the app and proxy never import `zod` (Expo tooling only) | Dependabot alert in the new public repo | 2026-10-30 | D55 |
 
 Dates are UTC merge dates.
