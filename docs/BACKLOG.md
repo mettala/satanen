@@ -254,5 +254,6 @@ Work that had no backlog task. Since PUB.23 every PR title (maintainer and agent
 | #153 | Config only: `gitleaks dir` flagged the dummy value `abcd1234secret` in `scripts/check-dist.test.ts` while preparing the public export; allowlisted that one value in `.gitleaks.toml` | Found by the PUB.5 export check | 2026-10-29 | |
 | #3 (public repo) | Dependencies only: `zod` is forced to 4.6.7 with an npm `overrides` entry, which clears Dependabot alert #2; the app and proxy never import `zod` (Expo tooling only) | Dependabot alert in the new public repo | 2026-10-30 | D55 |
 | #4 (public repo) | Dependencies only: the proxy's development tooling (`wrangler`, its test runtime, `undici`) is updated, which clears five Dependabot alerts (`undici`, development-only); done on an own branch instead of Dependabot PRs #1 and #2, which agents do not run | Dependabot alerts in the new public repo | 2026-10-30 | |
+| #5 (public repo) | Docs only: the Cloudflare rate-limit rule for `api.satanen.io` is documented as 120 requests per 10 s instead of 60; the dashboard rule itself is changed by the owner | A reader on a VPN got "Ei yhteyttä" on the front page | 2026-10-31 | D56 |
 
 Dates are UTC merge dates.
