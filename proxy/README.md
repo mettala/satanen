@@ -48,10 +48,10 @@ Yle allows about 300 requests an hour for the whole key. Every page that isn't i
 - Name: `api burst limit`.
 - When incoming requests match: Hostname equals `api.satanen.io` and URI Path starts with `/v1/`. As an expression: `(http.host eq "api.satanen.io" and starts_with(http.request.uri.path, "/v1/"))`.
 - Counted by: IP.
-- Rate: 60 requests per 10 seconds.
+- Rate: 120 requests per 10 seconds (60 until 31.10.2026, see D56).
 - Action: Block, for 10 seconds.
 
-60 in 10 s is far above one reader (reading the whole Uutiset feed is about 20 requests, at most 4 at a time), but stops a script in seconds. If many readers behind one shared address (an office or school network) are ever blocked, raise the number. Blocking uses the IP address only for that moment, inside Cloudflare, which the privacy policy covers.
+120 in 10 s is far above one reader (reading the whole Uutiset feed is about 20 requests, at most 4 at a time), but still stops a script in seconds. It was 60 until a reader on a VPN got "Ei yhteyttä" on the front page (30.10.2026): a VPN or mobile network shares one address among many people, and a Cloudflare block carries no CORS headers, so the browser reports it as a lost connection (D56). If many readers behind one shared address are ever blocked again, raise the number again. Blocking uses the IP address only for that moment, inside Cloudflare, which the privacy policy covers.
 
 ## Caching (D39 B, replacing the 45 s of D11)
 
