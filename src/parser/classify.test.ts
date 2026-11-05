@@ -231,6 +231,31 @@ describe('classify: links, headlines and navigation', () => {
     }
   });
 
+  it('does not read a thousands group as a page link (100, headline as on 5.11.)', () => {
+    // Yle's 100 on 5.11. had `135 Ranskassa marssi 600 000 henkeä`, with `600`
+    // marked as a link. Rebuilt here on fixture 100 (row 6, double height).
+    const raw = JSON.parse(readFileSync(resolve(pagesDir, '100.json'), 'utf8'));
+    const sp = [raw.teletext.page.subpage].flat()[0];
+    sp.content = sp.content.filter((c: { type: string }) => c.type !== 'all');
+    const big = { bg: 'black', fg: 'white', size: 'double height' };
+    const cells = [
+      { ...big, link: '135', length: '3', Text: '135' },
+      { ...big, length: '18', Text: ' Ranskassa marssi ' },
+      { ...big, link: '600', length: '3', Text: '600' },
+      { ...big, length: '15', Text: ' 000 henkeä    ' },
+    ];
+    const lines = sp.content.find((c: { type: string }) => c.type === 'structured').line;
+    const r6 = lines.find((l: { number: string }) => l.number === '6');
+    r6.run = [{ bg: 'black', fg: 'white', length: '1' }, ...cells];
+    const result = normalize(raw);
+    if (!result.ok) throw new Error('rebuilt 100 does not normalise');
+    const l = classify(result.page)[0].lines.find((x) => x.number === 6)!;
+    expect(l.text).toContain('135 Ranskassa marssi 600 000 henkeä');
+    expect(targets(l)).toEqual([page(135)]);
+    expect(l.kind).toBe('headline');
+    expect(l.links[0].label).toBe('Ranskassa marssi 600 000 henkeä');
+  });
+
   it('reads counts inside a sentence as running text, not link rows (202/2 row 8)', () => {
     // "urallaan 120 NHL-ottelua ja 126 AHL-": Yle marks both game counts as links.
     const l = row(202, 2, 8);
