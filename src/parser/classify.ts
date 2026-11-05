@@ -356,12 +356,26 @@ export type RawLink = Omit<LinkSpan, 'label'>;
  * as a link, also inside `-439,32` or `62 734,60` (174): the digits are
  * followed by a decimal part of one or two digits. Comma-joined links
  * (`582,588`) have three digits after the comma and stay links.
+ *
+ * A space also groups thousands: in `Ranskassa marssi 600 000 henkeä` (100)
+ * a single space and three more digits follow. When those digits are a page
+ * link themselves (`130 135`), both stay links. Digits before a link are not
+ * checked: `Radio Yle Radio 1 340` (197) names page 340.
  */
 function isNumberFragment(runs: Run[], i: number): boolean {
   const run = runs[i];
   if (run.link?.kind !== 'page' || !/^\d{3}$/.test(run.text)) return false;
-  const after = runs.slice(i + 1).reduce((s, r) => s + r.text, '');
-  return /^[,.]\d{1,2}(?!\d)/.test(after);
+  const rest = runs.slice(i + 1);
+  const after = rest.reduce((s, r) => s + r.text, '');
+  if (/^[,.]\d{1,2}(?!\d)/.test(after)) return true;
+  if (!/^ \d{3}(?!\d)/.test(after)) return false;
+  // The runs that hold the next three digits (characters 1-3 of `after`).
+  let at = 0;
+  return rest.every((r) => {
+    const start = at;
+    at += r.text.length;
+    return at <= 1 || start >= 4 || r.link?.kind !== 'page';
+  });
 }
 
 /**
